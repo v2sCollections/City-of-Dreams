@@ -2,7 +2,7 @@
 
 ---
 
-Collection Ver 2.45                       Collection Updated and working for Game version 1.62
+Collection Ver 2.45                                Collection Updated and working for Game version 1.62
 
 ![img](https://i.imgur.com/wAJUpeU.png)![](https://i.imgur.com/4iSAt6O.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o) for **Cyberpunk 2077** have a good read through this description.
 
