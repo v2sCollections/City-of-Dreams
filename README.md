@@ -1,4 +1,4 @@
-Collection Ver 2.46                      Collection Updated and working for Game version 1.62 Patch 1
+### Collection Rev 25 Ver 2.47         Collection Updated and working for Game version 1.62 Patch 1
 
 ![img](https://i.imgur.com/wAJUpeU.png)![](https://i.imgur.com/4iSAt6O.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o) for **Cyberpunk 2077** have a good read through this description.
 
@@ -33,7 +33,7 @@ This is a 500+ Mod Collection. It has been a painful journey to get these mods w
 
 - These are the best mods from the best authors and are a must-have to immerse yourself in Cyberpunk 2077. 
 - Easy to follow step-by-step installation guide.
-- Only 6 GB in download size for 500+  mods.
+- Only 8 GB in download size for 500+  mods.
 - Mods specifically created for the collection.  
 - Discord Server with a growing community.
 - Continuous Support in Comments and on Discord.  
@@ -145,7 +145,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ## [Disabling REDmod Autoconversion](https://)
 
-13) ⛔ While still in settings go to the "**V2077 Settings"** tab and make sure that REDmod Autoconvert is disabled like in the picture below.
+13) ⛔ While still in settings go to the "**V2077 Settings"** tab and make sure that REDmod Autoconvert is disabled.
 
 ![](https://s11.gifyu.com/images/Untitle44d.jpg)
 
@@ -176,11 +176,11 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ***Note** If you dont want the optional mods skip this step.
 
-17) Select **"show"** optional mods then select **"no thanks"** 
-
-18) Now you can choose which ***(OPTIONAL)***  mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(make sure to read these messages)**.
+17) Select **"show"** optional mods then select **"no thanks"**
 
 ![](https://s11.gifyu.com/images/Optinal.jpg)
+
+Now you can choose which ***(OPTIONAL)***  mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(make sure to read these messages)**.
 
 ---
 
@@ -359,7 +359,7 @@ If you don't like this mod disable it in Vortex.
 - [Edgerunner 2077](https://) ***(OPTIONAL)***
 - [Lucy - Edgerunners Sky Ad](https://www.nexusmods.com/cyberpunk2077/mods/5201?tab=description) ***(OPTIONAL)***
 - [Wannabe Edgerunner - A simple Cyberpsychosis mod](https://www.nexusmods.com/cyberpunk2077/mods/5646) ***(OPTIONAL)*** *Note Read more in on the **"gameplay"** tab 
-- [Wannabe Edgerunner - Humanity Recovery](https://www.nexusmods.com/cyberpunk2077/mods/6330) ***(OPTIONAL)*** *Note Read more in on the **"gameplay"** tab
+- [Wannabe Edgerunner - Humanity Recovery](https://www.nexusmods.com/cyberpunk2077/mods/6330) ***(OPTIONAL)*** ***Note** Read more in on the **"gameplay"** tab
 - [Lucy Edgerunners Suit Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/5273)
 - [David Martinez Jacket Refited for Hyst Bodies mods](https://www.nexusmods.com/cyberpunk2077/mods/5155)
 - [Edgerunners Location Additions](https://www.nexusmods.com/cyberpunk2077/mods/5428)
@@ -717,7 +717,7 @@ UI Colours
 - 50+ Adult toys added to the game. 
 - Ads in night city are now uncensored. 
 
-![](https://s11.gifyu.com/images/wild.jpg)[NPCs Gone Wild](https://www.nexusmods.com/cyberpunk2077/mods/1436) by [woodbricks](https://www.nexusmods.com/cyberpunk2077/users/103964573) Modifies female NPC bodies, textures, clothing and outfits to be much more revealing. Removes bras, underwear and more. With fully nude strippers, sculpted 3D nipples, vag***as and a**us, 4K nude skin texture, breast physics, and varying breast sizes.
+![](https://s11.gifyu.com/images/wild.jpg)[NPCs Gone Wild](https://www.nexusmods.com/cyberpunk2077/mods/1436) by [woodbricks](https://www.nexusmods.com/cyberpunk2077/users/103964573) Modifies female NPC bodies, textures, clothing and outfits to be much more revealing. Removes bras, underwear and more. With fully nude strippers, sculpted 3D nipples, vag**as and a*us, 4K nude skin texture, breast physics, and varying breast sizes.
 
 ---
 
@@ -828,13 +828,13 @@ Installation.
 
 ![img](https://i.imgur.com/rlYi0uq.png)
 
-- VRAM> 8GB
-- GPU> (see below)
+- VRAM> 8GB 
+- GPU> **(see below)**
 - 1080p> RTX 3060 or RX 6700 XT 
 - 1440p> RTX 3080 or RX 6800 XT  
 - RAM> 16GB
 - CPU> R5 3600 or i5 9600K
-- STORAGE> 6.7GB
+- STORAGE> 8.8GB
 - STORAGE TYPE> SSD **(Recommended)** 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
