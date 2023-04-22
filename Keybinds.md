@@ -1,45 +1,51 @@
 ![](https://s12.gifyu.com/images/Keybinds.png)
 
-### These can be configured in game but ive configured them to get you started. These are setup for a full size KB.
+These can be configured in game but ive configured them to get you started. These are setup for a full size KB.
 
-### Custom Quickslots
+###  CUSTOM QUICKSLOTS
 
-- 3: Slot 1 
-- 4: Slot 2
-- 5: Slot 3
-- 6: Slot 4
-- 7: Slot 5
-- 8: Slot 6
+- 3> Slot 1 
+- 4> Slot 2
+- 5>  Slot 3
+- 6>  Slot 4
+- 7>  Slot 5
+- 8>  Slot 6
 
 
 ### CET 
 
-- NUM: Overlay
+- F11>  Overlay
 
 
-### JB Third Person Mod
+### JB THIRD PERSON
 
-- 1: Activate 3rd Person
-- C: Change Camera
-- R: Reset Camera
-
-
-### Freefly/Noclip
-
-- SCRLK: Freefly/Noclip
+- 1>  Activate 3rd Person
+- C>  Change Camera
+- R>  Reset Camera
 
 
-### Nano Drone
+### NO CLIP
 
-- L:Spawn
-- W:Forward
-- S:Back
-- A:Left
-- D:Right
-- SPACE:Up
-- CAPSLK:Down
+- SCRLK> Noclip
 
 
-### Change Zoom on Scope
+### NANO DRONE
 
-- CTRL: MB
+- L> Spawn
+- W> Forward
+- S> Back
+- A> Left
+- D> Right
+- SPACE> Up
+- CAPSLK> Down
+
+
+### ZOMMABLE SCOPES
+
+- CTRL> Zoom
+
+
+### RESHADE
+
+- HOME>  gui
+- END> Toggle Reshade
