@@ -1,8 +1,4 @@
-# **Latest Game Patch has Broken Mods To continue Playing Purge Mods in Vortex and Play the vanilla Game.**  
-
----
-
-Collection Ver 2.45                                Collection Updated and working for Game version 1.62
+Collection Ver 2.46                      Collection Updated and working for Game version 1.62 Patch 1
 
 ![img](https://i.imgur.com/wAJUpeU.png)![](https://i.imgur.com/4iSAt6O.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o) for **Cyberpunk 2077** have a good read through this description.
 
@@ -165,9 +161,9 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ![](https://s12.gifyu.com/images/Untitled1.png)
 
-16) When you see a pop-up titled **"not an archive"** select **"create mod"**.
+16) When you see a pop-up titled **"you have reached the fallback installer"** select **"yes install to staging anyway"**
 
-17) When you see a pop-up titled **"you have reached the fallback installer"** select **"yes install to staging anyway"**
+17) When you see a pop-up titled **"not an archive"** select **"create mod"**.
 
 ## [OPTIONAL MODS](https://)
 
@@ -177,9 +173,11 @@ If you arnt installing the optional mods skip this step.
 
 ## [In-game settings](https://)
 
-19) When you start the game for the first time **CET** (**Cyber Engine Tweaks)** will pop up choose a key to toggle **CET** on/off choose any key for the Overlay Key but keep in mind this has to be a dedicated key.
+19) To use **CET** (**Cyber Engine Tweaks)** use **NUM** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Aperance menu,3rd person camera,Vehicle camera and many more.
 
-20) ⛔ On the main menu go to the graphics tab and you will find **"texture quality"** Set this to **"HIGH".**
+20) I have added a keybind config file for a few of the mods this is just to get you started you can change it as you like. You will find the keybind list in your main game directory and on our discord.
+
+21) ⛔ On the main menu go to the graphics tab and you will find **"texture quality"** Set this to **"HIGH".**
 
 ![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)
 
@@ -274,6 +272,10 @@ All ***(OPTIONAL)***  mods will be enabled automatically if you choose to instal
 If a mod is marked with 1️⃣ then you can only choose one of those mods per category e.g. CYBERWARE ect in **Vortex.**
 
 If a mod is marked with ⛔ Then you need to read and follow the directions.
+
+---
+
+![](https://s12.gifyu.com/images/CET.png)To use **CET** (**Cyber Engine Tweaks)** use **NUM** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Aperance menu,3rd person camera,Vehicle camera and many more.
 
 ---
 
@@ -713,6 +715,20 @@ UI Colours
 ![](https://s12.gifyu.com/images/Cyberwarepng.png)[Arasaka Cyber Body Mod](https://www.nexusmods.com/cyberpunk2077/mods/2598). by [sedthsedthtananurak](https://www.nexusmods.com/cyberpunk2077/users/59039391) ***(OPTIONAL)***
 
 - Hundreds of pieces of cyberware were added to the atelier store. 
+- Custom Arasaka cyberware includes Berserk,Sandevistans and Cyberdecks.
+- You can now get Epic and Legendary cyberwares that are not available in standard game.
+- All Quickhacks and Talent shards have been added to the Atlier shop.
+
+Upgraded/Tweaked cyberware
+
+- **Immune System**
+- **Frontal Cortex**
+- **Nervous System**
+- **Circulatory System**
+- **Operating System**
+- **Intergumentary System**
+- **Skeleton**
+- **Hands**
 
 ---
 
