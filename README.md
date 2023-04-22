@@ -186,7 +186,7 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ## [In-game settings](https://)
 
-19) To use **CET** (**Cyber Engine Tweaks)** use **NUM** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Aperance menu,3rd person camera,Vehicle camera and many more.
+19) To use **CET** (**Cyber Engine Tweaks)** use **F11** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Aperance menu,3rd person camera,Vehicle camera and many more.
 
 20) I have added a keybind config file for a few of the mods this is just to get you started you can change it as you like. You will find the keybind list in your main game directory and on our discord. Or here [Keybinds](https://github.com/MRGHIA88V2/City-of-Dreams/blob/f4b254dc31b142ce6e733cf321e1f28b218a3d1c/Keybinds.md)
 
