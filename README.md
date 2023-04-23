@@ -1,4 +1,4 @@
-### Collection Rev 25 Ver 2.47         Collection Updated and working for Game version 1.62 Patch 1 
+### Collection Rev 26 Ver 2.48          Collection Updated and working for Game version 1.62 Patch 1 
 
 ![img](https://i.imgur.com/wAJUpeU.png)![](https://i.imgur.com/4iSAt6O.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o) for **Cyberpunk 2077** have a good read through this description.
 
@@ -199,11 +199,12 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ---
 
-## [Reshade](https://) *(OPTIONAL)* 
+## [Reshade](https://) 
 
-1) Download and install ReShade from here ([HERE](https://reshade.me/))
-2)﻿ Go to the folder where you downloaded reshade and execute the exe file.
-3) Select browse and find the **"*Cyberpunk2077.exe*"** and select it. **(Locations below)**
+ReShade comes with the collection once you have finished downloading it will be placed on the toolbar in the top left hand corner of Vortex.
+
+![](https://s11.gifyu.com/images/Reshade.jpg)﻿1) Click on Reshade in the top corner.
+2) Select browse and find the **"*Cyberpunk2077.exe*"** and select it. **(Locations below)**
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk2077.exe
@@ -211,12 +212,14 @@ GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk2077.exe
 Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe  
 ```
 
-4) Select Directx 10/11/12
-6) On the **"select preset to install"** select next
-7) Select next and finish the installation.
-8) Run the game
+3) Select Directx 10/11/12
+4) On the **"select preset to install"** select next
+5) Select next and finish the installation.
+6) Run the game
 
-### 
+I have added these resahdes below.
+
+- City of Dreams Reshade by v2
 
 ### **Reshade controls**
 
