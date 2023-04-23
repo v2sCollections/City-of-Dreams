@@ -1,4 +1,4 @@
-### Collection Rev 25 Ver 2.47         Collection Updated and working for Game version 1.62 Patch 1
+### Collection Rev 25 Ver 2.47         Collection Updated and working for Game version 1.62 Patch 1 
 
 ![img](https://i.imgur.com/wAJUpeU.png)![](https://i.imgur.com/4iSAt6O.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o) for **Cyberpunk 2077** have a good read through this description.
 
@@ -24,8 +24,7 @@ This is a 500+ Mod Collection. It has been a painful journey to get these mods w
 10. Performance Guide for Cyberpunk2077 by  [v2](https://www.nexusmods.com/users/123334373)
 11. System Requirements.
 12. Permissions.
-13. Other mods we recommend.
-14. Support The Curators and Modders.    
+13. Support The Curators and Modders.    
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -34,8 +33,9 @@ This is a 500+ Mod Collection. It has been a painful journey to get these mods w
 - These are the best mods from the best authors and are a must-have to immerse yourself in Cyberpunk 2077. 
 - Easy to follow step-by-step installation guide.
 - Only 8 GB in download size for 500+  mods.
-- Mods specifically created for the collection.  
-- Discord Server with a growing community.
+- Mods specifically created for the collection. 
+- Support for other Modular Expansion Packs.
+- [Discord Server](https://discord.gg/xZNztPjA2u) with a growing community. 
 - Continuous Support in Comments and on Discord.  
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -43,27 +43,26 @@ This is a 500+ Mod Collection. It has been a painful journey to get these mods w
 ![img](https://i.imgur.com/HJkjnor.png)
 
 - 500+ Mods in one click.     
-- 15+ Graphics & Texture Mods. 
+- 25+ Graphics & Texture Mods. 
 - 20+ Photo Mode Pose Packs. 
 - 50+ Weapon and Armor Mods.
 - 200+ Clothing Mods Featuring 100s of clothes added to the Alteier Store.
 - 80+ Alteir Stores.
 - 50+ Body Mods for V and most Other NPCs. 
-- Gameplay mods. 
-- Bug fixes gameplay tweaks and quality-of-life improvements. 
+- Gameplay mods & Tweaks.
+- Bug fixes. 
+- Quality-of-life improvements. 
 - Input mods.
 - Improved UI.
 - In-game Mod Menus
 - In-game Appearance Menu
-- Save Game Editor
-- Easy to follow step-by-step installation guide.
+- In-game-Cheat Menus.
+- Save Game Editor.
 - Support for other Modular Expansion Packs.
 - [Discord Server](https://discord.gg/xZNztPjA2u) with a growing community. 
 - Continuous Support on Comments and Discord.          
 
-![](]https://i.imgur.com/VeCI8dy.png)![](https://i.imgur.com/VeCI8dy.png)
-
-Collections may be frustrating. For this reason, we have an active [discord](https://discord.gg/xZNztPjA2u) server where we help users like you.
+![](]https://i.imgur.com/VeCI8dy.png)[![](https://i.imgur.com/VeCI8dy.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. For this reason, we have an active [Discord Server](https://discord.gg/xZNztPjA2u) where we help users like you.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -288,7 +287,7 @@ If a mod is marked with ⛔ Then you need to read and follow the directions.
 
 ---
 
-![](https://s12.gifyu.com/images/CET.png)To use **CET** (**Cyber Engine Tweaks)** use **NUM** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Aperance menu,3rd person camera,Vehicle camera and many more.
+![](https://s12.gifyu.com/images/CET.png)To use **CET** (**Cyber Engine Tweaks)** use **F11** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Aperance menu,3rd person camera,Vehicle camera and many more.
 
 ---
 
@@ -304,7 +303,11 @@ If a mod is marked with ⛔ Then you need to read and follow the directions.
 
 > [Most mods have in-game settings so you can set the difficulties as you wish for an easier or more challenging experience.](https://)
 
-![](https://i.imgur.com/XnDSRqR.png)[HARDCORE44 - Realistic Combat Overhaul - Adjusted Difficulty](https://www.nexusmods.com/cyberpunk2077/mods/4325?tab=posts) by [radj307](https://www.nexusmods.com/cyberpunk2077/users/5671914) NPCs do **much** more damage, especially at higher levels. This is not for the faint of heart if you aren't the type to *learn from your mistakes*
+![](https://i.imgur.com/XnDSRqR.png)*Note this mod is optional and should be use a on a new playthrough once
+
+[HARDCORE44 - Realistic Combat Overhaul - Adjusted Difficulty](https://www.nexusmods.com/cyberpunk2077/mods/4325?tab=posts) by [radj307](https://www.nexusmods.com/cyberpunk2077/users/5671914) NPCs do **much** more damage, especially at higher l
+
+evels. This is not for the faint of heart if you aren't the type to *learn from your mistakes*
 and *change your approach*, then this isn't the mod for you.
 **You will die, and you will die often.**
 
@@ -449,7 +452,6 @@ Support for other upscaled texture packs by [XilaMonstrr](https://www.nexusmods.
 
 ## ![](https://s12.gifyu.com/images/Quality-of-life.png)
 
-- No intro video.
 - The vehicle first person camera is now adjustable.  
 - Hide shards you have already read.
 - Stops V from moving on the character creation screen.  
@@ -695,7 +697,9 @@ UI Colours
 
 ### ![](https://s12.gifyu.com/images/Body-Mods.png)Female V
 
-![img](https://i.imgur.com/vcDoyKS.png)[Enhanced Big Breasts - BODY MOD](https://www.nexusmods.com/cyberpunk2077/mods/4654?tab=description) by [LxRHyst](https://www.nexusmods.com/users/114587558)
+![img](https://i.imgur.com/vcDoyKS.png)[Enhanced Big Breasts - BODY MOD](https://www.nexusmods.com/cyberpunk2077/mods/4654?tab=description) by [LxRHyst](https://www.nexusmods.com/users/114587558) This body mod allows you to have a big chest, with a beautiful cleavage.
+
+![](https://s12.gifyu.com/images/Body-settings.jpg)**⛔** You need to change the Chest settings in game for this body to work. You can do this by either going to a ripperdock or using [Appearance Change Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/3850)****
 
 - Highly detailed 4k skin textures.  
 - Toggleable Feet Feature.
@@ -846,21 +850,15 @@ Installation.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![img](https://i.imgur.com/sbwlhBc.png)N/A
+![img](https://i.imgur.com/DlgYZel.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
 
-![img](https://i.imgur.com/wAJUpeU.png)
-
-## [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://) 
-
-Please let us know if you have any issues with this collection before you vote I'm sure we can figure it out.
-
-![img](https://i.imgur.com/DlgYZel.png)
+Please let us know if you have any issues with this collection I'm sure we can figure it out.
 
 If you enjoy this collection, **PLEASE** endorse the mod authors and Support me to help me build the best collection we can for this game.
 
 I'm looking for team members with the knowledge and time to help me build this collection join the discord to fill out an application.
 
-Special thanks to these chooms who helped make this collection what it is. And everyone on the Nexus & The Cyberpunk modding Discord.
+Special thanks to these chooms who helped make this collection preem . And everyone on the Nexus & The Cyberpunk modding Discords.
 
 - [canliberk](https://www.nexusmods.com/users/5027009)   
 
@@ -873,11 +871,11 @@ And all the teams and modders behind all the tools that make cyberpunk 2077 modd
 - [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)  
 - [TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 - [Input Loader](https://www.nexusmods.com/cyberpunk2077/mods/4575) 
-- [RED4ext](https://www.nexusmods.com/cyberpunk2077/mods/2380)  
+- [RED4ext](https://www.nexusmods.com/cyberpunk2077/mods/2380)
 
 If you would like to support me so I can afford some new chrome click the button below and chuck me some eddies detes attached. Can't donate? I understand a simple thank you and endorsement is much appreciated.
 
-[![](https://i.imgur.com/K7OVxAM.png)](https://www.buymeacoffee.com/2077v2)
+[![](https://s12.gifyu.com/images/Eddies.png)](https://www.buymeacoffee.com/2077v2)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
