@@ -643,7 +643,7 @@ UI Colours
 
 ---
 
-![](https://i.imgur.com/XnDSRqR.png)[HARDCORE44 - Realistic Combat Overhaul - Adjusted Difficulty](https://www.nexusmods.com/cyberpunk2077/mods/4325?tab=posts) by [radj307](https://www.nexusmods.com/cyberpunk2077/users/5671914)  ***(OPTIONAL)***  NPCs do **much** more damage, especially at higher levels. 
+![](https://i.imgur.com/XnDSRqR.png)[HARDCORE44 - Realistic Combat Overhaul - Adjusted Difficulty](https://www.nexusmods.com/cyberpunk2077/mods/4325?tab=posts) by [radj307](https://www.nexusmods.com/cyberpunk2077/users/5671914)  ***(OPTIONAL)***  NPCs do **much** more damage, especially at higher levels.
 
 This is not for the faint of heart if you aren't the type to learn from your mistakes and change your approach, then this isn't the mod for you.
 **You will die, and you will die often.**
@@ -708,8 +708,6 @@ The early game is very difficult and it will test your patience.
 ---
 
 ### Other Body Mods
-
-
 
 - 20+ Hairstyles. 
 - More tattoos.  
@@ -778,6 +776,22 @@ Upgraded/Tweaked cyberware
 - R34 Nissan Skyline  
 - Honda NSX
 - Mclaren F1
+
+---
+
+### Custom **Vehicle** Tuning by [v2](https://www.nexusmods.com/cyberpunk2077/users/123334373)
+
+(Watch this space)
+
+![](https://s12.gifyu.com/images/car.jpg)Tunes
+
+- [Rayfield Caliburn 450mph](https://www.nexusmods.com/cyberpunk2077/mods/3988?tab=description) fastest car in cp2077
+
+### 
+
+---
+
+### 
 
 ![](https://s11.gifyu.com/images/ezgif.com-resized7db10b055276e56.gif)[Metro System](https://www.nexusmods.com/cyberpunk2077/mods/3560?tab=description) by [NexusGuy999](https://www.nexusmods.com/cyberpunk2077/users/77476393)  Adds a fully useable Metro System, with 19 explorable stations, third/first person view and much more.
 
