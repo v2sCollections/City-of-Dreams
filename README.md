@@ -233,21 +233,17 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 ## [Where is the game located ](https://) ❓
 
-- **GOG>**     *Drive Letter:\Games\Cyberpunk 2077*
-- **Steam>**  *Drive Letter:\Games\Steam\steamapps\common\Cyberpunk 2077*  
-- **Epic>**      *Drive Letter:\Epic Games\Cyberpunk 2077*
-
-## [I get a popup in Vortex that says i have multiple top-level archives ](https://)❓
-
-You can manually edit files by disabling the mod in Vortex clicking on the arrow of the mod you want to edit and selecting **(open in file manager)** then you can choose what variants of the mod you want and delete the others then just enable the mod.
+```
+Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk2077.exe
+GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk2077.exe
+Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe  
+```
 
 ## [My game is crashing on startup?](https://) or [My game won't launch after Collection Update ](https://)❓
 
 1) Check the install guide and make sure you followed the instructions.
 
-2) Make sure you disabled redmod.
-
-3) Perform a Cyberclean.
+2) Perform a Cyberclean.
 
 ## [My character and some female NPCs have weird texture lines on them ](https://)❓
 
@@ -263,9 +259,11 @@ Always double-check Vortex to make sure it uninstalled/installed something prope
 
 3) Go to the following location and delete the **"mod"** folder. If you don't see it that's fine.
 
-- **GOG>**     *Drive Letter:\Games\Cyberpunk 2077*\archive\pc\mod 
-- **Steam>**  *Drive Letter:\Games\Steam\steamapps\common\Cyberpunk 2077*\archive\pc\mod
-- **Epic>**      *Drive Letter:\Epic Games\Cyberpunk 2077*\archive\pc\mod 
+```
+Steam> Drive Letter:\Games\Steam\steamapps\common\Cyberpunk 2077\archive\pc\mod
+GOG>   Drive Letter:\Games\Cyberpunk 2077\archive\pc\mod
+Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod  
+```
 
 4) Verify game files inside your launcher.
 
@@ -299,35 +297,9 @@ If a mod is marked with ⛔ Then you need to read and follow the directions.
 
 ---
 
-## ![](https://s11.gifyu.com/images/Diffuculty.png) ***(OPTIONAL)***   
+## ![](https://s11.gifyu.com/images/Diffuculty.png)  
 
 > [Most mods have in-game settings so you can set the difficulties as you wish for an easier or more challenging experience.](https://)
-
-![](https://i.imgur.com/XnDSRqR.png)*Note this mod is optional and should be use a on a new playthrough once
-
-[HARDCORE44 - Realistic Combat Overhaul - Adjusted Difficulty](https://www.nexusmods.com/cyberpunk2077/mods/4325?tab=posts) by [radj307](https://www.nexusmods.com/cyberpunk2077/users/5671914) NPCs do **much** more damage, especially at higher l
-
-evels. This is not for the faint of heart if you aren't the type to *learn from your mistakes*
-and *change your approach*, then this isn't the mod for you.
-**You will die, and you will die often.**
-
-To take advantage of this mod read the following guide.
-
-- Set the difficulty to Very Hard.
-- Don't worry about the levels on items, they are irrelevant. You don't need to upgrade anything, you can equip all weapons and clothing at level 1.
-- Use god mode to get through the car chase scenes early on in the game. Alternatly you can just disable this mod in Vortex when you need to.
-
-You may find the following Quests difficult.
-
-- Beat on the Brat Street fighting quest is very difficult. 
-- Intro car ride ambushes are impossible. I recommend disabling the mod in Vortex.
-- Delamain's "ambush" quest is almost impossible but can be done.
-
-The early game is very difficult and it will test your patience.
-
-If you don't like this mod disable it in Vortex.
-
-[WELCOME TO NIGHT CITY CHOOM](https://)[ GOOD LUCK](https://)
 
 ---
 
@@ -434,9 +406,10 @@ Support for other upscaled texture packs by [XilaMonstrr](https://www.nexusmods.
 ## ![](https://s11.gifyu.com/images/Gameplay.png)
 
 - V now has a jetpack.
-- The custom Level cap allows you to keep levelling up past level 50.
 - V can now hang off walls and jump from wall to wall.
-- Using healing items builds up your "Toxicity" until you "Overdose", requiring you to wait for the effect to wear off before using more inhalers/injectors.  
+- The custom Level cap allows you to keep levelling up past level 50.
+- Using healing items builds up your "Toxicity" until you "Overdose", requiring you to wait for the effect to wear off before using more inhalers/injectors.
+- Modified every part of the damage system and other elements to give gangs and corps more flavour and uniqueness. Also, get benefits and penalties against gangs/corps based on your life path.   
 
 ### Wannabe Edgerunner **Cyberpsychosis**
 
@@ -458,12 +431,11 @@ Support for other upscaled texture packs by [XilaMonstrr](https://www.nexusmods.
 - Cleans up the green colour from the quick hack screen. 
 - Remove quest tags from equipped items so they can be dismantled and sold.
 - Unequip all equipped items **(armour, weapons and cyberware)**. 
-- You can now untrack a quest by right-clicking.
-- Automatically scale weapons and armour currently equipped and in your inventory to your level. 
 - Reduced loot throughout the city.
 - You can now zoom in on V in the inventory menu.    
 - See what attribute level you needed for conversation skill checks that you passed.
 - Reduced drop chances for chosen loot categories from in-game containers, NPCs and world placed objects.
+- Improved mini map zoom allows the map to dynamically zoom in and out depending on what areas you are in or if you are in the combat state. 
 
 ### **[UI Improvements Include](https://)**
 
@@ -530,10 +502,9 @@ UI Colours
 - Time Manipulation: Set Game Time, Freeze Time **(time of day)** and Slow Motion.
 - Quest Manipulation: End Quest, Untrack Active Quest and change quest and romance facts.
 - Teleport Features: Save current position and teleport back to a saved location, Custom Teleport Locations.
-- Vehicle Features: Unlock Vehicles and Instant Vehicle Spawn.
-- Upgrade your clothing mods, weapon mods, quick hacks, cyberware mods
-- No requirements for cyberware.  
-- In the game menu to configure multipliers for all XP types. 
+- Upgrade your clothing mods, weapon mods, quick hacks, cyberware mods 
+- In the game menu to configure multipliers for all XP types.
+- Unlock Vehicles and Instant Vehicle Spawn.
 
 ### **Save Editor** 
 
@@ -564,36 +535,30 @@ UI Colours
 
 ## ![](https://s12.gifyu.com/images/IMMERSION.png)
 
-- V can now pay off NCPD to get rid of your crime status. 
 - Netrunners can use more hacks on you and reveal your position now they have access to the same hacks as you.
 - Adds the animation you see when you first pick up a weapon, configurable in the game. 
 - Virtual Atelier adds an in-game store you can access from any computer in the game to buy weapons,cyberwar, clothes, drugs, vehicles and more.    
 - NCPD will now chase you in vehicles and will spawn further away from you.
-- Make your vehicle's headlights brighter and shine further.
 - In-game torch.
+- Metro System with 19 different stations.
+- Vendors now show their real names.
+- Improved radio lets you skip songs add songs and remove songs you don't want out of the playlists.
+- Immersive time skip allows you to still see the world around you when you skip time.   
+- 20+ expression and pose packs for photo mode adds over 100 different poses and expressions.     
+- The weather has been completely rebalanced you will see more changes in weather.
+- People will now casually interact with you as you walk near them.
+- Fully useable stock market system that dynamically reacts to quests and player action.
+- V can now press the aim button to walk without zooming in.
+- V can now purchase all the popular drugs in night city.
+- V can now pay off NCPD to get rid of your crime status. 
 - V can now have drinks at bars around night city.
 - V can now eat at food vendors around night city. 
 - V can now sit in the chair to get work done at any ripperdoc.
-- Improved radio lets you skip songs add songs and remove songs you don't want out of the playlists.
 - V now has access to more megabuildings at which you can buy new apartments. 
-- Metro System with 19 different stations.
-- Strippers and sex workers now have much more revealing clothing.
 - V can now pet nibbles. 
-- Vendors now show their real names.
 - V can sit pretty much anywhere. 
-- V can now trade with street vendors. 
-- Edgerunners Props placed throughout the city.  
-- Immersive time skip allows you to still see the world around you when you skip time.  
-- Panam now sends you more messages. 
-- 20 expression and pose packs for photo mode adds over 100 different poses and expressions. 
-- V can now press the aim button to walk without zooming in.  
-- The weather has been completely rebalanced you will see more changes in weather.
-- V can now purchase all the popular drugs in night city.  
-- People will now casually interact with you as you walk near them.
-- Fully useable stock market system that dynamically reacts to quests and player action.
-- Modified every part of the damage system and other elements to give gangs and corps more flavour and uniqueness. Also, get benefits and penalties against gangs/corps based on your life path.
-- V can play the arcade machines.  
-- Improved mini map zoom allows the map to dynamically zoom in and out depending on what areas you are in or if you are in the combat state.  
+- V can now trade with street vendors.
+- V can play the arcade machines. 
 
 ---
 
@@ -608,6 +573,8 @@ UI Colours
 - 1500 Different poses.
 
 ---
+
+### **NPC Specific Immersion**
 
 ### **Judy**
 
@@ -624,26 +591,27 @@ UI Colours
 > When you visit Kerrie he will be more active.
 
 - He drinks near his bar and eats in front of his car. 
-- V can chat with him at any of the activities. 
-- V can hug him at any activity where he is not holding a guitar **(only if in a relationship)**. 
-- V can request a number of songs when he is holding his guitar. 
 - He showers **(if you are in a relationship)**. 
 - He smokes in his bathroom **(only after showering)**. 
 - He plays the guitar **(either in his bedroom or on the sofa)**. 
 - He lounges on the sofa **(like his base game behaviour)**. 
-- He sleeps in his bed at night **(without having to wait for the player to use the bed)**.   
+- He sleeps in his bed at night **(without having to wait for the player to use the bed)**.
+- V can chat with him at any of the activities. 
+- V can hug him at any activity where he is not holding a guitar **(only if in a relationship)**.   
+- V can request a number of songs when he is holding his guitar. 
 
 ### **Panam**
 
 > When you visit Panam she will be more active.
 
 - She drinks at the bar.
-- V can chat with her or hug her during any of the activities (except sleeping or showering).
-- V can kiss her during any of the activities **(except sleeping or showering)**.
 - She eats takeout near the tables.
 - She showers. 
 - She plays on her phone **(she also does this after using the shower)**.
 - She sleeps in her bed at night **(without having to wait for the player to use the bed)**.
+- She now sends you more messages.
+- V can chat with her or hug her during any of the activities (except sleeping or showering).
+- V can kiss her during any of the activities **(except sleeping or showering)**.
 
 ### **River**
 
@@ -664,14 +632,39 @@ UI Colours
 
 ## ![](https://s12.gifyu.com/images/Combat-weopans.png)
 
-- More blood splatters
 - V can now zoom in with the scope on your weapon.  
 - V can now shoot while driving vehicles.
-- Ragdoll physics are now much more realistic.       
 - V can now craft Scopes and Muzzle attachments.
+- More blood splatters.
+- Ragdoll physics are now much more realistic.       
 - Restores some missing/cut crafting specs for some weapons. 
 - Cybernetic eyes allow you to zoom in while aiming. 
 - Projectile launcher cyberware rounds now have an effect similar to the corresponding grenade type. 
+
+---
+
+![](https://i.imgur.com/XnDSRqR.png)[HARDCORE44 - Realistic Combat Overhaul - Adjusted Difficulty](https://www.nexusmods.com/cyberpunk2077/mods/4325?tab=posts) by [radj307](https://www.nexusmods.com/cyberpunk2077/users/5671914)  ***(OPTIONAL)***  NPCs do **much** more damage, especially at higher levels. 
+
+This is not for the faint of heart if you aren't the type to learn from your mistakes and change your approach, then this isn't the mod for you.
+**You will die, and you will die often.**
+
+### **How to use**
+
+⛔ This mod should be used a on a new playthrough.                                                                                                                                                              ⛔ Set the difficulty to Very Hard.
+⛔ Dont enable the mod if you are playing an existing save unless you plan on keeping it enabled. As it can cause leveling issues.
+⛔ If you do disable the mod change your difficulty level in game from Very Hard to Hard.
+
+### Things you need to know
+
+- Don't worry about the levels on items, they are irrelevant. You don't need to upgrade anything, you can equip all weapons and clothing at level 1.
+- Use god mode to get through the car chase scenes early on in the game.
+- Beat on the Brat Street fighting quest is very difficult. 
+- Intro car ride ambushes are impossible. I recommend disabling the mod in Vortex.
+- Delamain's **"ambush"** quest is almost impossible but can be done.
+
+The early game is very difficult and it will test your patience.
+
+[WELCOME TO NIGHT CITY CHOOM](https://)[ GOOD LUCK](https://)
 
 ---
 
@@ -699,23 +692,37 @@ UI Colours
 
 ![img](https://i.imgur.com/vcDoyKS.png)[Enhanced Big Breasts - BODY MOD](https://www.nexusmods.com/cyberpunk2077/mods/4654?tab=description) by [LxRHyst](https://www.nexusmods.com/users/114587558) This body mod allows you to have a big chest, with a beautiful cleavage.
 
-![](https://s12.gifyu.com/images/Body-settings.jpg)**⛔** You need to change the Chest settings in game for this body to work. You can do this by either going to a ripperdock or using [Appearance Change Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/3850)****
-
 - Highly detailed 4k skin textures.  
 - Toggleable Feet Feature.
+
+![](https://s12.gifyu.com/images/Body-settings.jpg)**⛔** You need to change the Chest settings in game for this body to work. You can do this by either going to a ripperdock or using [Appearance Change Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/3850)
+
+---
+
+### **Male V**
+
+![](https://s11.gifyu.com/images/Screenshot-2023-04-23-215138.png)[-KS- ADONIS Male Body](https://) by [KnowSo](https://www.nexusmods.com/cyberpunk2077/users/137109313) TRANSFORM YOUR V INTO THE ENVY OF A PANTHEON.
+
+- Highly detailed 4k skin textures.  
+
+---
+
+### Other Body Mods
+
+
+
 - 20+ Hairstyles. 
 - More tattoos.  
 - Enhanced body for Panam.
-
-### Male V
 
 ---
 
 ## ![](https://s11.gifyu.com/images/Adult.png)
 
+- V can now replay romance scenes.
 - Breast Jiggle Physics. 
 - Underwear removed in all situations where your character is nude.
-- V can now replay romance scenes.
+- Strippers and sex workers now have much more revealing clothing.
 - Joytoy was replaced in jig jig street.
 - Vshojo Advertisements.
 - 50+ Adult toys added to the game. 
@@ -729,7 +736,7 @@ UI Colours
 
 [Arasaka Cyberarms](https://www.nexusmods.com/cyberpunk2077/mods/1099). by  [Aanderz](https://www.nexusmods.com/cyberpunk2077/users/861683) ***(OPTIONAL)***  Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
 
-![](https://s12.gifyu.com/images/Cyberwarepng.png)[Arasaka Cyber Body Mod](https://www.nexusmods.com/cyberpunk2077/mods/2598). by [sedthsedthtananurak](https://www.nexusmods.com/cyberpunk2077/users/59039391) ***(OPTIONAL)***
+![](https://s12.gifyu.com/images/Cyberwarepng.png)[Arasaka Cyber Body Mod](https://www.nexusmods.com/cyberpunk2077/mods/2598). by [sedthsedthtananurak](https://www.nexusmods.com/cyberpunk2077/users/59039391) ***(OPTIONAL)*** Gives male V a new cyberware body.
 
 - Hundreds of pieces of cyberware were added to the atelier store. 
 - Custom Arasaka cyberware includes Berserk,Sandevistans and Cyberdecks.
@@ -758,19 +765,18 @@ Upgraded/Tweaked cyberware
 ![](https://i.imgur.com/gPWMj46.jpg)[Let There Be Flight](https://www.nexusmods.com/cyberpunk2077/mods/5208?tab=description) by [jackhumbert](https://www.nexusmods.com/cyberpunk2077/users/86010988) Enables a configurable flight system for all vehicles with custom thruster models, visual sound effects, and animations.
 
 - V can send their vehicle away.
-- **I**t will now cost Eddies to summon your vehicle. 
-- It will cost you more eddies to repair destroyed vehicles when summoning them.
-- Summon and spawn distances for vehicles decreased.    
 - V can now purchase all vehicles from the in-game atelier store. 
 - V can control vehicle headlights and windows. 
 - V can change the brightness and distance of vehicle headlights. 
+- **I**t will now cost Eddies to summon your vehicle. 
+- It will cost you more eddies to repair destroyed vehicles when summoning them.
+- Summon and spawn distances for vehicles decreased. 
 
 ### **Custom Vehicles**
 
 - Bladerunner 2042 Spinner 
 - R34 Nissan Skyline  
 - Honda NSX
-- BMW E30 
 - Mclaren F1
 
 ![](https://s11.gifyu.com/images/ezgif.com-resized7db10b055276e56.gif)[Metro System](https://www.nexusmods.com/cyberpunk2077/mods/3560?tab=description) by [NexusGuy999](https://www.nexusmods.com/cyberpunk2077/users/77476393)  Adds a fully useable Metro System, with 19 explorable stations, third/first person view and much more.
@@ -779,7 +785,7 @@ Upgraded/Tweaked cyberware
 
 ![img](https://i.imgur.com/Xe7LiSI.png)
 
-⛔ I recommend **NOT** installing extra mods that are not part of the collection. But if you need more chrome i aint stopping you we have a dedicated channel in Discord for Chrome Junkies like you check it out so you dont flatline.
+⛔ I recommend **NOT** installing extra mods that are not part of the collection. But if you need more chrome i aint stopping you choom we have a dedicated channel in Discord for Chrome Junkies like you check it out so you dont flatline.
 
 - If you want to add mods that are not part of this collection you can but it may not work as intended unless specified on this page. 
 - If you want to remove mods that are part of this collection you can but it may not work as intended unless specified on this page.  
