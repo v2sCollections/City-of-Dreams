@@ -1,4 +1,4 @@
-### Collection Rev 26 Ver 2.48          Collection Updated and working for Game version 1.62 Patch 1 
+### Collection Rev 26 Ver 2.48           Collection Updated and working for Game version 1.62 Patch 1 
 
 ![img](https://i.imgur.com/wAJUpeU.png)![](https://i.imgur.com/4iSAt6O.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o) for **Cyberpunk 2077** have a good read through this description.
 
@@ -30,9 +30,10 @@ This is a 500+ Mod Collection. It has been a painful journey to get these mods w
 
 ![img](https://i.imgur.com/tuwIgmm.png)
 
-- These are the best mods from the best authors and are a must-have to immerse yourself in Cyberpunk 2077. 
+- These are the best mods from the best authors and are a must-have to immerse yourself in Cyberpunk 2077.
+- The most exstensive mod collection on nexus for cyberpunk 2077. 
 - Easy to follow step-by-step installation guide.
-- Only 8 GB in download size for 500+  mods.
+- Only 8 GB in download size for 500+ mods.
 - Mods specifically created for the collection. 
 - Support for other Modular Expansion Packs.
 - [Discord Server](https://discord.gg/xZNztPjA2u) with a growing community. 
@@ -116,6 +117,8 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 4 ) Open Vortex and click on **"Select a game to manage".**
 
+![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)
+
 5 ) On the next screen scroll down to the **"Cyberpunk 2077"** icon and click on **"Manage".**
 
 6 ) On the popup that appears click on **"Download"** on the bottom right, vortex will restart.
@@ -152,7 +155,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ## [INSTALLING THE COLLECTION](https://)
 
-14) Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
+14) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
 ![](https://s12.gifyu.com/images/Screenshot-2023-04-17-115745.png)
 
@@ -203,7 +206,9 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ReShade comes with the collection once you have finished downloading it will be placed on the toolbar in the top left hand corner of Vortex.
 
-![](https://s11.gifyu.com/images/Reshade.jpg)﻿1) Click on Reshade in the top corner.
+![](https://s11.gifyu.com/images/Reshade.jpg)
+
+ Click on Reshade in the top corner.
 2) Select browse and find the **"*Cyberpunk2077.exe*"** and select it. **(Locations below)**
 
 ```
@@ -219,7 +224,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 I have added these resahdes below.
 
-- City of Dreams Reshade by v2
+- City of Dreams Reshade by [v2](https://www.nexusmods.com/hogwartslegacy/users/123334373)
 
 ### **Reshade controls**
 
@@ -280,15 +285,17 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 ## ⛔[WARNINGS](https://)⛔
 
-All ***(OPTIONAL)***  mods will be enabled automatically if you choose to install **"all optional mods"** in Vortex these will require you to manually disable the ones you don't want it is important that you read the following guide.
+If you see this> ⛔ then you need to read and follow the directions.
 
-If a mod is marked with 1️⃣ then you can only choose one of those mods per category e.g. CYBERWARE ect in **Vortex.**
+⛔ All ***(OPTIONAL)***  mods will be enabled automatically if you choose to install **"all optional mods" (see optional mods section above in the install guide)** if you do choose to install all then you will have to manually disable the ones you don't want it. 
 
-If a mod is marked with ⛔ Then you need to read and follow the directions.
+⛔ It Is important that you read the following guide to fully understand everything clearly.
 
 ---
 
-![](https://s12.gifyu.com/images/CET.png)To use **CET** (**Cyber Engine Tweaks)** use **F11** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Aperance menu,3rd person camera,Vehicle camera and many more.
+![](https://s12.gifyu.com/images/CET.png)To use **CET** (**Cyber Engine Tweaks)** use **(F11)** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Aperance menu,Third person camera,Vehicle camera and many more.
+
+![](https://s11.gifyu.com/images/Screenshot-2023-04-24-174314.png)
 
 ---
 
@@ -296,7 +303,7 @@ If a mod is marked with ⛔ Then you need to read and follow the directions.
 
 ## ***(OPTIONAL)***
 
-> [Polyglot V (V speaks English and Japanese) mod. Now you can speak Japanese to Asian NPC's and have them reply in Japanese.](https://)
+> [Polyglot V (V speaks English and Japanese) mod](https://). Now you can speak Japanese to Asian NPC's and have them reply in Japanese.
 
 ---
 
