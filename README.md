@@ -1,6 +1,6 @@
-### Collection Rev 26 Ver 2.48           Collection Updated and working for Game version 1.62 Patch 1 
+### Collection Rev 26 Ver 2.48    Collection Updated and working for Game version 1.62 Patch 1 
 
-![img](https://i.imgur.com/wAJUpeU.png)![](https://i.imgur.com/4iSAt6O.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o) for **Cyberpunk 2077** have a good read through this description.
+![img](https://i.imgur.com/wAJUpeU.png)![](https://s11.gifyu.com/images/Border11.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o) for **Cyberpunk 2077** have a good read through this description.
 
 These mods are a must-have to immerse yourself into Night City.
 
@@ -48,6 +48,7 @@ This is a 500+ Mod Collection. It has been a painful journey to get these mods w
 - 20+ Photo Mode Pose Packs. 
 - 50+ Weapon and Armor Mods.
 - 200+ Clothing Mods Featuring 100s of clothes added to the Alteier Store.
+- 100+ Loading Screens.
 - 80+ Alteir Stores.
 - 50+ Body Mods for V and most Other NPCs. 
 - Gameplay mods & Tweaks.
@@ -71,7 +72,6 @@ This is a 500+ Mod Collection. It has been a painful journey to get these mods w
 
 - Mods for **Cyberpunk 2077** are pretty reliable but it's always good to make a backup of your save file. Save files can be found here> *C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077* just copy the contents of this file and place it somewhere on your pc. 
 - This collection features **ADULT** mods and you should be 18+ to use it.
-- Some of these mods have multiple top-level archives. You may need to go through these mods and pick the right archives. (see Mod Notes Below) 
 
 ## [Collection not working?  ](https://)  
 
@@ -81,10 +81,12 @@ This collection is extensively tested with every new version that is released. I
 
 - ![img](https://i.imgur.com/IdqHWV6.png)
 
+## [IMPORTANT](https://)
+
 If you see this> ⛔ then you need to read and follow the directions.
 
 - ⛔ It Is important that you **READ** the following guide to fully understand everything clearly.
-- **⛔ DO NOT** use a pirated game. It is against Nexus rules and is illegal.  
+- **⛔ DO NOT** use a pirated game. It is against Nexus rules and is illegal.  I wont offer any support for Cracked games.
 
 ## [Updating Collection](https://)[   ](https://)
 
@@ -720,7 +722,7 @@ The early game is very difficult and it will test your patience.
 
 ### **Male V**
 
-![](https://s11.gifyu.com/images/Screenshot-2023-04-23-215138.png)[-KS- ADONIS Male Body](https://) by [KnowSo](https://www.nexusmods.com/cyberpunk2077/users/137109313) TRANSFORM YOUR V INTO THE ENVY OF A PANTHEON.
+![](https://s11.gifyu.com/images/Screenshot-2023-04-23-215138.png)[-KS- ADONIS Male Body](https://www.nexusmods.com/cyberpunk2077/mods/4968) by [KnowSo](https://www.nexusmods.com/cyberpunk2077/users/137109313) TRANSFORM YOUR V INTO THE ENVY OF A PANTHEON.
 
 - Highly detailed 4k skin textures.  
 
@@ -871,7 +873,7 @@ Installation.
 - 1440p> RTX 3080 or RX 6800 XT  
 - RAM> 16GB
 - CPU> R5 3600 or i5 9600K
-- STORAGE> 8.8GB
+- STORAGE> 8.9GB
 - STORAGE TYPE> SSD **(Recommended)** 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -926,7 +928,7 @@ If you would like to support me so I can afford some new chrome click the button
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-[![img](https://i.imgur.com/KhkfurU.png[/img])](https://www.cyberpunk.net/au/en/)
+![](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 
 ## [Disclaimer](https://)
 
