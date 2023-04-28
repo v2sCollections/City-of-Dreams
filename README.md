@@ -382,7 +382,9 @@ If you see this> ⛔ then you need to read and follow the directions.
 - Draw distance boost.
 - Unlocked FOV.
 - Remove the Crouch vignette effect. 
-- You will no longer see distant 2D cars.     
+- You will no longer see distant 2D cars. 
+- 100+ Loading Screens added to the game. 
+- Clean Loading Screens.   
 
 > [Upscaled Videos Include](https://)
 
@@ -392,6 +394,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 - QHD Intro.
 - QHD Edgerunner Braindance.
 - HD Pachinko Palor.
+- Clean Loading Screens
 
 > [Upscaled Textures Include](https://)    
 
@@ -824,14 +827,6 @@ Upgraded/Tweaked cyberware
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 ## ![img](https://i.imgur.com/sLuJj5J.png)
-
-**This I my add-on pack for this collection use this if you need a Chinese translation.**
-
-- [City of Dreams Language pack by v2](https://next.nexusmods.com/cyberpunk2077/collections/h28kkl)
-
-Installation.
-
----
 
 These collections are not curated by me. Please do not forget that when you install any extra collections, it's your responsibility and they may not work as intended.
 
