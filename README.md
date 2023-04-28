@@ -203,7 +203,7 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ## NOW!!! [Wake the f**k up, Samurai. We have a city to burn.](https://)   
 
-## ![](<iframe src="https://giphy.com/embed/ww8JvNyaRDQu0pMhYQ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ww8JvNyaRDQu0pMhYQ">via GIPHY</a></p>)![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY5NGNiZGQzY2Q1ZmNiNWMxNTYyODliMjA5YmVlNDIwOGI4NDM3NyZjdD1n/ww8JvNyaRDQu0pMhYQ/giphy-downsized-large.gif)   
+## ![](<iframe src="https://giphy.com/embed/ww8JvNyaRDQu0pMhYQ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ww8JvNyaRDQu0pMhYQ">via GIPHY</a></p>)![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY5NGNiZGQzY2Q1ZmNiNWMxNTYyODliMjA5YmVlNDIwOGI4NDM3NyZjdD1n/ww8JvNyaRDQu0pMhYQ/giphy-downsized-large.gif)Please Endose and Vote the Collection.
 
 ---
 
@@ -332,7 +332,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 - [E3 2018 HUD - Spicy HUDs](https://www.nexusmods.com/cyberpunk2077/mods/3023)
 - [E3 Icons Remastered (Hud and Map)](https://www.nexusmods.com/cyberpunk2077/mods/4230)  
 - [E3 Smart Windows](https://www.nexusmods.com/cyberpunk2077/mods/7026)
-- [E3 Compass](https://www.nexusmods.com/cyberpunk2077/mods/4331)
+- [E3 Compass](https://www.nexusmods.com/cyberpunk2077/mods/4331) ***Note** this will disable the min map.
 - [E3 2018 Samurai Jacket](https://www.nexusmods.com/cyberpunk2077/mods/1124) 
 - [Quadra Turbo R V-Tec E3 Recolor](https://www.nexusmods.com/cyberpunk2077/mods/1559)   
 - [E3 2018 Lighting MOD](https://www.nexusmods.com/cyberpunk2077/mods/1347)     
@@ -350,6 +350,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 - [Lucy - Edgerunners Sky Ad](https://www.nexusmods.com/cyberpunk2077/mods/5201?tab=description) ***(OPTIONAL)***
 - [Wannabe Edgerunner - A simple Cyberpsychosis mod](https://www.nexusmods.com/cyberpunk2077/mods/5646) ***(OPTIONAL)*** *Note Read more in on the **"gameplay"** tab 
 - [Wannabe Edgerunner - Humanity Recovery](https://www.nexusmods.com/cyberpunk2077/mods/6330) ***(OPTIONAL)*** ***Note** Read more in on the **"gameplay"** tab
+- [Edgerunners Loading Screen Pack.](https://) ***(OPTIONAL)***
 - [Lucy Edgerunners Suit Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/5273)
 - [David Martinez Jacket Refited for Hyst Bodies mods](https://www.nexusmods.com/cyberpunk2077/mods/5155)
 - [Edgerunners Location Additions](https://www.nexusmods.com/cyberpunk2077/mods/5428)
