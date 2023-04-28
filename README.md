@@ -80,12 +80,17 @@ This collection is extensively tested with every new version that is released. I
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 - ![img](https://i.imgur.com/IdqHWV6.png)
+
+If you see this> ⛔ then you need to read and follow the directions.
+
+- ⛔ It Is important that you **READ** the following guide to fully understand everything clearly.
 - **⛔ DO NOT** use a pirated game. It is against Nexus rules and is illegal.  
-- **⛔ DO NOT** update any of the mods in this collection individually in **Vortex** when a mod updates we will update a full revision in order to keep everything up to date when you see a new revision update to it. Notes will be in the changelog.  
 
 ## [Updating Collection](https://)[   ](https://)
 
 - **⛔** Updating the collection is as easy as clicking the **"Update"** button. When prompted to **"Remove mods from old revision"** make sure to click the **"Remove All"** button. 
+- **⛔ DO NOT** update any of the mods in this collection individually in **Vortex** when a mod updates we will update a full revision.
+- Notes will be in the changelog. 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -208,7 +213,7 @@ ReShade comes with the collection once you have finished downloading it will be 
 
 ![](https://s11.gifyu.com/images/Reshade.jpg)
 
- Click on Reshade in the top corner.
+Click on Reshade in the top corner.
 2) Select browse and find the **"*Cyberpunk2077.exe*"** and select it. **(Locations below)**
 
 ```
@@ -287,7 +292,7 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 If you see this> ⛔ then you need to read and follow the directions.
 
-⛔ All ***(OPTIONAL)***  mods will be enabled automatically if you choose to install **"all optional mods" (see optional mods section above in the install guide)** if you do choose to install all then you will have to manually disable the ones you don't want it. 
+⛔ All ***(OPTIONAL)***  mods will be enabled automatically if you choose to install **"all optional mods" (see optional mods section above in the install guide)** if you do choose to install all then you will have to manually disable the ones you don't want it.
 
 ⛔ It Is important that you read the following guide to fully understand everything clearly.
 
@@ -740,7 +745,9 @@ The early game is very difficult and it will test your patience.
 
 ---
 
-## ![](https://s11.gifyu.com/images/Cyberware.png)  ![](https://s12.gifyu.com/images/Cyberarms.png)
+![](https://s11.gifyu.com/images/Cyberware.png)  ![](https://s11.gifyu.com/images/Monsta.png)[Cyberware](https://) by [MONSTERaider](https://www.nexusmods.com/cyberpunk2077/users/1630457) Availiable at the MONSTERaider altelier store.
+
+![](https://s12.gifyu.com/images/Cyberarms.png)
 
 [Arasaka Cyberarms](https://www.nexusmods.com/cyberpunk2077/mods/1099). by  [Aanderz](https://www.nexusmods.com/cyberpunk2077/users/861683) ***(OPTIONAL)***  Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
 
