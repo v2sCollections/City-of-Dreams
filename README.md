@@ -779,9 +779,7 @@ Upgraded/Tweaked cyberware
 
 ## ![](https://s11.gifyu.com/images/Vehcles.png) 
 
-![](https://i.imgur.com/sbGonqW.png)[Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016) by [E3roKK](https://www.nexusmods.com/cyberpunk2077/users/25841040)  Overhauls Every Single Vehicle's top speed, gearing, power, handling and brakes.
-
-![](https://i.imgur.com/xDnPagN.png)[Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034) by [E3roKK](https://www.nexusmods.com/cyberpunk2077/users/25841040) Modify Your Favorite Player Vehicles.
+![](https://s11.gifyu.com/images/E3ROK.jpg)[Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016) & [Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034) by [E3roKK](https://www.nexusmods.com/cyberpunk2077/users/25841040) Overhauls Every Single Vehicle's top speed, gearing, power, handling and brakes. You can also modify your favorite player vehicles at the mod shop.
 
 ![](https://i.imgur.com/gPWMj46.jpg)[Let There Be Flight](https://www.nexusmods.com/cyberpunk2077/mods/5208?tab=description) by [jackhumbert](https://www.nexusmods.com/cyberpunk2077/users/86010988) Enables a configurable flight system for all vehicles with custom thruster models, visual sound effects, and animations.
 
@@ -823,9 +821,6 @@ Upgraded/Tweaked cyberware
 ![img](https://i.imgur.com/Xe7LiSI.png)
 
 ⛔ I recommend **NOT** installing extra mods that are not part of the collection. But if you need more chrome i aint stopping you choom we have a dedicated channel in Discord for Chrome Junkies like you check it out so you dont flatline.
-
-- If you want to add mods that are not part of this collection you can but it may not work as intended unless specified on this page. 
-- If you want to remove mods that are part of this collection you can but it may not work as intended unless specified on this page.  
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
