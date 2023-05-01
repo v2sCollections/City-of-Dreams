@@ -326,7 +326,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 > [Below are optional mods you can enable if you want the E3 Theme.](https://)
 
-⛔ Enabling the E3 Compass will disable the in game mini map. 
+⛔ Enabling the E3 Compass will disable the in game mini map.
 
 ⛔ When enabling the E32018 hud you need to disable the Spicy HUD 2.2 in Vortex.
 
@@ -455,8 +455,7 @@ Support for other upscaled texture packs by [XilaMonstrr](https://www.nexusmods.
 - Cleans up the green colour from the quick hack screen. 
 - Remove quest tags from equipped items so they can be dismantled and sold.
 - Unequip all equipped items **(armour, weapons and cyberware)**. 
-- Reduced loot throughout the city.
-- You can now zoom in on V in the inventory menu.    
+- Reduced loot throughout the city.  
 - See what attribute level you needed for conversation skill checks that you passed.
 - Reduced drop chances for chosen loot categories from in-game containers, NPCs and world placed objects.
 - Improved mini map zoom allows the map to dynamically zoom in and out depending on what areas you are in or if you are in the combat state. 
@@ -466,7 +465,9 @@ Support for other upscaled texture packs by [XilaMonstrr](https://www.nexusmods.
 Inventory
 
 - Iconic Items cannot be disassembled.
-- Category filters for your storage items list 
+- Category filters for your storage items list.
+- Smaller Arrows.
+- You can now zoom in on V in the inventory menu.  
 
 Journal
 
@@ -493,16 +494,18 @@ Vendors
 
 Saves
 
-- You can now filter your saved games by life path. 
+- You can now filter your saved games by life path.
+- You can now name your save files. 
 
 Mods
 
-- Other mods add their own page and add settings widgets to the newly added "Mods" settings menu.
+- Other mods add their own page and add settings widgets to the newly added **"Mods"** settings menu.
 - Mod setting tab in the main menu.
 
 UI Colours
 
-- Different UI Colour combinations to choose from.   
+- Different UI Colour combinations to choose from.
+- E3 UI Colours.   
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
