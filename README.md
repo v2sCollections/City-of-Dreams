@@ -1,4 +1,4 @@
-### Collection Rev 26 Ver 2.48    Collection Updated and working for Game version 1.62 Patch 1 
+### Collection Rev 26 Ver 2.48     Collection Updated and working for Game version 1.62 Patch 1 
 
 ![img](https://i.imgur.com/wAJUpeU.png)![](https://s11.gifyu.com/images/Border11.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o) for **Cyberpunk 2077** have a good read through this description.
 
@@ -172,7 +172,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ## [POPUPS](https://)
 
-16) These may popup in Vortex as you are downloading tthe collection.
+16) These may popup in Vortex as you are downloading the collection.
 
 - When you see a pop-up titled **"Mod contains protected paths"** select **"yes install to staging anyway"**
 - When you see a pop-up titled **"you have reached the fallback installer"** select **"yes install to staging anyway"**
@@ -298,13 +298,13 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ⛔ It Is important that you read the following guide to fully understand everything clearly.
 
----
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ![](https://s12.gifyu.com/images/CET.png)To use **CET** (**Cyber Engine Tweaks)** use **(F11)** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Aperance menu,Third person camera,Vehicle camera and many more.
 
 ![](https://s11.gifyu.com/images/Screenshot-2023-04-24-174314.png)
 
----
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## ![](https://s12.gifyu.com/images/Language.png)
 
@@ -312,19 +312,23 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 > [Polyglot V (V speaks English and Japanese) mod](https://). Now you can speak Japanese to Asian NPC's and have them reply in Japanese.
 
----
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## ![](https://s11.gifyu.com/images/Diffuculty.png)  
 
 > [Most mods have in-game settings so you can set the difficulties as you wish for an easier or more challenging experience.](https://)
 
----
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## ![](https://s11.gifyu.com/images/E3-THEME.png)
 
 ## ***(OPTIONAL)***  
 
 > [Below are optional mods you can enable if you want the E3 Theme.](https://)
+
+⛔ Enabling the E3 Compass will disable the in game mini map. 
+
+⛔ When enabling the E32018 hud you need to disable the Spicy HUD 2.2 in Vortex.
 
 ⛔When in the game go to the Mod tab in the menu and enable these 2 settings shown below.
 
@@ -334,14 +338,13 @@ If you see this> ⛔ then you need to read and follow the directions.
 - [E3 2018 HUD - Spicy HUDs](https://www.nexusmods.com/cyberpunk2077/mods/3023)
 - [E3 Icons Remastered (Hud and Map)](https://www.nexusmods.com/cyberpunk2077/mods/4230)  
 - [E3 Smart Windows](https://www.nexusmods.com/cyberpunk2077/mods/7026)
-- [E3 Compass](https://www.nexusmods.com/cyberpunk2077/mods/4331) ***Note** this will disable the min map.
+- [E3 Compass](https://www.nexusmods.com/cyberpunk2077/mods/4331) 
 - [E3 2018 Samurai Jacket](https://www.nexusmods.com/cyberpunk2077/mods/1124) 
 - [Quadra Turbo R V-Tec E3 Recolor](https://www.nexusmods.com/cyberpunk2077/mods/1559)   
-- [E3 2018 Lighting MOD](https://www.nexusmods.com/cyberpunk2077/mods/1347)     
 
-![](https://i.imgur.com/wUSA7JD.png)
+![](https://s12.gifyu.com/images/E3.png)
 
----
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ![](https://s11.gifyu.com/images/Untitled18244ce047bd870e.png)
 
@@ -362,7 +365,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ![](https://s12.gifyu.com/images/Untitedgrled.jpg)
 
----
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## ![](https://s12.gifyu.com/images/BUG-FIXES.png)
 
@@ -377,7 +380,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 - Fixes missing crucial clue audio playback in **(The Hunt quest).**
 - Fixes missing animations in the **(Skippy quest episodes)**.
 
----
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## ![](https://s11.gifyu.com/images/Graphics.png)
 
@@ -422,7 +425,7 @@ Support for other upscaled texture packs by [XilaMonstrr](https://www.nexusmods.
 -  [High-Res Graphics Pack - MAXIMUM](https://next.nexusmods.com/cyberpunk2077/collections/g0tcm4) ⛔ **(Mid to High-end Pc)** 
 -  [High-Res Graphics Pack - PERFORMANCE](https://next.nexusmods.com/cyberpunk2077/collections/devnx1)   ⛔ **(Mid to Low-end Pc)**       
 
----
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## ![](https://s11.gifyu.com/images/Gameplay.png)
 
@@ -442,7 +445,7 @@ Support for other upscaled texture packs by [XilaMonstrr](https://www.nexusmods.
 - Cyberware Humanity Cost is based on implant type and quality.
 - A new injector should help you to manage Humanity. 
 
----
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## ![](https://s12.gifyu.com/images/Quality-of-life.png)
 
@@ -501,7 +504,7 @@ UI Colours
 
 - Different UI Colour combinations to choose from.   
 
----
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ![](https://s12.gifyu.com/images/Cheats.png)
 
@@ -552,7 +555,7 @@ UI Colours
 - Configurable detection and override settings if you are playing at a small resolution.
 - Support for GeForce NOW users﻿.
 
----
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## ![](https://s12.gifyu.com/images/IMMERSION.png)
 
@@ -649,7 +652,7 @@ UI Colours
 - Both kids and River, will now greet V **(River's greeting is bugged in the base game)**.
 - There is now a radio in the main hall/room of the trailer, it just adds the option for a little ambient music in the otherwise dead trailer.
 
----
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## ![](https://s12.gifyu.com/images/Combat-weopans.png)
 
@@ -687,7 +690,7 @@ The early game is very difficult and it will test your patience.
 
 [WELCOME TO NIGHT CITY CHOOM](https://)[ GOOD LUCK](https://)
 
----
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## ![](https://s11.gifyu.com/images/Altier-Store.png)
 
@@ -707,7 +710,7 @@ The early game is very difficult and it will test your patience.
 
 ***Note** ⛔ Some of the added clothing mods may not fit correctly I will do my best to make everything compatible.
 
----
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ### ![](https://s12.gifyu.com/images/Body-Mods.png)Female V
 
@@ -724,6 +727,8 @@ The early game is very difficult and it will test your patience.
 
 ![](https://s11.gifyu.com/images/Screenshot-2023-04-23-215138.png)[-KS- ADONIS Male Body](https://www.nexusmods.com/cyberpunk2077/mods/4968) by [KnowSo](https://www.nexusmods.com/cyberpunk2077/users/137109313) TRANSFORM YOUR V INTO THE ENVY OF A PANTHEON.
 
+***Note** The Adonis body is not compatible with arasaka cyberarms or Arasaka cyberbody.
+
 - Highly detailed 4k skin textures.  
 
 ---
@@ -734,7 +739,7 @@ The early game is very difficult and it will test your patience.
 - More tattoos.  
 - Enhanced body for Panam.
 
----
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## ![](https://s11.gifyu.com/images/Adult.png)
 
@@ -749,7 +754,7 @@ The early game is very difficult and it will test your patience.
 
 ![](https://s11.gifyu.com/images/wild.jpg)[NPCs Gone Wild](https://www.nexusmods.com/cyberpunk2077/mods/1436) by [woodbricks](https://www.nexusmods.com/cyberpunk2077/users/103964573) Modifies female NPC bodies, textures, clothing and outfits to be much more revealing. Removes bras, underwear and more. With fully nude strippers, sculpted 3D nipples, vag**as and a*us, 4K nude skin texture, breast physics, and varying breast sizes.
 
----
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ![](https://s11.gifyu.com/images/Cyberware.png)  ![](https://s11.gifyu.com/images/Monsta.png)[Cyberware](https://) by [MONSTERaider](https://www.nexusmods.com/cyberpunk2077/users/1630457) Availiable at the MONSTERaider altelier store.
 
@@ -775,7 +780,7 @@ Upgraded/Tweaked cyberware
 - **Skeleton**
 - **Hands**
 
----
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## ![](https://s11.gifyu.com/images/Vehcles.png) 
 
