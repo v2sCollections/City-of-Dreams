@@ -1,4 +1,4 @@
-### Collection Rev 26 Ver 2.48     Collection Updated and working for Game version 1.62 Patch 1 
+### Collection Rev 26 Ver 2.48     Collection Updated and working for Game version 1.62 Patch 1
 
 ![img](https://i.imgur.com/wAJUpeU.png)![](https://s11.gifyu.com/images/Border11.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o) for **Cyberpunk 2077** have a good read through this description.
 
@@ -44,12 +44,12 @@ This is a 500+ Mod Collection. It has been a painful journey to get these mods w
 ![img](https://i.imgur.com/HJkjnor.png)
 
 - 500+ Mods in one click.     
-- 25+ Graphics & Texture Mods. 
+- 30+ Graphics & Texture Mods. 
 - 20+ Photo Mode Pose Packs. 
 - 50+ Weapon and Armor Mods.
 - 200+ Clothing Mods Featuring 100s of clothes added to the Alteier Store.
 - 100+ Loading Screens.
-- 80+ Alteir Stores.
+- 70+ Alteir Stores.
 - 50+ Body Mods for V and most Other NPCs. 
 - Gameplay mods & Tweaks.
 - Bug fixes. 
@@ -379,6 +379,8 @@ If you see this> ⛔ then you need to read and follow the directions.
 - Fixes River's dialogue in Holo calls it now actually plays the same as talking to him in person.
 - Fixes missing crucial clue audio playback in **(The Hunt quest).**
 - Fixes missing animations in the **(Skippy quest episodes)**.
+- Fixes the clipping of Frank Nostra's hair cap.
+- Fixes mitchs jacket with one that fits correctly.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -431,9 +433,13 @@ Support for other upscaled texture packs by [XilaMonstrr](https://www.nexusmods.
 
 - V now has a jetpack.
 - V can now hang off walls and jump from wall to wall.
+- V can now slide sideways. More flexibility on the slide's trajectory. Improves camera control when sliding. Prevents stairs and small obstacles like sidewalks from canceling the slide.
+- V can now walljump/wallbounce.
+- You can control Vs movement direction midair while jumping and double jumping.
 - The custom Level cap allows you to keep levelling up past level 50.
 - Using healing items builds up your "Toxicity" until you "Overdose", requiring you to wait for the effect to wear off before using more inhalers/injectors.
-- Modified every part of the damage system and other elements to give gangs and corps more flavour and uniqueness. Also, get benefits and penalties against gangs/corps based on your life path.   
+- Modified every part of the damage system and other elements to give gangs and corps more flavour and uniqueness. Also, get benefits and penalties against gangs/corps based on your life path.
+- Darkens the edges of the screen when your stamina is low.
 
 ### Wannabe Edgerunner **Cyberpsychosis**
 
@@ -459,6 +465,7 @@ Support for other upscaled texture packs by [XilaMonstrr](https://www.nexusmods.
 - See what attribute level you needed for conversation skill checks that you passed.
 - Reduced drop chances for chosen loot categories from in-game containers, NPCs and world placed objects.
 - Improved mini map zoom allows the map to dynamically zoom in and out depending on what areas you are in or if you are in the combat state. 
+- Item sliders set to max by default for Drop, Stash and Sell actions.
 
 ### **[UI Improvements Include](https://)**
 
@@ -697,7 +704,7 @@ The early game is very difficult and it will test your patience.
 
 ## ![](https://s11.gifyu.com/images/Altier-Store.png)
 
-> 80+ Shops with hundreds of clothes, armour,cyberware, vehicles, jewellery and weapons added to the Alteier store these can be accessed in-game from any computer these include items from some of the most talented modders in the CP2077 community such as.
+> 70+ Shops with hundreds of clothes, armour,cyberware, vehicles, jewellery and weapons added to the Alteier store these can be accessed in-game from any computer these include items from some of the most talented modders in the CP2077 community such as.
 
 - [kweknexuss](https://www.nexusmods.com/cyberpunk2077/users/86973158)                                                                                
 - [MONSTERaider](https://www.nexusmods.com/users/1630457) 
@@ -794,7 +801,8 @@ Upgraded/Tweaked cyberware
 - V can send their vehicle away.
 - V can now purchase all vehicles from the in-game atelier store. 
 - V can control vehicle headlights and windows. 
-- V can change the brightness and distance of vehicle headlights. 
+- V can change the brightness and distance of vehicle headlights.
+- V can change the colours of the neon lights on all motorbikes. 
 - **I**t will now cost Eddies to summon your vehicle. 
 - It will cost you more eddies to repair destroyed vehicles when summoning them.
 - Summon and spawn distances for vehicles decreased. 
@@ -815,14 +823,6 @@ Upgraded/Tweaked cyberware
 ![](https://s12.gifyu.com/images/car.jpg)Tunes
 
 - [Rayfield Caliburn 450mph](https://www.nexusmods.com/cyberpunk2077/mods/3988?tab=description) fastest car in cp2077
-
-### 
-
----
-
-### 
-
-![](https://s11.gifyu.com/images/ezgif.com-resized7db10b055276e56.gif)[Metro System](https://www.nexusmods.com/cyberpunk2077/mods/3560?tab=description) by [NexusGuy999](https://www.nexusmods.com/cyberpunk2077/users/77476393)  Adds a fully useable Metro System, with 19 explorable stations, third/first person view and much more.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
