@@ -1,4 +1,4 @@
-### Collection Rev 26 Ver 2.48     Collection Updated and working for Game version 1.62 Patch 1
+### Collection Rev 27 Ver 2.49      Collection Updated and working for Game version 1.62 Patch 1
 
 ![img](https://i.imgur.com/wAJUpeU.png)![](https://s11.gifyu.com/images/Border11.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o) for **Cyberpunk 2077** have a good read through this description.
 
@@ -876,7 +876,7 @@ Installation.
 - 1440p> RTX 3080 or RX 6800 XT  
 - RAM> 16GB
 - CPU> R5 3600 or i5 9600K
-- STORAGE> 8.9GB
+- STORAGE> 9.2GB
 - STORAGE TYPE> SSD **(Recommended)** 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
