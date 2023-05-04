@@ -1,4 +1,4 @@
-### Collection Rev 27 Ver 2.49      Collection Updated and working for Game version 1.62 Patch 1
+### Collection Rev 27 Ver 2.49        Collection Updated and working for Game version 1.62 Patch 1
 
 ![img](https://i.imgur.com/wAJUpeU.png)![](https://s11.gifyu.com/images/Border11.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o) for **Cyberpunk 2077** have a good read through this description.
 
@@ -766,7 +766,7 @@ The early game is very difficult and it will test your patience.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-![](https://s11.gifyu.com/images/Cyberware.png)  ![](https://s11.gifyu.com/images/Monsta.png)[Cyberware](https://) by [MONSTERaider](https://www.nexusmods.com/cyberpunk2077/users/1630457) Availiable at the MONSTERaider altelier store.
+![](https://s11.gifyu.com/images/Cyberware.png)  ![](https://s12.gifyu.com/images/RAIDER.png)[Cyberware](https://) by [MONSTERaider](https://www.nexusmods.com/cyberpunk2077/users/1630457) Availiable at the MONSTERaider altelier store.
 
 ![](https://s12.gifyu.com/images/Cyberarms.png)
 
