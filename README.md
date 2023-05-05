@@ -6,7 +6,7 @@ These mods are a must-have to immerse yourself into Night City.
 
 Huge thank you to all the talented chooms that have put in the time and effort to make these preem mods. If you enjoy this collection, **PLEASE** endorse the mod authors.
 
-This is a 500+ Mod Collection. It has been a painful journey to get these mods working well lots of hours have gone into it and we have only just started but night city is worth it yeah? haha, I hope you enjoy this collection and the game as much as I do. Time for me to delta but don't be a stranger join our community of edgerunners over on Discord see you there choom.
+This is a 500+ Mod Collection. It has been a painful journey to get these mods working well lots of hours have gone into it and we have only just started. I hope you enjoy this collection and the game as much as I do. Time for me to delta but don't be a stranger join our community of edgerunners over on Discord see you there choom.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -98,6 +98,11 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ![img](https://i.imgur.com/JyLQDVe.png)
 
+## [Install time](https://)
+
+**Premium Users**: Takes 1 hour + Semi automatic.
+**Free Users:** Takes 1.5 to 2 hours + Semi automatic. You will have to click on download for each mod one by one.
+
 ## [Cyberpunk2077](https://)
 
 1) Start with a fresh install of **Cyberpunk 2077**.
@@ -128,6 +133,8 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 5 ) On the next screen scroll down to the **"Cyberpunk 2077"** icon and click on **"Manage".**
 
+![](https://s12.gifyu.com/images/Untitled99ac613c165d0e14.jpg)
+
 6 ) On the popup that appears click on **"Download"** on the bottom right, vortex will restart.
 
 7 ) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
@@ -154,7 +161,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ## [Disabling REDmod Autoconversion](https://)
 
-13) ⛔ While still in settings go to the "**V2077 Settings"** tab and make sure that REDmod Autoconvert is disabled.
+13) ⛔ While still in settings go to the "**V2077 Settings"** tab and make sure that REDmod Autoconvert is disabled like shown in the picture below.
 
 ![](https://s11.gifyu.com/images/Untitle44d.jpg)
 
@@ -258,7 +265,9 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 1) Check the install guide and make sure you followed the instructions.
 
-2) Perform a Cyberclean.
+2) Make sure you have no additional mods installed there is a limit to the amount of archives you can have before the game will crash.
+
+3) Perform a Cyberclean.
 
 ## [My character and some female NPCs have weird texture lines on them ](https://)❓
 
@@ -718,13 +727,11 @@ The early game is very difficult and it will test your patience.
 
 ![](https://gifyu.com/image/SdKfy)![](https://gifyu.com/image/SdKtk)![](https://gifyu.com/image/SdKtk.img)![](https://s2.gifyu.com/images/ezgif.com-video-to-gifde3b2c1ceec906ca.gif)[Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987) by [Pacings](https://www.nexusmods.com/cyberpunk2077/users/96220198)
 
-***Note** ⛔ Some of the added clothing mods may not fit correctly I will do my best to make everything compatible.
-
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ### ![](https://s12.gifyu.com/images/Body-Mods.png)Female V
 
-![img](https://i.imgur.com/vcDoyKS.png)[Enhanced Big Breasts - BODY MOD](https://www.nexusmods.com/cyberpunk2077/mods/4654?tab=description) by [LxRHyst](https://www.nexusmods.com/users/114587558) This body mod allows you to have a big chest, with a beautiful cleavage.
+![img](https://i.imgur.com/vcDoyKS.png)[Enhanced Big Breasts - BODY MOD](https://www.nexusmods.com/cyberpunk2077/mods/4654?tab=description) (hyst) (BOOBA BOOTY) by [LxRHyst](https://www.nexusmods.com/users/114587558) This body mod allows you to have a big chest, with a beautiful cleavage.
 
 - Highly detailed 4k skin textures.  
 - Toggleable Feet Feature.
@@ -762,17 +769,23 @@ The early game is very difficult and it will test your patience.
 - 50+ Adult toys added to the game. 
 - Ads in night city are now uncensored. 
 
+---
+
 ![](https://s11.gifyu.com/images/wild.jpg)[NPCs Gone Wild](https://www.nexusmods.com/cyberpunk2077/mods/1436) by [woodbricks](https://www.nexusmods.com/cyberpunk2077/users/103964573) Modifies female NPC bodies, textures, clothing and outfits to be much more revealing. Removes bras, underwear and more. With fully nude strippers, sculpted 3D nipples, vag**as and a*us, 4K nude skin texture, breast physics, and varying breast sizes.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ![](https://s11.gifyu.com/images/Cyberware.png)  ![](https://s12.gifyu.com/images/RAIDER.png)[Cyberware](https://) by [MONSTERaider](https://www.nexusmods.com/cyberpunk2077/users/1630457) Availiable at the MONSTERaider altelier store.
 
-![](https://s12.gifyu.com/images/Cyberarms.png)
+---
 
-[Arasaka Cyberarms](https://www.nexusmods.com/cyberpunk2077/mods/1099). by  [Aanderz](https://www.nexusmods.com/cyberpunk2077/users/861683) ***(OPTIONAL)***  Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
+![](https://s12.gifyu.com/images/Cyberarms.png)[Arasaka Cyberarms](https://www.nexusmods.com/cyberpunk2077/mods/1099). by  [Aanderz](https://www.nexusmods.com/cyberpunk2077/users/861683) ***(OPTIONAL)***  Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
+
+---
 
 ![](https://s12.gifyu.com/images/Cyberwarepng.png)[Arasaka Cyber Body Mod](https://www.nexusmods.com/cyberpunk2077/mods/2598). by [sedthsedthtananurak](https://www.nexusmods.com/cyberpunk2077/users/59039391) ***(OPTIONAL)*** Gives male V a new cyberware body.
+
+---
 
 - Hundreds of pieces of cyberware were added to the atelier store. 
 - Custom Arasaka cyberware includes Berserk,Sandevistans and Cyberdecks.
@@ -796,7 +809,11 @@ Upgraded/Tweaked cyberware
 
 ![](https://s11.gifyu.com/images/E3ROK.jpg)[Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016) & [Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034) by [E3roKK](https://www.nexusmods.com/cyberpunk2077/users/25841040) Overhauls Every Single Vehicle's top speed, gearing, power, handling and brakes. You can also modify your favorite player vehicles at the mod shop.
 
+---
+
 ![](https://i.imgur.com/gPWMj46.jpg)[Let There Be Flight](https://www.nexusmods.com/cyberpunk2077/mods/5208?tab=description) by [jackhumbert](https://www.nexusmods.com/cyberpunk2077/users/86010988) Enables a configurable flight system for all vehicles with custom thruster models, visual sound effects, and animations.
+
+---
 
 - V can send their vehicle away.
 - V can now purchase all vehicles from the in-game atelier store. 
@@ -828,7 +845,7 @@ Upgraded/Tweaked cyberware
 
 ![img](https://i.imgur.com/Xe7LiSI.png)
 
-⛔ I recommend **NOT** installing extra mods that are not part of the collection. But if you need more chrome i aint stopping you choom we have a dedicated channel in Discord for Chrome Junkies like you check it out so you dont flatline.
+⛔ I recommend **NOT** installing extra mods that are not part of the collection there is a limit to the amount of archives you can have before the game will just flatline. But if you need more chrome i aint stopping you choom we have a dedicated channel in Discord for Chrome Junkies like you check it out so you dont flatline.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
