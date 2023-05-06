@@ -81,12 +81,14 @@ This collection is extensively tested with every new version that is released. I
 
 - ![img](https://i.imgur.com/IdqHWV6.png)
 
-## [IMPORTANT](https://)
+## ⛔[WARNINGS](https://)⛔
 
 If you see this> ⛔ then you need to read and follow the directions.
 
-- ⛔ It Is important that you **READ** the following guide to fully understand everything clearly.
-- **⛔ DO NOT** use a pirated game. It is against Nexus rules and is illegal.  I wont offer any support for Cracked games.
+## [READ](https://)
+
+- ⛔ It Is important that you **READ** the following Installation guide to fully understand everything clearly.
+- **⛔ DO NOT** use a pirated game. It is against Nexus rules and is illegal and i will not provide any support.
 
 ## [Updating Collection](https://)[   ](https://)
 
@@ -396,6 +398,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 ## ![](https://s11.gifyu.com/images/Graphics.png)
 
 - Reshade included.
+- Reshade Presets.
 - Draw distance boost.
 - Unlocked FOV.
 - Remove the Crouch vignette effect. 
