@@ -84,3 +84,5 @@ Alternatively you can disable the mod through the in game mod menus.
 
 2) Toggle off third person mode.
 
+![](https://s11.gifyu.com/images/3rd-person.jpg)
+
