@@ -1,4 +1,6 @@
-### Collection Rev 27 Ver 2.49        Collection Updated and working for Game version 1.62 Patch 1
+IF DESCRIPTION DOESNT SHOW UP CLICK [HERE](https://github.com/MRGHIA88V2/City-of-Dreams)
+
+### Collection Rev 27 Ver 2.49       Collection Updated and working for Game version 1.62 Patch 1
 
 ![img](https://i.imgur.com/wAJUpeU.png)![](https://s11.gifyu.com/images/Border11.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o) for **Cyberpunk 2077** have a good read through this description.
 
@@ -93,8 +95,14 @@ If you see this> ⛔ then you need to read and follow the directions.
 ## [Updating Collection](https://)[   ](https://)
 
 - **⛔** Updating the collection is as easy as clicking the **"Update"** button. When prompted to **"Remove mods from old revision"** make sure to click the **"Remove All"** button. 
-- **⛔ DO NOT** update any of the mods in this collection individually in **Vortex** when a mod updates we will update a full revision.
+- **⛔ DO NOT** update any of the mods in this collection individually in **Vortex** when a mod gets updated we will update the collection.
 - Notes will be in the changelog. 
+
+## [Launching Cyberpunk 2077](https://)
+
+- Use Vortex to launch the game.
+
+![](https://s12.gifyu.com/images/Launch-from-here.jpg)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -150,6 +158,8 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 ```
 
 9 ) Vortex will pop up a window titled **"REDmod DLC missing"** Click **"Ignore".**
+
+![](https://s12.gifyu.com/images/Redmod-Missing.jpg)
 
 10 ) On your main Vortex window, it will now show an icon for **"Cyberpunk 2077"** showing that it is a managed game in Vortex.
 
@@ -222,9 +232,10 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ReShade comes with the collection once you have finished downloading it will be placed on the toolbar in the top left hand corner of Vortex.
 
+1) Click on Reshade in the top corner.
+
 ![](https://s11.gifyu.com/images/Reshade994ca6dfeae6e8e5.jpg)
 
-Click on Reshade in the top corner.
 2) Select browse and find the **"*Cyberpunk2077.exe*"** and select it. **(Locations below)**
 
 ```
@@ -281,7 +292,7 @@ Always double-check Vortex to make sure it uninstalled/installed something prope
 
 1) Purge mods in Vortex
 
-2) Go to where cyberpunk2077 is installed and delete these 4 folders / **bin** / **engine** / **r6** / **red4ext** 
+2) Go to where cyberpunk2077 is installed and delete these 4 folders / **bin** / **engine** / **r6** / **red4ext**
 
 3) Go to the following location and delete the **"mod"** folder. If you don't see it that's fine.
 
@@ -556,8 +567,6 @@ UI Colours
 
 > [This tool can be found in your toolbar in the top left corner of Vortex.  And will allow for the following changes.](https://)
 
-![](https://s11.gifyu.com/images/Save-Editor.jpg)
-
 - Edit player stats such as level, street cred, etc.
 - Save and load presets for your character's appearance. 
 - Edit the quantity, flags, stats & mod tree of items in your inventory.
@@ -566,7 +575,7 @@ UI Colours
 
 ---
 
-![](https://s11.gifyu.com/images/ezgif.com-video-to-gif.gif)[CPAH - Breach Protocol Autohacker](https://www.nexusmods.com/cyberpunk2077/mods/955?tab=description) by [TheJsh](https://www.nexusmods.com/cyberpunk2077/users/107011328). This tool allows you to auto-hack breach protocol. This tool can be found in your toolbar in the top left corner of Vortex.![](https://s12.gifyu.com/images/Autohack.jpg)
+![](https://s11.gifyu.com/images/ezgif.com-video-to-gif.gif)[CPAH - Breach Protocol Autohacker](https://www.nexusmods.com/cyberpunk2077/mods/955?tab=description) by [TheJsh](https://www.nexusmods.com/cyberpunk2077/users/107011328). This tool allows you to auto-hack breach protocol. This tool can be found in your toolbar in the top left corner of Vortex.
 
 ### Features
 
