@@ -68,4 +68,19 @@ You didnt turn of **"redmod autoconvert"** read the installation guide and start
 
 5) Reinstall collection
 
-## The Camera is locked i cant move up/down
+## [The Camera is locked i cant move up/down](https://)❓
+
+This is a bug everyone has had for a long time with the third person mode there is a simple but inconvenient fix. When the camera lock happens 
+
+1) Activate 3rd person with "1"
+
+2) Deactivate third person with "1"
+
+Now the camera should be unlocked
+
+Alternatively you can disable the mod through the in game mod menus. 
+
+1) Select Mods from the main menu 
+
+2) Toggle off third person mode.
+
