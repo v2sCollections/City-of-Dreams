@@ -222,7 +222,7 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ReShade comes with the collection once you have finished downloading it will be placed on the toolbar in the top left hand corner of Vortex.
 
-![](https://s11.gifyu.com/images/Reshade.jpg)
+![](https://s11.gifyu.com/images/Reshade994ca6dfeae6e8e5.jpg)
 
 Click on Reshade in the top corner.
 2) Select browse and find the **"*Cyberpunk2077.exe*"** and select it. **(Locations below)**
@@ -281,7 +281,7 @@ Always double-check Vortex to make sure it uninstalled/installed something prope
 
 1) Purge mods in Vortex
 
-2) Go to where cyberpunk2077 is installed and delete these 4 folders / bin / engine / r6 / red4ext
+2) Go to where cyberpunk2077 is installed and delete these 4 folders / **bin** / **engine** / **r6** / **red4ext** 
 
 3) Go to the following location and delete the **"mod"** folder. If you don't see it that's fine.
 
@@ -295,7 +295,7 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 5) Deploy mods in Vortex.
 
-6) Launch the game and see if the problem is gone.
+6) Launch the game and see if the problem is resolved.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -552,9 +552,11 @@ UI Colours
 - In the game menu to configure multipliers for all XP types.
 - Unlock Vehicles and Instant Vehicle Spawn.
 
-### **Save Editor** 
+### **Cybercat Save Editor** 
 
 > [This tool can be found in your toolbar in the top left corner of Vortex.  And will allow for the following changes.](https://)
+
+![](https://s11.gifyu.com/images/Save-Editor.jpg)
 
 - Edit player stats such as level, street cred, etc.
 - Save and load presets for your character's appearance. 
@@ -564,7 +566,7 @@ UI Colours
 
 ---
 
-![](https://s11.gifyu.com/images/ezgif.com-video-to-gif.gif)[CPAH - Breach Protocol Autohacker](https://www.nexusmods.com/cyberpunk2077/mods/955?tab=description) by [TheJsh](https://www.nexusmods.com/cyberpunk2077/users/107011328). This tool allows you to auto-hack breach protocol. This tool can be found in your toolbar in the top left corner of Vortex.
+![](https://s11.gifyu.com/images/ezgif.com-video-to-gif.gif)[CPAH - Breach Protocol Autohacker](https://www.nexusmods.com/cyberpunk2077/mods/955?tab=description) by [TheJsh](https://www.nexusmods.com/cyberpunk2077/users/107011328). This tool allows you to auto-hack breach protocol. This tool can be found in your toolbar in the top left corner of Vortex.![](https://s12.gifyu.com/images/Autohack.jpg)
 
 ### Features
 
@@ -727,6 +729,7 @@ The early game is very difficult and it will test your patience.
 - [AnruiMurasaki](https://www.nexusmods.com/cyberpunk2077/users/36190195)     
 - [JohnsonsStuff](https://www.nexusmods.com/cyberpunk2077/users/49231818) 
 - [PeachuHime](https://www.nexusmods.com/cyberpunk2077/users/109777063) 
+- [Apzurv](https://www.nexusmods.com/cyberpunk2077/users/18222069)
 
 ![](https://gifyu.com/image/SdKfy)![](https://gifyu.com/image/SdKtk)![](https://gifyu.com/image/SdKtk.img)![](https://s2.gifyu.com/images/ezgif.com-video-to-gifde3b2c1ceec906ca.gif)[Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987) by [Pacings](https://www.nexusmods.com/cyberpunk2077/users/96220198)
 
