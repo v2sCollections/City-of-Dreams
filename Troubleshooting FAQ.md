@@ -68,3 +68,4 @@ You didnt turn of **"redmod autoconvert"** read the installation guide and start
 
 5) Reinstall collection
 
+## The Camera is locked i cant move up/down
