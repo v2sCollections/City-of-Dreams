@@ -48,4 +48,4 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 6) Launch the game and see if the problem is resolved.
 
-![img](https://i.imgur.com/wAJUpeU.png)
+
