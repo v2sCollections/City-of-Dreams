@@ -62,7 +62,9 @@ You didnt turn of **"redmod autoconvert"** read the installation guide and start
 
 3) Run a **"cyberclean"**
 
-4) Delete the **"mod"** folder in the main game directory this is the redmods folder. Picture shown below
+4) Delete the **"mod"** folder in the main game directory this is the redmods folder.
+
+![](https://s12.gifyu.com/images/Redmod-folder.jpg)
 
 5) Reinstall collection
 
