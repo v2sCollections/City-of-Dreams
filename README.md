@@ -1,14 +1,16 @@
-IF DESCRIPTION DOESNT SHOW UP CLICK [HERE](https://github.com/MRGHIA88V2/City-of-Dreams)
+IF THE DESCRIPTION DOESNT SHOW UP CLICK [HERE](https://github.com/MRGHIA88V2/City-of-Dreams)
 
-### Collection Rev 27 Ver 2.49       Collection Updated and working for Game version 1.62 Patch 1
+### Collection Rev 28 Ver 2.50       Collection Updated and working for Game version 1.62 Patch 1
 
-![img](https://i.imgur.com/wAJUpeU.png)![](https://s11.gifyu.com/images/Border11.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o) for **Cyberpunk 2077** have a good read through this description.
+![img](https://i.imgur.com/wAJUpeU.png)![](https://s11.gifyu.com/images/Border11.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o) for **Cyberpunk 2077**.
 
-These mods are a must-have to immerse yourself into Night City.
+This isn't just a mod list I've slapped together this is a whole new world of **cyberpunk 2077** with hundreds of hours spent building, configuring, modding and testing to create the best cyberpunk experience possible.
+
+This is a [500+](https://) Mod Collection it is the largest and most comprehensive mod list for **Cyberpunk 2077** if you can't be bothered reading this description then this collection isn't for you.
 
 Huge thank you to all the talented chooms that have put in the time and effort to make these preem mods. If you enjoy this collection, **PLEASE** endorse the mod authors.
 
-This is a 500+ Mod Collection. It has been a painful journey to get these mods working well lots of hours have gone into it and we have only just started. I hope you enjoy this collection and the game as much as I do. Time for me to delta but don't be a stranger join our community of edgerunners over on Discord see you there choom.
+I hope you enjoy this collection and the game as much as I do. Time for me to delta but don't be a stranger join our community of edgerunners over on [Discord](https://discord.gg/xZNztPjA2u) see you there choom.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -110,8 +112,8 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [Install time](https://)
 
-**Premium Users**: Takes 1 hour + Semi automatic.
-**Free Users:** Takes 1.5 to 2 hours + Semi automatic. You will have to click on download for each mod one by one.
+**Premium Users**: Takes 1 hour + Semi-automatic.
+**Free Users:** Takes 1.5 to 2 hours + Semi-automatic. You will have to click on download for each mod one by one.
 
 ## [Cyberpunk2077](https://)
 
@@ -173,7 +175,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ## [Disabling REDmod Autoconversion](https://)
 
-13) ⛔ While still in settings go to the "**V2077 Settings"** tab and make sure that REDmod Autoconvert is disabled like shown in the picture below.
+13) ⛔ While still in settings go to the "**V2077 Settings"** tab and make sure that REDmod Autoconvert is disabled as shown in the picture below.
 
 ![](https://s11.gifyu.com/images/Untitle44d.jpg)
 
@@ -191,18 +193,18 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ## [POPUPS](https://)
 
-16) These may popup in Vortex as you are downloading the collection.
+16) These may pop up in Vortex as you are downloading the collection.
 
-- When you see a pop-up titled **"Mod contains protected paths"** select **"yes install to staging anyway"**
-- When you see a pop-up titled **"you have reached the fallback installer"** select **"yes install to staging anyway"**
+- When you see a pop-up titled **"Mod contains protected paths"** select **"Yes install to staging anyway"**
+- When you see a pop-up titled **"You have reached the fallback installer"** select **"Yes install to staging anyway"**
 - When you see a pop-up titled **"not an archive"** select **"create mod"**.
-- Throughout the install process you will have some **"installer"** popups so that you can customize some mods to your liking.  
+- Throughout the install process, you will have some **"installer"** popups so that you can customize some mods to your liking.  
 
 ---
 
 ## [OPTIONAL MODS](https://)
 
-***Note** If you dont want the optional mods skip this step.
+***Note** If you don't want the optional mods skip this step.
 
 17) Select **"show"** optional mods then select **"no thanks"**
 
@@ -214,9 +216,9 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ## [In-game settings](https://)
 
-19) To use **CET** (**Cyber Engine Tweaks)** use **F11** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Aperance menu,3rd person camera,Vehicle camera and many more.
+19) To use **CET** (**Cyber Engine Tweaks)** use **F11** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,3rd person camera, Vehicle camera and many more.
 
-20) I have added a keybind config file for a few of the mods this is just to get you started you can change it as you like. You will find the keybind list in your main game directory and on our discord. Or here [Keybinds](https://github.com/MRGHIA88V2/City-of-Dreams/blob/f4b254dc31b142ce6e733cf321e1f28b218a3d1c/Keybinds.md)
+20) I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and on our discord. Or here [Keybinds](https://github.com/MRGHIA88V2/City-of-Dreams/blob/f4b254dc31b142ce6e733cf321e1f28b218a3d1c/Keybinds.md)
 
 21) ⛔ On the main menu go to the graphics tab and you will find **"texture quality"** Set this to **"HIGH".**
 
@@ -224,13 +226,13 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ## NOW!!! [Wake the f**k up, Samurai. We have a city to burn.](https://)   
 
-## ![](<iframe src="https://giphy.com/embed/ww8JvNyaRDQu0pMhYQ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ww8JvNyaRDQu0pMhYQ">via GIPHY</a></p>)![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY5NGNiZGQzY2Q1ZmNiNWMxNTYyODliMjA5YmVlNDIwOGI4NDM3NyZjdD1n/ww8JvNyaRDQu0pMhYQ/giphy-downsized-large.gif)Please Endose and Vote the Collection.
+## ![](<iframe src="https://giphy.com/embed/ww8JvNyaRDQu0pMhYQ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ww8JvNyaRDQu0pMhYQ">via GIPHY</a></p>)![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY5NGNiZGQzY2Q1ZmNiNWMxNTYyODliMjA5YmVlNDIwOGI4NDM3NyZjdD1n/ww8JvNyaRDQu0pMhYQ/giphy-downsized-large.gif)Please Endorse and Vote for the Collection.
 
 ---
 
 ## [Reshade](https://) 
 
-ReShade comes with the collection once you have finished downloading it will be placed on the toolbar in the top left hand corner of Vortex.
+ReShade comes with the collection once you have finished downloading it will be placed on the toolbar in the top left-hand corner of Vortex.
 
 1) Click on Reshade in the top corner.
 
@@ -249,7 +251,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 5) Select next and finish the installation.
 6) Run the game
 
-I have added these resahdes below.
+I have added these reshades below.
 
 - City of Dreams Reshade by [v2](https://www.nexusmods.com/hogwartslegacy/users/123334373)
 
@@ -262,7 +264,7 @@ I have added these resahdes below.
 
 ![img](https://i.imgur.com/zCpg0Fp.png)
 
-**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Windows, Cyberpunk2077, or the collection when you see errors on Vortex.
+**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Cyberpunk2077, or the collection when you see errors on Vortex.
 
 ## FAQ
 
@@ -278,7 +280,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 1) Check the install guide and make sure you followed the instructions.
 
-2) Make sure you have no additional mods installed there is a limit to the amount of archives you can have before the game will crash.
+2) Make sure you have no additional mods installed there is a limit to the number of archives you can have before the game will crash.
 
 3) Perform a Cyberclean.
 
@@ -292,7 +294,9 @@ Always double-check Vortex to make sure it uninstalled/installed something prope
 
 1) Purge mods in Vortex
 
-2) Go to where cyberpunk2077 is installed and delete these 4 folders / **bin** / **engine** / **r6** / **red4ext**
+2) Go to where cyberpunk2077 is installed and delete these 4 folders /**bin** / **engine** / **r6** / **red4ext**
+
+![](https://s12.gifyu.com/images/Cyberclean.jpg)
 
 3) Go to the following location and delete the **"mod"** folder. If you don't see it that's fine.
 
@@ -316,13 +320,13 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 If you see this> ⛔ then you need to read and follow the directions.
 
-⛔ All ***(OPTIONAL)***  mods will be enabled automatically if you choose to install **"all optional mods" (see optional mods section above in the install guide)** if you do choose to install all then you will have to manually disable the ones you don't want it.
+⛔ All ***(OPTIONAL)***  mods will be enabled automatically if you choose to install **"all optional mods" (see the optional mods section above in the install guide)** if you do choose to install all then you will have to manually disable the ones you don't want it.
 
 ⛔ It Is important that you read the following guide to fully understand everything clearly.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-![](https://s12.gifyu.com/images/CET.png)To use **CET** (**Cyber Engine Tweaks)** use **(F11)** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Aperance menu,Third person camera,Vehicle camera and many more.
+![](https://s12.gifyu.com/images/CET.png)To use **CET** (**Cyber Engine Tweaks)** use **(F11)** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Third person camera, Vehicle camera and many more.
 
 ![](https://s11.gifyu.com/images/Screenshot-2023-04-24-174314.png)
 
@@ -348,7 +352,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 > [Below are optional mods you can enable if you want the E3 Theme.](https://)
 
-⛔ Enabling the E3 Compass will disable the in game mini map.
+⛔ Enabling the E3 Compass will disable the in-game mini-map.
 
 ⛔ When enabling the E32018 hud you need to disable the Spicy HUD 2.2 in Vortex.
 
@@ -375,8 +379,8 @@ If you see this> ⛔ then you need to read and follow the directions.
 - [Edgerunners Posters](https://www.nexusmods.com/cyberpunk2077/mods/5203) ***(OPTIONAL)***
 - [Edgerunner 2077](https://) ***(OPTIONAL)***
 - [Lucy - Edgerunners Sky Ad](https://www.nexusmods.com/cyberpunk2077/mods/5201?tab=description) ***(OPTIONAL)***
-- [Wannabe Edgerunner - A simple Cyberpsychosis mod](https://www.nexusmods.com/cyberpunk2077/mods/5646) ***(OPTIONAL)*** *Note Read more in on the **"gameplay"** tab 
-- [Wannabe Edgerunner - Humanity Recovery](https://www.nexusmods.com/cyberpunk2077/mods/6330) ***(OPTIONAL)*** ***Note** Read more in on the **"gameplay"** tab
+- [Wannabe Edgerunner - A simple Cyberpsychosis mod](https://www.nexusmods.com/cyberpunk2077/mods/5646) ***(OPTIONAL)*** *Note Read more on the **"gameplay"** tab 
+- [Wannabe Edgerunner - Humanity Recovery](https://www.nexusmods.com/cyberpunk2077/mods/6330) ***(OPTIONAL)*** ***Note** Read more on the **"gameplay"** tab
 - [Edgerunners Loading Screen Pack.](https://) ***(OPTIONAL)***
 - [Lucy Edgerunners Suit Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/5273)
 - [David Martinez Jacket Refited for Hyst Bodies mods](https://www.nexusmods.com/cyberpunk2077/mods/5155)
@@ -402,7 +406,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 - Fixes missing crucial clue audio playback in **(The Hunt quest).**
 - Fixes missing animations in the **(Skippy quest episodes)**.
 - Fixes the clipping of Frank Nostra's hair cap.
-- Fixes mitchs jacket with one that fits correctly.
+- Fixes mitches jacket with one that fits correctly.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -456,8 +460,8 @@ Support for other upscaled texture packs by [XilaMonstrr](https://www.nexusmods.
 
 - V now has a jetpack.
 - V can now hang off walls and jump from wall to wall.
-- V can now slide sideways. More flexibility on the slide's trajectory. Improves camera control when sliding. Prevents stairs and small obstacles like sidewalks from canceling the slide.
-- V can now walljump/wallbounce.
+- V can now slide sideways. More flexibility on the slide's trajectory. Improves camera control when sliding. Prevents stairs and small obstacles like sidewalks from cancelling the slide.
+- V can now wall jump/wall bounce.
 - You can control Vs movement direction midair while jumping and double jumping.
 - The custom Level cap allows you to keep levelling up past level 50.
 - Using healing items builds up your "Toxicity" until you "Overdose", requiring you to wait for the effect to wear off before using more inhalers/injectors.
@@ -486,9 +490,9 @@ Support for other upscaled texture packs by [XilaMonstrr](https://www.nexusmods.
 - Unequip all equipped items **(armour, weapons and cyberware)**. 
 - Reduced loot throughout the city.  
 - See what attribute level you needed for conversation skill checks that you passed.
-- Reduced drop chances for chosen loot categories from in-game containers, NPCs and world placed objects.
+- Reduced drop chances for chosen loot categories from in-game containers, NPCs and world-placed objects.
 - Improved mini map zoom allows the map to dynamically zoom in and out depending on what areas you are in or if you are in the combat state. 
-- Item sliders set to max by default for Drop, Stash and Sell actions.
+- Item sliders are set to max by default for Drop, Stash and Sell actions.
 
 ### **[UI Improvements Include](https://)**
 
@@ -525,7 +529,7 @@ Vendors
 Saves
 
 - You can now filter your saved games by life path.
-- You can now name your save files. 
+- You can now name your saved files. 
 
 Mods
 
@@ -707,9 +711,9 @@ This is not for the faint of heart if you aren't the type to learn from your mi
 
 ### **How to use**
 
-⛔ This mod should be used a on a new playthrough.                                                                                                                                                              ⛔ Set the difficulty to Very Hard.
-⛔ Dont enable the mod if you are playing an existing save unless you plan on keeping it enabled. As it can cause leveling issues.
-⛔ If you do disable the mod change your difficulty level in game from Very Hard to Hard.
+⛔ This mod should be used on a new playthrough.                                                                                                                                                              ⛔ Set the difficulty to Very Hard.
+⛔ Don't enable the mod if you are playing an existing save unless you plan on keeping it enabled. As it can cause levelling issues.
+⛔ If you do disable the mod change your difficulty level in the game from Very Hard to Hard.
 
 ### Things you need to know
 
@@ -751,7 +755,7 @@ The early game is very difficult and it will test your patience.
 - Highly detailed 4k skin textures.  
 - Toggleable Feet Feature.
 
-![](https://s12.gifyu.com/images/Body-settings.jpg)**⛔** You need to change the Chest settings in game for this body to work. You can do this by either going to a ripperdock or using [Appearance Change Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/3850)
+![](https://s12.gifyu.com/images/Body-settings.jpg)**⛔** You need to change the Chest settings in-game for this body to work. You can do this by either going to a ripperdock or using [Appearance Change Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/3850)
 
 ---
 
@@ -759,7 +763,7 @@ The early game is very difficult and it will test your patience.
 
 ![](https://s11.gifyu.com/images/Screenshot-2023-04-23-215138.png)[-KS- ADONIS Male Body](https://www.nexusmods.com/cyberpunk2077/mods/4968) by [KnowSo](https://www.nexusmods.com/cyberpunk2077/users/137109313) TRANSFORM YOUR V INTO THE ENVY OF A PANTHEON.
 
-***Note** The Adonis body is not compatible with arasaka cyberarms or Arasaka cyberbody.
+***Note** The Adonis body is not compatible with Arasaka cyber arms or Arasaka cyber body.
 
 - Highly detailed 4k skin textures.  
 
@@ -803,9 +807,9 @@ The early game is very difficult and it will test your patience.
 ---
 
 - Hundreds of pieces of cyberware were added to the atelier store. 
-- Custom Arasaka cyberware includes Berserk,Sandevistans and Cyberdecks.
+- Custom Arasaka cyberware includes Berserk, Sandevistans and Cyberdecks.
 - You can now get Epic and Legendary cyberwares that are not available in standard game.
-- All Quickhacks and Talent shards have been added to the Atlier shop.
+- All Quickhacks and Talent shards have been added to the Atelier shop.
 
 Upgraded/Tweaked cyberware
 
@@ -814,7 +818,7 @@ Upgraded/Tweaked cyberware
 - **Nervous System**
 - **Circulatory System**
 - **Operating System**
-- **Intergumentary System**
+- **Integumentary**favourite **System**
 - **Skeleton**
 - **Hands**
 
@@ -822,7 +826,7 @@ Upgraded/Tweaked cyberware
 
 ## ![](https://s11.gifyu.com/images/Vehcles.png) 
 
-![](https://s11.gifyu.com/images/E3ROK.jpg)[Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016) & [Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034) by [E3roKK](https://www.nexusmods.com/cyberpunk2077/users/25841040) Overhauls Every Single Vehicle's top speed, gearing, power, handling and brakes. You can also modify your favorite player vehicles at the mod shop.
+![](https://s11.gifyu.com/images/E3ROK.jpg)[Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016) & [Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034) by [E3roKK](https://www.nexusmods.com/cyberpunk2077/users/25841040) Overhauls Every Single Vehicle's top speed, gearing, power, handling and brakes. You can also modify your favourite player vehicles at the mod shop.
 
 ---
 
@@ -860,7 +864,7 @@ Upgraded/Tweaked cyberware
 
 ![img](https://i.imgur.com/Xe7LiSI.png)
 
-⛔ I recommend **NOT** installing extra mods that are not part of the collection there is a limit to the amount of archives you can have before the game will just flatline. But if you need more chrome i aint stopping you choom we have a dedicated channel in Discord for Chrome Junkies like you check it out so you dont flatline.
+⛔ I recommend **NOT** installing extra mods that are not part of the collection there is a limit to the amount of archives you can have before the game will just flatline. But if you need more Chrome i ain't stopping you choom we have a dedicated channel in Discord for Chrome Junkies like you check it out so you don't flatline.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -970,4 +974,4 @@ If you would like to support me so I can afford some new chrome click the button
 - I will not be responsible for any possibility of save corruption.     
 - CD PROJEKT®, Cyberpunk®, Cyberpunk 2077® are registered trademarks of CD PROJEKT S.A. © 2022 CD PROJEKT S.A  
 
-![img](https://i.imgur.com/wAJUpeU.png)
+![img](https://i.imgur.com/wAJUpeU.png)isn't
