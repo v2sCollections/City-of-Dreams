@@ -49,3 +49,16 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 6) Launch the game and see if the problem is resolved.
 
 ## [I get a message at the main menu saying that mods could not be loaded like in the picture below.](https://)❓
+
+You didnt turn of **"redmod autoconvert"** read the installation guide and start from scratch.
+
+1) Delete the collection and archives.
+
+2) Turn of **"redmod autoconvert"**
+
+3) Run a **"cyberclean"**
+
+4) Delete the **"mod"** folder in the main game directory this is the redmods folder. Picture shown below
+
+5) Reinstall collection
+
