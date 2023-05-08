@@ -48,4 +48,4 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 6) Launch the game and see if the problem is resolved.
 
-
+## [I get a message at the main menu saying that mods could not be loaded like in the picture below.](https://)❓
