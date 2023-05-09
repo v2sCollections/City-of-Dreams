@@ -1,6 +1,6 @@
 IF THE DESCRIPTION DOESNT SHOW UP CLICK [HERE](https://github.com/MRGHIA88V2/City-of-Dreams)
 
-### Collection Rev 29 Ver 2.51       Collection Updated and working for Game version 1.62 Patch 1
+### Collection Rev 31 Ver 3.1       Collection Updated and working for Game version 1.62 Patch 1
 
 ![img](https://i.imgur.com/wAJUpeU.png)![](https://s11.gifyu.com/images/Border11.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o) for **Cyberpunk 2077**.
 
@@ -112,8 +112,16 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [Install time](https://)
 
-**Premium Users**: Takes 1 hour + Semi-automatic.
+**Premium Users**: Takes 1 hour + Semi-automatic. You can be AFK with a few Install menus at the end of the install.
 **Free Users:** Takes 1.5 to 2 hours + Semi-automatic. You will have to click on download for each mod one by one.
+
+---
+
+## 
+[PC  Updates](https://)
+
+- Make sure that you have the latest version of Microsoft visual studio C++ > [HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+- Make sure that you have the latest Desktop Runtime > [HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
 
 ## [Cyberpunk2077](https://)
 
@@ -127,11 +135,15 @@ GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk 2077\archive\pc\mod
 Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 ```
 
+3) ⛔ Launch cyberpunk 2077 and go to the settings menu and on the gameplay tab turn off **"Enable Analytics"**
+
+![](https://s12.gifyu.com/images/Analytics.jpg)
+
 ---
 
 ## [Vortex](https://) 
 
-3) You will need **Vortex** mod manager downloaded and installed you can find it from the link below. If you already have Vortex skip this step.
+4) You will need **Vortex** mod manager downloaded and installed you can find it from the link below. If you already have Vortex skip this step.
 
 [![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1 "Vortex page")
 
@@ -139,19 +151,19 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 ## [Vortex & Cyberpunk](https://) 
 
-4 ) Open Vortex and click on **"Select a game to manage".**
+5) Open Vortex and click on **"Select a game to manage".**
 
 ![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)
 
-5 ) On the next screen scroll down to the **"Cyberpunk 2077"** icon and click on **"Manage".**
+6 ) On the next screen scroll down to the **"Cyberpunk 2077"** icon and click on **"Manage".**
 
 ![](https://s12.gifyu.com/images/Untitled99ac613c165d0e14.jpg)
 
-6 ) On the popup that appears click on **"Download"** on the bottom right, vortex will restart.
+7 ) On the popup that appears click on **"Download"** on the bottom right, vortex will restart.
 
-7 ) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
+8 ) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
 
-8 ) A window will now pop up where you can choose the folder where  **"Cyberpunk 2077"** is installed. **(Locations below)**.
+9 ) A window will now pop up where you can choose the folder where  **"Cyberpunk 2077"** is installed. **(Locations below)**.
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk 2077
@@ -159,15 +171,15 @@ GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk 2077
 Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 ```
 
-9 ) Vortex will pop up a window titled **"REDmod DLC missing"** Click **"Ignore".**
+10 ) Vortex will pop up a window titled **"REDmod DLC missing"** Click **"Ignore".**
 
 ![](https://s12.gifyu.com/images/Redmod-Missing.jpg)
 
-10 ) On your main Vortex window, it will now show an icon for **"Cyberpunk 2077"** showing that it is a managed game in Vortex.
+11 ) On your main Vortex window, it will now show an icon for **"Cyberpunk 2077"** showing that it is a managed game in Vortex.
 
-11) Go to the settings and on the mods tab check **"automatically use suggested path for staging folder"** then check "**suggest and "apply".**
+12) Go to the settings and on the mods tab check **"automatically use suggested path for staging folder"** then check "**suggest and "apply".**
 
-12) On the same window select **"hard link deployment"**  and check **"apply".**
+13) On the same window select **"hard link deployment"**  and check **"apply".**
 
 ![](https://s11.gifyu.com/images/Untitledef56ac4a42e1f37d.jpg)
 
@@ -175,7 +187,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ## [Disabling REDmod Autoconversion](https://)
 
-13) ⛔ While still in settings go to the "**V2077 Settings"** tab and make sure that REDmod Autoconvert is disabled as shown in the picture below.
+14) ⛔ While still in settings go to the "**V2077 Settings"** tab and make sure that REDmod Autoconvert is disabled as shown in the picture below.
 
 ![](https://s11.gifyu.com/images/Untitle44d.jpg)
 
@@ -183,17 +195,17 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ## [INSTALLING THE COLLECTION](https://)
 
-14) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
+15) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
 ![](https://s12.gifyu.com/images/Screenshot-2023-04-17-115745.png)
 
-15) Click **"Add to Vortex"** **(choose your newly created profile)**.
+16) Click **"Add to Vortex"** **(choose your newly created profile)**.
 
 ![](https://s12.gifyu.com/images/Untitled1.png)
 
 ## [POPUPS](https://)
 
-16) These may pop up in Vortex as you are downloading the collection.
+17) These may pop up in Vortex as you are downloading the collection.
 
 - When you see a pop-up titled **"Mod contains protected paths"** select **"Yes install to staging anyway"**
 - When you see a pop-up titled **"You have reached the fallback installer"** select **"Yes install to staging anyway"**
@@ -206,7 +218,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ***Note** If you don't want the optional mods skip this step.
 
-17) Select **"show"** optional mods then select **"no thanks"**
+18) Select **"show"** optional mods then select **"no thanks"**
 
 ![](https://s11.gifyu.com/images/Optinal.jpg)
 
@@ -216,11 +228,11 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ## [In-game settings](https://)
 
-19) To use **CET** (**Cyber Engine Tweaks)** use **F11** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,3rd person camera, Vehicle camera and many more.
+20) To use **CET** (**Cyber Engine Tweaks)** use **F11** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,3rd person camera, Vehicle camera and many more.
 
-20) I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and on our discord. Or here [Keybinds](https://github.com/MRGHIA88V2/City-of-Dreams/blob/f4b254dc31b142ce6e733cf321e1f28b218a3d1c/Keybinds.md)
+21) I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and on our discord. Or here [Keybinds](https://github.com/MRGHIA88V2/City-of-Dreams/blob/f4b254dc31b142ce6e733cf321e1f28b218a3d1c/Keybinds.md)
 
-21) ⛔ On the main menu go to the graphics tab and you will find **"texture quality"** Set this to **"HIGH".**
+22) ⛔ On the main menu go to the graphics tab and you will find **"texture quality"** Set this to **"HIGH".**
 
 ![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)
 
