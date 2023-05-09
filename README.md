@@ -266,6 +266,8 @@ I have added these reshades below.
 
 **⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Cyberpunk2077, or the collection when you see errors on Vortex.
 
+You can find the full Troubleshooting list on our Discord and here [Troubleshooting/FAQ](https://github.com/MRGHIA88V2/City-of-Dreams/blob/main/Troubleshooting%20FAQ.md)
+
 ## FAQ
 
 ## [Where is the game located ](https://) ❓
@@ -467,6 +469,7 @@ Support for other upscaled texture packs by [XilaMonstrr](https://www.nexusmods.
 - Using healing items builds up your "Toxicity" until you "Overdose", requiring you to wait for the effect to wear off before using more inhalers/injectors.
 - Modified every part of the damage system and other elements to give gangs and corps more flavour and uniqueness. Also, get benefits and penalties against gangs/corps based on your life path.
 - Darkens the edges of the screen when your stamina is low.
+- Third person mode.
 
 ### Wannabe Edgerunner **Cyberpsychosis**
 
@@ -571,6 +574,8 @@ UI Colours
 
 > [This tool can be found in your toolbar in the top left corner of Vortex.  And will allow for the following changes.](https://)
 
+![](https://s11.gifyu.com/images/Save-Editor.jpg)
+
 - Edit player stats such as level, street cred, etc.
 - Save and load presets for your character's appearance. 
 - Edit the quantity, flags, stats & mod tree of items in your inventory.
@@ -580,6 +585,8 @@ UI Colours
 ---
 
 ![](https://s11.gifyu.com/images/ezgif.com-video-to-gif.gif)[CPAH - Breach Protocol Autohacker](https://www.nexusmods.com/cyberpunk2077/mods/955?tab=description) by [TheJsh](https://www.nexusmods.com/cyberpunk2077/users/107011328). This tool allows you to auto-hack breach protocol. This tool can be found in your toolbar in the top left corner of Vortex.
+
+![](https://s12.gifyu.com/images/Autohack.jpg)
 
 ### Features
 
@@ -601,7 +608,6 @@ UI Colours
 - Virtual Atelier adds an in-game store you can access from any computer in the game to buy weapons,cyberwar, clothes, drugs, vehicles and more.    
 - NCPD will now chase you in vehicles and will spawn further away from you.
 - In-game torch.
-- Metro System with 19 different stations.
 - Vendors now show their real names.
 - Improved radio lets you skip songs add songs and remove songs you don't want out of the playlists.
 - Immersive time skip allows you to still see the world around you when you skip time.   
@@ -619,7 +625,8 @@ UI Colours
 - V can now pet nibbles. 
 - V can sit pretty much anywhere. 
 - V can now trade with street vendors.
-- V can play the arcade machines. 
+- V can play the arcade machines.
+- V can now smoke, drink, and eat while standing idle anywhere.
 
 ---
 
