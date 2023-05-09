@@ -1,6 +1,6 @@
 IF THE DESCRIPTION DOESNT SHOW UP CLICK [HERE](https://github.com/MRGHIA88V2/City-of-Dreams)
 
-### Collection Rev 28 Ver 2.50       Collection Updated and working for Game version 1.62 Patch 1
+### Collection Rev 29 Ver 2.51       Collection Updated and working for Game version 1.62 Patch 1
 
 ![img](https://i.imgur.com/wAJUpeU.png)![](https://s11.gifyu.com/images/Border11.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o) for **Cyberpunk 2077**.
 
@@ -37,7 +37,7 @@ I hope you enjoy this collection and the game as much as I do. Time for me to de
 - These are the best mods from the best authors and are a must-have to immerse yourself in Cyberpunk 2077.
 - The most exstensive mod collection on nexus for cyberpunk 2077. 
 - Easy to follow step-by-step installation guide.
-- Only 8 GB in download size for 500+ mods.
+- Only 9 GB in download size for 500+ mods.
 - Mods specifically created for the collection. 
 - Support for other Modular Expansion Packs.
 - [Discord Server](https://discord.gg/xZNztPjA2u) with a growing community. 
@@ -49,12 +49,12 @@ I hope you enjoy this collection and the game as much as I do. Time for me to de
 
 - 500+ Mods in one click.     
 - 30+ Graphics & Texture Mods. 
-- 20+ Photo Mode Pose Packs. 
 - 50+ Weapon and Armor Mods.
 - 200+ Clothing Mods Featuring 100s of clothes added to the Alteier Store.
 - 100+ Loading Screens.
 - 70+ Alteir Stores.
-- 50+ Body Mods for V and most Other NPCs. 
+- 50+ Body Mods for V and most Other NPCs.
+- Photo Mode Pose Packs. 
 - Gameplay mods & Tweaks.
 - Bug fixes. 
 - Quality-of-life improvements. 
@@ -409,6 +409,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 - Fixes missing animations in the **(Skippy quest episodes)**.
 - Fixes the clipping of Frank Nostra's hair cap.
 - Fixes mitches jacket with one that fits correctly.
+- Fixes sleeves automatically rolling up for long-sleeved clothes when first person perspective camera is active.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -603,18 +604,17 @@ UI Colours
 
 ## ![](https://s12.gifyu.com/images/IMMERSION.png)
 
-- Netrunners can use more hacks on you and reveal your position now they have access to the same hacks as you.
 - Adds the animation you see when you first pick up a weapon, configurable in the game. 
 - Virtual Atelier adds an in-game store you can access from any computer in the game to buy weapons,cyberwar, clothes, drugs, vehicles and more.    
-- NCPD will now chase you in vehicles and will spawn further away from you.
 - In-game torch.
 - Vendors now show their real names.
 - Improved radio lets you skip songs add songs and remove songs you don't want out of the playlists.
 - Immersive time skip allows you to still see the world around you when you skip time.   
-- 20+ expression and pose packs for photo mode adds over 100 different poses and expressions.     
+- Expression and pose packs for photo mode adds over 100 different poses and expressions.     
 - The weather has been completely rebalanced you will see more changes in weather.
 - People will now casually interact with you as you walk near them.
 - Fully useable stock market system that dynamically reacts to quests and player action.
+- Better viewing angles when in first person.
 - V can now press the aim button to walk without zooming in.
 - V can now purchase all the popular drugs in night city.
 - V can now pay off NCPD to get rid of your crime status. 
@@ -706,33 +706,9 @@ UI Colours
 - More blood splatters.
 - Ragdoll physics are now much more realistic.       
 - Restores some missing/cut crafting specs for some weapons. 
-- Cybernetic eyes allow you to zoom in while aiming. 
-- Projectile launcher cyberware rounds now have an effect similar to the corresponding grenade type. 
-
----
-
-![](https://i.imgur.com/XnDSRqR.png)[HARDCORE44 - Realistic Combat Overhaul - Adjusted Difficulty](https://www.nexusmods.com/cyberpunk2077/mods/4325?tab=posts) by [radj307](https://www.nexusmods.com/cyberpunk2077/users/5671914)  ***(OPTIONAL)***  NPCs do **much** more damage, especially at higher levels.
-
-This is not for the faint of heart if you aren't the type to learn from your mistakes and change your approach, then this isn't the mod for you.
-**You will die, and you will die often.**
-
-### **How to use**
-
-⛔ This mod should be used on a new playthrough.                                                                                                                                                              ⛔ Set the difficulty to Very Hard.
-⛔ Don't enable the mod if you are playing an existing save unless you plan on keeping it enabled. As it can cause levelling issues.
-⛔ If you do disable the mod change your difficulty level in the game from Very Hard to Hard.
-
-### Things you need to know
-
-- Don't worry about the levels on items, they are irrelevant. You don't need to upgrade anything, you can equip all weapons and clothing at level 1.
-- Use god mode to get through the car chase scenes early on in the game.
-- Beat on the Brat Street fighting quest is very difficult. 
-- Intro car ride ambushes are impossible. I recommend disabling the mod in Vortex.
-- Delamain's **"ambush"** quest is almost impossible but can be done.
-
-The early game is very difficult and it will test your patience.
-
-[WELCOME TO NIGHT CITY CHOOM](https://)[ GOOD LUCK](https://)
+- Cybernetic eyes allow you to zoom in while aiming.
+- Netrunners can use more hacks on you and reveal your position now they have access to the same hacks as you.
+- NCPD will now chase you in vehicles and will spawn further away from you. 
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -750,6 +726,7 @@ The early game is very difficult and it will test your patience.
 - [JohnsonsStuff](https://www.nexusmods.com/cyberpunk2077/users/49231818) 
 - [PeachuHime](https://www.nexusmods.com/cyberpunk2077/users/109777063) 
 - [Apzurv](https://www.nexusmods.com/cyberpunk2077/users/18222069)
+- [NolaDreamer](https://www.nexusmods.com/cyberpunk2077/users/103558203)
 
 ![](https://gifyu.com/image/SdKfy)![](https://gifyu.com/image/SdKtk)![](https://gifyu.com/image/SdKtk.img)![](https://s2.gifyu.com/images/ezgif.com-video-to-gifde3b2c1ceec906ca.gif)[Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987) by [Pacings](https://www.nexusmods.com/cyberpunk2077/users/96220198)
 
@@ -778,7 +755,8 @@ The early game is very difficult and it will test your patience.
 
 ### Other Body Mods
 
-- 20+ Hairstyles. 
+- 30+ Hairstyles.
+- Vs hair has more shine.
 - More tattoos.  
 - Enhanced body for Panam.
 
