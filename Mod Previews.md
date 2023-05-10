@@ -51,6 +51,5 @@
 
 ## [1.6 Neon Rims Color Control](https://www.nexusmods.com/cyberpunk2077/mods/4204)
 
-![](https://staticdelivery.nexusmods.com/mods/3333/images/3862/3862-1645146076-2124192677.gif)
-![](https://staticdelivery.nexusmods.com/mods/3333/images/4204/4204-1648305123-729216675.gif)
+![](https://staticdelivery.nexusmods.com/mods/3333/images/3862/3862-1645146076-2124192677.gif) ![](https://staticdelivery.nexusmods.com/mods/3333/images/4204/4204-1648305123-729216675.gif)
 ![](https://staticdelivery.nexusmods.com/mods/3333/images/4204/4204-1648216712-1418395040.gif)
