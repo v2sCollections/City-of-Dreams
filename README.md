@@ -118,7 +118,8 @@ If you see this> ⛔ then you need to read and follow the directions.
 ---
 
 ## 
-[PC  Updates](https://)
+
+## [PC  Updates](https://)
 
 - Make sure that you have the latest version of Microsoft visual studio C++ > [HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 - Make sure that you have the latest Desktop Runtime > [HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
@@ -338,6 +339,10 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ⛔ It Is important that you read the following guide to fully understand everything clearly.
 
+You can have a look at some of the mod previews > [HERE](https://github.com/MRGHIA88V2/City-of-Dreams/blob/main/Mod%20Previews.md) 
+
+And check out the gallery at the top of this page for videos by some of the mod authors showcased in this collection.
+
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ![](https://s12.gifyu.com/images/CET.png)To use **CET** (**Cyber Engine Tweaks)** use **(F11)** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Third person camera, Vehicle camera and many more.
@@ -509,6 +514,7 @@ Support for other upscaled texture packs by [XilaMonstrr](https://www.nexusmods.
 - Reduced drop chances for chosen loot categories from in-game containers, NPCs and world-placed objects.
 - Improved mini map zoom allows the map to dynamically zoom in and out depending on what areas you are in or if you are in the combat state. 
 - Item sliders are set to max by default for Drop, Stash and Sell actions.
+- You can now craft items while in combat.
 
 ### **[UI Improvements Include](https://)**
 
@@ -721,6 +727,7 @@ UI Colours
 - Cybernetic eyes allow you to zoom in while aiming.
 - Netrunners can use more hacks on you and reveal your position now they have access to the same hacks as you.
 - NCPD will now chase you in vehicles and will spawn further away from you. 
+- Adds a kill counter to the side of the Malorian Arms piston.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
