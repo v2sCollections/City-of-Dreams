@@ -1,4 +1,4 @@
-[UNRELEASED]
+[UNRELEASED UPDATE]
 
 [HEY CHOOMS Rev 32 Ver 3.2 is here](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o/revisions/17?pk_campaign=ViewCollection&pk_source=vortex)
 -
