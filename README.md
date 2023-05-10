@@ -47,13 +47,14 @@ I hope you enjoy this collection and the game as much as I do. Time for me to de
 
 ![img](https://i.imgur.com/HJkjnor.png)
 
-- 500+ Mods in one click.     
-- 30+ Graphics & Texture Mods. 
-- 50+ Weapon and Armor Mods.
+- 500+ Mods in one click.
 - 200+ Clothing Mods Featuring 100s of clothes added to the Alteier Store.
 - 100+ Loading Screens.
-- 70+ Alteir Stores.
+- 70+ Alteir Stores.    
+- 50+ Weapon and Armor Mods.
 - 50+ Body Mods for V and most Other NPCs.
+- 30+ Graphics & Texture Mods. 
+- 15+ Custom Vehcles.
 - Photo Mode Pose Packs. 
 - Gameplay mods & Tweaks.
 - Bug fixes. 
@@ -513,6 +514,9 @@ Support for other upscaled texture packs by [XilaMonstrr](https://www.nexusmods.
 - Improved mini map zoom allows the map to dynamically zoom in and out depending on what areas you are in or if you are in the combat state. 
 - Item sliders are set to max by default for Drop, Stash and Sell actions.
 - You can now craft items while in combat.
+- You can tweak some of the interaction and loot marker visibility behavior.
+- You can mark any item in your inventory as a Junk so you will be able to sell all marked items at once using vendors "Sell Junk" option.
+- Increases time spans between sickness effects applied to V by The Relic.
 
 ### **[UI Improvements Include](https://)**
 
@@ -623,6 +627,7 @@ UI Colours
 - Adds the animation you see when you first pick up a weapon, configurable in the game. 
 - Virtual Atelier adds an in-game store you can access from any computer in the game to buy weapons,cyberwar, clothes, drugs, vehicles and more.    
 - In-game torch.
+- Game time tweaks to make days and nights twice as long.
 - Vendors now show their real names.
 - Improved radio lets you skip songs add songs and remove songs you don't want out of the playlists.
 - Immersive time skip allows you to still see the world around you when you skip time.   
@@ -843,7 +848,8 @@ Upgraded/Tweaked cyberware
 - V can change the colours of the neon lights on all motorbikes. 
 - **I**t will now cost Eddies to summon your vehicle. 
 - It will cost you more eddies to repair destroyed vehicles when summoning them.
-- Summon and spawn distances for vehicles decreased. 
+- Summon and spawn distances for vehicles decreased.
+- No camera auto centering while driving in TPP and FPP mode.
 
 ### **Custom Vehicles**
 
@@ -852,6 +858,15 @@ Upgraded/Tweaked cyberware
 - Honda NSX.
 - Mclaren F1.
 - Quadra Turbo K.S Edition.
+- Type-66 DUSK.
+- Arch Nasare Itsumade Black Devil.
+- Thorton Mackinaw Wasteland Leviathan.
+- Arch Nasare Itsumade ONI. Angel.
+- Quartz HELLHOUND.
+- Kaukaz Bratsk CUTIE.
+- Thorton Galena GRAPHITE.
+- Initial D Archer Quartz.
+- Type-66 MIDNIGHT.
 - Lamborghini Terzo Millennio.
 
 ---
@@ -939,6 +954,7 @@ I'm looking for team members with the knowledge and time to help me build this c
 Special thanks to these chooms who helped make this collection preem . And everyone on the Nexus & The Cyberpunk modding Discords.
 
 - [canliberk](https://www.nexusmods.com/users/5027009)   
+- [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)
 
 And all the teams and modders behind all the tools that make cyberpunk 2077 modding possible.
 
