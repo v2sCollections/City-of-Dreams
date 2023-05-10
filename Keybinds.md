@@ -58,4 +58,4 @@ These can be configured in game but ive configured them to get you started. Thes
 
 ### HOLD TO HOLSTER
 
-- R> Holster
+- Reload> Holster
