@@ -13,4 +13,6 @@
 ## [Level Scaling and Balance](https://www.nexusmods.com/cyberpunk2077/mods/1712)
 ![](https://media.giphy.com/media/Ul1pfEvawMsRE0dUgW/giphy.gif)
 
-##  
+## [Breast Jiggle Physics - enabled for TPP - FPP and Photomode](https://www.nexusmods.com/cyberpunk2077/mods/3339)
+![](https://staticdelivery.nexusmods.com/mods/3333/images/3339/3339-1634738529-576013403.gif)
+![](https://staticdelivery.nexusmods.com/mods/3333/images/3339/3339-1634738547-2077129242.gif)
