@@ -1,12 +1,15 @@
+[UNRELEASED]
+
 [HEY CHOOMS Rev 32 Ver 3.2 is here](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o/revisions/17?pk_campaign=ViewCollection&pk_source=vortex)
 -
 
 NOTES
 -
-Now that i have been able to discover a work around for the mod limit i can finnally create the collection i always wanted!!!
+
+Now that i have been able to discover a work around for the mod limit i can finally create the collection i always wanted!!!
 
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!! CYBERCLEAN is Recommended.
-REMEMBER TO DISABLE TELEMENTARY OR THE GAME WILL CRASH
+REMEMBER TO DISABLE TELEMENTARY OR THE GAME WILL CRASH!!!
 
 - Added details to the description.
 - New altlier shops added with 100s of new clothes.
@@ -74,7 +77,51 @@ CLOTHES
 - [(Silver Six Store) Andrea's Outfit - Male V - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7033?tab=description)
 - [(Silver Six Store) Prompto's Outfit - Male V - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7836?tab=description)
 - [(Silver Six Store) Wizzo's 'Kassie' Over-Knee Boots - Male V](https://www.nexusmods.com/cyberpunk2077/mods/8003?tab=description)
-- [
+- [The RVC00N Dumpster (PinkyDude's Virtual Atelier Store)](https://www.nexusmods.com/cyberpunk2077/mods/5802)
+- [The RVC00N Dumpster - Cross Top (M F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/6686)
+- [The RVC00N Dumpster - Hotrod Zipper Shorts (F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/6290)
+- [The RVC00N Dumpster - Candy Croptop (M-F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/5829)
+- [The RVC00N Dumpster - Hotrod Zipper Shorts (F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/6290)
+- [The RVC00N Dumpster - Fluid Dress (F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/6226)
+- [The RVC00N Dumpster - HoloPlugins (M-F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/5803)
+- [The RVC00N Dumpster - Kerry Eurodyne's Pants (M-F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/6618?tab=description)
+- [The RVC00N Dumpster - Virgin Flatliner (F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/7573)
+- [The RVC00N Dumpster - Candy Hoodie (M-F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/5931)
+- [The RVC00N Dumpster - Eyepatch (M-F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/6018)
+- [The RVC00N Dumpster - Goth Starry Dress (F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/6931)
+- [The RVC00N Dumpster - Chromed Long Blouse (F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/7609)
+- [The RVC00N Dumpster - Boho Croptop (F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/7517)
+- [The RVC00N Dumpster - Jackie Welles Outfit (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/7047)
+- [The RVC00N Dumpster - Boho Highwaist Pants (F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/7534)
+- [The RVC00N Dumpster - Undies Collection (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/6484)
+- [The RVC00N Dumpster - Hotrod Tight Pants (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/6364)
+- [The RVC00N Dumpster - Speed Addict Sport Bra (F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8173)]
+- [The RVC00N Dumpster - Speed Addict Sport Panties (F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8174)
+- [The RVC00N Dumpster - Stinky Quilted Pants (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/6092)
+- [The RVC00N Dumpster - Boho Dress (F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/7983)
+- [The RVC00N Dumpster - Stinky Worker Jacket (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/6066)
+- [The RVC00N Dumpster - Hotrod Zipper Shorts (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/6273)
+- [The RVC00N Dumpster - Comfy Sweater (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/6205)
+- [The RVC00N Dumpster - David Martinez Pants (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/6984)
+- [The RVC00N Dumpster - Stinky Jumpsuit (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/7116)
+- [The RVC00N Dumpster - Speed Addict JockStrap (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/7418)
+- [The RVC00N Dumpster - Zombie Slayer Jacket (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/7749)
+- [The RVC00N Dumpster - Stinky Bomber Jacket (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/7003)
+- [The RVC00N Dumpster - Stinky CropTop (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/6564)
+- [The RVC00N Dumpster - Speed Addict StrapOn (M F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/7429)
+- [The RVC00N Dumpster - Hotrod Fishnet Shirt (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/6381)
+- [The RVC00N Dumpster - Fancy Blazer (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8015)
+- [The RVC00N Dumpster - Dad Shirt (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8002)
+- [The RVC00N Dumpster - Denny's Corset Shirt (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/7015)
+- [The RVC00N Dumpster - Comfy Scarf (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/6705)
+- [Open Road - Boho Shirt - Masc V](https://www.nexusmods.com/cyberpunk2077/mods/7892)
+- [Open Road - Boho Pants - Masc V](https://www.nexusmods.com/cyberpunk2077/mods/7902)
+- [The RVC00N Dumpster - Hotrod Short Hoodie (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/7974)
+- [The RVC00N Dumpster - Virgin Flatliner (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/7397)
+- [The RVC00N Dumpster - Yeehaw Fringe Vest (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/6959)
+- [The RVC00N Dumpster - Naughty Boy Christmas Outfit (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/6826?tab=description)
+- [The RVC00N Dumpster - Onesies (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/7497)
+
 
 POSE PACKS
 - [PMU - Alt Set Vol 2](https://www.nexusmods.com/cyberpunk2077/mods/7835)
