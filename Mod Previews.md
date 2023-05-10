@@ -27,7 +27,7 @@
 ![](https://media2.giphy.com/media/wL4pFJF1Nvbh3ZXlwA/giphy.gif)
 
 ## [Zoomable Scopes](https://www.nexusmods.com/cyberpunk2077/mods/3543)
-![](https://media.giphy.com/media/lF1E4fpfgV5X4KgeGG/giphy.gif)
+![](https://s11.gifyu.com/images/Scopes.gif)
 
 ## [
 ![](https://media.giphy.com/media/6y2Ohl8S1y7uX9Lt8A/giphy.gif)
