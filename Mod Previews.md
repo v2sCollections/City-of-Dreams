@@ -24,5 +24,5 @@
 ![](https://media2.giphy.com/media/oQqgA6TB0DC0GBewg2/giphy.gif) 
 ![](https://media2.giphy.com/media/v4jBGzyx1ziXEuWvhB/giphy.gif)
 ![](https://media.giphy.com/media/ugucjIVdxiVLi5yxzG/giphy-downsized-large.gif)
-![](https://media2.giphy.com/media/wL4pFJF1Nvbh3ZXlwA/giphy.gif)
+
 
