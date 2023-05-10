@@ -3,8 +3,10 @@
 
 NOTES
 -
+Now that i have been able to discover a work around for the mod limit i can finnally create the collection i always wanted!!!
 
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!! CYBERCLEAN is Recommended.
+REMEMBER TO DISABLE TELEMENTARY OR THE GAME WILL CRASH
 
 - Added details to the description.
 - New altlier shops added with 100s of new clothes.
