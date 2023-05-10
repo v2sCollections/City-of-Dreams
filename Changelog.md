@@ -14,7 +14,8 @@ REMEMBER TO DISABLE TELEMENTARY OR THE GAME WILL CRASH!!!
 - Added details to the description.
 - New altlier shops added with 100s of new clothes.
 - New pose packs with 100s of new poses.
-- New Vehicles 
+- New Vehicles
+- Replaced vanilla timeskip widget with the modded one from "Immersive timskip" 
 
 Increased the chances to obtain the following items.
 - Ammo
