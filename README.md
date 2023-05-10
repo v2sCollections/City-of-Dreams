@@ -295,9 +295,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 1) Check the install guide and make sure you followed the instructions.
 
-2) Make sure you have no additional mods installed there is a limit to the number of archives you can have before the game will crash.
-
-3) Perform a Cyberclean.
+2) Perform a Cyberclean.
 
 ## [My character and some female NPCs have weird texture lines on them ](https://)❓
 
@@ -339,7 +337,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ⛔ It Is important that you read the following guide to fully understand everything clearly.
 
-You can have a look at some of the mod previews > [HERE](https://github.com/MRGHIA88V2/City-of-Dreams/blob/main/Mod%20Previews.md) 
+You can have a look at some of the mod GIF previews > [HERE](https://gifyu.com/album/098)
 
 And check out the gallery at the top of this page for videos by some of the mod authors showcased in this collection.
 
@@ -849,10 +847,12 @@ Upgraded/Tweaked cyberware
 
 ### **Custom Vehicles**
 
-- Bladerunner 2042 Spinner 
-- R34 Nissan Skyline  
-- Honda NSX
-- Mclaren F1
+- Bladerunner 2042 Spinner. 
+- R34 Nissan Skyline.  
+- Honda NSX.
+- Mclaren F1.
+- Quadra Turbo K.S Edition.
+- Lamborghini Terzo Millennio.
 
 ---
 
@@ -868,7 +868,7 @@ Upgraded/Tweaked cyberware
 
 ![img](https://i.imgur.com/Xe7LiSI.png)
 
-⛔ I recommend **NOT** installing extra mods that are not part of the collection there is a limit to the amount of archives you can have before the game will just flatline. But if you need more Chrome i ain't stopping you choom we have a dedicated channel in Discord for Chrome Junkies like you check it out so you don't flatline.
+⛔ I recommend **NOT** installing extra mods that are not part of the collection but if you need more Chrome i ain't stopping you choom we have a dedicated channel in Discord for Chrome Junkies like you check it out so you don't flatline.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
