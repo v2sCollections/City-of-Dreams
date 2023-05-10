@@ -33,4 +33,6 @@
 ![](https://media.giphy.com/media/6y2Ohl8S1y7uX9Lt8A/giphy.gif)
 ![](https://media.giphy.com/media/myvcWIyxez2F1usb4F/giphy.gif)
 
-## [
+## [Sensible Stamina and Athletics](https://www.nexusmods.com/cyberpunk2077/mods/2861)
+![](https://media.giphy.com/media/8DKTyda7UWSR058Z35/giphy.gif)
+![](https://media.giphy.com/media/kNTExfdNhdkzYRCoWx/giphy.gif)
