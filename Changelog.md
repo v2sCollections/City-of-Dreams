@@ -46,6 +46,7 @@ GAMEPLAY
 - [Muted Markers](https://www.nexusmods.com/cyberpunk2077/mods/1727?tab=description)
 - [Mark To Sell](https://www.nexusmods.com/cyberpunk2077/mods/4725?tab=description)
 - [Relic Effect Periods](https://www.nexusmods.com/cyberpunk2077/mods/5113?tab=description)
+- [Holster By Hotkey](https://www.nexusmods.com/cyberpunk2077/mods/1904?tab=description)
 
 Vehicles
 - [Quadra Turbo K.S Edition](https://www.nexusmods.com/cyberpunk2077/mods/8260?tab=description)
