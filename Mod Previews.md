@@ -48,3 +48,9 @@
 ## [Custom Breast Jiggle Physics LITE](https://www.nexusmods.com/cyberpunk2077/mods/3665)
 
 ![](https://staticdelivery.nexusmods.com/mods/3333/images/3665/3665-1641052405-817801033.gif)
+
+## [1.6 Neon Rims Color Control](https://www.nexusmods.com/cyberpunk2077/mods/4204)
+
+![](https://staticdelivery.nexusmods.com/mods/3333/images/3862/3862-1645146076-2124192677.gif)
+![](https://staticdelivery.nexusmods.com/mods/3333/images/4204/4204-1648305123-729216675.gif)
+![](https://staticdelivery.nexusmods.com/mods/3333/images/4204/4204-1648216712-1418395040.gif)
