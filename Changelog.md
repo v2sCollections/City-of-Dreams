@@ -11,6 +11,11 @@ Now that i have been able to discover a work around for the mod limit i can fina
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!! CYBERCLEAN is Recommended.
 REMEMBER TO DISABLE TELEMENTARY OR THE GAME WILL CRASH!!!
 
+- Added details to the description.
+- New altlier shops added with 100s of new clothes.
+- New pose packs with 100s of new poses.
+- New Vehicles 
+
 Increased the chance to obtain the following items.
 - Ammo
 - Crafting materials 
@@ -21,12 +26,6 @@ Increased the chance to obtain the following items.
 - Junk
 - Mods
 - Money
-
-- Added details to the description.
-- New altlier shops added with 100s of new clothes.
-- New pose packs with 100s of new poses.
-- New Vehicles 
-
 
 UPDATED
 -
