@@ -43,6 +43,7 @@ GAMEPLAY
 - [Combat Crafting](https://www.nexusmods.com/cyberpunk2077/mods/4928)
 - [StatTrack Malorian Arms 3516](https://www.nexusmods.com/cyberpunk2077/mods/3994?tab=description)
 - [No Camera Auto Centering](https://www.nexusmods.com/cyberpunk2077/mods/2169?tab=description)
+- [Muted Markers](https://www.nexusmods.com/cyberpunk2077/mods/1727?tab=description)
 
 Vehicles
 - [Quadra Turbo K.S Edition](https://www.nexusmods.com/cyberpunk2077/mods/8260?tab=description)
