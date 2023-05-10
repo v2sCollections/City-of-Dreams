@@ -16,7 +16,7 @@ REMEMBER TO DISABLE TELEMENTARY OR THE GAME WILL CRASH!!!
 - New pose packs with 100s of new poses.
 - New Vehicles 
 
-Increased the chance to obtain the following items.
+Increased the chances to obtain the following items.
 - Ammo
 - Crafting materials 
 - Cyberware
