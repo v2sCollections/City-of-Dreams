@@ -13,7 +13,7 @@ REMEMBER TO DISABLE TELEMENTARY OR THE GAME WILL CRASH!!!
 
 Increased the chance to obtain the following items.
 - Ammo
-- Crafting materials
+- Crafting materials 
 - Cyberware
 - Edibles
 - Grenades
