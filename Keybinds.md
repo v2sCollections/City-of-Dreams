@@ -49,3 +49,13 @@ These can be configured in game but ive configured them to get you started. Thes
 
 - HOME>  gui
 - END> Toggle Reshade
+
+
+### IMMERSIVE TIMESKIP
+
+- O> Timeskip UI
+
+
+### HOLD TO HOLSTER
+
+- R> Holster
