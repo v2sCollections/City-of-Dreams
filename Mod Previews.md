@@ -20,4 +20,10 @@
 ## [Simple Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/2913)
 ![](https://media.giphy.com/media/ZXAbQ3lNP6M1Mswa7C/giphy.gif)
 
+## [Custom Quickslots for Consumables Grenades and Cyberware Abilities](https://www.nexusmods.com/cyberpunk2077/mods/3096)
+![](https://media2.giphy.com/media/oQqgA6TB0DC0GBewg2/giphy.gif)
+![](https://media2.giphy.com/media/v4jBGzyx1ziXEuWvhB/giphy.gif)
+![](https://media.giphy.com/media/ugucjIVdxiVLi5yxzG/giphy-downsized-large.gif)
+![]https://media2.giphy.com/media/wL4pFJF1Nvbh3ZXlwA/giphy.gif)
+
 ## [
