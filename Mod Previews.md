@@ -17,4 +17,7 @@
 ![](https://staticdelivery.nexusmods.com/mods/3333/images/3339/3339-1634738529-576013403.gif)
 ![](https://staticdelivery.nexusmods.com/mods/3333/images/3339/3339-1634738547-2077129242.gif) 
 
+## [Simple Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/2913)
+![](https://media.giphy.com/media/ZXAbQ3lNP6M1Mswa7C/giphy.gif)
+
 ## [
