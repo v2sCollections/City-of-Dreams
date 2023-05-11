@@ -51,6 +51,7 @@ GAMEPLAY
 - [Game Time Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/870)
 - [Better Explosions And Fire V2.5](https://www.nexusmods.com/cyberpunk2077/mods/4096?tab=description)
 - [Guaranteed dismemberment](https://www.nexusmods.com/cyberpunk2077/mods/3694?tab=description)
+- [Simple untrack quest](https://www.nexusmods.com/cyberpunk2077/mods/5177?tab=description)
 
 Vehicles
 - [Quadra Turbo K.S Edition](https://www.nexusmods.com/cyberpunk2077/mods/8260?tab=description)
