@@ -148,7 +148,7 @@ CLOTHES
 - [The RVC00N Dumpster - Naughty Boy Christmas Outfit (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/6826?tab=description)
 - [The RVC00N Dumpster - Onesies (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/7497)
 - [The RVC00N Dumpster - Leather Body Harness (M F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8257?tab=description)
-
+- [MONSTERaider - Celebrity Dress ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/8299)
 
 POSE PACKS
 - [PMU - Alt Set Vol 2](https://www.nexusmods.com/cyberpunk2077/mods/7835)
