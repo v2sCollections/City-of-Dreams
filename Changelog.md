@@ -16,6 +16,7 @@ REMEMBER TO DISABLE TELEMENTARY OR THE GAME WILL CRASH!!!
 - New pose packs with 100s of new poses.
 - New Vehicles
 - Replaced vanilla timeskip widget with the modded one from "Immersive timskip" 
+- Dead NPCs now take 5 minutes to become indestructible.
 
 Increased the chances to obtain the following items.
 - Ammo
