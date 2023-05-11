@@ -53,6 +53,8 @@ GAMEPLAY
 - [Guaranteed dismemberment](https://www.nexusmods.com/cyberpunk2077/mods/3694?tab=description)
 - [Simple untrack quest](https://www.nexusmods.com/cyberpunk2077/mods/5177?tab=description)
 - [The Afterlife - Re imagined](https://www.nexusmods.com/cyberpunk2077/mods/7688?tab=description)
+- [Immersion patch - No crowd panic form using devices.](https://www.nexusmods.com/cyberpunk2077/mods/7353?tab=description)
+- [Immersion patch - No crowd panic from stealth activity](https://www.nexusmods.com/cyberpunk2077/mods/7360?tab=description)
 
 Vehicles
 - [Quadra Turbo K.S Edition](https://www.nexusmods.com/cyberpunk2077/mods/8260?tab=description)
