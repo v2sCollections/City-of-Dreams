@@ -69,6 +69,7 @@ Vehicles
 - [Initial D Archer Quartz](https://www.nexusmods.com/cyberpunk2077/mods/8279?tab=description)
 - [Type-66 MIDNIGHT Standalone](https://www.nexusmods.com/cyberpunk2077/mods/8288?tab=description)
 - [Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034?tab=description)
+- [Authentic Shift Audio Gear Ratios (Standalone or Cyber Vehicle Overhaul)](https://www.nexusmods.com/cyberpunk2077/mods/6823?tab=description)
 
 CLOTHES
 - [Boot Pants for V](https://www.nexusmods.com/cyberpunk2077/mods/5095)
