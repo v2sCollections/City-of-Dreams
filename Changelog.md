@@ -39,6 +39,7 @@ UPDATED
 - [Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/4885)
 - [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511)
 - [Wilson's Range](https://www.nexusmods.com/cyberpunk2077/mods/7367)
+- [MONSTERaider - Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/7269)
 
 NEW MODS ADDED 
 -
