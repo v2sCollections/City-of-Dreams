@@ -38,6 +38,7 @@ UPDATED
 - [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/4885)
 - [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511)
+- [Wilson's Range](https://www.nexusmods.com/cyberpunk2077/mods/7367)
 
 NEW MODS ADDED 
 -
