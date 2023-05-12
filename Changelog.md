@@ -8,7 +8,8 @@ NOTES
 
 Now that i have been able to discover a work around for the mod limit i can finally create the collection i always wanted!!!
 
-REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!! CYBERCLEAN is Recommended. 
+CYBERCLEAN is MANDATORY FOR THIS UPDATE!!!
+REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!! 
 REMEMBER TO DISABLE TELEMENTARY OR THE GAME WILL CRASH!!!
 
 - Added details to the description.
