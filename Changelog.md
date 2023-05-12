@@ -36,6 +36,7 @@ UPDATED
 - [RED4ext](https://www.nexusmods.com/cyberpunk2077/mods/2380)
 - [TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 - [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)
+- [Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/4885)
 
 NEW MODS ADDED 
 -
