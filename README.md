@@ -1,6 +1,6 @@
 IF THE DESCRIPTION DOESNT SHOW UP CLICK [HERE](https://github.com/MRGHIA88V2/City-of-Dreams)
 
-### Collection Rev 31 Ver 3.1       Collection Updated and working for Game version 1.62 Patch 1
+### Collection Rev 31              Collection Updated and working for Game version 1.62 Patch 1
 
 ![img](https://i.imgur.com/wAJUpeU.png)![](https://s11.gifyu.com/images/Border11.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o) for **Cyberpunk 2077**.
 
@@ -517,6 +517,7 @@ Support for other upscaled texture packs by [XilaMonstrr](https://www.nexusmods.
 - You can tweak some of the interaction and loot marker visibility behavior.
 - You can mark any item in your inventory as a Junk so you will be able to sell all marked items at once using vendors "Sell Junk" option.
 - Increases time spans between sickness effects applied to V by The Relic.
+- Untrack quests the same way you track them -- by right-clicking in the Journal or on the Map
 
 ### **[UI Improvements Include](https://)**
 
@@ -636,6 +637,8 @@ UI Colours
 - People will now casually interact with you as you walk near them.
 - Fully useable stock market system that dynamically reacts to quests and player action.
 - Better viewing angles when in first person.
+- No more crowd panic form using computers, doors, access points, etc.
+- No more crowd panic caused by stealth grab takedowns or body pickups.
 - V can now press the aim button to walk without zooming in.
 - V can now purchase all the popular drugs in night city.
 - V can now pay off NCPD to get rid of your crime status. 
@@ -725,12 +728,16 @@ UI Colours
 - V can now shoot while driving vehicles.
 - V can now craft Scopes and Muzzle attachments.
 - More blood splatters.
-- Ragdoll physics are now much more realistic.       
+- Dead NPCs now take 5 minutes to become indestructible.
+- Ragdoll physics are now much more realistic.
+- More frequent dismemberment, decapitation and mutilation of the torso.       
 - Restores some missing/cut crafting specs for some weapons. 
 - Cybernetic eyes allow you to zoom in while aiming.
 - Netrunners can use more hacks on you and reveal your position now they have access to the same hacks as you.
 - NCPD will now chase you in vehicles and will spawn further away from you. 
 - Adds a kill counter to the side of the Malorian Arms piston.
+- Holster your weapon by holding the reload button.
+- Adjusted lighting for all explosions and fire effects.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -749,6 +756,7 @@ UI Colours
 - [PeachuHime](https://www.nexusmods.com/cyberpunk2077/users/109777063) 
 - [Apzurv](https://www.nexusmods.com/cyberpunk2077/users/18222069)
 - [NolaDreamer](https://www.nexusmods.com/cyberpunk2077/users/103558203)
+- [PinkyDude](https://www.nexusmods.com/cyberpunk2077/users/20892624)
 
 ![](https://gifyu.com/image/SdKfy)![](https://gifyu.com/image/SdKtk)![](https://gifyu.com/image/SdKtk.img)![](https://s2.gifyu.com/images/ezgif.com-video-to-gifde3b2c1ceec906ca.gif)[Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987) by [Pacings](https://www.nexusmods.com/cyberpunk2077/users/96220198)
 
@@ -994,4 +1002,4 @@ If you would like to support me so I can afford some new chrome click the button
 - I will not be responsible for any possibility of save corruption.     
 - CD PROJEKT®, Cyberpunk®, Cyberpunk 2077® are registered trademarks of CD PROJEKT S.A. © 2022 CD PROJEKT S.A  
 
-![img](https://i.imgur.com/wAJUpeU.png)isn't
+![img](https://i.imgur.com/wAJUpeU.png)
