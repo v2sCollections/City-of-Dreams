@@ -59,3 +59,8 @@ These can be configured in game but ive configured them to get you started. Thes
 ### HOLD TO HOLSTER
 
 - Reload> Holster
+
+
+### Night Vision
+
+- F3> Night Vision
