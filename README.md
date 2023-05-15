@@ -825,6 +825,7 @@ UI Colours
 - Custom Arasaka cyberware includes Berserk, Sandevistans and Cyberdecks.
 - You can now get Epic and Legendary cyberwares that are not available in standard game.
 - All Quickhacks and Talent shards have been added to the Atelier shop.
+- You can purchase cyberware that enables the ability to toggle a night vision mode.
 
 Upgraded/Tweaked cyberware
 
