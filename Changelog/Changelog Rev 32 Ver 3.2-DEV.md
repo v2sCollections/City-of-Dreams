@@ -18,6 +18,7 @@ REMEMBER TO DISABLE TELEMENTARY OR THE GAME WILL CRASH!!!
 - New Vehicles
 - Replaced vanilla timeskip widget with the modded one from "Immersive timskip" 
 - Dead NPCs now take 5 minutes to become indestructible.
+- Fixed some E3 mods not being deployed correctly.
 
 Increased the chances to obtain the following items.
 - Ammo
@@ -40,6 +41,9 @@ UPDATED
 - [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511)
 - [Wilson's Range](https://www.nexusmods.com/cyberpunk2077/mods/7367)
 - [MONSTERaider - Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/7269)
+- [Native Settings UI](https://www.nexusmods.com/cyberpunk2077/mods/3518?tab=description)
+- [Sandevistan Berserk Cyberware Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/4955?tab=description)
+- [Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790?tab=description)
 
 NEW MODS ADDED 
 -
@@ -60,6 +64,7 @@ GAMEPLAY
 - [The Afterlife - Re imagined](https://www.nexusmods.com/cyberpunk2077/mods/7688?tab=description)
 - [Immersion patch - No crowd panic form using devices.](https://www.nexusmods.com/cyberpunk2077/mods/7353?tab=description)
 - [Immersion patch - No crowd panic from stealth activity](https://www.nexusmods.com/cyberpunk2077/mods/7360?tab=description)
+- [Kiroshi Optics Night Vision Mod](https://www.nexusmods.com/cyberpunk2077/mods/8326)
 
 Vehicles
 - [Quadra Turbo K.S Edition](https://www.nexusmods.com/cyberpunk2077/mods/8260?tab=description)
