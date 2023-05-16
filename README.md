@@ -296,6 +296,8 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 1) Check the install guide and make sure you followed the instructions.
 
+3) Make sure you have gone to the settings menu and  turned off **"Enable Analytics"** on the gameplay tab.
+
 2) Perform a Cyberclean.
 
 ## [My character and some female NPCs have weird texture lines on them ](https://)❓
@@ -403,6 +405,8 @@ Step into the captivating world of Edgerunners anime with this curated collectio
 - [Lucy - Edgerunners Sky Ad](https://www.nexusmods.com/cyberpunk2077/mods/5201?tab=description) ***(OPTIONAL)***
 - [Wannabe Edgerunner - A simple Cyberpsychosis mod](https://www.nexusmods.com/cyberpunk2077/mods/5646) ***(OPTIONAL)*** *Note Read more on the **"gameplay"** tab 
 - [Edgerunners Loading Screen Pack.](https://) ***(OPTIONAL)***
+- [Edgerunners- Rebecca's hairstyle haircolor](https://www.nexusmods.com/cyberpunk2077/mods/5418?tab=description) ***(OPTIONAL)***
+- [Edgerunners- David's Hairstyle](https://www.nexusmods.com/cyberpunk2077/mods/5311)
 - [Lucy Edgerunners Suit Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/5273)
 - [David Martinez Jacket Refited for Hyst Bodies mods](https://www.nexusmods.com/cyberpunk2077/mods/5155)
 - [Edgerunners Location Additions](https://www.nexusmods.com/cyberpunk2077/mods/5428)

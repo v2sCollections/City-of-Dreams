@@ -198,7 +198,9 @@ CHARACTER
 - [Alt Alternate Appearance (AMM Edition)](https://www.nexusmods.com/cyberpunk2077/mods/3822?tab=description)
 - [Misty Alternate Appearance (AMM Edition)](https://www.nexusmods.com/cyberpunk2077/mods/3843?tab=description)
 - [Judy Alternate Appearance (AMM Edition)](https://www.nexusmods.com/cyberpunk2077/mods/3753)
-- 
+- [Edgerunners- David's Hairstyle](https://www.nexusmods.com/cyberpunk2077/mods/5311)
+- [Edgerunners- Rebecca's hairstyle haircolor and accessory](https://www.nexusmods.com/cyberpunk2077/mods/5418)
+- [Edgerunners- Rebecca's face cyberware 4k texture](https://www.nexusmods.com/cyberpunk2077/mods/5524)
 
 BUGS
 -
