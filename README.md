@@ -50,7 +50,7 @@ I hope you enjoy this collection and the game as much as I do. Time for me to de
 - 500+ Mods in one click.
 - 200+ Clothing Mods Featuring 100s of clothes added to the Alteier Store.
 - 100+ Loading Screens.
-- 70+ Alteir Stores.    
+- 80+ Alteir Stores.    
 - 50+ Weapon and Armor Mods.
 - 50+ Body Mods for V and most Other NPCs.
 - 30+ Graphics & Texture Mods.
