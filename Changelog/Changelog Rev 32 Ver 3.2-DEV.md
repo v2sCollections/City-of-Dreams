@@ -46,6 +46,7 @@ UPDATED
 - [Sandevistan Berserk Cyberware Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/4955?tab=description)
 - [Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790?tab=description)
 - [Silver Breezy - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/7773?tab=description)
+- [Night City Interactions - Watson and Westbrook Drinks plus Edgerunners locales](https://www.nexusmods.com/cyberpunk2077/mods/5519?tab=description)
 
 NEW MODS ADDED 
 -
@@ -63,6 +64,7 @@ GAMEPLAY
 - [Immersion patch - No crowd panic form using devices.](https://www.nexusmods.com/cyberpunk2077/mods/7353?tab=description)
 - [Immersion patch - No crowd panic from stealth activity](https://www.nexusmods.com/cyberpunk2077/mods/7360?tab=description)
 - [Concept Little China](https://www.nexusmods.com/cyberpunk2077/mods/8165?tab=description)
+- [Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931?tab=description)
 
 COMBAT & WEAPONS
 - [Sticky Mines](https://www.nexusmods.com/cyberpunk2077/mods/4921?tab=description)
@@ -166,7 +168,10 @@ CLOTHES
 - [The RVC00N Dumpster - Onesies (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/7497)
 - [The RVC00N Dumpster - Leather Body Harness (M F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8257?tab=description)
 - [MONSTERaider - Celebrity Dress ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/8299)
-
+- [Jinguji Personal Shopping Service - Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/8318)
+- [John Wick Outfit - Black Shirt and Vest (ArchiveXL - Male AND Female V)](https://www.nexusmods.com/cyberpunk2077/mods/8329)
+- [Cowboy Bebop - Spike Spiegel Outfit - Jacket and Shirt (Archive XL - Male AND Female V)](https://www.nexusmods.com/cyberpunk2077/mods/8336)
+- [
 POSE PACKS
 - [PMU - Alt Set Vol 2](https://www.nexusmods.com/cyberpunk2077/mods/7835)
 - [PMU - Following the River](https://www.nexusmods.com/cyberpunk2077/mods/6338)
@@ -202,6 +207,21 @@ CHARACTER
 - [Edgerunners- Rebecca's hairstyle haircolor and accessory](https://www.nexusmods.com/cyberpunk2077/mods/5418)
 - [Edgerunners- Rebecca's face cyberware 4k texture](https://www.nexusmods.com/cyberpunk2077/mods/5524)
 
+APARTMENT THEMES
+- [The Afterparty - V's Mansion Redux](https://www.nexusmods.com/cyberpunk2077/mods/7577?tab=description)
+- [Night City Edgerunner Apartment](https://www.nexusmods.com/cyberpunk2077/mods/4469)
+- [Cyber Noir Flat](https://www.nexusmods.com/cyberpunk2077/mods/4193)
+- [Night City Nova Apartment](https://www.nexusmods.com/cyberpunk2077/mods/3733)
+- [Corpo Tactical Apartment](https://www.nexusmods.com/cyberpunk2077/mods/3580)
+- [Corpo Netrunner Apartment](https://www.nexusmods.com/cyberpunk2077/mods/3579)
+- [Nomad Gearhead Apartment](https://www.nexusmods.com/cyberpunk2077/mods/3445)
+- [Nomad Overdrive Apartment](https://www.nexusmods.com/cyberpunk2077/mods/3444)
+- [Nomad Mystic Apartment](https://www.nexusmods.com/cyberpunk2077/mods/3443)
+- [Street Kid Glam Apartment V2](https://www.nexusmods.com/cyberpunk2077/mods/3341)
+- [Street Kid Thrash Apartment V2](https://www.nexusmods.com/cyberpunk2077/mods/3352)
+- [Street Kid Techie Apartment V2](https://www.nexusmods.com/cyberpunk2077/mods/3351)
+- [Corpo Zen Apartment](https://www.nexusmods.com/cyberpunk2077/mods/3311)
+
 BUGS
 -
 
@@ -213,11 +233,5 @@ MODS NOT WORKING AT THE MOMENT
 
 - [Let There Be Flight](https://www.nexusmods.com/cyberpunk2077/mods/5208)
 - [In-World Navigation](https://www.nexusmods.com/cyberpunk2077/mods/4583)
-
-
-TOTALL DOWNLOAD SIZE
--
-
-- [9.2GB](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o/revisions/17?pk_campaign=ViewCollection&pk_source=vortex)
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o/revisions/17?pk_campaign=ViewCollection&pk_source=vortex)
