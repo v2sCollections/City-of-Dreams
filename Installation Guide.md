@@ -132,7 +132,7 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ## NOW!!! [Wake the f**k up, Samurai. We have a city to burn.](https://)   
 
-## ![](<iframe src="https://giphy.com/embed/ww8JvNyaRDQu0pMhYQ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ww8JvNyaRDQu0pMhYQ">via GIPHY</a></p>)![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY5NGNiZGQzY2Q1ZmNiNWMxNTYyODliMjA5YmVlNDIwOGI4NDM3NyZjdD1n/ww8JvNyaRDQu0pMhYQ/giphy-downsized-large.gif)Please Endorse and Vote for the Collection.
+## Please Endorse and Vote for the Collection.
 
 ---
 
