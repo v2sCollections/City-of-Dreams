@@ -53,7 +53,8 @@ I hope you enjoy this collection and the game as much as I do. Time for me to de
 - 70+ Alteir Stores.    
 - 50+ Weapon and Armor Mods.
 - 50+ Body Mods for V and most Other NPCs.
-- 30+ Graphics & Texture Mods. 
+- 30+ Graphics & Texture Mods.
+- 20+ Custom apartment themes. 
 - 15+ Custom Vehcles.
 - Photo Mode Pose Packs. 
 - Gameplay mods & Tweaks.
