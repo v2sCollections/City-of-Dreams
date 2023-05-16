@@ -366,6 +366,8 @@ And check out the gallery at the top of this page for videos by some of the mod 
 
 ## ![](https://s11.gifyu.com/images/E3-THEME.png)
 
+Welcome to the electrifying E3-themed mods for Cyberpunk 2077! Immerse yourself in the pulsating atmosphere of the iconic trailer as we present you with a curated collection of mods that will elevate your Cyberpunk 2077 experience to new heights. From dazzling graphical improvements to exhilarating gameplay additions, get ready to witness the fusion of E3 excitement and cyberpunk allure. Welcome to the E3-themed world of Cyberpunk 2077.
+
 ## ***(OPTIONAL)***  
 
 > [Below are optional mods you can enable if you want the E3 Theme.](https://)
@@ -392,13 +394,14 @@ And check out the gallery at the top of this page for videos by some of the mod 
 
 ![](https://s11.gifyu.com/images/Untitled18244ce047bd870e.png)
 
+Step into the captivating world of Edgerunners anime with this curated collection of mods. Immerse yourself in a neon-lit cityscape, embrace cybernetic enhancements, and unleash your rebellious spirit. Survive the treacherous underbelly of society as a ruthless mercenary or fight for justice against powerful corporations. Prepare for a thrilling adventure where every choice matters. Welcome to the Edgerunners-themed world of Cyberpunk 2077.
+
 > [Below are some Edgerunner mods some are optional you can enable them if you want the full Edgerunner Theme.](https://)
 
 - [Edgerunners Posters](https://www.nexusmods.com/cyberpunk2077/mods/5203) ***(OPTIONAL)***
 - [Edgerunner 2077](https://) ***(OPTIONAL)***
 - [Lucy - Edgerunners Sky Ad](https://www.nexusmods.com/cyberpunk2077/mods/5201?tab=description) ***(OPTIONAL)***
 - [Wannabe Edgerunner - A simple Cyberpsychosis mod](https://www.nexusmods.com/cyberpunk2077/mods/5646) ***(OPTIONAL)*** *Note Read more on the **"gameplay"** tab 
-- [Wannabe Edgerunner - Humanity Recovery](https://www.nexusmods.com/cyberpunk2077/mods/6330) ***(OPTIONAL)*** ***Note** Read more on the **"gameplay"** tab
 - [Edgerunners Loading Screen Pack.](https://) ***(OPTIONAL)***
 - [Lucy Edgerunners Suit Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/5273)
 - [David Martinez Jacket Refited for Hyst Bodies mods](https://www.nexusmods.com/cyberpunk2077/mods/5155)
@@ -518,6 +521,7 @@ Support for other upscaled texture packs by [XilaMonstrr](https://www.nexusmods.
 - You can mark any item in your inventory as a Junk so you will be able to sell all marked items at once using vendors "Sell Junk" option.
 - Increases time spans between sickness effects applied to V by The Relic.
 - Untrack quests the same way you track them -- by right-clicking in the Journal or on the Map
+- Additional loot markers on looting containers that show which types of loot are in it.
 
 ### **[UI Improvements Include](https://)**
 
@@ -677,6 +681,7 @@ UI Colours
 - She showers. 
 - She sleeps in her bed at night.   
 - V can control the Radio, Bedroom TV, Kitchen TV, and Bathroom TV in Judy's apartment. 
+- Choose from 50 diffrent outfits for Judy.
 
 ### **Kerrie**
 
@@ -738,6 +743,8 @@ UI Colours
 - Adds a kill counter to the side of the Malorian Arms piston.
 - Holster your weapon by holding the reload button.
 - Adjusted lighting for all explosions and fire effects.
+- Sticky Grenades have been converted to throwable proximity mines.
+- Glowing Knives and Katanas.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 

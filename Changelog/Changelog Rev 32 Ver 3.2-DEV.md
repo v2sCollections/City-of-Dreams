@@ -52,23 +52,26 @@ NEW MODS ADDED
 
 GAMEPLAY
 - [TV Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/8162)
-- [Combat Crafting](https://www.nexusmods.com/cyberpunk2077/mods/4928)
-- [StatTrack Malorian Arms 3516](https://www.nexusmods.com/cyberpunk2077/mods/3994?tab=description)
 - [No Camera Auto Centering](https://www.nexusmods.com/cyberpunk2077/mods/2169?tab=description)
 - [Muted Markers](https://www.nexusmods.com/cyberpunk2077/mods/1727?tab=description)
 - [Mark To Sell](https://www.nexusmods.com/cyberpunk2077/mods/4725?tab=description)
 - [Relic Effect Periods](https://www.nexusmods.com/cyberpunk2077/mods/5113?tab=description)
 - [Holster By Hotkey](https://www.nexusmods.com/cyberpunk2077/mods/1904?tab=description)
 - [Game Time Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/870)
-- [Better Explosions And Fire V2.5](https://www.nexusmods.com/cyberpunk2077/mods/4096?tab=description)
-- [Guaranteed dismemberment](https://www.nexusmods.com/cyberpunk2077/mods/3694?tab=description)
 - [Simple untrack quest](https://www.nexusmods.com/cyberpunk2077/mods/5177?tab=description)
 - [The Afterlife - Re imagined](https://www.nexusmods.com/cyberpunk2077/mods/7688?tab=description)
 - [Immersion patch - No crowd panic form using devices.](https://www.nexusmods.com/cyberpunk2077/mods/7353?tab=description)
 - [Immersion patch - No crowd panic from stealth activity](https://www.nexusmods.com/cyberpunk2077/mods/7360?tab=description)
-- [Kiroshi Optics Night Vision Mod](https://www.nexusmods.com/cyberpunk2077/mods/8326)
 - [Concept Little China](https://www.nexusmods.com/cyberpunk2077/mods/8165?tab=description)
+
+COMBAT & WEAPONS
 - [Sticky Mines](https://www.nexusmods.com/cyberpunk2077/mods/4921?tab=description)
+- [Fancy Knives and Katanas](https://www.nexusmods.com/cyberpunk2077/mods/2816?tab=description)
+- [Combat Crafting](https://www.nexusmods.com/cyberpunk2077/mods/4928)
+- [Kiroshi Optics Night Vision Mod](https://www.nexusmods.com/cyberpunk2077/mods/8326)
+- [Better Explosions And Fire V2.5](https://www.nexusmods.com/cyberpunk2077/mods/4096?tab=description)
+- [Guaranteed dismemberment](https://www.nexusmods.com/cyberpunk2077/mods/3694?tab=description)
+- [StatTrack Malorian Arms 3516](https://www.nexusmods.com/cyberpunk2077/mods/3994?tab=description)
 
 Vehicles
 - [Quadra Turbo K.S Edition](https://www.nexusmods.com/cyberpunk2077/mods/8260?tab=description)
@@ -191,6 +194,11 @@ CATS
 CHARACTER
 - [2023 Rogue's Hair](https://www.nexusmods.com/cyberpunk2077/mods/908?tab=description)
 - [White Hair for V](https://www.nexusmods.com/cyberpunk2077/mods/755?tab=description)
+- [Dakota Alternate Appearance (AMM Edition)](https://www.nexusmods.com/cyberpunk2077/mods/3795?tab=description)
+- [Alt Alternate Appearance (AMM Edition)](https://www.nexusmods.com/cyberpunk2077/mods/3822?tab=description)
+- [Misty Alternate Appearance (AMM Edition)](https://www.nexusmods.com/cyberpunk2077/mods/3843?tab=description)
+- [Judy Alternate Appearance (AMM Edition)](https://www.nexusmods.com/cyberpunk2077/mods/3753)
+- 
 
 BUGS
 -
