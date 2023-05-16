@@ -165,33 +165,3 @@ I have added these reshades below.
 
 **End** key to toggle main effects
 **Home** key to open GUI
-*Note If you don't want the optional mods skip this step.
-18) Select "show" optional mods then select "no thanks"
-
-Now you can choose which (OPTIONAL)  mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ (make sure to read these messages).
-
-In-game settings
-20) To use CET (Cyber Engine Tweaks) use F11 on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,3rd person camera, Vehicle camera and many more.
-21) I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and on our discord. Or here Keybinds
-22) ⛔ On the main menu go to the graphics tab and you will find "texture quality" Set this to "HIGH".
-
-NOW!!! Wake the f**k up, Samurai. We have a city to burn.   
-Please Endorse and Vote for the Collection.
-
-Reshade 
-ReShade comes with the collection once you have finished downloading it will be placed on the toolbar in the top left-hand corner of Vortex.
-1) Click on Reshade in the top corner.
-
-2) Select browse and find the "Cyberpunk2077.exe" and select it. (Locations below)
-Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk2077.exe
-GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk2077.exe
-Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe  
-3) Select Directx 10/11/12
-4) On the "select preset to install" select next
-5) Select next and finish the installation.
-6) Run the game
-I have added these reshades below.
-City of Dreams Reshade by v2
-Reshade controls
-End key to toggle main effects
-Home key to open GUI
