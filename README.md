@@ -50,10 +50,11 @@ I hope you enjoy this collection and the game as much as I do. Time for me to de
 - 500+ Mods in one click.
 - 200+ Clothing Mods Featuring 100s of clothes added to the Alteier Store.
 - 100+ Loading Screens.
-- 70+ Alteir Stores.    
+- 80+ Alteir Stores.    
 - 50+ Weapon and Armor Mods.
 - 50+ Body Mods for V and most Other NPCs.
-- 30+ Graphics & Texture Mods. 
+- 30+ Graphics & Texture Mods.
+- 20+ Custom apartment themes. 
 - 15+ Custom Vehcles.
 - Photo Mode Pose Packs. 
 - Gameplay mods & Tweaks.
@@ -406,9 +407,11 @@ Step into the captivating world of Edgerunners anime with this curated collectio
 - [Wannabe Edgerunner - A simple Cyberpsychosis mod](https://www.nexusmods.com/cyberpunk2077/mods/5646) ***(OPTIONAL)*** *Note Read more on the **"gameplay"** tab 
 - [Edgerunners Loading Screen Pack.](https://) ***(OPTIONAL)***
 - [Edgerunners- Rebecca's hairstyle haircolor](https://www.nexusmods.com/cyberpunk2077/mods/5418?tab=description) ***(OPTIONAL)***
-- [Edgerunners- David's Hairstyle](https://www.nexusmods.com/cyberpunk2077/mods/5311)
+- [Edgerunners- Rebecca's face cyberware](https://www.nexusmods.com/cyberpunk2077/mods/5524?tab=description) ***(OPTIONAL)***
+- [Edgerunners- David's Hairstyle](https://www.nexusmods.com/cyberpunk2077/mods/5311) ***(OPTIONAL)***
 - [Lucy Edgerunners Suit Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/5273)
 - [David Martinez Jacket Refited for Hyst Bodies mods](https://www.nexusmods.com/cyberpunk2077/mods/5155)
+- [David Martinez Pants](https://www.nexusmods.com/cyberpunk2077/mods/6984?tab=description)
 - [Edgerunners Location Additions](https://www.nexusmods.com/cyberpunk2077/mods/5428)
 - [Prime Edgerunners Station - RadioEXT](https://www.nexusmods.com/cyberpunk2077/mods/7614)
 - [QHD Edgerunner Braindance](https://www.nexusmods.com/cyberpunk2077/mods/8122)
@@ -671,6 +674,10 @@ UI Colours
 - Decorate Your House. 
 - Direct Your Actors.
 - 1500 Different poses.
+
+### Apartments
+
+- Choose from 20 custom themes for Vs apartments.
 
 ---
 
