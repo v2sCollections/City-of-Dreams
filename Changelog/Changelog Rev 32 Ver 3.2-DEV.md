@@ -19,7 +19,11 @@ REMEMBER TO DISABLE TELEMENTARY OR THE GAME WILL CRASH!!!
 - Replaced vanilla timeskip widget with the modded one from "Immersive timskip" 
 - Dead NPCs now take 5 minutes to become indestructible.
 - Fixed some E3 mods not being deployed correctly.
-- Added new munu screen.
+- Added new menu screen.
+- Added wallpaper for in game pc.
+- Added a new Altelier Store just for the collection now you can get the themed items in one store.
+- Changed config for "Better Headlights" they were to bright.
+- Changed the hotkey for the flaslight from T to Y and disabled controller support.
 
 Increased the chances to obtain the following items.
 - Ammo
@@ -47,6 +51,14 @@ UPDATED
 - [Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790?tab=description)
 - [Silver Breezy - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/7773?tab=description)
 - [Night City Interactions - Watson and Westbrook Drinks plus Edgerunners locales](https://www.nexusmods.com/cyberpunk2077/mods/5519?tab=description)
+- [Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780)
+- [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)
+- [The RVC00N Dumpster - Denny's Corset Shirt (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/7015)
+
+REMOVED
+-
+
+- [spawn0 - BETTER ICONS](https://www.nexusmods.com/cyberpunk2077/mods/2163?tab=description) Not lore friendly.
 
 NEW MODS ADDED 
 -
@@ -171,7 +183,10 @@ CLOTHES
 - [Jinguji Personal Shopping Service - Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/8318)
 - [John Wick Outfit - Black Shirt and Vest (ArchiveXL - Male AND Female V)](https://www.nexusmods.com/cyberpunk2077/mods/8329)
 - [Cowboy Bebop - Spike Spiegel Outfit - Jacket and Shirt (Archive XL - Male AND Female V)](https://www.nexusmods.com/cyberpunk2077/mods/8336)
-- [
+- [v2 - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/8342?tab=description)
+- [City of Dreams Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/8344?tab=description)
+- [MONSTERaider - Cyber Doll Remake ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/8060?tab=description)
+
 POSE PACKS
 - [PMU - Alt Set Vol 2](https://www.nexusmods.com/cyberpunk2077/mods/7835)
 - [PMU - Following the River](https://www.nexusmods.com/cyberpunk2077/mods/6338)
