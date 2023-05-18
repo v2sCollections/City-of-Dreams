@@ -77,6 +77,7 @@ GAMEPLAY
 - [Immersion patch - No crowd panic from stealth activity](https://www.nexusmods.com/cyberpunk2077/mods/7360?tab=description)
 - [Concept Little China](https://www.nexusmods.com/cyberpunk2077/mods/8165?tab=description)
 - [Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931?tab=description)
+- [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592?tab=description)
 
 COMBAT & WEAPONS
 - [Sticky Mines](https://www.nexusmods.com/cyberpunk2077/mods/4921?tab=description)

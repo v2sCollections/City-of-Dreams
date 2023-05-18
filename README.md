@@ -532,6 +532,20 @@ Support for other upscaled texture packs by [XilaMonstrr](https://www.nexusmods.
 
 ### **[UI Improvements Include](https://)**
 
+Limited HUD
+
+- Hides main HUD widgets by default and shows them only on certain events (configurable). Adds in-game widget toggle hotkeys and a bunch of optional files to tweak different HUD elements.
+- Journal Notifications Widgets: tweaks widget size and opacity for all kinds of journal and quest notifications, removes notification appearing sound as well (configurable)
+- Item Notifications Widgets: tweaks widget size and opacity for all kinds of items receiving notifications (including exp and money)
+- Notification Sounds: muting some ingame notifications
+- Hide Interaction Prompts: options to hide some basic interaction prompts
+- Widgets Remover: a few options to hide some UI widgets
+- Dialog Widget Resizer: allows to scale dialog widget size, by default scale value set to 1.0 so tweak it as you like
+- Fix Evolution Icons: fixes wrong icons for Power and Tech weapons used in info popups
+- No Marker Pulse: disables pulse animation for tracked markers
+- Enemy Highlighting: if enabled then enemy highlight effect will be visible only for non-friendly NPCs under Ping effect
+- Objects Coloring: allows to change or remove fill and outline glow coloring for different object categories (friendly and hostile NPCs, hackable devices, distractions etc.)
+
 Inventory
 
 - Iconic Items cannot be disassembled.
