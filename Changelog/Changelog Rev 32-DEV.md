@@ -1,7 +1,7 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 [UNRELEASED UPDATE]
 
-[HEY CHOOMS Rev 32 is here](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o/revisions/17?pk_campaign=ViewCollection&pk_source=vortex)
+[HEY CHOOMS Rev 32 is here](https://)
 -
 
 NOTES
@@ -251,4 +251,4 @@ MODS NOT WORKING AT THE MOMENT
 
 - [Let There Be Flight](https://www.nexusmods.com/cyberpunk2077/mods/5208)
 
-[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o/revisions/17?pk_campaign=ViewCollection&pk_source=vortex)
+[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
