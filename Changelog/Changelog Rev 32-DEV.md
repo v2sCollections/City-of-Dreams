@@ -1,3 +1,4 @@
+![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 [UNRELEASED UPDATE]
 
 [HEY CHOOMS Rev 32 is here](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o/revisions/17?pk_campaign=ViewCollection&pk_source=vortex)
