@@ -20,7 +20,7 @@ NEW MODS ADDED
 BUGS
 -
 
- [See bug channel on discord]((https://))
+ [See bug channel on discord](https://discord.gg/xZNztPjA2u)
 
 MODS NOT WORKING AT THE MOMENT 
 -

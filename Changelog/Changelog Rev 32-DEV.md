@@ -243,7 +243,7 @@ APARTMENT THEMES
 BUGS
 -
 
- [See bug channel on discord](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o/revisions/17?pk_campaign=ViewCollection&pk_source=vortex)
+ [See bug channel on discord](https://discord.gg/xZNztPjA2u)
  
 
 MODS NOT WORKING AT THE MOMENT 
