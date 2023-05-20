@@ -1,6 +1,6 @@
 [UNRELEASED UPDATE]
 
-[HEY CHOOMS Rev 32 Ver 3.2 is here](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o/revisions/17?pk_campaign=ViewCollection&pk_source=vortex)
+[HEY CHOOMS Rev 32 is here](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o/revisions/17?pk_campaign=ViewCollection&pk_source=vortex)
 -
 
 NOTES
@@ -39,6 +39,7 @@ Increased the chances to obtain the following items.
 UPDATED
 -
 
+- [In-World Navigation](https://www.nexusmods.com/cyberpunk2077/mods/4583) is back.
 - [RED4ext](https://www.nexusmods.com/cyberpunk2077/mods/2380)
 - [TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 - [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)
@@ -248,6 +249,5 @@ MODS NOT WORKING AT THE MOMENT
 -
 
 - [Let There Be Flight](https://www.nexusmods.com/cyberpunk2077/mods/5208)
-- [In-World Navigation](https://www.nexusmods.com/cyberpunk2077/mods/4583)
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o/revisions/17?pk_campaign=ViewCollection&pk_source=vortex)

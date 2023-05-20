@@ -53,8 +53,8 @@ I hope you enjoy this collection and the game as much as I do. Time for me to de
 - 80+ Alteir Stores.    
 - 50+ Weapon and Armor Mods.
 - 50+ Body Mods for V and most Other NPCs.
-- 30+ Graphics & Texture Mods.
-- 20+ Custom apartment themes. 
+- 20+ Custom apartment themes.
+- 30+ Graphics & Texture Mods. 
 - 15+ Custom Vehcles.
 - Photo Mode Pose Packs. 
 - Gameplay mods & Tweaks.
@@ -110,7 +110,9 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![img](https://i.imgur.com/JyLQDVe.png)
+## ![img](https://i.imgur.com/JyLQDVe.png)[READ](https://)
+
+- ⛔ It Is important that you **READ** the following Installation guide to fully understand everything clearly. It is a simple step by step guide.
 
 ## [Install time](https://)
 
@@ -213,6 +215,8 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 - When you see a pop-up titled **"Mod contains protected paths"** select **"Yes install to staging anyway"**
 - When you see a pop-up titled **"You have reached the fallback installer"** select **"Yes install to staging anyway"**
 - When you see a pop-up titled **"not an archive"** select **"create mod"**.
+- When you see a pop-up titled "**Mod installed but may need manual adjustment**" select "**Understood**".
+- When you see a pop-up titled "**Error**" select "**close**"
 - Throughout the install process, you will have some **"installer"** popups so that you can customize some mods to your liking.  
 
 ---
@@ -535,16 +539,16 @@ Support for other upscaled texture packs by [XilaMonstrr](https://www.nexusmods.
 Limited HUD
 
 - Hides main HUD widgets by default and shows them only on certain events (configurable). Adds in-game widget toggle hotkeys and a bunch of optional files to tweak different HUD elements.
-- Journal Notifications Widgets: tweaks widget size and opacity for all kinds of journal and quest notifications, removes notification appearing sound as well (configurable)
-- Item Notifications Widgets: tweaks widget size and opacity for all kinds of items receiving notifications (including exp and money)
-- Notification Sounds: muting some ingame notifications
-- Hide Interaction Prompts: options to hide some basic interaction prompts
-- Widgets Remover: a few options to hide some UI widgets
-- Dialog Widget Resizer: allows to scale dialog widget size, by default scale value set to 1.0 so tweak it as you like
-- Fix Evolution Icons: fixes wrong icons for Power and Tech weapons used in info popups
-- No Marker Pulse: disables pulse animation for tracked markers
-- Enemy Highlighting: if enabled then enemy highlight effect will be visible only for non-friendly NPCs under Ping effect
-- Objects Coloring: allows to change or remove fill and outline glow coloring for different object categories (friendly and hostile NPCs, hackable devices, distractions etc.)
+- **Journal Notifications Widgets**: tweaks widget size and opacity for all kinds of journal and quest notifications, removes notification appearing sound as well (configurable)
+- **Item Notifications Widgets**: tweaks widget size and opacity for all kinds of items receiving notifications (including exp and money)
+- **Notification Sounds**: muting some ingame notifications
+- **Hide Interaction Prompts**: options to hide some basic interaction prompts
+- **Widgets Remover**: a few options to hide some UI widgets
+- **Dialog Widget Resizer**: allows to scale dialog widget size, by default scale value set to 1.0 so tweak it as you like
+- **Fix Evolution Icons**: fixes wrong icons for Power and Tech weapons used in info popups
+- **No Marker Pulse**: disables pulse animation for tracked markers
+- **Enemy Highlighting**: if enabled then enemy highlight effect will be visible only for non-friendly NPCs under Ping effect
+- **Objects Coloring:** allows to change or remove fill and outline glow coloring for different object categories (friendly and hostile NPCs, hackable devices, distractions etc.)
 
 Inventory
 
@@ -992,10 +996,13 @@ If you enjoy this collection, **PLEASE** endorse the mod authors and Support me 
 
 I'm looking for team members with the knowledge and time to help me build this collection join the discord to fill out an application.
 
-Special thanks to these chooms who helped make this collection preem . And everyone on the Nexus & The Cyberpunk modding Discords.
+Special thanks to these chooms who helped make this collection preem . And everyone on the Nexus & The Cyberpunk modding Discords. 
 
 - [canliberk](https://www.nexusmods.com/users/5027009)   
 - [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)
+- gknova-2
+- Starfox
+- Jeridlee
 
 And all the teams and modders behind all the tools that make cyberpunk 2077 modding possible.
 
