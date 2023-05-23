@@ -14,6 +14,7 @@ REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!!
 REMEMBER TO DISABLE TELEMENTARY OR THE GAME WILL CRASH!!!
 
 - Added details to the description.
+- Added a Youtube guide for the collection.
 - New altlier shops added with 100s of new clothes.
 - New pose packs with 100s of new poses.
 - New Vehicles
@@ -21,9 +22,9 @@ REMEMBER TO DISABLE TELEMENTARY OR THE GAME WILL CRASH!!!
 - Dead NPCs now take 5 minutes to become indestructible.
 - Fixed some E3 mods not being deployed correctly.
 - Added new menu screen.
-- Added wallpaper for in game pc.
+- Added wallpaper for the in game pc.
 - Added a new Altelier Store just for the collection now you can get the themed items in one store.
-- Changed config for "Better Headlights" they were to bright.
+- Changed the config for "Better Headlights" they were to bright.
 - Changed the hotkey for the flaslight from T to Y and disabled controller support.
 
 Increased the chances to obtain the following items.
@@ -56,6 +57,9 @@ UPDATED
 - [Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780)
 - [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 - [The RVC00N Dumpster - Denny's Corset Shirt (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/7015)
+- [Zwei Custom PMU Pose Packs - Core](https://www.nexusmods.com/cyberpunk2077/mods/7165?tab=description)
+- [Enhanced Craft](https://www.nexusmods.com/cyberpunk2077/mods/4378)
+- [Alvarix Custom Store - Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4602)
 
 REMOVED
 -
@@ -67,10 +71,7 @@ NEW MODS ADDED
 
 GAMEPLAY
 - [TV Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/8162)
-- [No Camera Auto Centering](https://www.nexusmods.com/cyberpunk2077/mods/2169?tab=description)
-- [Muted Markers](https://www.nexusmods.com/cyberpunk2077/mods/1727?tab=description)
 - [Mark To Sell](https://www.nexusmods.com/cyberpunk2077/mods/4725?tab=description)
-- [Relic Effect Periods](https://www.nexusmods.com/cyberpunk2077/mods/5113?tab=description)
 - [Holster By Hotkey](https://www.nexusmods.com/cyberpunk2077/mods/1904?tab=description)
 - [Game Time Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/870)
 - [Simple untrack quest](https://www.nexusmods.com/cyberpunk2077/mods/5177?tab=description)
@@ -79,6 +80,12 @@ GAMEPLAY
 - [Immersion patch - No crowd panic from stealth activity](https://www.nexusmods.com/cyberpunk2077/mods/7360?tab=description)
 - [Concept Little China](https://www.nexusmods.com/cyberpunk2077/mods/8165?tab=description)
 - [Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931?tab=description)
+
+GRAPHICS
+- [HQ Food - Fries - Better Quality Models and Textures](https://www.nexusmods.com/cyberpunk2077/mods/4818?tab=description)
+- [Muted Markers](https://www.nexusmods.com/cyberpunk2077/mods/1727?tab=description)
+- [Relic Effect Periods](https://www.nexusmods.com/cyberpunk2077/mods/5113?tab=description)
+- [No Camera Auto Centering](https://www.nexusmods.com/cyberpunk2077/mods/2169?tab=description)
 - [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592?tab=description)
 
 COMBAT & WEAPONS
@@ -90,7 +97,7 @@ COMBAT & WEAPONS
 - [Guaranteed dismemberment](https://www.nexusmods.com/cyberpunk2077/mods/3694?tab=description)
 - [StatTrack Malorian Arms 3516](https://www.nexusmods.com/cyberpunk2077/mods/3994?tab=description)
 
-Vehicles
+VEHICLES
 - [Quadra Turbo K.S Edition](https://www.nexusmods.com/cyberpunk2077/mods/8260?tab=description)
 - [Type-66 DUSK Standalone](https://www.nexusmods.com/cyberpunk2077/mods/8009?tab=description)
 - [Arch Nasare Itsumade Black Devil](https://www.nexusmods.com/cyberpunk2077/mods/7980?tab=description)
@@ -104,6 +111,7 @@ Vehicles
 - [Type-66 MIDNIGHT Standalone](https://www.nexusmods.com/cyberpunk2077/mods/8288?tab=description)
 - [Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034?tab=description)
 - [Authentic Shift Audio Gear Ratios (Standalone or Cyber Vehicle Overhaul)](https://www.nexusmods.com/cyberpunk2077/mods/6823?tab=description)
+- ['67 Chevrolet Impala](https://www.nexusmods.com/cyberpunk2077/mods/8373?tab=description)
 
 CLOTHES
 - [Boot Pants for V](https://www.nexusmods.com/cyberpunk2077/mods/5095)
@@ -189,8 +197,11 @@ CLOTHES
 - [v2 - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/8342?tab=description)
 - [City of Dreams Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/8344?tab=description)
 - [MONSTERaider - Cyber Doll Remake ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/8060?tab=description)
+- [XRX Led Leotard Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8367?tab=description)
+- [Caldos Ripper (PinkyDude's Virtual Atelier Store)](https://www.nexusmods.com/cyberpunk2077/mods/8378?tab=description)
+- [
 
-POSE PACKS
+ POSE PACKS
 - [PMU - Alt Set Vol 2](https://www.nexusmods.com/cyberpunk2077/mods/7835)
 - [PMU - Following the River](https://www.nexusmods.com/cyberpunk2077/mods/6338)
 - [PMU - Zwei Custom Poses - Rockergirl Set](https://www.nexusmods.com/cyberpunk2077/mods/7441)
@@ -205,6 +216,7 @@ POSE PACKS
 - [Zwei Custom PMU Pose Packs - MascV - Core](https://www.nexusmods.com/cyberpunk2077/mods/7763)
 - [PMU - Never Fade Away Vol.1](https://www.nexusmods.com/cyberpunk2077/mods/5229?tab=description)
 - [PMU - Evelyn Set](https://www.nexusmods.com/cyberpunk2077/mods/5663?tab=description)
+- [PMU - Sitting Poses - FemV](https://www.nexusmods.com/cyberpunk2077/mods/8361?tab=description)
 - [Expressive Female V - 1.5](https://www.nexusmods.com/cyberpunk2077/mods/4086?tab=description)
 
 CATS
@@ -239,6 +251,9 @@ APARTMENT THEMES
 - [Street Kid Thrash Apartment V2](https://www.nexusmods.com/cyberpunk2077/mods/3352)
 - [Street Kid Techie Apartment V2](https://www.nexusmods.com/cyberpunk2077/mods/3351)
 - [Corpo Zen Apartment](https://www.nexusmods.com/cyberpunk2077/mods/3311)
+
+BODY
+- [Caldos Ripper - Armpits Hair (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8379?tab=description)
 
 BUGS
 -
