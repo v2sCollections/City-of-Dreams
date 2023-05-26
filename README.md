@@ -138,21 +138,13 @@ I hope you enjoy this collection and the game as much as I do. Time for me to de
 
 ## ![img](https://i.imgur.com/vKOjnBL.png)[Make a Backup Save](https://)
 
-*   Mods for
-
-    **Cyberpunk 2077**
-
-    are pretty reliable but it's always good to make a backup of your save file. Save files can be found here>
+*   Mods for**Cyberpunk 2077 **are pretty reliable but it's always good to make a backup of your save file. Save files can be found here>
 
     *C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077*
 
     just copy the contents of this file and place it somewhere on your pc.
 
-*   This collection features
-
-    **ADULT**
-
-    mods and you should be 18+ to use it.
+*   This collection features**ADULT **mods and you should be 18+ to use it.
 
 ## [Collection not working?  ](https://)
 
@@ -168,39 +160,39 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [READ](https://)
 
-*   ⛔ It Is important that you
+*   ⛔ It Is important that you 
 
     **READ**
 
-    the following Installation guide to fully understand everything clearly.
+     the following Installation guide to fully understand everything clearly.
 
-*   **⛔ DO NOT**
+*   ⛔ 
 
-    use a pirated game. It is against Nexus rules and is illegal and i will not provide any support.
+    **DO NOT**
+
+     use a pirated game. It is against Nexus rules and is illegal and i will not provide any support.
 
 ## [Updating Collection](https://)[   ](https://)
 
 *   **⛔**
 
-    Updating the collection is as easy as clicking the
+    Updating the collection is as easy as clicking the**"Update" **button. When prompted to "
 
-    **"Update"**
+    **Remove mods from old revision**
 
-    button. When prompted to
+    " make sure to click the"
 
-    **"Remove mods from old revision"**
+    **Remove All**
 
-    make sure to click the
+    " button.
 
-    **"Remove All"**
+*   ⛔ 
 
-    button.
+    **DO NOT**
 
-*   **⛔ DO NOT**
+     update any of the mods in this collection individually in 
 
-    update any of the mods in this collection individually in
-
-    **Vortex**
+    **Vortex **
 
     when a mod gets updated we will update the collection.
 
@@ -216,11 +208,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## ![img](https://i.imgur.com/JyLQDVe.png)[READ](https://)
 
-*   ⛔ It Is important that you
-
-    **READ**
-
-    the following Installation guide to fully understand everything clearly. It is a simple step-by-step guide.
+*   ⛔ It Is important that you**READ **the following Installation guide to fully understand everything clearly. It is a simple step-by-step guide.
 
 ## [Install time](https://)
 
@@ -251,11 +239,7 @@ https://www.youtube.com/watch?v=RnBCh7Y3mxg
 
     .
 
-2.  You need to create a mod folder go to the following location
-
-    **(Locations below)**
-
-    and create a folder named mod. When done should look as follows.
+2.  You need to create a mod folder go to the following location**(Locations below) **and create a folder named mod. When done should look as follows.
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk 2077\archive\pc\mod
@@ -275,7 +259,9 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 1.  You will need
 
-    **Vortex**
+    [Vortex](https://www.nexusmods.com/site/mods/1)
+
+    ***
 
     mod manager downloaded and installed you can find it from the link below. If you already have Vortex skip this step.
 
@@ -313,19 +299,11 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 11 ) On your main Vortex window, it will now show an icon for **"Cyberpunk 2077"** showing that it is a managed game in Vortex.
 
-1.  Go to the settings and on the mods tab check
-
-    **"automatically use suggested path for staging folder"**
-
-    then check "
+1.  Go to the settings and on the mods tab check**"automatically use suggested path for staging folder" **then check "
 
     **suggest and "apply".**
 
-2.  On the same window select
-
-    **"hard link deployment"**
-
-    and check
+2.  On the same window select**"hard link deployment" **and check
 
     **"apply".**
 
@@ -335,11 +313,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ## [Disabling REDmod Autoconversion](https://)
 
-1.  ⛔ While still in settings go to the "
-
-    **V2077 Settings"**
-
-    tab and make sure that REDmod Autoconvert is disabled as shown in the picture below.
+1.  ⛔ While still in settings go to the "**V2077 Settings" **tab and make sure that REDmod Autoconvert is disabled as shown in the picture below.
 
 ![](https://s11.gifyu.com/images/Untitle44d.jpg)
 
@@ -367,11 +341,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 1.  These may pop up in Vortex as you are downloading the collection.
 
-*   When you see a pop-up titled
-
-    **"Mod contains protected paths"**
-
-    select
+*   When you see a pop-up titled**"Mod contains protected paths" **select
 
     **"Yes install to staging anyway"**
 
@@ -413,11 +383,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
     "
 
-*   Throughout the installation process, you will have some
-
-    **"installer"**
-
-    popups so that you can customize some mods to your liking.
+*   Throughout the installation process, you will have some**"installer" **popups so that you can customize some mods to your liking.
 
 ***
 
@@ -425,11 +391,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 \***Note** If you don't want the optional mods skip this step.
 
-1.  Select
-
-    **"show"**
-
-    optional mods then select
+1.  Select**"show" **optional mods then select
 
     **"no thanks"**
 
@@ -441,29 +403,13 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ## [In-game settings](https://)
 
-1.  To use
-
-    **CET**
-
-    (
-
-    **Cyber Engine Tweaks)**
-
-    use
-
-    **F11**
-
-    on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,3rd person camera, Vehicle camera and many more.
+1.  To use**CET **(**Cyber Engine Tweaks) **use**F11 **on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,3rd person camera, Vehicle camera and many more.
 
 2.  I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and on our discord. Or here
 
     [Keybinds](https://github.com/MRGHIA88V2/City-of-Dreams/blob/f4b254dc31b142ce6e733cf321e1f28b218a3d1c/Keybinds.md)
 
-3.  ⛔ On the main menu go to the graphics tab and you will find
-
-    **"texture quality"**
-
-    Set this to
+3.  ⛔ On the main menu go to the graphics tab and you will find**"texture quality" **Set this to
 
     **"HIGH".**
 
@@ -546,11 +492,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 1.  Check the install guide and make sure you followed the instructions.
 
-2.  Make sure you have gone to the settings menu and turned off
-
-    **"Enable Analytics"**
-
-    on the gameplay tab.
+2.  Make sure you have gone to the settings menu and turned off**"Enable Analytics" **on the gameplay tab.
 
 3.  Perform a Cyberclean.
 
@@ -582,11 +524,7 @@ Always double-check Vortex to make sure it uninstalled/installed something prope
 
 ![](https://s12.gifyu.com/images/Cyberclean.jpg)
 
-1.  Go to the following location and delete the
-
-    **"mod"**
-
-    folder. If you don't see it that's fine.
+1.  Go to the following location and delete the**"mod" **folder. If you don't see it that's fine.
 
 ```
 Steam> Drive Letter:\Games\Steam\steamapps\common\Cyberpunk 2077\archive\pc\mod
@@ -842,19 +780,7 @@ Step into the captivating world of Edgerunners anime with this curated collectio
 
 ⛔ Note that some of these will eat your vram i recommend a min 8gb GPU but even then depending on your settings vanilla cyberpunk will eat 8gb. If you notice stuttering or any texture issues then disable a few of the (surfaces mods) in vortex.
 
-Support for other upscaled texture packs by [XilaMonstrr](https://www.nexusmods.com/users/126616023)
-
-*   [High-Res Graphics Pack - MAXIMUM](https://next.nexusmods.com/cyberpunk2077/collections/g0tcm4)
-
-    ⛔
-
-    **(Mid to High-end Pc)**
-
-*   [High-Res Graphics Pack - PERFORMANCE](https://next.nexusmods.com/cyberpunk2077/collections/devnx1)
-
-    ⛔
-
-    **(Mid to Low-end Pc)**
+You can use my 4k add on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high end systems only 10gb Vram+)**
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -1548,6 +1474,8 @@ Upgraded/Tweaked cyberware
 
 *   V can change the colours of the neon lights on all motorbikes.
 
+*   Displays in-world holographic arrows for quest/point of interest navigation, mirroring the dots in the minimap.
+
 *   **I**
 
     t will now cost Eddies to summon your vehicle.
@@ -1654,23 +1582,9 @@ Upgraded/Tweaked cyberware
 
 ## ![img](https://i.imgur.com/sLuJj5J.png)
 
-These collections are not curated by me. Please do not forget that when you install any extra collections, it's your responsibility and they may not work as intended.
+Please do not forget that when you install any extra collections, it's your responsibility and they may not work as intended unless curated by me.
 
-*   1️⃣
-
-    [High-Res Graphics Pack - MAXIMUM](https://next.nexusmods.com/cyberpunk2077/collections/g0tcm4)
-
-*   1️⃣
-
-    [High-Res Graphics Pack - PERFORMANCE](https://next.nexusmods.com/cyberpunk2077/collections/devnx1)
-
-Installation.
-
-1.  ⛔ After installing either of the collections above you need to disable the
-
-    ["HD Intro Video - Upscaled"](https://www.nexusmods.com/cyberpunk2077/mods/7358?tab=description)
-
-    mod from the collection just search for it in Vortex and select disable.
+You can use my 4k add on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high end systems only 10gb Vram+)** [City of Dreams 4k Graphics Pack by v2](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp).
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
