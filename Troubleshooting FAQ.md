@@ -17,19 +17,35 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 1) Check the install guide and make sure you followed the instructions.
 
-2) Make sure you have no additional mods installed there is a limit to the number of archives you can have before the game will crash.
+2) Perform a Cyberclean.
 
-3) Perform a Cyberclean.
+## [My game crashes at the "breaching screen" ❓](https://)
+
+You need to disable "Analytics"
+
+1) Purge the mods in Vortex
+
+2)Launch the game 
+
+3) Go to the settings menu and on the gameplay tab disable Analytics.
 
 ## [My character and some female NPCs have weird texture lines on them ](https://)❓
 
-Your texture quality needs to be set to **"HIGH"** in the graphics tab in the main menu.
+You need to set the texture quality to **"HIGH"**
+
+**Note** This setting doesnt show when in game you must be in the main menu.
+
+1)Launch the game 
+
+2) Go to the settings menu and on the graphics tab set texture quality to high.
 
 ## [Cyberclean](https://)  
 
 Always double-check Vortex to make sure it uninstalled/installed something properly during an update. If you are having any issues with crashing or mods not loading you can do the following.
 
 1) Purge mods in Vortex
+
+![](https://s11.gifyu.com/images/Purge-Deploiy.jpg)
 
 2) Go to where cyberpunk2077 is installed and delete these 4 folders /**bin** / **engine** / **r6** / **red4ext**
 
