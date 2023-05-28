@@ -25,7 +25,7 @@ You need to disable "Analytics"
 
 1) Purge the mods in Vortex
 
-2)Launch the game 
+2) Launch the game 
 
 3) Go to the settings menu and on the gameplay tab disable Analytics.
 
@@ -35,7 +35,7 @@ You need to set the texture quality to **"HIGH"**
 
 **Note** This setting doesnt show when in game you must be in the main menu.
 
-1)Launch the game 
+1) Launch the game 
 
 2) Go to the settings menu and on the graphics tab set texture quality to high.
 
