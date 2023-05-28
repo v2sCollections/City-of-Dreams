@@ -138,7 +138,7 @@ I hope you enjoy this collection and the game as much as I do. Time for me to de
 
 ## ![img](https://i.imgur.com/vKOjnBL.png)[Make a Backup Save](https://)
 
-*   Mods for**Cyberpunk 2077 **are pretty reliable but it's always good to make a backup of your save file. Save files can be found here>
+*   Mods for Cyberpunk 2077 are pretty reliable but it's always good to make a backup of your save file. Save files can be found here>
 
     *C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077*
 
@@ -162,21 +162,21 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 *   ⛔ It Is important that you 
 
-    **READ**
+    **READ **
 
-     the following Installation guide to fully understand everything clearly.
+    the following Installation guide to fully understand everything clearly.
 
-*   ⛔ 
+*   ⛔
 
     **DO NOT**
 
-     use a pirated game. It is against Nexus rules and is illegal and i will not provide any support.
+    use a pirated game. It is against Nexus rules and is illegal and i will not provide any support.
 
 ## [Updating Collection](https://)[   ](https://)
 
 *   **⛔**
 
-    Updating the collection is as easy as clicking the**"Update" **button. When prompted to "
+    Updating the collection is as easy as clicking the "Update" button. When prompted to "
 
     **Remove mods from old revision**
 
@@ -186,15 +186,11 @@ If you see this> ⛔ then you need to read and follow the directions.
 
     " button.
 
-*   ⛔ 
+*   ⛔
 
     **DO NOT**
 
-     update any of the mods in this collection individually in 
-
-    **Vortex **
-
-    when a mod gets updated we will update the collection.
+    update any of the mods in this collection individually in**Vortex **when a mod gets updated we will update the collection.
 
 *   Notes will be in the changelog.
 
@@ -208,16 +204,22 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## ![img](https://i.imgur.com/JyLQDVe.png)[READ](https://)
 
-*   ⛔ It Is important that you**READ **the following Installation guide to fully understand everything clearly. It is a simple step-by-step guide.
+*   ⛔ It Is important that you
+
+    **READ**
+
+    the following Installation guide to fully understand everything clearly. It is a simple step-by-step guide.
 
 ## [Install time](https://)
+
+This is a large collection i recommend purchasing a nexus premium account even just for 1 month to install the collection it will make installation much easier. And you can just cancel the subscription asfter the installation if you wish.
 
 **Premium Users**: Takes 1.5 hours + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
 **Free Users:** Takes 2 to 2.5 hours + Semi-automatic. You will have to click on download for each mod one by one.
 
 ***
 
-##
+## WATCH THE INSTALL GUIDE CHOOM
 
 https://www.youtube.com/watch?v=RnBCh7Y3mxg
 
@@ -230,6 +232,8 @@ https://www.youtube.com/watch?v=RnBCh7Y3mxg
 *   Make sure that you have the latest Desktop Runtime >
 
     [HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
+
+***
 
 ## [Cyberpunk2077](https://)
 
@@ -260,8 +264,6 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 1.  You will need
 
     [Vortex](https://www.nexusmods.com/site/mods/1)
-
-    ***
 
     mod manager downloaded and installed you can find it from the link below. If you already have Vortex skip this step.
 
@@ -403,9 +405,13 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ## [In-game settings](https://)
 
-1.  To use**CET **(**Cyber Engine Tweaks) **use**F11 **on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,3rd person camera, Vehicle camera and many more.
+1.  To use CET (Cyber Engine Tweaks)
 
-2.  I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and on our discord. Or here
+    **use**
+
+    F11 on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,3rd person camera, Vehicle camera and many more.
+
+2.  I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and on our discord. Or here 
 
     [Keybinds](https://github.com/MRGHIA88V2/City-of-Dreams/blob/f4b254dc31b142ce6e733cf321e1f28b218a3d1c/Keybinds.md)
 
@@ -492,9 +498,11 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 1.  Check the install guide and make sure you followed the instructions.
 
-2.  Make sure you have gone to the settings menu and turned off**"Enable Analytics" **on the gameplay tab.
+2.  Perform a Cyberclean.
 
-3.  Perform a Cyberclean.
+## [My game is crashing at the breaching screen](https://) ❓
+
+1.  Make sure you have gone to the settings menu and turned off "Enable Analytics" on the gameplay tab.
 
 ## [My character and some female NPCs have weird texture lines on them ](https://)❓
 
@@ -506,7 +514,9 @@ Always double-check Vortex to make sure it uninstalled/installed something prope
 
 1.  Purge mods in Vortex
 
-2.  Go to where cyberpunk2077 is installed and delete these 4 folders /
+![](https://s11.gifyu.com/images/Purge-Deploiy.jpg)
+
+1.  Go to where cyberpunk2077 is installed and delete these 4 folders /
 
     **bin**
 
@@ -524,7 +534,7 @@ Always double-check Vortex to make sure it uninstalled/installed something prope
 
 ![](https://s12.gifyu.com/images/Cyberclean.jpg)
 
-1.  Go to the following location and delete the**"mod" **folder. If you don't see it that's fine.
+1.  Go to the following location and delete the "mod" folder. If you don't see it that's fine.
 
 ```
 Steam> Drive Letter:\Games\Steam\steamapps\common\Cyberpunk 2077\archive\pc\mod
