@@ -103,3 +103,13 @@ Alternatively you can disable the mod through the in game mod menus.
 
 ![](https://s11.gifyu.com/images/3rd-person.jpg)
 
+## [Checking for old mods or mods that arnt part of the collection](https://)
+
+We can filter mods in Vortex from a variety of options we are going to use the collections filter this is helpfull to find old mods or mods that are not part of the collection.
+
+1) Open Vortex and on the mods tab in the right hand corner select the settings cog. Now select collection.
+ 
+2) Now you can filter "none" and see the mods that arnt in the collection.
+
+![](https://s11.gifyu.com/images/Su3mn.png)
+
