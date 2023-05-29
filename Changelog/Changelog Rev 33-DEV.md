@@ -29,6 +29,8 @@ UPDATED
 - [Apartment Cats - The Glen (Nali)](https://www.nexusmods.com/cyberpunk2077/mods/6276)
 - [Apartment Cats - Motel (Jack)](https://www.nexusmods.com/cyberpunk2077/mods/6379)
 - [Apartment Cats - Japantown (Elmo)](https://www.nexusmods.com/cyberpunk2077/mods/6493)
+- [City of Dreams Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/8344)
+- [Always First Equip](https://www.nexusmods.com/cyberpunk2077/mods/2557?tab=description)
 
 
 REMOVED
@@ -63,7 +65,7 @@ CLOTHES
 - [XRX Latex Gloves MascV Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8395?tab=description)
 - [Ziva Jewelry Navel Piercing](https://www.nexusmods.com/cyberpunk2077/mods/8411?tab=description)
 - [The RVC00N Dumpster - Ripped Tank (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8426?tab=description)
-
+- [LUCY - LAST LINE](https://www.nexusmods.com/cyberpunk2077/mods/8403?tab=description)
 
 POSE PACKS
 -
