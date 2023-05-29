@@ -3,6 +3,8 @@
 
 These can be configured in game but ive configured them to get you started. These are setup for a full size KB.
 
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
+
 ###  CUSTOM QUICKSLOTS
 
 - 3> Slot 1 
@@ -12,11 +14,13 @@ These can be configured in game but ive configured them to get you started. Thes
 - 7>  Slot 5
 - 8>  Slot 6
 
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ### CET 
 
 - F11>  Overlay
 
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ### JB THIRD PERSON
 
@@ -24,11 +28,13 @@ These can be configured in game but ive configured them to get you started. Thes
 - C>  Change Camera
 - R>  Reset Camera
 
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ### NO CLIP
 
 - SCRLK> Noclip
 
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ### NANO DRONE
 
@@ -40,32 +46,38 @@ These can be configured in game but ive configured them to get you started. Thes
 - SPACE> Up
 - CAPSLK> Down
 
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ### ZOMMABLE SCOPES
 
 - CTRL> Zoom
 
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ### RESHADE
 
 - HOME>  UI
 - END> Toggle Reshade
 
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ### IMMERSIVE TIMESKIP
 
 - O> Timeskip UI
 
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ### HOLD TO HOLSTER
 
 - HOLD Reload> Holster
 
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ### Night Vision
 
 - F3> Night Vision
 
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ### Limited HUD - Hotkeys
 
@@ -74,7 +86,10 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 - Y> Global Toggle Global hotkey which you can use to toggle visibility for any module combination by your choice. By default it toggles Minimap, Quest Tracker and Quest Markers modules.
 - L> Minimap Toggle 
 
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ### Flashlight
 
 - U> Toggle Flaslight 
+
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
