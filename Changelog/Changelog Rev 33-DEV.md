@@ -62,7 +62,8 @@ CLOTHES
 - [(Silver Six Store) Aranea's Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8414?tab=description)
 - [XRX Latex Gloves MascV Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8395?tab=description)
 - [Ziva Jewelry Navel Piercing](https://www.nexusmods.com/cyberpunk2077/mods/8411?tab=description)
-- [
+- [The RVC00N Dumpster - Ripped Tank (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8426?tab=description)
+
 
 POSE PACKS
 -
