@@ -5,7 +5,20 @@
 
 ## FAQ
 
-## [Where is the game located ](https://) ❓
+![img](https://i.imgur.com/wAJUpeU.png)
+
+## Contents
+1) Where is the game located 
+2) My game is crashing on startup
+3) My game crashes at the "breaching screen
+4) My character and some female NPCs have weird texture lines on them
+5) I get a message at the main menu saying that mods could not be loaded like in the picture below
+6) The Camera is locked i cant move up/down
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+## [Where is the game located](https://) ❓
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk2077.exe
@@ -36,7 +49,7 @@ You need to disable "Analytics"
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## [My character and some female NPCs have weird texture lines on them ](https://)❓
+## [My character and some female NPCs have weird texture lines on them](https://)❓
 
 You need to set the texture quality to **"HIGH"**
 
@@ -45,34 +58,6 @@ You need to set the texture quality to **"HIGH"**
 1) Launch the game 
 
 2) Go to the settings menu and on the graphics tab set texture quality to high.
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-## [Cyberclean](https://)  
-
-Always double-check Vortex to make sure it uninstalled/installed something properly during an update. If you are having any issues with crashing or mods not loading you can do the following.
-
-1) Purge mods in Vortex
-
-![](https://s11.gifyu.com/images/Purge-Deploiy.jpg)
-
-2) Go to where cyberpunk2077 is installed and delete these 4 folders /**bin** / **engine** / **r6** / **red4ext**
-
-![](https://s12.gifyu.com/images/Cyberclean.jpg)
-
-3) Go to the following location and delete the **"mod"** folder. If you don't see it that's fine.
-
-```
-Steam> Drive Letter:\Games\Steam\steamapps\common\Cyberpunk 2077\archive\pc\mod
-GOG>   Drive Letter:\Games\Cyberpunk 2077\archive\pc\mod
-Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod  
-```
-
-4) Verify game files inside your launcher.
-
-5) Deploy mods in Vortex.
-
-6) Launch the game and see if the problem is resolved.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -118,15 +103,5 @@ Alternatively you can disable the mod through the in game mod menus.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## [Checking for old mods or mods that arnt part of the collection](https://)
 
-We can filter mods in Vortex from a variety of options we are going to use the collections filter this is helpfull to find old mods or mods that are not part of the collection.
-
-1) Open Vortex and on the mods tab in the right hand corner select the settings cog. Now select collection.
- 
-2) Now you can filter "none" and see the mods that arnt in the collection.
-
-![](https://s11.gifyu.com/images/Su3mn.png)
-
-![img](https://i.imgur.com/wAJUpeU.png)
 
