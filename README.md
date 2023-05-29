@@ -106,6 +106,8 @@ I hope you enjoy this collection and the game as much as I do. Time for me to de
 
 *   20+ Photo Mode Pose Packs.
 
+*   Custom Vehicle Tuning.
+
 *   Gameplay mods & Tweaks.
 
 *   Bug fixes.
@@ -160,11 +162,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [READ](https://)
 
-*   ⛔ It Is important that you 
-
-    **READ **
-
-    the following Installation guide to fully understand everything clearly.
+*   ⛔ It Is important that you**READ **the following Installation guide to fully understand everything clearly.
 
 *   ⛔
 
@@ -411,7 +409,7 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
     F11 on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,3rd person camera, Vehicle camera and many more.
 
-2.  I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and on our discord. Or here 
+2.  I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and on our discord. Or here
 
     [Keybinds](https://github.com/MRGHIA88V2/City-of-Dreams/blob/f4b254dc31b142ce6e733cf321e1f28b218a3d1c/Keybinds.md)
 
@@ -502,11 +500,23 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 ## [My game is crashing at the breaching screen](https://) ❓
 
-1.  Make sure you have gone to the settings menu and turned off "Enable Analytics" on the gameplay tab.
+You need to disable "Analytics"
+
+1.  Purge the mods in Vortex
+
+2.  Launch the game
+
+3.  Go to the settings menu and on the gameplay tab disable Analytics.
 
 ## [My character and some female NPCs have weird texture lines on them ](https://)❓
 
-Your texture quality needs to be set to **"HIGH"** in the graphics tab in the main menu.
+You need to set the texture quality to "HIGH"
+
+**Note** This setting doesnt show when in game you must be in the main menu.
+
+1.  Launch the game
+
+2.  Go to the settings menu and on the graphics tab set texture quality to high.
 
 ## [Cyberclean](https://)
 
@@ -802,10 +812,6 @@ You can use my 4k add on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 
 *   V can now slide sideways. More flexibility on the slide's trajectory. Improves camera control when sliding. Prevents stairs and small obstacles like sidewalks from cancelling the slide.
 
-*   V can now wall jump/wall bounce.
-
-*   You can control Vs movement direction midair while jumping and double jumping.
-
 *   The custom Level cap allows you to keep levelling up past level 50.
 
 *   Using healing items builds up your "Toxicity" until you "Overdose", requiring you to wait for the effect to wear off before using more inhalers/injectors.
@@ -816,9 +822,63 @@ You can use my 4k add on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 
 *   Third-person mode.
 
+***
+
+### Alternative Midair Movement and Walljumping
+
+https://www.youtube.com/watch?v=JtPB9BjaAbE
+
+[Alternative Midair Movement and Walljumping](https://www.nexusmods.com/cyberpunk2077/mods/5160?tab=description) by [DemiGoD715](https://www.nexusmods.com/cyberpunk2077/users/30144935).
+
+### Features
+
+> Allows the player to control the character midair while jumping and double jumping (no different types of leg cyberware supported yet). Adds "wallbouncing/walljumping" inspired by an Apex Legends movement mechanic, which means you can bounce back from a wall when directly looking at it and pressing/holding jump. Made the player slow down in the air if not pressing any movement keys to allow for a lot more precise landing than vanilla. Controller is supported and most things are configurable with [Native Settings UI](https://www.nexusmods.com/cyberpunk2077/mods/3518)
+
+**How to walljump:**
+
+Walljumping is triggered when the player is:
+
+1.  in the air.
+
+2.  looking directly forward at a solid surface which is right in front of the player character.
+
+3.  holding down the jump button.
+
+*   You need to stop moving forward (let go of forward key or pull back analog stick) in order to not go back directly at the wall right after the walljump.
+
+*   You can instantly redirect your walljump in a backwards diagonal left/right direction if you press left or right movement keys at the moment you walljump.
+
+*   Redirecting the wallbounce direction is possible in general with camera positioning and movement keys, similar to regular midair movement (its strength is boosted to feel more fluid, but it needs some practice to get the hang of it)
+
+**Walljump usage with double jump:**
+
+*   If you don't want to double jump at all, **HOLD **the jump button from the ground to only walljump.
+
+*   If you want to double jump after a wall jump, **HOLD **the jump button from the ground -> walljump -> release the jump key -> press the jump key again to double jump.
+
+*   Double jump will be used up when** pressing instead of holding** the jump key, but I compensated this with increasing the jump height, so it becomes a feature instead of a bug.\
+
+**How to control midair movement:**
+
+*   As a general rule of thumb, you'll be able to push the character in the direction you are pressing the movement keys and turning the camera affects the direction too.
+
+*   After jumping hold Forward + Left/Right and turn your mouse in the same direction to make a wide arc.
+
+*   After jumping let go of Forward and hold Left/Right and turn your mouse in the same direction to make a sharper turn.
+
+*   With source engine movement you can also tap strafe, which is rapidly pressing the movement keys in the air to drastically change your movement direction.
+
+*   If you let go of every movement key (WASD) the character will start **slowing down, **you can also slow down faster by moving backwards but keep in mind the character will actually start moving backwards once the forward momentum is gone.
+
+***
+
 ### Wannabe Edgerunner **Cyberpsychosis**
 
-> [Adds a very basic Humanity Cost system for cyberware implants as well as a few low Humanity side-effects including cyberpsychosis.](https://)
+###
+
+### Features
+
+> Adds a very basic Humanity Cost system for cyberware implants as well as a few low Humanity side-effects including cyberpsychosis.
 
 *   New stat - Humanity, which depends on installed cyber ware, Berserk/Sandevistan usage and committed kills.
 
@@ -871,6 +931,8 @@ You can use my 4k add on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 *   Untrack quests the same way you track them -- by right-clicking in the Journal or on the Map
 
 *   Additional loot markers on looting containers that show which types of loot are in them.
+
+***
 
 ### [**UI Improvements Include**](https://)
 
@@ -958,7 +1020,7 @@ Vendors
 
 *   Quantity pickers now default to max value instead of 1.
 
-*   \~~Iconic Items cannot be sold~~.
+*   Iconic Items cannot be sold.
 
 *   The Ripperdoc vendor screen only shows the number of unowned mods per body category.
 
@@ -1036,7 +1098,15 @@ UI Colours
 
 *   Unlock Vehicles and Instant Vehicle Spawn.
 
+***
+
 ### **Cybercat Save Editor**
+
+https://www.youtube.com/watch?v=kSJY1xJ03C4
+
+[Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718) by [Snapdragon2](https://www.nexusmods.com/cyberpunk2077/users/42829650).
+
+### Features
 
 > [This tool can be found in your toolbar in the top left corner of Vortex.  And will allow for the following changes.](https://)
 
@@ -1054,11 +1124,17 @@ UI Colours
 
 ***
 
-![](https://s11.gifyu.com/images/ezgif.com-video-to-gif.gif)[CPAH - Breach Protocol Autohacker](https://www.nexusmods.com/cyberpunk2077/mods/955?tab=description) by [TheJsh](https://www.nexusmods.com/cyberpunk2077/users/107011328). This tool allows you to auto-hack breach protocol. This tool can be found in your toolbar in the top left corner of Vortex.
+### CPAH - Breach Protocol Autohacker
 
-![](https://s12.gifyu.com/images/Autohack.jpg)
+https://www.youtube.com/watch?v=uScj2cK4qME
+
+[CPAH - Breach Protocol Autohacker](https://www.nexusmods.com/cyberpunk2077/mods/955?tab=description) by [TheJsh](https://www.nexusmods.com/cyberpunk2077/users/107011328).&#x20;
 
 ### Features
+
+> This tool allows you to auto-hack breach protocol. This tool can be found in your toolbar in the top left corner of Vortex.
+
+![](https://s12.gifyu.com/images/Autohack.jpg)
 
 *   Automatic matrix code and sequence detection using OpenCV.
 
@@ -1134,9 +1210,15 @@ UI Colours
 
 ***
 
-![](https://s11.gifyu.com/images/Screenshot-2023-04-19-082040.png)[Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790) by [MaximiliumM](https://www.nexusmods.com/cyberpunk2077/users/1677940) allows you to change and save NPC outfits by picking from a list and that is how this mod started but it has evolved into much, much more. You can now spawn NPC companions, and vehicles, select appearances for all player vehicles and have the ability to make your companions hostile. You can basically have your own boss fights whenever you like! Or you can ask them to drive you around the city when you're tired of being behind the wheel.
+### Appearance Menu Mod
+
+https://www.youtube.com/watch?v=9DXBti-c6C0
+
+[Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790) by [MaximiliumM](https://www.nexusmods.com/cyberpunk2077/users/1677940).&#x20;
 
 ### Features
+
+> Allows you to change and save NPC outfits by picking from a list and that is how this mod started but it has evolved into much, much more. You can now spawn NPC companions, and vehicles, select appearances for all player vehicles and have the ability to make your companions hostile. You can basically have your own boss fights whenever you like! Or you can ask them to drive you around the city when you're tired of being behind the wheel.
 
 *   Spawn Companions.
 
@@ -1330,7 +1412,9 @@ UI Colours
 
 ## ![](https://s11.gifyu.com/images/Altier-Store.png)
 
-> 70+ Shops with hundreds of clothes, armour,cyberware, vehicles, jewellery and weapons added to the Alteier store these can be accessed in-game from any computer these include items from some of the most talented modders in the CP2077 community such as.
+### Features
+
+> 80+ Shops with hundreds of clothes, armour,cyberware, vehicles, jewellery and weapons added to the Alteier store these can be accessed in-game from any computer these include items from some of the most talented modders in the CP2077 community such as.
 
 *   [kweknexuss](https://www.nexusmods.com/cyberpunk2077/users/86973158)
 
@@ -1356,13 +1440,27 @@ UI Colours
 
 *   [PinkyDude](https://www.nexusmods.com/cyberpunk2077/users/20892624)
 
-![](https://gifyu.com/image/SdKfy)![](https://gifyu.com/image/SdKtk)![](https://gifyu.com/image/SdKtk.img)![](https://s2.gifyu.com/images/ezgif.com-video-to-gifde3b2c1ceec906ca.gif)[Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987) by [Pacings](https://www.nexusmods.com/cyberpunk2077/users/96220198)
+![](https://gifyu.com/image/SdKfy)![](https://gifyu.com/image/SdKtk)![](https://gifyu.com/image/SdKtk.img)![](https://s2.gifyu.com/images/ezgif.com-video-to-gifde3b2c1ceec906ca.gif)[Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987) by [Pacings](https://www.nexusmods.com/cyberpunk2077/users/96220198).
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-### ![](https://s12.gifyu.com/images/Body-Mods.png)Female V
+### ![](https://s12.gifyu.com/images/Body-Mods.png)
 
-![img](https://i.imgur.com/vcDoyKS.png)[Enhanced Big Breasts - BODY MOD](https://www.nexusmods.com/cyberpunk2077/mods/4654?tab=description) (hyst) (BOOBA BOOTY) by [LxRHyst](https://www.nexusmods.com/users/114587558) This body mod allows you to have a big chest, with a beautiful cleavage.
+*   30+ Hairstyles.
+
+*   Vs hair has more shine.
+
+*   More tattoos.
+
+*   Enhanced body for Panam.
+
+### Female V
+
+![img](https://i.imgur.com/vcDoyKS.png)[Enhanced Big Breasts - BODY MOD](https://www.nexusmods.com/cyberpunk2077/mods/4654?tab=description) (hyst) (BOOBA BOOTY) by [LxRHyst](https://www.nexusmods.com/users/114587558)&#x20;
+
+### Features
+
+> This body mod allows you to have a big chest, with a beautiful cleavage.
 
 *   Highly detailed 4k skin textures.
 
@@ -1374,7 +1472,11 @@ UI Colours
 
 ### **Male V**
 
-![](https://s11.gifyu.com/images/Screenshot-2023-04-23-215138.png)[-KS- ADONIS Male Body](https://www.nexusmods.com/cyberpunk2077/mods/4968) by [KnowSo](https://www.nexusmods.com/cyberpunk2077/users/137109313) TRANSFORM YOUR V INTO THE ENVY OF A PANTHEON.
+![](https://s11.gifyu.com/images/Screenshot-2023-04-23-215138.png)[-KS- ADONIS Male Body](https://www.nexusmods.com/cyberpunk2077/mods/4968) by [KnowSo](https://www.nexusmods.com/cyberpunk2077/users/137109313)&#x20;
+
+### Features
+
+> TRANSFORM YOUR V INTO THE ENVY OF A PANTHEON. 
 
 \***Note** The Adonis body is not compatible with Arasaka cyber arms or Arasaka cyber body.
 
@@ -1382,15 +1484,9 @@ UI Colours
 
 ***
 
-### Other Body Mods
+### Appearance Change Unlocker - Character Preset Manager
 
-*   30+ Hairstyles.
-
-*   Vs hair has more shine.
-
-*   More tattoos.
-
-*   Enhanced body for Panam.
+https://www.youtube.com/watch?v=-CNgjr00z1o[Appearance Change Unlocker - Character Preset Manager](https://www.nexusmods.com/cyberpunk2077/mods/3850) by [PotatoOfDoom1337](https://www.nexusmods.com/cyberpunk2077/users/114609908)### Features> This mod allows you to save and create character presets. Additionally, it unlocks all options in the mirror in your apartment so you can customize your character without going to a ripperdoc.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -1414,7 +1510,13 @@ UI Colours
 
 ***
 
-![](https://s11.gifyu.com/images/wild.jpg)[NPCs Gone Wild](https://www.nexusmods.com/cyberpunk2077/mods/1436) by [woodbricks](https://www.nexusmods.com/cyberpunk2077/users/103964573) Modifies female NPC bodies, textures, clothing and outfits to be much more revealing. Removes bras, underwear and more. With fully nude strippers, sculpted 3D nipples, vag\*\*as and a\*us, 4K nude skin texture, breast physics, and varying breast sizes.
+### NPCs Gone Wild
+
+![](https://s11.gifyu.com/images/wild.jpg)[NPCs Gone Wild](https://www.nexusmods.com/cyberpunk2077/mods/1436) by [woodbricks](https://www.nexusmods.com/cyberpunk2077/users/103964573).
+
+### Features
+
+> Modifies female NPC bodies, textures, clothing and outfits to be much more revealing. Removes bras, underwear and more. With fully nude strippers, sculpted 3D nipples, vag\*\*as and a\*us, 4K nude skin texture, breast physics, and varying breast sizes.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -1466,11 +1568,19 @@ Upgraded/Tweaked cyberware
 
 ## ![](https://s11.gifyu.com/images/Vehcles.png)
 
-![](https://s11.gifyu.com/images/E3ROK.jpg)[Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016) & [Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034) by [E3roKK](https://www.nexusmods.com/cyberpunk2077/users/25841040) Overhauls Every Single Vehicle's top speed, gearing, power, handling and brakes. You can also modify your favourite player vehicles at the mod shop.
+![](https://s11.gifyu.com/images/E3ROK.jpg)[Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016) & [Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034) by [E3roKK](https://www.nexusmods.com/cyberpunk2077/users/25841040).
+
+### Features
+
+> Overhauls Every Single Vehicle's top speed, gearing, power, handling and brakes. You can also modify your favourite player vehicles at the mod shop.
 
 ***
 
-![](https://i.imgur.com/gPWMj46.jpg)[Let There Be Flight](https://www.nexusmods.com/cyberpunk2077/mods/5208?tab=description) by [jackhumbert](https://www.nexusmods.com/cyberpunk2077/users/86010988) Enables a configurable flight system for all vehicles with custom thruster models, visual sound effects, and animations.
+![](https://i.imgur.com/gPWMj46.jpg)[Let There Be Flight](https://www.nexusmods.com/cyberpunk2077/mods/5208?tab=description) by [jackhumbert](https://www.nexusmods.com/cyberpunk2077/users/86010988).
+
+### Features
+
+> Enables a configurable flight system for all vehicles with custom thruster models, visual sound effects, and animations.
 
 ***
 
@@ -1574,7 +1684,11 @@ Upgraded/Tweaked cyberware
 
 ### Custom **Vehicle** Tuning by [v2](https://www.nexusmods.com/cyberpunk2077/users/123334373) Customs
 
-![](https://s11.gifyu.com/images/Untitled1dcd699281f3354a.jpg)Tunes
+![](https://s11.gifyu.com/images/Untitled1dcd699281f3354a.jpg)[Custom Vehicle Tuning](https://) by [2077v2](https://www.nexusmods.com/cyberpunk2077/users/123334373).
+
+### Features
+
+> Custom tuned Vehicles.
 
 *   [V2 Customs - Rayfield Caliburn 450 Mph](https://www.nexusmods.com/cyberpunk2077/mods/3988)
 
@@ -1600,7 +1714,7 @@ You can use my 4k add on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 
 ![img](https://i.imgur.com/ejtvYe2.png)
 
-### Recommended In-game settings These settings will give a small performance boost without sacrificing quality.
+Recommended In-game settings These settings will give a small performance boost without sacrificing quality.
 
 ![img](https://i.imgur.com/OV2YTbg.png)
 
