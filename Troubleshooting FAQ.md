@@ -13,11 +13,16 @@ GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk2077.exe
 Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe  
 ```
 
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
 ## [My game is crashing on startup?](https://) or [My game won't launch after Collection Update ](https://)❓
 
 1) Check the install guide and make sure you followed the instructions.
 
 2) Perform a Cyberclean.
+
+![img](https://i.imgur.com/wAJUpeU.png)
 
 ## [My game crashes at the "breaching screen" ❓](https://)
 
@@ -29,6 +34,8 @@ You need to disable "Analytics"
 
 3) Go to the settings menu and on the gameplay tab disable Analytics.
 
+![img](https://i.imgur.com/wAJUpeU.png)
+
 ## [My character and some female NPCs have weird texture lines on them ](https://)❓
 
 You need to set the texture quality to **"HIGH"**
@@ -38,6 +45,8 @@ You need to set the texture quality to **"HIGH"**
 1) Launch the game 
 
 2) Go to the settings menu and on the graphics tab set texture quality to high.
+
+![img](https://i.imgur.com/wAJUpeU.png)
 
 ## [Cyberclean](https://)  
 
@@ -65,6 +74,8 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 6) Launch the game and see if the problem is resolved.
 
+![img](https://i.imgur.com/wAJUpeU.png)
+
 ## [I get a message at the main menu saying that mods could not be loaded like in the picture below.](https://)❓
 
 ![](https://s12.gifyu.com/images/Screenshot_2023-05-05_103305.png)
@@ -85,6 +96,8 @@ You didnt turn of **"redmod autoconvert"** read the installation guide and start
 
 5) Reinstall collection
 
+![img](https://i.imgur.com/wAJUpeU.png)
+
 ## [The Camera is locked i cant move up/down](https://)❓
 
 This is a bug everyone has had for a long time with the third person mode there is a simple but inconvenient fix. When the camera lock happens 
@@ -103,6 +116,8 @@ Alternatively you can disable the mod through the in game mod menus.
 
 ![](https://s11.gifyu.com/images/3rd-person.jpg)
 
+![img](https://i.imgur.com/wAJUpeU.png)
+
 ## [Checking for old mods or mods that arnt part of the collection](https://)
 
 We can filter mods in Vortex from a variety of options we are going to use the collections filter this is helpfull to find old mods or mods that are not part of the collection.
@@ -112,4 +127,6 @@ We can filter mods in Vortex from a variety of options we are going to use the c
 2) Now you can filter "none" and see the mods that arnt in the collection.
 
 ![](https://s11.gifyu.com/images/Su3mn.png)
+
+![img](https://i.imgur.com/wAJUpeU.png)
 
