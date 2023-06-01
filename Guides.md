@@ -10,6 +10,7 @@
 3) [Live Voice chat support and Remote connection](#live-voice-chat-support-and-remote-connection)
 4) [Changing the CET keybind](#changing-the-cet-keybind)
 5) [Make a backup save](#make-a-backup-save)
+6) [Cybercheck](#cybercheck)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -81,3 +82,17 @@ Mods for Cyberpunk 2077 are pretty reliable but it's always good to make a backu
 Save files can be found here> C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077 just copy the contents of this file and place it somewhere on your pc
 
 ![img](https://i.imgur.com/wAJUpeU.png)
+
+## Cybercheck
+
+Always double-check Vortex to make sure it uninstalled something properly during an update. You can check by doing the following.
+
+1) Purge mods in Vortex this will remove all the mods from the mod folder into the staging area.
+
+3) Go to the following location and check inside the "mod" folder. If you see any left over mods delete them.
+
+GOG>     Drive Letter:\Games\Cyberpunk 2077\archive\pc\mod 
+Steam>   Drive Letter:\Games\Steam\steamapps\common\Cyberpunk 2077\archive\pc\mod
+Epic>    Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod 
+
+4) Deploy the mods in Vortex
