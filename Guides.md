@@ -49,3 +49,12 @@ We can filter mods in Vortex from a variety of options we are going to use the c
 ![](https://s11.gifyu.com/images/Su3mn.png)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
+
+I can help you if you are stuck with LIVE Voice chat support and screenshare in the ⁠🔧︱Live VC Support channel in discord
+
+If you are really stuck i can connect to your Pc via a remote connection all you have to do is click the download link it will take you to a software page to download Teamviewer with this tool i can control your pc remotely (while you watch) with a one time use code and password. You can uninstall the program after so you can have peace of mind.
+
+To download Teamviewer click [HERE](https://www.teamviewer.com/en-us/download/windows/?utm_source=google&utm_medium=cpc&utm_campaign=au|b|pr|22|jun|tv-core-download-sn|free|t0|0&utm_content=Download&utm_term=teamviewer%20download&gad=1&gclid=CjwKCAjw9pGjBhB-EiwAa5jl3JtSMlwskHVNVTH2fzvXvtj6wTBD_uhieVL3zYhh38ZYQBQscEv3KRoCZGsQAvD_BwE)
+🔧︱Live VC Support in discord
+
+![img](https://i.imgur.com/wAJUpeU.png)
