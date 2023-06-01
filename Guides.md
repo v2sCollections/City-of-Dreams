@@ -9,6 +9,7 @@
 2) [Checking for old mods or mods that arnt part of the collection](#checking-for-old-mods-or-mods-that-arnt-part-of-the-collection)
 3) [Live Voice chat support and Remote connection](#live-voice-chat-support-and-remote-connection)
 4) [Changing the CET keybind](#changing-the-cet-keybind)
+5) [Make a backup save](#make-a-backup-save)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -70,3 +71,13 @@ To change the (CET) Cyber Engine Tweaks Overlay.
 Delete bindings.json located in \bin\x64\plugins\cyber_engine_tweaks and launch Cyberpunk 2077 to set a new key bind.
 
 **Note** This will also delete any other key bind configuration you have chosen for your mods.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+## Make a backup save
+
+Mods for Cyberpunk 2077 are pretty reliable but it's always good to make a backup of your saved file. 
+
+Save files can be found here> C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077 just copy the contents of this file and place it somewhere on your pc
+
+![img](https://i.imgur.com/wAJUpeU.png)
