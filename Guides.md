@@ -7,7 +7,7 @@
 
 1) [Cyberclean](#cyberclean)
 2) [Checking for old mods or mods that arnt part of the collection](#checking-for-old-mods-or-mods-that-arnt-part-of-the-collection)
-3) [Live Voice chat support & Remote connection]
+3) [Live Voice chat support & Remote connection](#live-voice-chat-support-&-remote-connection)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
