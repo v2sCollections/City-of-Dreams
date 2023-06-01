@@ -8,6 +8,7 @@
 4) [Vortex](#vortex)
 5) [Vortex and Cyberpunk](#vortex-and-cyberpunk)
 6) [Disabling REDmod Autoconversion](#disabling-redmod-autoconversion)
+7) [Installing the collection](#installing-the-collection)
 
 - ⛔ It Is important that you **READ** the following Installation guide to fully understand everything clearly. It is a simple step by step guide.
 
@@ -93,7 +94,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ---
 
-## [INSTALLING THE COLLECTION](https://)
+## Installing the collection
 
 15) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
