@@ -12,8 +12,8 @@
 2) [My game is crashing on startup](
 3) [My game crashes at the "breaching screen](
 4) [My character and some female NPCs have weird texture lines on them](
-5) [I get a message at the main menu saying that mods could not be loaded like in the picture below](i-get-a-message-at-the-main-menu-saying-that-mods-could-not-be-loaded-like-in-the-picture-below)
-6) [The Camera is locked i cant move up/down](#the-camera-is-locked-i-cant-move-up/down)
+5) [I get a message at the main menu saying that mods could not be loaded like in the picture below](#i-get-a-message-at-the-main-menu-saying-that-mods-could-not-be-loaded-like-in-the-picture-below)
+6) [The Camera is locked i cant move up/down](#the-camera-is-locked-i-cant-move-up-or-down)
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -83,7 +83,7 @@ You didnt turn of **"redmod autoconvert"** read the installation guide and start
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## The Camera is locked i cant move up/down❓
+## The Camera is locked i cant move up or down❓
 
 This is a bug everyone has had for a long time with the third person mode there is a simple but inconvenient fix. When the camera lock happens 
 
