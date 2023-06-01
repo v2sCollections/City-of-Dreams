@@ -3,9 +3,9 @@
 
 #Contents:
 1) [Install Time](#install-time)
-2) [PC Updates]
-3) [Cyberpunk2077]
-4) [Vortex]
+2) [PC Updates](#pc-Updates)
+3) [Cyberpunk2077](#cyberpunk2077)
+4) [Vortex](#vortex)
 5) 
 
 - ⛔ It Is important that you **READ** the following Installation guide to fully understand everything clearly. It is a simple step by step guide.
@@ -19,7 +19,7 @@
 
 ## 
 
-##[PC Updates
+PC Updates
 
 - Make sure that you have the latest version of Microsoft visual studio C++ > [HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 - Make sure that you have the latest Desktop Runtime > [HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
