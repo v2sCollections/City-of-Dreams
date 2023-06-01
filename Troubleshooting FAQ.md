@@ -8,17 +8,17 @@
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 ## Contents
-1) Where is the game located 
-2) My game is crashing on startup
-3) My game crashes at the "breaching screen
-4) My character and some female NPCs have weird texture lines on them
-5) I get a message at the main menu saying that mods could not be loaded like in the picture below
-6) The Camera is locked i cant move up/down
+1) [Where is the game located](#where-is-the-game-located) 
+2) [My game is crashing on startup](
+3) [My game crashes at the "breaching screen](
+4) [My character and some female NPCs have weird texture lines on them](
+5) [I get a message at the main menu saying that mods could not be loaded like in the picture below](#i-get-a-message-at-the-main-menu-saying-that-mods-could-not-be-loaded-like-in-the-picture-below)
+6) [The Camera is locked i cant move up/down](#the-camera-is-locked-i-cant-move-up-or-down)
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## [Where is the game located](https://) ❓
+## Where is the game located❓
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk2077.exe
@@ -29,7 +29,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 
-## [My game is crashing on startup?](https://) or [My game won't launch after Collection Update ](https://)❓
+## My game is crashing on startup? or My game won't launch after Collection Update❓
 
 1) Check the install guide and make sure you followed the instructions.
 
@@ -37,7 +37,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## [My game crashes at the "breaching screen" ❓](https://)
+## My game crashes at the "breaching screen" ❓
 
 You need to disable "Analytics"
 
@@ -49,7 +49,7 @@ You need to disable "Analytics"
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## [My character and some female NPCs have weird texture lines on them](https://)❓
+## My character and some female NPCs have weird texture lines on them❓
 
 You need to set the texture quality to **"HIGH"**
 
@@ -61,7 +61,7 @@ You need to set the texture quality to **"HIGH"**
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## [I get a message at the main menu saying that mods could not be loaded like in the picture below.](https://)❓
+## I get a message at the main menu saying that mods could not be loaded like in the picture below❓
 
 ![](https://s12.gifyu.com/images/Screenshot_2023-05-05_103305.png)
 
@@ -83,7 +83,7 @@ You didnt turn of **"redmod autoconvert"** read the installation guide and start
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## [The Camera is locked i cant move up/down](https://)❓
+## The Camera is locked i cant move up or down❓
 
 This is a bug everyone has had for a long time with the third person mode there is a simple but inconvenient fix. When the camera lock happens 
 

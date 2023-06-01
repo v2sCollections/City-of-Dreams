@@ -3,15 +3,18 @@
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## Contents
+# Contents
 
-1) Cyberclean
-2) Checking for old mods or mods that arnt part of the collection
-3) Live Voice chat support & Remote connection
+1) [Cyberclean](#cyberclean)
+2) [Checking for old mods or mods that arnt part of the collection](#checking-for-old-mods-or-mods-that-arnt-part-of-the-collection)
+3) [Live Voice chat support and Remote connection](#live-voice-chat-support-and-remote-connection)
+4) [Changing the CET keybind](#changing-the-cet-keybind)
+5) [Make a backup save](#make-a-backup-save)
+6) [Cybercheck](#cybercheck)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## [Cyberclean](https://)  
+## Cyberclean
 
 Always double-check Vortex to make sure it uninstalled/installed something properly during an update. If you are having any issues with crashing or mods not loading you can do the following.
 
@@ -35,11 +38,11 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 5) Deploy mods in Vortex.
 
-6) Launch the game and see if the problem is resolved.
+6) Launch the game and see if the problem is resolved. 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## [Checking for old mods or mods that arnt part of the collection](https://)
+## Checking for old mods or mods that arnt part of the collection
 
 We can filter mods in Vortex from a variety of options we are going to use the collections filter this is helpfull to find old mods or mods that are not part of the collection.
 
@@ -51,7 +54,7 @@ We can filter mods in Vortex from a variety of options we are going to use the c
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## [Live Voice chat support & Remote connection](https://)
+## Live Voice chat support and Remote connection
 
 I can help you if you are stuck with LIVE Voice chat support and screenshare in the ⁠🔧︱Live VC Support channel in discord
 
@@ -61,3 +64,35 @@ To download Teamviewer click [HERE](https://www.teamviewer.com/en-us/download/wi
 🔧︱Live VC Support in discord
 
 ![img](https://i.imgur.com/wAJUpeU.png)
+
+## Changing the CET keybind
+
+To change the (CET) Cyber Engine Tweaks Overlay.
+
+Delete bindings.json located in \bin\x64\plugins\cyber_engine_tweaks and launch Cyberpunk 2077 to set a new key bind.
+
+**Note** This will also delete any other key bind configuration you have chosen for your mods.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+## Make a backup save
+
+Mods for Cyberpunk 2077 are pretty reliable but it's always good to make a backup of your saved file. 
+
+Save files can be found here> C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077 just copy the contents of this file and place it somewhere on your pc
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+## Cybercheck
+
+Always double-check Vortex to make sure it uninstalled something properly during an update. You can check by doing the following.
+
+1) Purge mods in Vortex this will remove all the mods from the mod folder into the staging area.
+
+3) Go to the following location and check inside the "mod" folder. If you see any left over mods delete them.
+
+GOG>     Drive Letter:\Games\Cyberpunk 2077\archive\pc\mod 
+Steam>   Drive Letter:\Games\Steam\steamapps\common\Cyberpunk 2077\archive\pc\mod
+Epic>    Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod 
+
+4) Deploy the mods in Vortex

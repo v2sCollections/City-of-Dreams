@@ -1,23 +1,34 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
-![img](https://i.imgur.com/JyLQDVe.png)[READ](https://)
+![img](https://i.imgur.com/JyLQDVe.png)
+
+# Contents:
+1) [Install Time](#install-time)
+2) [PC Updates](#pc-Updates)
+3) [Cyberpunk2077](#cyberpunk2077)
+4) [Vortex](#vortex)
+5) [Vortex and Cyberpunk](#vortex-and-cyberpunk)
+6) [Disabling REDmod Autoconversion](#disabling-redmod-autoconversion)
+7) [Installing the collection](#installing-the-collection)
+8) [Pop Ups](#pop-ups)
+9) [Optional Mods](#optional-mods)
+10) [In game settings](#in-game-settings)
+11) [Reshade](#reshade)
 
 - ⛔ It Is important that you **READ** the following Installation guide to fully understand everything clearly. It is a simple step by step guide.
 
-## [Install time](https://)
+## Install time
 
 **Premium Users**: Takes 1 hour + Semi-automatic. You can be AFK with a few Install menus at the end of the install.
 **Free Users:** Takes 1.5 to 2 hours + Semi-automatic. You will have to click on download for each mod one by one.
 
 ---
 
-## 
-
-## [PC  Updates](https://)
+## PC Updates
 
 - Make sure that you have the latest version of Microsoft visual studio C++ > [HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 - Make sure that you have the latest Desktop Runtime > [HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
 
-## [Cyberpunk2077](https://)
+## Cyberpunk2077
 
 1) Start with a fresh install of **Cyberpunk 2077**.
 
@@ -35,7 +46,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 ---
 
-## [Vortex](https://) 
+## Vortex
 
 4) You will need **Vortex** mod manager downloaded and installed you can find it from the link below. If you already have Vortex skip this step.
 
@@ -43,7 +54,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 ---
 
-## [Vortex & Cyberpunk](https://) 
+## Vortex and Cyberpunk
 
 5) Open Vortex and click on **"Select a game to manage".**
 
@@ -79,7 +90,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ---
 
-## [Disabling REDmod Autoconversion](https://)
+## Disabling REDmod Autoconversion
 
 14) ⛔ While still in settings go to the "**V2077 Settings"** tab and make sure that REDmod Autoconvert is disabled as shown in the picture below.
 
@@ -87,7 +98,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ---
 
-## [INSTALLING THE COLLECTION](https://)
+## Installing the collection
 
 15) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
@@ -97,7 +108,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ![](https://s12.gifyu.com/images/Untitled1.png)
 
-## [POPUPS](https://)
+## Pop Ups
 
 17) These may pop up in Vortex as you are downloading the collection.
 
@@ -108,7 +119,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ---
 
-## [OPTIONAL MODS](https://)
+## Optional Mods
 
 ***Note** If you don't want the optional mods skip this step.
 
@@ -120,7 +131,7 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ---
 
-## [In-game settings](https://)
+## In game settings
 
 20) To use **CET** (**Cyber Engine Tweaks)** use **F11** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,3rd person camera, Vehicle camera and many more.
 
@@ -130,13 +141,13 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)
 
-## NOW!!! [Wake the f**k up, Samurai. We have a city to burn.](https://)   
+### NOW!!! [Wake the f**k up, Samurai. We have a city to burn.](https://)   
 
-## Please Endorse and Vote for the Collection.
+### Please Endorse and Vote for the Collection.
 
 ---
 
-## [Reshade](https://) 
+## Reshade
 
 ReShade comes with the collection once you have finished downloading it will be placed on the toolbar in the top left-hand corner of Vortex.
 
