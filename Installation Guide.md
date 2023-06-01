@@ -1,6 +1,13 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 ![img](https://i.imgur.com/JyLQDVe.png)[READ](https://)
 
+#Contents:
+1) [Install Time]
+2) [PC Updates]
+3) [Cyberpunk2077]
+4) [Vortex]
+5) 
+
 - ⛔ It Is important that you **READ** the following Installation guide to fully understand everything clearly. It is a simple step by step guide.
 
 ## [Install time](https://)
@@ -12,12 +19,12 @@
 
 ## 
 
-## [PC  Updates](https://)
+## [PC Updates]
 
 - Make sure that you have the latest version of Microsoft visual studio C++ > [HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 - Make sure that you have the latest Desktop Runtime > [HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
 
-## [Cyberpunk2077](https://)
+## [Cyberpunk2077]
 
 1) Start with a fresh install of **Cyberpunk 2077**.
 
@@ -35,7 +42,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 ---
 
-## [Vortex](https://) 
+## [Vortex]
 
 4) You will need **Vortex** mod manager downloaded and installed you can find it from the link below. If you already have Vortex skip this step.
 
@@ -43,7 +50,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 ---
 
-## [Vortex & Cyberpunk](https://) 
+## [Vortex and Cyberpunk]
 
 5) Open Vortex and click on **"Select a game to manage".**
 
