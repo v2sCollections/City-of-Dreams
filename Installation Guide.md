@@ -2,7 +2,7 @@
 ![img](https://i.imgur.com/JyLQDVe.png)[READ](https://)
 
 #Contents:
-1) [Install Time]
+1) [Install Time](#install time)
 2) [PC Updates]
 3) [Cyberpunk2077]
 4) [Vortex]
@@ -10,7 +10,7 @@
 
 - ⛔ It Is important that you **READ** the following Installation guide to fully understand everything clearly. It is a simple step by step guide.
 
-## [Install time](https://)
+## Install time
 
 **Premium Users**: Takes 1 hour + Semi-automatic. You can be AFK with a few Install menus at the end of the install.
 **Free Users:** Takes 1.5 to 2 hours + Semi-automatic. You will have to click on download for each mod one by one.
@@ -19,12 +19,12 @@
 
 ## 
 
-## [PC Updates]
+##[PC Updates
 
 - Make sure that you have the latest version of Microsoft visual studio C++ > [HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 - Make sure that you have the latest Desktop Runtime > [HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
 
-## [Cyberpunk2077]
+## Cyberpunk2077
 
 1) Start with a fresh install of **Cyberpunk 2077**.
 
@@ -42,7 +42,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 ---
 
-## [Vortex]
+## Vortex
 
 4) You will need **Vortex** mod manager downloaded and installed you can find it from the link below. If you already have Vortex skip this step.
 
@@ -50,7 +50,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 ---
 
-## [Vortex and Cyberpunk]
+## Vortex and Cyberpunk
 
 5) Open Vortex and click on **"Select a game to manage".**
 
