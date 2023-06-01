@@ -1,5 +1,5 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
-![img](https://i.imgur.com/JyLQDVe.png)[READ](https://)
+![img](https://i.imgur.com/JyLQDVe.png)
 
 # Contents:
 1) [Install Time](#install-time)
