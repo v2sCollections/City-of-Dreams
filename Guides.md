@@ -3,7 +3,7 @@
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## Contents
+# Contents
 
 1) [Cyberclean](#cyberclean)
 2) [Checking for old mods or mods that arnt part of the collection](#checking-for-old-mods-or-mods-that-arnt-part-of-the-collection)
@@ -63,7 +63,7 @@ To download Teamviewer click [HERE](https://www.teamviewer.com/en-us/download/wi
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-# Changing the CET keybind
+## Changing the CET keybind
 
 To change the (CET) Cyber Engine Tweaks Overlay.
 
