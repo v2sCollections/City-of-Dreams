@@ -72,9 +72,9 @@ I hope you enjoy this collection and the game as much as I do. Time for me to de
 
     [HERE](https://)
 
-*   Dedicated Youtube playlist
+*   Dedicated Youtube Channel 
 
-    [HERE](https://youtube.com/playlist?list=PLkl_09LX565uj9dmMxARNPxYnQIzNQ7ed)
+    [HERE](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)
 
 *   [Discord Server](https://discord.gg/xZNztPjA2u)
 
@@ -106,6 +106,10 @@ I hope you enjoy this collection and the game as much as I do. Time for me to de
 
 *   20+ Photo Mode Pose Packs.
 
+*   E3 Theme.
+
+*   Edgerunners Theme.
+
 *   Custom Vehicle Tuning.
 
 *   Gameplay mods & Tweaks.
@@ -134,7 +138,11 @@ I hope you enjoy this collection and the game as much as I do. Time for me to de
 
 *   Continuous Support on Comments and Discord.
 
-![](]https://i.imgur.com/VeCI8dy.png)[![](https://i.imgur.com/VeCI8dy.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. For this reason, we have an active [Discord Server](https://discord.gg/xZNztPjA2u) where we help users like you.
+![](]https://i.imgur.com/VeCI8dy.png)[![](https://i.imgur.com/VeCI8dy.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow chooms everday.
+
+[![](https://s12.gifyu.com/images/SuqD4.png)](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)Follow us on [Youtube](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA) for guides and videos.
+
+
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -219,7 +227,9 @@ This is a large collection i recommend purchasing a nexus premium account even j
 
 ## WATCH THE INSTALL GUIDE CHOOM
 
-https://www.youtube.com/watch?v=RnBCh7Y3mxg
+https://www.youtube.com/watch?v=sn-Ju\_OWP\_8
+
+
 
 ## [PC  Updates](https://)
 
@@ -419,6 +429,8 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)
 
+***
+
 ## NOW!!! [Wake the f\*\*k up, Samurai. We have a city to burn.](https://)
 
 ## ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY5NGNiZGQzY2Q1ZmNiNWMxNTYyODliMjA5YmVlNDIwOGI4NDM3NyZjdD1n/ww8JvNyaRDQu0pMhYQ/giphy-downsized-large.gif)Please Endorse and Vote for the Collection.
@@ -480,7 +492,9 @@ I have added these reshades below.
 
 **⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Cyberpunk2077, or the collection when you see errors on Vortex.
 
-You can find the full Troubleshooting list on our Discord and here [Troubleshooting/FAQ](https://github.com/MRGHIA88V2/City-of-Dreams/blob/main/Troubleshooting%20FAQ.md)
+You can find the full Troubleshooting list on our Discord and here [Troubleshooting/FAQ](https://github.com/MRGHIA88V2/City-of-Dreams/blob/main/Troubleshooting%20FAQ.md)&#x20;
+
+You can find all our guides on our Discord and here [Guides](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md)
 
 ## FAQ
 
@@ -596,21 +610,19 @@ And check out the gallery at the top of this page for videos by some of the mod 
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s11.gifyu.com/images/E3-THEME.png)
+## ![](https://s11.gifyu.com/images/SuwJ1.png)
 
 You can find these item in the Dedicated [City of Dreams Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/8344).
 
-Welcome to the electrifying E3-themed mods for Cyberpunk 2077! Immerse yourself in the pulsating atmosphere of the iconic trailer as we present you with a curated collection of mods that will elevate your Cyberpunk 2077 experience to new heights. From dazzling graphical improvements to exhilarating gameplay additions, get ready to witness the fusion of E3 excitement and cyberpunk allure. Welcome to the E3-themed world of Cyberpunk 2077.
+### Features
 
-## ***(OPTIONAL)***
-
-> [Below are optional mods you can enable if you want the E3 Theme.](https://)
+> Below are some E3 mods some are optional you can enable them if you want the full E3 theme. There is also a character preset installed so you can play as the original 2018 E3 V just chose the preset when creating your character.
 
 ⛔ Enabling the E3 Compass will disable the in-game mini-map.
 
 ⛔ When enabling the E32018 hud you need to disable the Spicy HUD 2.2 in Vortex.
 
-⛔When in the game go to the Mod tab in the menu and enable these 2 settings shown below.
+⛔ When in the game go to the Mod tab in the menu and enable these 2 settings shown below.
 
 ![](https://i.imgur.com/5VWAfHn.png)
 
@@ -626,6 +638,10 @@ Welcome to the electrifying E3-themed mods for Cyberpunk 2077! Immerse yourself 
 
 *   [E3 2018 Samurai Jacket](https://www.nexusmods.com/cyberpunk2077/mods/1124)
 
+*   [E3 2018 V for Appearance Change Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/3973?tab=description)
+
+*   [E3 V (Textures)](https://www.nexusmods.com/cyberpunk2077/mods/924?tab=description)
+
 *   [Quadra Turbo R V-Tec E3 Recolor](https://www.nexusmods.com/cyberpunk2077/mods/1559)
 
 ![](https://s12.gifyu.com/images/E3.png)
@@ -636,7 +652,7 @@ Welcome to the electrifying E3-themed mods for Cyberpunk 2077! Immerse yourself 
 
 You can find these item in the Dedicated [City of Dreams Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/8344).
 
-Step into the captivating world of Edgerunners anime with this curated collection of mods. Immerse yourself in a neon-lit cityscape, embrace cybernetic enhancements, and unleash your rebellious spirit. Survive the treacherous underbelly of society as a ruthless mercenary or fight for justice against powerful corporations. Prepare for a thrilling adventure where every choice matters. Welcome to the Edgerunners-themed world of Cyberpunk 2077.
+### Features
 
 > [Below are some Edgerunner mods some are optional you can enable them if you want the full Edgerunner Theme.](https://)
 
@@ -679,6 +695,8 @@ Step into the captivating world of Edgerunners anime with this curated collectio
     ***(OPTIONAL)***
 
 *   [Lucy Edgerunners Suit Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/5273)
+
+*   [LUCY - LAST LINE](https://www.nexusmods.com/cyberpunk2077/mods/8403?tab=description)
 
 *   [David Martinez Jacket Refited for Hyst Bodies mods](https://www.nexusmods.com/cyberpunk2077/mods/5155)
 
@@ -1476,7 +1494,7 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 
 ### Features
 
-> TRANSFORM YOUR V INTO THE ENVY OF A PANTHEON. 
+> TRANSFORM YOUR V INTO THE ENVY OF A PANTHEON.
 
 \***Note** The Adonis body is not compatible with Arasaka cyber arms or Arasaka cyber body.
 
@@ -1486,7 +1504,13 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 
 ### Appearance Change Unlocker - Character Preset Manager
 
-https://www.youtube.com/watch?v=-CNgjr00z1o[Appearance Change Unlocker - Character Preset Manager](https://www.nexusmods.com/cyberpunk2077/mods/3850) by [PotatoOfDoom1337](https://www.nexusmods.com/cyberpunk2077/users/114609908)### Features> This mod allows you to save and create character presets. Additionally, it unlocks all options in the mirror in your apartment so you can customize your character without going to a ripperdoc.
+https://www.youtube.com/watch?v=-CNgjr00z1o
+
+[Appearance Change Unlocker - Character Preset Manager](https://www.nexusmods.com/cyberpunk2077/mods/3850) by [PotatoOfDoom1337](https://www.nexusmods.com/cyberpunk2077/users/114609908).
+
+### &#x20;Features
+
+> This mod allows you to save and create character presets. Additionally, it unlocks all options in the mirror in your apartment so you can customize your character without going to a ripperdoc.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
