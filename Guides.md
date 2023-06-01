@@ -7,6 +7,7 @@
 
 1) Cyberclean
 2) Checking for old mods or mods that arnt part of the collection
+3) Live Voice chat support & Remote connection
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -49,6 +50,8 @@ We can filter mods in Vortex from a variety of options we are going to use the c
 ![](https://s11.gifyu.com/images/Su3mn.png)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
+
+## [Live Voice chat support & Remote connection](https://)
 
 I can help you if you are stuck with LIVE Voice chat support and screenshare in the ⁠🔧︱Live VC Support channel in discord
 
