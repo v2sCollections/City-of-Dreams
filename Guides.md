@@ -5,13 +5,13 @@
 
 ## Contents
 
-1) Cyberclean
+1) #Cyberclean
 2) Checking for old mods or mods that arnt part of the collection
 3) Live Voice chat support & Remote connection
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## [Cyberclean](https://)  
+## [Cyberclean](#Cyberclean)
 
 Always double-check Vortex to make sure it uninstalled/installed something properly during an update. If you are having any issues with crashing or mods not loading you can do the following.
 
