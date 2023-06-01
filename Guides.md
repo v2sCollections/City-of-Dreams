@@ -5,7 +5,7 @@
 
 ## Contents
 
-1) [Cyberclean]
+1) [Cyberclean](#Cyberclean)
 2) Checking for old mods or mods that arnt part of the collection
 3) Live Voice chat support & Remote connection
 
