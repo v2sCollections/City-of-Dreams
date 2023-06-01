@@ -51,7 +51,7 @@ We can filter mods in Vortex from a variety of options we are going to use the c
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## [Live Voice chat support & Remote connection](#Live Voice chat support & Remote connection)
+#Live Voice chat support & Remote connection(#Live Voice chat support & Remote connection)
 
 I can help you if you are stuck with LIVE Voice chat support and screenshare in the ⁠🔧︱Live VC Support channel in discord
 
