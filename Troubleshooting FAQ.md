@@ -18,7 +18,7 @@
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## Where is the game located❓
+## Where is the game located
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk2077.exe
