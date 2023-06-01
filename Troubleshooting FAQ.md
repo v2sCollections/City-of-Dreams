@@ -29,7 +29,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 
-## [My game is crashing on startup?](https://) or [My game won't launch after Collection Update ](https://)❓
+## My game is crashing on startup? or My game won't launch after Collection Update❓
 
 1) Check the install guide and make sure you followed the instructions.
 
@@ -37,7 +37,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## [My game crashes at the "breaching screen" ❓](https://)
+## My game crashes at the "breaching screen" ❓
 
 You need to disable "Analytics"
 
@@ -49,7 +49,7 @@ You need to disable "Analytics"
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## [My character and some female NPCs have weird texture lines on them](https://)❓
+## My character and some female NPCs have weird texture lines on them❓
 
 You need to set the texture quality to **"HIGH"**
 
@@ -61,7 +61,7 @@ You need to set the texture quality to **"HIGH"**
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## [I get a message at the main menu saying that mods could not be loaded like in the picture below.](https://)❓
+## I get a message at the main menu saying that mods could not be loaded like in the picture below.❓
 
 ![](https://s12.gifyu.com/images/Screenshot_2023-05-05_103305.png)
 
