@@ -2,7 +2,7 @@
 ![img](https://i.imgur.com/JyLQDVe.png)[READ](https://)
 
 #Contents:
-1) [Install Time](#install time)
+1) [Install Time](#install-time)
 2) [PC Updates]
 3) [Cyberpunk2077]
 4) [Vortex]
