@@ -75,11 +75,11 @@ These can be configured in game but ive configured them to get you started. Thes
 
 ### Night Vision
 
-- F3> Night Vision
+- F3> NIGHT VISION
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-### Limited HUD - Hotkeys
+### LIMITED HUD
 
 The mods adds two additional in-game hotkeys which you can use to toggle widgets visibility:
 
@@ -88,7 +88,7 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-### Flashlight
+### FLASHLIGHT
 
 - U> Toggle Flaslight 
 
