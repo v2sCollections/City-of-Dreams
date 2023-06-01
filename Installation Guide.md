@@ -6,7 +6,8 @@
 2) [PC Updates](#pc-Updates)
 3) [Cyberpunk2077](#cyberpunk2077)
 4) [Vortex](#vortex)
-5) 
+5) [Vortex and Cyberpunk](#vortex-and-cyberpunk)
+6) [Disabling REDmod Autoconversion](#disabling-redmod-autoconversion)
 
 - ⛔ It Is important that you **READ** the following Installation guide to fully understand everything clearly. It is a simple step by step guide.
 
@@ -84,7 +85,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ---
 
-## [Disabling REDmod Autoconversion](https://)
+## Disabling REDmod Autoconversion
 
 14) ⛔ While still in settings go to the "**V2077 Settings"** tab and make sure that REDmod Autoconvert is disabled as shown in the picture below.
 
