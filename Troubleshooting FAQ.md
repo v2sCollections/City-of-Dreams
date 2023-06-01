@@ -8,7 +8,7 @@
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 ## Contents
-1) [Where is the game located](where-is-the-game-located) 
+1) [Where is the game located](where-is-the-game-located-❓) 
 2) [My game is crashing on startup](
 3) [My game crashes at the "breaching screen](
 4) [My character and some female NPCs have weird texture lines on them](
@@ -18,7 +18,7 @@
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## [Where is the game located](https://) ❓
+## Where is the game located❓
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk2077.exe
