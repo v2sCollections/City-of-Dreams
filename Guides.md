@@ -11,7 +11,7 @@
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## [Cyberclean](#Cyberclean)
+## Cyberclean
 
 Always double-check Vortex to make sure it uninstalled/installed something properly during an update. If you are having any issues with crashing or mods not loading you can do the following.
 
@@ -51,7 +51,7 @@ We can filter mods in Vortex from a variety of options we are going to use the c
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-# Live Voice chat support & Remote connection(#Live Voice chat support & Remote connection)
+## Live Voice chat support & Remote connection(#Live Voice chat support & Remote connection)
 
 I can help you if you are stuck with LIVE Voice chat support and screenshare in the ⁠🔧︱Live VC Support channel in discord
 
