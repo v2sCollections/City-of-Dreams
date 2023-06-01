@@ -141,9 +141,9 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)
 
-## NOW!!! [Wake the f**k up, Samurai. We have a city to burn.](https://)   
+### NOW!!! [Wake the f**k up, Samurai. We have a city to burn.](https://)   
 
-## Please Endorse and Vote for the Collection.
+### Please Endorse and Vote for the Collection.
 
 ---
 
