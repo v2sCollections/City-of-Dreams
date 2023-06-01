@@ -17,9 +17,7 @@
 
 ---
 
-## 
-
-PC Updates
+## PC Updates
 
 - Make sure that you have the latest version of Microsoft visual studio C++ > [HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 - Make sure that you have the latest Desktop Runtime > [HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
