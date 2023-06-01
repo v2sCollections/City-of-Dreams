@@ -39,7 +39,7 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## [Checking for old mods or mods that arnt part of the collection](#Checking for old mods or mods that arnt part of the collection)
+## [Checking for old mods or mods that arnt part of the collection](#checking for old mods or mods that arnt part of the collection)
 
 We can filter mods in Vortex from a variety of options we are going to use the collections filter this is helpfull to find old mods or mods that are not part of the collection.
 
