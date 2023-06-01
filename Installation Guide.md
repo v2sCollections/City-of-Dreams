@@ -9,6 +9,10 @@
 5) [Vortex and Cyberpunk](#vortex-and-cyberpunk)
 6) [Disabling REDmod Autoconversion](#disabling-redmod-autoconversion)
 7) [Installing the collection](#installing-the-collection)
+8) [Pop Ups](#pop-ups)
+9) [Optional Mods](#optional-mods)
+10) [In game settings](#in-game-settings)
+11) [Reshade](#reshade)
 
 - ⛔ It Is important that you **READ** the following Installation guide to fully understand everything clearly. It is a simple step by step guide.
 
@@ -104,7 +108,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ![](https://s12.gifyu.com/images/Untitled1.png)
 
-## [POPUPS](https://)
+## Pop Ups
 
 17) These may pop up in Vortex as you are downloading the collection.
 
@@ -115,7 +119,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ---
 
-## [OPTIONAL MODS](https://)
+## Optional Mods
 
 ***Note** If you don't want the optional mods skip this step.
 
@@ -127,7 +131,7 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ---
 
-## [In-game settings](https://)
+## In game settings
 
 20) To use **CET** (**Cyber Engine Tweaks)** use **F11** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,3rd person camera, Vehicle camera and many more.
 
@@ -143,7 +147,7 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ---
 
-## [Reshade](https://) 
+## Reshade
 
 ReShade comes with the collection once you have finished downloading it will be placed on the toolbar in the top left-hand corner of Vortex.
 
