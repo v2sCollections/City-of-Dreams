@@ -31,7 +31,10 @@ UPDATED
 - [Apartment Cats - Japantown (Elmo)](https://www.nexusmods.com/cyberpunk2077/mods/6493)
 - [City of Dreams Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/8344)
 - [Always First Equip](https://www.nexusmods.com/cyberpunk2077/mods/2557?tab=description)
-
+- [Jinguji Personal Shopping Service - Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/8318)
+- [Scavenger Masks - ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/7463)
+- [Zwei Custom PMU Pose Packs - Core](https://www.nexusmods.com/cyberpunk2077/mods/7165)
+- [Alvarix Custom Store - Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4602)
 
 REMOVED
 -
@@ -40,24 +43,7 @@ REMOVED
 NEW MODS ADDED 
 -
 
-GAMEPLAY
--
-
-GRAPHICS
--
-
-COMBAT & WEAPONS
--
-
-- [DLC Weapon Props for AMM](https://www.nexusmods.com/cyberpunk2077/mods/5765?tab=description)
-
-VEHICLES
--
-
-
-CLOTHES
--
-
+- [PMU - Sitting Poses - MascV](https://www.nexusmods.com/cyberpunk2077/mods/8445?tab=description)
 - [Nola Dreamer's Evelyn jacket with fur - Archive XL - Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/8319?tab=description)
 - [The RVC00N Dumpster - Gatekeeper Costume (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8416?tab=description)
 - [The RVC00N Dumpster - Murk Man Costume (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8236?tab=description)
@@ -66,28 +52,9 @@ CLOTHES
 - [Ziva Jewelry Navel Piercing](https://www.nexusmods.com/cyberpunk2077/mods/8411?tab=description)
 - [The RVC00N Dumpster - Ripped Tank (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8426?tab=description)
 - [LUCY - LAST LINE](https://www.nexusmods.com/cyberpunk2077/mods/8403?tab=description)
-
-POSE PACKS
--
-
-
-CATS
--
-
-
-CHARACTER
--
-
 - [E3 2018 V for Appearance Change Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/3973?tab=description)
 - [E3 V (Textures)](https://www.nexusmods.com/cyberpunk2077/mods/924?tab=description)
-
-APARTMENT THEMES
--
-
-
-BODY
--
-
+- [DLC Weapon Props for AMM](https://www.nexusmods.com/cyberpunk2077/mods/5765?tab=description)
 
 BUGS
 -
