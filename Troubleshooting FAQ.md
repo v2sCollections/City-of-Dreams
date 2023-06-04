@@ -10,9 +10,9 @@
 ## Contents
 1) [Where is the game located](#where-is-the-game-located) 
 2) [My game is crashing on startup](#my-game-is-crashing-on-startup)
-3) [My game won't launch after Collection Update](my-game-wont-launch-after-collection-update)
-4) [My game crashes at the "breaching screen](
-5) [My character and some female NPCs have weird texture lines on them](
+3) [My game won't launch after Collection Update](#my-game-wont-launch-after-collection-update)
+4) [My game crashes at the breaching screen](#my-game-crashes-at-the-breaching-screen)
+5) [My character and some female NPCs have weird texture lines on them](#my-character-and-some-female-npcs-have-weird-texture-lines-on-them)
 6) [I get a message at the main menu saying that mods could not be loaded like in the picture below](#i-get-a-message-at-the-main-menu-saying-that-mods-could-not-be-loaded-like-in-the-picture-below)
 7) [The Camera is locked i cant move up/down](#the-camera-is-locked-i-cant-move-up-or-down)
 
@@ -46,7 +46,7 @@ Always double-check Vortex to make sure it uninstalled/installed something prope
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## My game crashes at the "breaching screen" ❓
+## My game crashes at the breaching screen" ❓
 
 You need to disable "Analytics"
 
