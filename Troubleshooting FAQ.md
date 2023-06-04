@@ -15,6 +15,7 @@
 5) [My character and some female NPCs have weird texture lines on them](#my-character-and-some-female-npcs-have-weird-texture-lines-on-them)
 6) [I get a message at the main menu saying that mods could not be loaded like in the picture below](#i-get-a-message-at-the-main-menu-saying-that-mods-could-not-be-loaded-like-in-the-picture-below)
 7) [The Camera is locked i cant move up/down](#the-camera-is-locked-i-cant-move-up-or-down)
+8) [Join the Discord](#join-the-discord)
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -29,6 +30,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
+
 ## My game is crashing on startup❓
 
 1) Check the install guide and make sure you followed the instructions.
@@ -37,13 +39,17 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 3) Check your Graphics Driver.
 
+
 ![img](https://i.imgur.com/wAJUpeU.png)
+
 
 ## My game wont launch after Collection Update❓
 
 Always double-check Vortex to make sure it uninstalled/installed something properly during an update. If you are having any issues with crashing or mods not loading you can perform a [cyberclean](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md)
 
+
 ![img](https://i.imgur.com/wAJUpeU.png)
+
 
 ## My game crashes at the breaching screen❓
 
@@ -55,7 +61,9 @@ You need to disable "Analytics"
 
 3) Go to the settings menu and on the gameplay tab disable Analytics.
 
+
 ![img](https://i.imgur.com/wAJUpeU.png)
+
 
 ## My character and some female NPCs have weird texture lines on them❓
 
@@ -67,7 +75,9 @@ You need to set the texture quality to **"HIGH"**
 
 2) Go to the settings menu and on the graphics tab set texture quality to high.
 
+
 ![img](https://i.imgur.com/wAJUpeU.png)
+
 
 ## I get a message at the main menu saying that mods could not be loaded like in the picture below❓
 
@@ -89,7 +99,9 @@ You didnt turn of **"redmod autoconvert"** read the installation guide and start
 
 5) Reinstall collection
 
+
 ![img](https://i.imgur.com/wAJUpeU.png)
+
 
 ## The Camera is locked i cant move up or down❓
 
@@ -110,6 +122,11 @@ Alternatively you can disable the mod through the in game mod menus.
 ![](https://s11.gifyu.com/images/3rd-person.jpg)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
+
+
+## Join the Discord
+
+If all else fails please join the discord so we can get the problem resolved.
 
 
 
