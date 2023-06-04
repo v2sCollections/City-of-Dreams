@@ -42,6 +42,8 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 ## My game won't launch after Collection Update ❓
 
+Always double-check Vortex to make sure it uninstalled/installed something properly during an update. If you are having any issues with crashing or mods not loading you can perform a [cyberclean](
+
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 ## My game crashes at the "breaching screen" ❓
