@@ -39,13 +39,13 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## My game wont launch after Collection Update ❓
+## My game wont launch after Collection Update❓
 
 Always double-check Vortex to make sure it uninstalled/installed something properly during an update. If you are having any issues with crashing or mods not loading you can perform a [cyberclean](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## My game crashes at the breaching screen" ❓
+## My game crashes at the breaching screen❓
 
 You need to disable "Analytics"
 
