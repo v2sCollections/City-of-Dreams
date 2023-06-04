@@ -50,6 +50,10 @@ This collection is extensively tested with every new version that is released. I
 - [Youtube Channel](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)-with Guides and Videos.
 - Continuous Support in Comments and on Discord.
 
+![](]https://i.imgur.com/VeCI8dy.png)[![](https://i.imgur.com/VeCI8dy.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow chooms everday.
+
+[![](https://s12.gifyu.com/images/SuqD4.png)](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)Follow us on [Youtube](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA) for guides and videos.
+
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 ![img](https://i.imgur.com/HJkjnor.png)
@@ -60,8 +64,8 @@ This collection is extensively tested with every new version that is released. I
 - 80+ Atelier Stores.
 - 50+ Weapon and Armor Mods.
 - 50+ Body Mods for  V and most Other NPCs.
-- 20+ Custom apartment themes.
 - 30+ Graphics & Texture Mods.
+- 20+ Custom apartment themes.
 - 20+ Custom Vehicles.
 - 20+ Photo Mode Pose Packs.
 - E3 Theme.
@@ -77,10 +81,6 @@ This collection is extensively tested with every new version that is released. I
 - In-game-Cheat Menus.
 - Save Game Editor.
 - Support for other Modular Expansion Packs.
-
-![](]https://i.imgur.com/VeCI8dy.png)[![](https://i.imgur.com/VeCI8dy.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow chooms everday.
-
-[![](https://s12.gifyu.com/images/SuqD4.png)](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)Follow us on [Youtube](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA) for guides and videos.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -154,7 +154,7 @@ GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk 2077\archive\pc\mod
 Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 ```
 
-1. ⛔ Launch Cyberpunk 2077 and go to the settings menu and on the gameplay tab turn off**"Enable Analytics"**
+1. ⛔ Launch Cyberpunk 2077 and go to the settings menu and on the gameplay tab turn off\*\*"Enable Analytics"\*\*
 
 ![](https://s12.gifyu.com/images/Analytics.jpg)
 
@@ -170,7 +170,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 ## [Vortex & Cyberpunk](https://)
 
-1. Open Vortex and click on**"Select a game to manage".**
+1. Open Vortex and click on\*\*"Select a game to manage".\*\*
 
 ![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)
 
@@ -197,7 +197,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 11 ) On your main Vortex window, it will now show an icon for **"Cyberpunk 2077"** showing that it is a managed game in Vortex.
 
 1. Go to the settings and on the mods tab check\*\*"automatically use suggested path for staging folder" \*\*then check "**suggest and "apply".**
-2. On the same window select\*\*"hard link deployment" \*\*and check**"apply".**
+2. On the same window select\*\*"hard link deployment" \*\*and check\*\*"apply".\*\*
 
 ![](https://s11.gifyu.com/images/Untitledef56ac4a42e1f37d.jpg)
 
@@ -217,7 +217,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ![](https://s12.gifyu.com/images/Screenshot-2023-04-17-115745.png)
 
-1. Click**"Add to Vortex"(choose your newly created profile)**.
+1. Click\*\*"Add to Vortex"(choose your newly created profile)\*\*.
 
 ![](https://s12.gifyu.com/images/Untitled1.png)
 
@@ -225,9 +225,9 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 1. These may pop up in Vortex as you are downloading the collection.
 
-- When you see a pop-up titled**"Mod contains protected paths"** select**"Yes install to staging anyway"**
-- When you see a pop-up titled**"You have reached the fallback installer"**select**"Yes install to staging anyway"**
-- When you see a pop-up titled**"not an archive"**select**"create mod"**.
+- When you see a pop-up titled\*\*"Mod contains protected paths"\*\* select\*\*"Yes install to staging anyway"\*\*
+- When you see a pop-up titled\*\*"You have reached the fallback installer"**select**"Yes install to staging anyway"\*\*
+- When you see a pop-up titled\*\*"not an archive"**select**"create mod"\*\*.
 - When you see a pop-up titled "**Mod installed but may need manual adjustment**" select "**Understood**".
 - When you see a pop-up titled "**Error**" select "**close**"
 - Throughout the installation process, you will have some\*\*"installer" \*\*popups so that you can customize some mods to your liking.
@@ -238,7 +238,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 \***Note** If you don't want the optional mods skip this step.
 
-1. Select\*\*"show" \*\*optional mods then select**"no thanks"**
+1. Select\*\*"show" \*\*optional mods then select\*\*"no thanks"\*\*
 
 ![](https://s11.gifyu.com/images/Optinal.jpg)
 
@@ -250,7 +250,7 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 1. To use CET (Cyber Engine Tweaks)**use**F11 on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,3rd person camera, Vehicle camera and many more.
 2. I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and on our discord. Or here[Keybinds](https://github.com/MRGHIA88V2/City-of-Dreams/blob/f4b254dc31b142ce6e733cf321e1f28b218a3d1c/Keybinds.md)
-3. ⛔ On the main menu go to the graphics tab and you will find "texture quality"  Set this to**"HIGH".**
+3. ⛔ On the main menu go to the graphics tab and you will find "texture quality"  Set this to\*\*"HIGH".\*\*
 
 ![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)
 
@@ -438,7 +438,7 @@ You can find these item in the Dedicated [City of Dreams Atelier Store](https://
 - [Edgerunners Posters](https://www.nexusmods.com/cyberpunk2077/mods/5203)***(OPTIONAL)***
 - [Edgerunner 2077](https://)***(OPTIONAL)***
 - [Lucy - Edgerunners Sky Ad](https://www.nexusmods.com/cyberpunk2077/mods/5201?tab=description)***(OPTIONAL)***
-- [Wannabe Edgerunner - A simple Cyberpsychosis mod](https://www.nexusmods.com/cyberpunk2077/mods/5646)***(OPTIONAL)***\*Note Read more on the**"gameplay"**tab
+- [Wannabe Edgerunner - A simple Cyberpsychosis mod](https://www.nexusmods.com/cyberpunk2077/mods/5646)***(OPTIONAL)***\*Note Read more on the\*\*"gameplay"\*\*tab
 - [Edgerunners Loading Screen Pack.](https://)***(OPTIONAL)***
 - [Edgerunners- Rebecca's hairstyle haircolor](https://www.nexusmods.com/cyberpunk2077/mods/5418?tab=description)***(OPTIONAL)***
 - [Edgerunners- Rebecca's face cyberware](https://www.nexusmods.com/cyberpunk2077/mods/5524?tab=description)***(OPTIONAL)***
@@ -466,8 +466,8 @@ You can find these item in the Dedicated [City of Dreams Atelier Store](https://
 - Fixes Weapon UI bug when loading a game.
 - Fixes an audio bug for no sound on some proximity Mines.
 - Fixes River's dialogue in Holo calls it now actually plays the same as talking to him in person.
-- Fixes missing crucial clue audio playback in**(The Hunt quest).**
-- Fixes missing animations in the**(Skippy quest episodes)**.
+- Fixes missing crucial clue audio playback in\*\*(The Hunt quest).\*\*
+- Fixes missing animations in the\*\*(Skippy quest episodes)\*\*.
 - Fixes the clipping of Frank Nostra's hair cap.
 - Fixes mitches jacket with one that fits correctly.
 - Fixes sleeves automatically rolling up for long-sleeved clothes when first-person perspective camera is active.
@@ -593,7 +593,7 @@ Walljumping is triggered when the player is:
 - Stops V from moving on the character creation screen.
 - Cleans up the green colour from the quick hack screen.
 - Remove quest tags from equipped items so they can be dismantled and sold.
-- Unequip all equipped items**(armour, weapons and cyberware)**.
+- Unequip all equipped items\*\*(armour, weapons and cyberware)\*\*.
 - Reduced loot throughout the city.
 - See what attribute level you needed for conversation skill checks that you passed.
 - Reduced drop chances for chosen loot categories from in-game containers, NPCs and world-placed objects.
@@ -648,7 +648,7 @@ Shards
 
 Vendors
 
-- Fast Buy & Sell - Allows you to buy and sell entire items stacks without any additional dialogues - Uses the Activate Secondary keybinding**(defaults to Right Mouse Button)**.
+- Fast Buy & Sell - Allows you to buy and sell entire items stacks without any additional dialogues - Uses the Activate Secondary keybinding\*\*(defaults to Right Mouse Button)\*\*.
 - Quantity pickers are now limited to the player's/vendors' total money.
 - Quantity pickers now default to max value instead of 1.
 - Iconic Items cannot be sold.
@@ -661,7 +661,7 @@ Saves
 
 Mods
 
-- Other mods add their own page and add settings widgets to the newly added**"Mods"**settings menu.
+- Other mods add their own page and add settings widgets to the newly added\*\*"Mods"\*\*settings menu.
 - Mod setting tab in the main menu.
 
 UI Colours
@@ -684,11 +684,11 @@ UI Colours
 - God Mode and Infinite Stamina.
 - Change Attributes.
 - Change Experience and Levels.
-- Alter Other Stats**(temporary)**: Armor, Carry Capacity, Crit Chance and Damage, Health, etc.
+- Alter Other Stats\*\*(temporary)\*\*: Armor, Carry Capacity, Crit Chance and Damage, Health, etc.
 - Add or remove perks.
 - Unlock Achievements.
 - Kill NPCs.
-- Time Manipulation: Set Game Time, Freeze Time**(time of day)**and Slow Motion.
+- Time Manipulation: Set Game Time, Freeze Time\*\*(time of day)\*\*and Slow Motion.
 - Quest Manipulation: End Quest, Untrack Active Quest and change quest and romance facts.
 - Teleport Features: Save current position and teleport back to a saved location, Custom Teleport Locations.
 - Upgrade your clothing mods, weapon mods, quick hacks, cyberware mods
@@ -811,13 +811,13 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 > When you visit Kerrie he will be more active.
 
 - He drinks near his bar and eats in front of his car.
-- He showers**(if you are in a relationship)**.
-- He smokes in his bathroom**(only after showering)**.
-- He plays the guitar**(either in his bedroom or on the sofa)**.
-- He lounges on the sofa**(like his base game behaviour)**.
-- He sleeps in his bed at night**(without having to wait for the player to use the bed)**.
+- He showers\*\*(if you are in a relationship)\*\*.
+- He smokes in his bathroom\*\*(only after showering)\*\*.
+- He plays the guitar\*\*(either in his bedroom or on the sofa)\*\*.
+- He lounges on the sofa\*\*(like his base game behaviour)\*\*.
+- He sleeps in his bed at night\*\*(without having to wait for the player to use the bed)\*\*.
 - V can chat with him at any of the activities.
-- V can hug him at any activity where he is not holding a guitar**(only if in a relationship)**.
+- V can hug him at any activity where he is not holding a guitar\*\*(only if in a relationship)\*\*.
 - V can request a number of songs when he is holding his guitar.
 
 ### **Panam**
@@ -827,11 +827,11 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 - She drinks at the bar.
 - She eats takeout near the tables.
 - She showers.
-- She plays on her phone**(she also does this after using the shower)**.
-- She sleeps in her bed at night**(without having to wait for the player to use the bed)**.
+- She plays on her phone\*\*(she also does this after using the shower)\*\*.
+- She sleeps in her bed at night\*\*(without having to wait for the player to use the bed)\*\*.
 - She now sends you more messages.
 - V can chat with her or hug her during any of the activities (except sleeping or showering).
-- V can kiss her during any of the activities**(except sleeping or showering)**.
+- V can kiss her during any of the activities\*\*(except sleeping or showering)\*\*.
 
 ### **River**
 
@@ -839,13 +839,13 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 
 - He Drinks by the door.
 - He Eats in the kitchen.
-- He Showers**(if you romanced him, but no one-night-stand)**.
+- He Showers\*\*(if you romanced him, but no one-night-stand)\*\*.
 - He Works out at the punching bag.
-- He Sleeps in his bed at night**(without having to wait for the player to use the bed)**.
-- V can chat with him at any of the activities**(except sleeping or showering)**.
+- He Sleeps in his bed at night\*\*(without having to wait for the player to use the bed)\*\*.
+- V can chat with him at any of the activities\*\*(except sleeping or showering)\*\*.
 - V can hug, and kiss, him at any of these activities if romanced (but not one-night-stand, sleeping or showering).
 - Joss' kids now actually sleep, but they also play both in their bedroom and in the main hall.
-- Both kids and River will now greet V**(River's greeting is bugged in the base game)**.
+- Both kids and River will now greet V\*\*(River's greeting is bugged in the base game)\*\*.
 - There is now a radio in the main hall/room of the trailer, it just adds the option for a little ambient music in the otherwise dead trailer.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
@@ -1107,7 +1107,7 @@ Recommended In-game settings These settings will give a small performance boost 
 - RAM> 16GB
 - CPU> R5 3600 or i5 9600K
 - STORAGE> 9.2GB
-- STORAGE TYPE> SSD**(Recommended)**
+- STORAGE TYPE> SSD\*\*(Recommended)\*\*
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
