@@ -34,7 +34,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 1) Check the install guide and make sure you followed the instructions.
 
-2) Perform a Cyberclean.
+2) Perform a [Cyberclean](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md)
 
 3) Check your Graphics Driver.
 
@@ -42,7 +42,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 ## My game won't launch after Collection Update ❓
 
-Always double-check Vortex to make sure it uninstalled/installed something properly during an update. If you are having any issues with crashing or mods not loading you can perform a [cyberclean](
+Always double-check Vortex to make sure it uninstalled/installed something properly during an update. If you are having any issues with crashing or mods not loading you can perform a [cyberclean](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
