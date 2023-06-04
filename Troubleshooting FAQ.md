@@ -10,7 +10,7 @@
 ## Contents
 1) [Where is the game located](#where-is-the-game-located) 
 2) [My game is crashing on startup](#my-game-is-crashing-on-startup)
-3) [My game won't launch after Collection Update](
+3) [My game won't launch after Collection Update](my-game-wont-launch-after-collection-update)
 4) [My game crashes at the "breaching screen](
 5) [My character and some female NPCs have weird texture lines on them](
 6) [I get a message at the main menu saying that mods could not be loaded like in the picture below](#i-get-a-message-at-the-main-menu-saying-that-mods-could-not-be-loaded-like-in-the-picture-below)
@@ -40,7 +40,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## My game won't launch after Collection Update ❓
+## My game wont launch after Collection Update ❓
 
 Always double-check Vortex to make sure it uninstalled/installed something properly during an update. If you are having any issues with crashing or mods not loading you can perform a [cyberclean](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md)
 
