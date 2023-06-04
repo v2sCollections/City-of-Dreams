@@ -9,7 +9,7 @@
 
 ## Contents
 1) [Where is the game located](#where-is-the-game-located) 
-2) [My game is crashing on startup](
+2) [My game is crashing on startup](#my-game-is-crashing-on-startup)
 3) [My game won't launch after Collection Update](
 4) [My game crashes at the "breaching screen](
 5) [My character and some female NPCs have weird texture lines on them](
