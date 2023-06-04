@@ -127,7 +127,7 @@ Alternatively you can disable the mod through the in game mod menus.
 ## Join the Discord
 
 If all else fails please join the discord so we can get the problem resolved.
-Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow chooms everday.[![](https://s12.gifyu.com/images/SuqD4.png)]
+Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow chooms everday.
 
 
 
