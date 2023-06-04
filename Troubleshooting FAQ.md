@@ -82,7 +82,7 @@ You didnt turn of **"redmod autoconvert"** read the installation guide and start
 
 ![](https://s11.gifyu.com/images/Untitle44d.jpg)
 
-3) Run a **"cyberclean"**
+3) Run a [**"cyberclean"**](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md)
 
 4) Delete the **"mod"** folder in the main game directory this is the redmods folder.
 
