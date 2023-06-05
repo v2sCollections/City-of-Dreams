@@ -40,7 +40,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 
-## My game crashes at the "breaching screen" ❓
+## My game crashes at the breaching screen❓
 
 You need to disable "Analytics"
 
