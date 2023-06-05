@@ -30,7 +30,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 
-## My game is crashing on startup? or My game won't launch after Collection Update❓
+## My game is crashing on startup❓
 
 1) Check the install guide and make sure you followed the instructions.
 
