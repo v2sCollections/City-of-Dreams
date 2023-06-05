@@ -1,7 +1,7 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 {CURRENT}
 
-[HEY CHOOMS Rev 33 is COMING SOON ](https://)
+[HEY CHOOMS Rev 33 is HERE ](https://)
 -
 
 NOTES
