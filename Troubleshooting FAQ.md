@@ -11,7 +11,7 @@
 1) [Where is the game located](#where-is-the-game-located) 
 2) [My game is crashing on startup](#my-game-is-crashing-on-startup)
 3) [My game crashes at the breaching screen](my-game-crashes-at-the-breaching-screen)
-4) [My character and some female NPCs have weird texture lines on them](#my character-and-some-female-npcs-have-weird-texture-lines-on-them)
+4) [My character and some female NPCs have weird texture lines on them](#my-character-and-some-female-npcs-have-weird-texture-lines-on-them)
 5) [I get a message at the main menu saying that mods could not be loaded like in the picture below](#i-get-a-message-at-the-main-menu-saying-that-mods-could-not-be-loaded-like-in-the-picture-below)
 6) [The Camera is locked i cant move up/down](#the-camera-is-locked-i-cant-move-up-or-down)
 7) [There is a weapon stuck in my inventory and i cant unequip it](#there-is-a-weapon-stuck-in-my-inventory-and-i-cant-unequip-it)
