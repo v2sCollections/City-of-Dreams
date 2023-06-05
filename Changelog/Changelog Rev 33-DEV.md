@@ -1,5 +1,5 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
-{UNRELEASED UPDATE}
+{CURRENT}
 
 [HEY CHOOMS Rev 33 is COMING SOON ](https://)
 -
@@ -12,6 +12,7 @@ CYBERCLEAN IS RECCOMENDED!!!
 
 - Added details to the description.
 - New Vehicles
+- FIXED some mods not deploying correctly 
 
 UPDATED
 -
@@ -35,10 +36,13 @@ UPDATED
 - [Scavenger Masks - ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/7463)
 - [Zwei Custom PMU Pose Packs - Core](https://www.nexusmods.com/cyberpunk2077/mods/7165)
 - [Alvarix Custom Store - Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4602)
+- [Johnson's Stuff Standalone - Atelier Shop](https://www.nexusmods.com/cyberpunk2077/mods/3499
+
 
 REMOVED
 -
 
+- [XRX Led Leotard Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8367)
 
 NEW MODS ADDED 
 -
@@ -55,6 +59,7 @@ NEW MODS ADDED
 - [E3 2018 V for Appearance Change Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/3973?tab=description)
 - [E3 V (Textures)](https://www.nexusmods.com/cyberpunk2077/mods/924?tab=description)
 - [DLC Weapon Props for AMM](https://www.nexusmods.com/cyberpunk2077/mods/5765?tab=description)
+- [Alt Cunningham Bustier for V](https://www.nexusmods.com/cyberpunk2077/mods/4405?tab=description)
 
 BUGS
 -
