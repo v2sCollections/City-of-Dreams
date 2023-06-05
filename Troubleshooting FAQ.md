@@ -14,6 +14,7 @@
 4) [My character and some female NPCs have weird texture lines on them](
 5) [I get a message at the main menu saying that mods could not be loaded like in the picture below](#i-get-a-message-at-the-main-menu-saying-that-mods-could-not-be-loaded-like-in-the-picture-below)
 6) [The Camera is locked i cant move up/down](#the-camera-is-locked-i-cant-move-up-or-down)
+7) [There is a weapon stuck in my inventory and i cant unequip it](#there-is-a-weapon-stuck-in-my-inventory-and-i-cant-unequip-it)
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
