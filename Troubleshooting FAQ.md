@@ -118,5 +118,5 @@ Alternatively you can disable the mod through the in game mod menus.
 
 1) Go to a Vendor and sort by all.
 
-2) Locate the problem weapon and see it.
+2) Locate the problem weapon and sell it.
 
