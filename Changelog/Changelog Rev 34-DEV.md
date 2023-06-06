@@ -12,11 +12,14 @@ CYBERCLEAN IS RECCOMENDED!!!
 
 -FIXED Arasaka Cyberarms not showing on a newly made character.
 
+
 UPDATED
 -
 
 REMOVED
 -
+
+-[Lingerie Bodysuit for Fem V](https://www.nexusmods.com/cyberpunk2077/mods/4746?tab=description) Replaced the netrunner suit.
 
 NEW MODS ADDED 
 -
