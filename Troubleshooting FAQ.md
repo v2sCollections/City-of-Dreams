@@ -9,11 +9,12 @@
 
 ## Contents
 1) [Where is the game located](#where-is-the-game-located) 
-2) [My game is crashing on startup](
-3) [My game crashes at the "breaching screen](
-4) [My character and some female NPCs have weird texture lines on them](
+2) [My game is crashing on startup](#my-game-is-crashing-on-startup)
+3) [My game crashes at the breaching screen](#my-game-crashes-at-the-breaching-screen)
+4) [My character and some female NPCs have weird texture lines on them](#my-character-and-some-female-npcs-have-weird-texture-lines-on-them)
 5) [I get a message at the main menu saying that mods could not be loaded like in the picture below](#i-get-a-message-at-the-main-menu-saying-that-mods-could-not-be-loaded-like-in-the-picture-below)
 6) [The Camera is locked i cant move up/down](#the-camera-is-locked-i-cant-move-up-or-down)
+7) [There is a weapon stuck in my inventory and i cant unequip it](#there-is-a-weapon-stuck-in-my-inventory-and-i-cant-unequip-it)
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -29,15 +30,17 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 
-## My game is crashing on startup? or My game won't launch after Collection Update❓
+## My game is crashing on startup❓
 
 1) Check the install guide and make sure you followed the instructions.
 
 2) Perform a Cyberclean.
 
+
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## My game crashes at the "breaching screen" ❓
+
+## My game crashes at the breaching screen❓
 
 You need to disable "Analytics"
 
@@ -47,7 +50,9 @@ You need to disable "Analytics"
 
 3) Go to the settings menu and on the gameplay tab disable Analytics.
 
+
 ![img](https://i.imgur.com/wAJUpeU.png)
+
 
 ## My character and some female NPCs have weird texture lines on them❓
 
@@ -59,7 +64,9 @@ You need to set the texture quality to **"HIGH"**
 
 2) Go to the settings menu and on the graphics tab set texture quality to high.
 
+
 ![img](https://i.imgur.com/wAJUpeU.png)
+
 
 ## I get a message at the main menu saying that mods could not be loaded like in the picture below❓
 
@@ -81,7 +88,9 @@ You didnt turn of **"redmod autoconvert"** read the installation guide and start
 
 5) Reinstall collection
 
+
 ![img](https://i.imgur.com/wAJUpeU.png)
+
 
 ## The Camera is locked i cant move up or down❓
 
@@ -101,7 +110,13 @@ Alternatively you can disable the mod through the in game mod menus.
 
 ![](https://s11.gifyu.com/images/3rd-person.jpg)
 
+
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 
+## There is a weapon stuck in my inventory and i cant unequip it❓
+
+1) Go to a Vendor and sort by all.
+
+2) Locate the problem weapon and sell it.
 
