@@ -16,6 +16,11 @@ CYBERCLEAN IS RECCOMENDED!!!
 UPDATED
 -
 
+- [Silent Silencers and Throwing Knives](https://www.nexusmods.com/cyberpunk2077/mods/4070)
+- [The RVC00N Dumpster (PinkyDude's Virtual Atelier Store)](https://www.nexusmods.com/cyberpunk2077/mods/5802)
+- [MONSTERaider - Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/7269)
+- [Cub Atelier Store - Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/6949)
+
 REMOVED
 -
 
@@ -23,6 +28,10 @@ REMOVED
 
 NEW MODS ADDED 
 -
+
+- [ASAP Rocky's 190E](https://www.nexusmods.com/cyberpunk2077/mods/8498?tab=description)
+- [MONSTERaider - Zipper Suit ArchiveXL (AKA Zippedsuit)](https://www.nexusmods.com/cyberpunk2077/mods/8484?tab=description)
+
 
 BUGS
 -
