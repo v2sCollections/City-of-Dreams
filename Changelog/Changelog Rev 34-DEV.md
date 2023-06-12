@@ -31,7 +31,10 @@ NEW MODS ADDED
 
 - [ASAP Rocky's 190E](https://www.nexusmods.com/cyberpunk2077/mods/8498?tab=description)
 - [MONSTERaider - Zipper Suit ArchiveXL (AKA Zippedsuit)](https://www.nexusmods.com/cyberpunk2077/mods/8484?tab=description)
-
+- [Judy's Face Beautified - 4K Complexion Makeup and Eyebrows](https://www.nexusmods.com/cyberpunk2077/mods/2570)
+- [Muzzles for Shotguns](https://www.nexusmods.com/cyberpunk2077/mods/8522?tab=description)
+- [Disable Auto Switching for Throwing Knives](https://www.nexusmods.com/cyberpunk2077/mods/5620)
+- [XRX Beachwear 2023 Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8519?tab=description)
 
 BUGS
 -
