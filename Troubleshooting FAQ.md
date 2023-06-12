@@ -120,3 +120,16 @@ Alternatively you can disable the mod through the in game mod menus.
 
 2) Locate the problem weapon and sell it.
 
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
+I see this error when opening the Virtual Atelier❓
+
+![img](https://s11.gifyu.com/images/SuJ1O.png)
+
+Dont worry this is normall some shops haver the same items.
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
