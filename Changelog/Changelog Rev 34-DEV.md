@@ -35,6 +35,7 @@ NEW MODS ADDED
 - [Muzzles for Shotguns](https://www.nexusmods.com/cyberpunk2077/mods/8522?tab=description)
 - [Disable Auto Switching for Throwing Knives](https://www.nexusmods.com/cyberpunk2077/mods/5620)
 - [XRX Beachwear 2023 Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8519?tab=description)
+- [Mercedes-Benz 190E W201](https://www.nexusmods.com/cyberpunk2077/mods/8521?tab=description)
 
 BUGS
 -
