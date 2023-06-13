@@ -11,6 +11,7 @@ REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!!
 CYBERCLEAN IS RECCOMENDED!!!
 
 -FIXED Arasaka Cyberarms not showing on a newly made character.
+-Another fix to the apartment mod errors in Vortex (needs more testing)
 
 
 UPDATED
