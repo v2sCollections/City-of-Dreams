@@ -16,6 +16,7 @@
 6) [The Camera is locked i cant move up/down](#the-camera-is-locked-i-cant-move-up-or-down)
 7) [There is a weapon stuck in my inventory and i cant unequip it](#there-is-a-weapon-stuck-in-my-inventory-and-i-cant-unequip-it)
 8) [I see this error when opening the Virtual Atelier](#i-see-this-error-when-opening-the-virtual-atelier)
+9) [The Atelier Shop doesnt show up in game](#the-atelier-shop-doesnt-show-up-in-game)
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -134,3 +135,16 @@ Dont worry this is normall some shops haver the same items.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
+
+## The Atelier Shop doesnt show up in game❓
+
+1) Open Vortex 
+
+2) On the mods tab search for "Virtual Atelier"
+
+2) Right click on the mod and select reinstall.
+
+4) Launch the game and see if the problem is  resolved.
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
