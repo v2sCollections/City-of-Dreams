@@ -9,7 +9,7 @@ NOTES
 
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!! 
 CYBERCLEAN IS RECCOMENDED!!!
-
+Reconfigured Daemon Netrunning. It is now harder to upload daemons.
 
 UPDATED
 -
