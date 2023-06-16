@@ -17,6 +17,7 @@
 7) [There is a weapon stuck in my inventory and i cant unequip it](#there-is-a-weapon-stuck-in-my-inventory-and-i-cant-unequip-it)
 8) [I see this error when opening the Virtual Atelier](#i-see-this-error-when-opening-the-virtual-atelier)
 9) [The Atelier Shop doesnt show up in game](#the-atelier-shop-doesnt-show-up-in-game)
+10) [My game is crashing at the first loading screen](#my-game-is-crashing-at-the-first-loading-screen)
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -145,6 +146,19 @@ Dont worry this is normall some shops haver the same items.
 2) Right click on the mod and select reinstall.
 
 4) Launch the game and see if the problem is  resolved.
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
+## My game is crashing at the first loading screen❓
+
+We are still yet to find the exact cause of this issue but some users have found a fix with the following.
+
+1) Run the game in bordereless mode
+2) Disable the apearance mod menu 
+3) Disable the UHD Splash screen
+4) Disable the QHD intro
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
