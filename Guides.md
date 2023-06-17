@@ -11,6 +11,7 @@
 4) [Changing the CET keybind](#changing-the-cet-keybind)
 5) [Make a backup save](#make-a-backup-save)
 6) [Cybercheck](#cybercheck)
+7) [Running Cyberpunk 2077 as admin](#running-cyberpunk-2077-as-admin)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -40,7 +41,11 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 6) Launch the game and see if the problem is resolved. 
 
+
+
 ![img](https://i.imgur.com/wAJUpeU.png)
+
+
 
 ## Checking for old mods or mods that arnt part of the collection
 
@@ -52,7 +57,11 @@ We can filter mods in Vortex from a variety of options we are going to use the c
 
 ![](https://s11.gifyu.com/images/Su3mn.png)
 
+
+
 ![img](https://i.imgur.com/wAJUpeU.png)
+
+
 
 ## Live Voice chat support and Remote connection
 
@@ -63,7 +72,11 @@ If you are really stuck i can connect to your Pc via a remote connection all you
 To download Teamviewer click [HERE](https://www.teamviewer.com/en-us/download/windows/?utm_source=google&utm_medium=cpc&utm_campaign=au|b|pr|22|jun|tv-core-download-sn|free|t0|0&utm_content=Download&utm_term=teamviewer%20download&gad=1&gclid=CjwKCAjw9pGjBhB-EiwAa5jl3JtSMlwskHVNVTH2fzvXvtj6wTBD_uhieVL3zYhh38ZYQBQscEv3KRoCZGsQAvD_BwE)
 🔧︱Live VC Support in discord
 
+
+
 ![img](https://i.imgur.com/wAJUpeU.png)
+
+
 
 ## Changing the CET keybind
 
@@ -73,7 +86,11 @@ Delete bindings.json located in \bin\x64\plugins\cyber_engine_tweaks and launch 
 
 **Note** This will also delete any other key bind configuration you have chosen for your mods.
 
+
+
 ![img](https://i.imgur.com/wAJUpeU.png)
+
+
 
 ## Make a backup save
 
@@ -81,7 +98,11 @@ Mods for Cyberpunk 2077 are pretty reliable but it's always good to make a backu
 
 Save files can be found here> C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077 just copy the contents of this file and place it somewhere on your pc
 
+
+
 ![img](https://i.imgur.com/wAJUpeU.png)
+
+
 
 ## Cybercheck
 
@@ -96,3 +117,21 @@ Steam>   Drive Letter:\Games\Steam\steamapps\common\Cyberpunk 2077\archive\pc\mo
 Epic>    Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod 
 
 4) Deploy the mods in Vortex
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
+## Running Cyberpunk 2077 as admin
+
+1) Go to the following location and find the "cyberpunk2077.exe"
+Cyberpunk 2077\bin\x64
+
+2) Right click the exe and go to "properties"
+
+3) On the compatibility tab check the box for "run this program as administrator" and select "apply" and "ok"
+
+![img](https://s12.gifyu.com/images/SQNWC.jpg)
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
