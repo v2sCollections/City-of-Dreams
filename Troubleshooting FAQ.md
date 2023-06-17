@@ -18,6 +18,8 @@
 8) [I see this error when opening the Virtual Atelier](#i-see-this-error-when-opening-the-virtual-atelier)
 9) [The Atelier Shop doesnt show up in game](#the-atelier-shop-doesnt-show-up-in-game)
 10) [My game is crashing at the first loading screen](#my-game-is-crashing-at-the-first-loading-screen)
+11) [My game is crashing after creating a character](#my-game-is-crashing-after-creating-a-character)
+12) [Reshade doesnt launch when I click it It tells me that it cant be found](#reshade-doesnt-launch-when-i-click-it-it-tells-me-that-it-cant-be-found)
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -156,9 +158,63 @@ Dont worry this is normall some shops haver the same items.
 We are still yet to find the exact cause of this issue but some users have found a fix with the following.
 
 1) Run the game in bordereless mode
+
 2) Disable the apearance mod menu 
+
 3) Disable the UHD Splash screen
+
 4) Disable the QHD intro
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
+
+
+## My game is crashing after creating a character❓
+
+For some users these were able to fix there issues at this stage im still unsure what causes the crash issue at the chracter creation screen.
+
+1) Disable surface mods in Vortex.
+
+2) Make sure graphics driver is up to date .
+
+4) Disable the apearance menu mod.
+
+5) Run the game in windowed fullscreen.
+
+6) Disable "PMU Angry Pose Packs Core"
+
+7) Disable "Wilsons Range"
+
+
+Another workaround is to start a vanilla game and then redploy the mods after.
+
+1) Purge the mods in Vortex
+
+2) Create a character without mods.
+
+3) Save the game after the first mission.
+
+4) Go back to Vortex and Deploy the mods this will enable all the mods. 
+
+5) Start the game and load the save and see if you are able to play. 
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
+## Reshade doesnt launch when I click it It tells me that it cant be found❓
+
+Sometimes you need to relink Vortex to a tool.
+
+1) Go to the dashboard tab in Vortex.
+
+2) Scroll down untill you see tools.
+
+3) Click the 3 dots next to the tool you need to relink ie Reshade. and select "edit"
+
+4) Now selct "target" and browse to where you have the tool installed this will be in the main cyberpunk directory.
+
+![img](https://s12.gifyu.com/images/SQNLK.png)
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
