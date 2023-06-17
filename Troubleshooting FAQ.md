@@ -19,6 +19,7 @@
 9) [The Atelier Shop doesnt show up in game](#the-atelier-shop-doesnt-show-up-in-game)
 10) [My game is crashing at the first loading screen](#my-game-is-crashing-at-the-first-loading-screen)
 11) [My game is crashing after creating a character](#my-game-is-crashing-after-creating-a-character)
+12) [Reshade doesnt launch when I click it It tells me that it cant be found](#reshade-doesnt-launch-when-i-click-it-it-tells-me-that-it-cant-be-found)
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -199,3 +200,19 @@ Another workaround is to start a vanilla game and then redploy the mods after.
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
+
+
+## Reshade doesnt launch when I click it It tells me that it cant be found❓
+
+Sometimes you need to relink Vortex to a tool.
+
+1) Go to the dashboard tab in Vortex.
+
+2) Scroll down untill you see tools.
+
+3) Click the 3 dots next to the tool you need to relink ie Reshade. and select "edit"
+
+4) Now selct "target" and browse to where you have the tool installed this will be in the main cyberpunk directory.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
