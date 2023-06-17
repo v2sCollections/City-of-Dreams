@@ -214,5 +214,7 @@ Sometimes you need to relink Vortex to a tool.
 
 4) Now selct "target" and browse to where you have the tool installed this will be in the main cyberpunk directory.
 
+![img](https://s12.gifyu.com/images/SQNLK.png)
+
 ![img](https://i.imgur.com/wAJUpeU.png)
 
