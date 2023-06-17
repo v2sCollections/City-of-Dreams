@@ -10,11 +10,14 @@ NOTES
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!! 
 CYBERCLEAN IS RECCOMENDED!!!
 Reconfigured Daemon Netrunning. It is now harder to upload daemons.
+QHD Intro is now optional
+Spicy HUDs - More UI and HUD colors is now optional
 
 UPDATED
 -
 
 - [NC Fashion Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4805)
+- [Nola and Meluminary atelier](https://www.nexusmods.com/cyberpunk2077/mods/7703)
 
 
 REMOVED
@@ -27,6 +30,8 @@ REMOVED
 NEW MODS ADDED 
 -
 
+- [2077 More Gore V2.0](https://www.nexusmods.com/cyberpunk2077/mods/3040?tab=description)
+- [Nola and Meluminary clothing part no 3 - ARCHIVE XL - Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/8494)
 
 BUGS
 -
