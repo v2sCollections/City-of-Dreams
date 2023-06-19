@@ -164,3 +164,13 @@ Epic> Drive Letter:\Epic Games\Cyberpunk 2077
 
 You can read the wiki [HERE](https://wiki.redmodding.org/cyberpunk-2077-modding/for-mod-users/user-guide-troubleshooting/finding-and-reading-log-files)
 
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
+## Cyberpunk Mod Troubleshooting
+
+You can read the wiki [HERE](https://wiki.redmodding.org/cyberpunk-2077-modding/help/users-troubleshooting)
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
