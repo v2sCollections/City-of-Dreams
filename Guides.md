@@ -12,6 +12,9 @@
 5) [Make a backup save](#make-a-backup-save)
 6) [Cybercheck](#cybercheck)
 7) [Running Cyberpunk 2077 as admin](#running-cyberpunk-2077-as-admin)
+8) [Finding log files](#finding-log-files)
+9) [Finding and reading log files](#finding-and-reading-log-files)
+10) [Cyberpunk Mod Troubleshooting](#cyberpunk-mod-troubleshooting)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -132,6 +135,42 @@ Cyberpunk 2077\bin\x64
 3) On the compatibility tab check the box for "run this program as administrator" and select "apply" and "ok"
 
 ![img](https://s12.gifyu.com/images/SQNWC.jpg)
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
+## Finding log files
+
+1) Download the [file](https://raw.githubusercontent.com/DoctorPresto/Cyberpunk-Helper-Scripts/main/FindAllErrors.bat) attached.
+
+2) Move it to your main cyberpunk directory located here >
+
+```
+GOG>     Drive Letter:\Games\Cyberpunk 2077
+Steam>  Drive Letter:\Games\Steam\steamapps\common\Cyberpunk 2077
+Epic> Drive Letter:\Epic Games\Cyberpunk 2077
+```
+
+3) Double click the file .
+
+4) The script will have created a folder _LOGS in your Cyberpunk directory, which contains a file listing all the things for you.
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
+## Finding and reading log files
+
+You can read the wiki [HERE](https://wiki.redmodding.org/cyberpunk-2077-modding/for-mod-users/user-guide-troubleshooting/finding-and-reading-log-files)
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
+## Cyberpunk Mod Troubleshooting
+
+You can read the wiki [HERE](https://wiki.redmodding.org/cyberpunk-2077-modding/help/users-troubleshooting)
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
