@@ -144,11 +144,13 @@ Cyberpunk 2077\bin\x64
 
 2) Move it to your main cyberpunk directory located here >
 
- GOG>     Drive Letter:\Games\Cyberpunk 2077
+```
+GOG>     Drive Letter:\Games\Cyberpunk 2077
 
 Steam>  Drive Letter:\Games\Steam\steamapps\common\Cyberpunk 2077
  
 Epic> Drive Letter:\Epic Games\Cyberpunk 2077
+```
 
 3) Double click the file .
 
