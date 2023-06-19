@@ -13,6 +13,8 @@
 6) [Cybercheck](#cybercheck)
 7) [Running Cyberpunk 2077 as admin](#running-cyberpunk-2077-as-admin)
 8) [Finding log files](#finding-log-files)
+9) [Finding and reading log files](#finding-and-reading-log-files)
+10) [Cyberpunk Mod Troubleshooting](#cyberpunk-mod-troubleshooting)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -156,3 +158,9 @@ Epic> Drive Letter:\Epic Games\Cyberpunk 2077
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
+
+
+## Finding and reading log files
+
+You can read the wiki [HERE](https://wiki.redmodding.org/cyberpunk-2077-modding/for-mod-users/user-guide-troubleshooting/finding-and-reading-log-files)
+
