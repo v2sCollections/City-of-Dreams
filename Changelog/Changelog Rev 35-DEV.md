@@ -18,7 +18,9 @@ UPDATED
 
 - [NC Fashion Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4805)
 - [Nola and Meluminary atelier](https://www.nexusmods.com/cyberpunk2077/mods/7703)
-
+- [Muzzles for Shotguns](https://www.nexusmods.com/cyberpunk2077/mods/8522?tab=description)
+- [The RVC00N Dumpster (PinkyDude's Virtual Atelier Store)](https://www.nexusmods.com/cyberpunk2077/mods/5802)
+- [Cub Atelier Store - Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/6949)
 
 REMOVED
 -
@@ -32,6 +34,9 @@ NEW MODS ADDED
 
 - [2077 More Gore V2.0](https://www.nexusmods.com/cyberpunk2077/mods/3040?tab=description)
 - [Nola and Meluminary clothing part no 3 - ARCHIVE XL - Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/8494)
+- [Tied Crop - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8533?tab=description)
+- [HUDitor](https://www.nexusmods.com/cyberpunk2077/mods/3315?tab=description)
+
 
 BUGS
 -
