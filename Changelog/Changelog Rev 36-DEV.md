@@ -1,5 +1,5 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
-[CURRENT]
+[UNRELEASD UPDATE]
 
 [HEY CHOOMS Rev 36 is COMING SOON ](https://)
 -
@@ -14,6 +14,7 @@ CYBERCLEAN IS RECCOMENDED!!!
 UPDATED
 -
 
+- [Unlock Fov](https://www.nexusmods.com/cyberpunk2077/mods/7989?tab=description)
 
 REMOVED
 -
