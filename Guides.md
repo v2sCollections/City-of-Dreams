@@ -22,6 +22,7 @@
 
 Always double-check Vortex to make sure it uninstalled/installed something properly during an update. If you are having any issues with crashing or mods not loading you can do the following.
 
+MANUAL
 1) Purge mods in Vortex
 
 ![](https://s11.gifyu.com/images/Purge-Deploiy.jpg)
@@ -43,6 +44,25 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 5) Deploy mods in Vortex.
 
 6) Launch the game and see if the problem is resolved. 
+
+AUTO
+1) Purge mods in Vortex
+
+![](https://s11.gifyu.com/images/Purge-Deploiy.jpg)
+
+2) Place the (Cyberclean.bat) file in the main cyberpunk directory you can find it here> https://www.nexusmods.com/cyberpunk2077/mods/8595
+
+GOG>     Drive Letter:\Games\Cyberpunk 2077\archive\pc\ mod 
+Steam>  Drive Letter:\Games\Steam\steamapps\common\Cyberpunk 2077\archive\pc\ mod
+Epic>      Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\ mod 
+
+3) Double click that bat file.
+
+4) Verify game files inside your launcher.
+
+5) Deploy mods in Vortex.
+
+6) Launch the game and see if the problem is resolved.
 
 
 
