@@ -15,6 +15,7 @@ UPDATED
 -
 
 - [Unlock Fov](https://www.nexusmods.com/cyberpunk2077/mods/7989?tab=description)
+- [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107?tab=description)
 
 REMOVED
 -
