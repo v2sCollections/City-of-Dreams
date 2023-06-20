@@ -9,7 +9,6 @@ NOTES
 
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!! 
 CYBERCLEAN IS RECCOMENDED!!!
-Reconfigured Daemon Netrunning. It is now harder to upload daemons.
 QHD Intro is now optional
 Spicy HUDs - More UI and HUD colors is now optional
 
@@ -27,7 +26,7 @@ REMOVED
 
 - [Vehicle Combat](https://www.nexusmods.com/cyberpunk2077/mods/3815?tab=description) Added to the phantom liberty DLC
 - [Wilson's Range](https://www.nexusmods.com/cyberpunk2077/mods/7367?tab=description) Causing Crashes.
-
+- [Daemon Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/3545?tab=description) Causing Crashes.
 
 NEW MODS ADDED 
 -
