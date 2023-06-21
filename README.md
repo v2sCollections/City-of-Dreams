@@ -1,12 +1,14 @@
 IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/MRGHIA88V2/City-of-Dreams)
 
-### Collection Rev 32         Collection Updated and working for Game version 1.62 Patch 1
+### Collection Rev 35         Collection Updated and working for Game version 1.62 Patch 1
 
-![](https://s11.gifyu.com/images/Border11.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o) for **Cyberpunk 2077**.
+![](https://s11.gifyu.com/images/Border11.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://) for **Cyberpunk 2077**.
 
-This isn't just a mod list I've slapped together this is a whole new world of **cyberpunk 2077** with hundreds of hours spent building, configuring, modding and testing to create the best cyberpunk experience possible.
+This isn't just a mod list I've slapped together this is a whole new world of **cyberpunk 2077** with hundreds of hours spent building, configuring, modding and testing to create the best cyberpunk experience possible (my dream cyberpunk).
 
 This is a [700+](https://) Mod Collection it is the largest and most comprehensive mod list for **Cyberpunk 2077** if you can't be bothered reading this description then this collection isn't for you.
+
+If you would like a smaller collection try my [City of Dreams (lite)](https://next.nexusmods.com/cyberpunk2077/collections/ayfbwl?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) version.
 
 Huge thank you to all the talented chooms that have put in the time and effort to create these preem mods. If you enjoy this collection, please show your support and [ENDORSE](https://) the mod authors and the collection.
 
@@ -38,10 +40,10 @@ This collection is extensively tested with every new version that is released. I
 
 ![img](https://i.imgur.com/tuwIgmm.png)
 
-- These are the best mods from the best authors and are a must-have to immerse yourself in Cyberpunk 2077.
+- These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Cyberpunk 2077.
 - The most exstensive mod collection on nexus for cyberpunk 2077.
 - Easy to follow step-by-step installation guide.
-- Only-[10](https://)GB in download size for-[700+](https://)mods.
+- Only-[1](https://)[1](https://)GB in download size for-[700+](https://)mods.
 - Mods specifically created for the collection.
 - Support for other Modular Expansion Packs.
 - Setup Video-[HERE](https://)
@@ -68,6 +70,7 @@ This collection is extensively tested with every new version that is released. I
 - 20+ Custom apartment themes.
 - 20+ Custom Vehicles.
 - 20+ Photo Mode Pose Packs.
+- 15+ Custom Menu Backgrounds.
 - E3 Theme.
 - Edgerunners Theme.
 - Custom Vehicle Tuning.
@@ -102,8 +105,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [READ](https://)
 
-- ⛔ It Is important that you\*\*READ \*\*the following Installation guide to fully understand everything clearly.
-- ⛔**DO NOT**use a pirated game. It is against Nexus rules and is illegal and i will not provide any support.
+- ⛔**DO NOT **use a pirated game. It is against Nexus rules and is illegal and i will not provide any support.
 
 ## [Updating Collection](https://)[   ](https://)
 
@@ -140,6 +142,7 @@ https://www.youtube.com/watch?v=sn-Ju\_OWP\_8
 
 - Make sure that you have the latest version of Microsoft visual studio C++ >[HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 - Make sure that you have the latest Desktop Runtime >[HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
+- Make sure that you have the latest Graphics driver update.
 
 ***
 
@@ -249,8 +252,8 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 ## [In-game settings](https://)
 
 1. To use CET (Cyber Engine Tweaks)**use**F11 on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,3rd person camera, Vehicle camera and many more.
-2. I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and on our discord. Or here[Keybinds](https://github.com/MRGHIA88V2/City-of-Dreams/blob/f4b254dc31b142ce6e733cf321e1f28b218a3d1c/Keybinds.md)
-3. ⛔ On the main menu go to the graphics tab and you will find "texture quality"  Set this to\*\*"HIGH".\*\*
+2. I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and on our discord. Or here[Keybinds](https://github.com/2077v2/City-of-Dreams/blob/main/Keybinds.md)
+3. ⛔ On the main menu go to the graphics tab and you will find "texture quality"  Set this to "HIGH".
 
 ![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)
 
@@ -338,6 +341,11 @@ You need to set the texture quality to "HIGH"
 ## [Cyberclean](https://)
 
 Always double-check Vortex to make sure it uninstalled/installed something properly during an update. If you are having any issues with crashing or mods not loading you can do the following.
+AUTO
+
+Download my mod to run a script to do this for you get it [HERE ](https://www.nexusmods.com/cyberpunk2077/mods/8595)
+
+MANUAL
 
 1. Purge mods in Vortex
 
@@ -572,7 +580,9 @@ Walljumping is triggered when the player is:
 
 ### Wannabe Edgerunner **Cyberpsychosis**
 
-###
+https://www.youtube.com/watch?v=8cCpCjBYiA4
+
+&#x20;[Wannabe Edgerunner](https://www.nexusmods.com/cyberpunk2077/mods/5646?tab=description) by [djkovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
 
 ### Features
 
@@ -593,7 +603,7 @@ Walljumping is triggered when the player is:
 - Stops V from moving on the character creation screen.
 - Cleans up the green colour from the quick hack screen.
 - Remove quest tags from equipped items so they can be dismantled and sold.
-- Unequip all equipped items\*\*(armour, weapons and cyberware)\*\*.
+- Unequip all equipped items (armour, weapons and cyberware).
 - Reduced loot throughout the city.
 - See what attribute level you needed for conversation skill checks that you passed.
 - Reduced drop chances for chosen loot categories from in-game containers, NPCs and world-placed objects.
@@ -602,6 +612,7 @@ Walljumping is triggered when the player is:
 - You can now craft items while in combat.
 - You can tweak some of the interaction and loot marker visibility behaviour.
 - You can mark any item in your inventory as Junk so you will be able to sell all marked items at once using vendors "Sell Junk" option.
+- You can search your inventory for shards, quests and messages.
 - Increases time spans between sickness effects applied to V by The Relic.
 - Untrack quests the same way you track them -- by right-clicking in the Journal or on the Map
 - Additional loot markers on looting containers that show which types of loot are in them.
@@ -623,6 +634,8 @@ Limited HUD
 - **No Marker Pulse**: disables pulse animation for tracked markers
 - **Enemy Highlighting**: if enabled then the enemy highlight effect will be visible only for non-friendly NPCs under the Ping effect
 - **Objects Coloring:** allows to change or remove fill and outline glow colouring for different object categories (friendly and hostile NPCs, hackable devices, distractions etc.)
+
+\*\*HUDitor \*\*allows players to move & resize some of the main widgets on the screen.
 
 Inventory
 
@@ -853,21 +866,24 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 ## ![](https://s12.gifyu.com/images/Combat-weopans.png)
 
 - V can now zoom in with the scope on your weapon.
-- V can now shoot while driving vehicles.
 - V can now craft Scopes and Muzzle attachments.
 - More blood splatters.
 - Dead NPCs now take 5 minutes to become indestructible.
 - Ragdoll physics are now much more realistic.
 - More frequent dismemberment, decapitation and mutilation of the torso.
 - Restores some missing/cut crafting specs for some weapons.
-- Cybernetic eyes allow you to zoom in while aiming.
 - Netrunners can use more hacks on you and reveal your position now they have access to the same hacks as you.
-- NCPD will now chase you in vehicles and will spawn further away from you.
 - Adds a kill counter to the side of the Malorian Arms piston.
 - Holster your weapon by holding the reload button.
 - Adjusted lighting for all explosions and fire effects.
 - Sticky Grenades have been converted to throwable proximity mines.
 - Glowing Knives and Katanas.
+- No throwing knife autoswap.
+- You can now add muzzle attachments to some shotguns.
+
+### Buffs
+
+SOR-22
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -900,6 +916,7 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 - Vs hair has more shine.
 - More tattoos.
 - Enhanced body for Panam.
+- 4k Textures for Judy.
 
 ### Female V
 
@@ -982,6 +999,8 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 - You can now get Epic and Legendary cyberwares that are not available in standard game.
 - All Quickhacks and Talent shards have been added to the Atelier shop.
 - You can purchase cyberware that enables the ability to toggle a night vision mode.
+- You can now hack NPCs with Cyberpsychosis, Suicide, System Reset, and Detonate Grenade.
+- Cybernetic eyes allow you to zoom in while aiming.
 
 Upgraded/Tweaked cyberware
 
@@ -1044,6 +1063,7 @@ Upgraded/Tweaked cyberware
 - [Initial D Archer Quartz](https://www.nexusmods.com/cyberpunk2077/mods/8279).
 - [Type-66 MIDNIGHT](https://www.nexusmods.com/cyberpunk2077/mods/8288).
 - [Ford Mustang Boss 1969](https://www.nexusmods.com/cyberpunk2077/mods/8375).
+- [Mercedes-Benz 190E W201](https://www.nexusmods.com/cyberpunk2077/mods/8521?tab=description).
 - [Lamborghini Terzo Millennio](https://www.nexusmods.com/cyberpunk2077/mods/2398).
 
 ***
@@ -1072,6 +1092,10 @@ Upgraded/Tweaked cyberware
 Please do not forget that when you install any extra collections, it's your responsibility and they may not work as intended unless curated by me.
 
 You can use my 4k add on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high end systems only 10gb Vram+)** [City of Dreams 4k Graphics Pack by v2](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp).
+
+If you would like a smaller collection try my [City of Dreams (lite)](https://next.nexusmods.com/cyberpunk2077/collections/ayfbwl?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) version.
+
+![](https://s12.gifyu.com/images/SuG0u.png)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -1106,7 +1130,7 @@ Recommended In-game settings These settings will give a small performance boost 
 - 1440p> RTX 3080 or RX 6800 XT
 - RAM> 16GB
 - CPU> R5 3600 or i5 9600K
-- STORAGE> 9.2GB
+- STORAGE> 11GB
 - STORAGE TYPE> SSD\*\*(Recommended)\*\*
 
 ![img](https://i.imgur.com/wAJUpeU.png)
