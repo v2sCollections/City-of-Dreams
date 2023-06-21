@@ -93,3 +93,12 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 - U> Toggle Flaslight 
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
+
+
+### HUDITOR ADJUST HUD
+
+- SHIFT (hold) U> Activate Hud Editor
+- Left Arrow @ Right Arrow> Next Widget
+
+
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
