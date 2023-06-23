@@ -1,6 +1,6 @@
 IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/MRGHIA88V2/City-of-Dreams)
 
-### Collection Rev 35         Collection Updated and working for Game version 1.62 Patch 1
+### Collection Rev 36         Collection Updated and working for Game version 1.63
 
 ![](https://s11.gifyu.com/images/Border11.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://) for **Cyberpunk 2077**.
 
@@ -105,7 +105,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [READ](https://)
 
-- ⛔**DO NOT **use a pirated game. It is against Nexus rules and is illegal and i will not provide any support.
+- ⛔\*\*DO NOT \*\*use a pirated game. It is against Nexus rules and is illegal and i will not provide any support.
 
 ## [Updating Collection](https://)[   ](https://)
 
@@ -251,9 +251,10 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ## [In-game settings](https://)
 
-1. To use CET (Cyber Engine Tweaks)**use**F11 on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,3rd person camera, Vehicle camera and many more.
-2. I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and on our discord. Or here[Keybinds](https://github.com/2077v2/City-of-Dreams/blob/main/Keybinds.md)
+1. To use CET (Cyber Engine Tweaks) use [F11](https://) on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,Vehicle camera and many more.
+2. I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and on our discord. Or here [Keybinds](https://github.com/2077v2/City-of-Dreams/blob/main/Keybinds.md)
 3. ⛔ On the main menu go to the graphics tab and you will find "texture quality"  Set this to "HIGH".
+4. Once in game hold SHIFT and press U to customize the hud settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
 
 ![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)
 
@@ -1130,7 +1131,7 @@ Recommended In-game settings These settings will give a small performance boost 
 - 1440p> RTX 3080 or RX 6800 XT
 - RAM> 16GB
 - CPU> R5 3600 or i5 9600K
-- STORAGE> 11GB
+- STORAGE> 12.5GB
 - STORAGE TYPE> SSD\*\*(Recommended)\*\*
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -1154,6 +1155,7 @@ Special thanks to these chooms who helped make this collection preem. And everyo
 
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)
+- The Magnificent Doctor Presto
 - gknova-2
 - Starfox
 - Jeridlee

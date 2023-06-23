@@ -9,7 +9,8 @@ NOTES
 
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!! 
 CYBERCLEAN IS RECCOMENDED!!!
-
+- Fixed lighting issues in vs apartment
+- Fixed e3 hud problems
 
 UPDATED
 -
@@ -27,10 +28,15 @@ REMOVED
 
 - [UHD Character Selection Screen](https://www.nexusmods.com/cyberpunk2077/mods/8119)
 - [Megabuildings Expanded And Enhanced - Completed](https://www.nexusmods.com/cyberpunk2077/mods/7355?tab=description)
+- [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)
+- [E3 2018 HUD - Spicy HUDs](https://www.nexusmods.com/cyberpunk2077/mods/3023?tab=description)
+- [E3 Compass](https://www.nexusmods.com/cyberpunk2077/mods/4331)
+- [E3 2018 Inventory - Spicy HUDs](https://www.nexusmods.com/cyberpunk2077/mods/6901)
 
 NEW MODS ADDED 
 -
 
+- [Rolls Royce Wraith](https://www.nexusmods.com/cyberpunk2077/mods/8618?tab=description)
 
 BUGS
 -
@@ -42,5 +48,9 @@ MODS NOT WORKING AT THE MOMENT
 -
 
 - [Megabuildings Expanded And Enhanced - Completed](https://www.nexusmods.com/cyberpunk2077/mods/7355?tab=description)
+- [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)
+- [E3 2018 HUD - Spicy HUDs](https://www.nexusmods.com/cyberpunk2077/mods/3023?tab=description)
+- [E3 Compass](https://www.nexusmods.com/cyberpunk2077/mods/4331)
+- [E3 2018 Inventory - Spicy HUDs](https://www.nexusmods.com/cyberpunk2077/mods/6901)
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
