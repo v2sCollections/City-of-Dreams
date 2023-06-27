@@ -11,11 +11,11 @@ REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!!
 CYBERCLEAN IS RECCOMENDED!!!
 - Fixed lighting issues in vs apartment
 - Fixed e3 hud problems
+- Let There Be Flight is back
 
 UPDATED
 -
 
-- [Judy Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4508)
 - [QoL - Interactive Judy's Apartment Devices](https://www.nexusmods.com/cyberpunk2077/mods/8099)
 - [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987)
 - [Immersive First Person](https://www.nexusmods.com/cyberpunk2077/mods/2675?tab=description)
@@ -34,12 +34,12 @@ UPDATED
 - [Cookedprefabs Nulled](https://www.nexusmods.com/cyberpunk2077/mods/4789x)
 - [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198?tab=descriptionx)
 - [Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780x)
+- [Megabuildings Expanded And Enhanced - Completed](https://www.nexusmods.com/cyberpunk2077/mods/7355?tab=description)
 
 REMOVED
 -
 
 - [UHD Character Selection Screen](https://www.nexusmods.com/cyberpunk2077/mods/8119)
-- [Megabuildings Expanded And Enhanced - Completed](https://www.nexusmods.com/cyberpunk2077/mods/7355?tab=description)
 - [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)
 - [E3 2018 HUD - Spicy HUDs](https://www.nexusmods.com/cyberpunk2077/mods/3023?tab=description)
 - [E3 Compass](https://www.nexusmods.com/cyberpunk2077/mods/4331)
