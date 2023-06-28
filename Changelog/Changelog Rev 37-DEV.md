@@ -11,7 +11,6 @@ REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!!
 CYBERCLEAN IS RECCOMENDED!!!
 - Fixed lighting issues in vs apartment
 - Fixed e3 hud problems
-- Let There Be Flight is back
 
 UPDATED
 -
@@ -35,15 +34,15 @@ UPDATED
 - [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198?tab=descriptionx)
 - [Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780x)
 - [Megabuildings Expanded And Enhanced - Completed](https://www.nexusmods.com/cyberpunk2077/mods/7355?tab=description)
+- [TV Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/8162)
+- [Silver Six - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/7032)
+- [SOR-22 Power Precision Rifle fix](https://www.nexusmods.com/cyberpunk2077/mods/8481)
+- [
 
 REMOVED
 -
 
 - [UHD Character Selection Screen](https://www.nexusmods.com/cyberpunk2077/mods/8119)
-- [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)
-- [E3 2018 HUD - Spicy HUDs](https://www.nexusmods.com/cyberpunk2077/mods/3023?tab=description)
-- [E3 Compass](https://www.nexusmods.com/cyberpunk2077/mods/4331)
-- [E3 2018 Inventory - Spicy HUDs](https://www.nexusmods.com/cyberpunk2077/mods/6901)
 - [HD Pachinko Palor](https://www.nexusmods.com/cyberpunk2077/mods/8123)
 
 NEW MODS ADDED 
@@ -71,10 +70,6 @@ BUGS
 MODS NOT WORKING AT THE MOMENT 
 -
 
-- [Megabuildings Expanded And Enhanced - Completed](https://www.nexusmods.com/cyberpunk2077/mods/7355?tab=description)
-- [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)
-- [E3 2018 HUD - Spicy HUDs](https://www.nexusmods.com/cyberpunk2077/mods/3023?tab=description)
-- [E3 Compass](https://www.nexusmods.com/cyberpunk2077/mods/4331)
-- [E3 2018 Inventory - Spicy HUDs](https://www.nexusmods.com/cyberpunk2077/mods/6901)
+- [Let there be flight]()
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
