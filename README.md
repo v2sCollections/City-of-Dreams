@@ -1,6 +1,6 @@
 IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/MRGHIA88V2/City-of-Dreams)
 
-### Collection Rev 36         Collection Updated and working for Game version 1.63
+### Collection Rev 37         Collection Updated and working for Game version 1.63 Patch 1
 
 ![](https://s11.gifyu.com/images/Border11.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://) for **Cyberpunk 2077**.
 
@@ -101,7 +101,7 @@ C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 
 ## ⛔[WARNINGS](https://)⛔
 
-If you see this> ⛔ then you need to read and follow the directions.
+- If you see this> ⛔ then you need to read and follow the directions.
 
 ## [READ](https://)
 

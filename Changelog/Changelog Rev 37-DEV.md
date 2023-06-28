@@ -11,6 +11,8 @@ REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!!
 CYBERCLEAN IS RECCOMENDED!!!
 - Fixed lighting issues in vs apartment
 - Fixed e3 hud problems
+- Car Modification Shop is now optional while i search for bugs
+- Appearance Menu Mod is now optoinal while i search for bugs
 
 UPDATED
 -
@@ -37,7 +39,6 @@ UPDATED
 - [TV Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/8162)
 - [Silver Six - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/7032)
 - [SOR-22 Power Precision Rifle fix](https://www.nexusmods.com/cyberpunk2077/mods/8481)
-- [
 
 REMOVED
 -
@@ -70,6 +71,7 @@ BUGS
 MODS NOT WORKING AT THE MOMENT 
 -
 
-- [Let there be flight]()
+- [Let there be flight](https://)
+- [CTD Helper](https://)
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
