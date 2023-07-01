@@ -15,7 +15,6 @@ UPDATED
 - [Judy Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4508?tab=description)
 - [Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718)
 - [Dressify - Atelier Store for Hyst's body refits](https://www.nexusmods.com/cyberpunk2077/mods/4969?tab=description)
-- [
 
 
 REMOVED

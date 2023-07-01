@@ -1,6 +1,6 @@
 IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/MRGHIA88V2/City-of-Dreams)
 
-### Collection Rev 37         Collection Updated and working for Game version 1.63 Patch 1
+### Collection Rev 39         Collection Updated and working for Game version 1.63 Patch 1
 
 ![](https://s11.gifyu.com/images/Border11.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://) for **Cyberpunk 2077**.
 
@@ -43,7 +43,7 @@ This collection is extensively tested with every new version that is released. I
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Cyberpunk 2077.
 - The most exstensive mod collection on nexus for cyberpunk 2077.
 - Easy to follow step-by-step installation guide.
-- Only-[1](https://)[1](https://)GB in download size for-[700+](https://)mods.
+- Only-[12](https://)GB in download size for-[700+](https://)mods.
 - Mods specifically created for the collection.
 - Support for other Modular Expansion Packs.
 - Setup Video-[HERE](https://)
@@ -66,7 +66,7 @@ This collection is extensively tested with every new version that is released. I
 - 80+ Atelier Stores.
 - 50+ Weapon and Armor Mods.
 - 50+ Body Mods for  V and most Other NPCs.
-- 30+ Graphics & Texture Mods.
+- 25+ Graphics & Texture Mods.
 - 20+ Custom apartment themes.
 - 20+ Custom Vehicles.
 - 20+ Photo Mode Pose Packs.
@@ -524,7 +524,7 @@ You can find these item in the Dedicated [City of Dreams Atelier Store](https://
 
 ⛔ Note that some of these will eat your vram i recommend a min 8gb GPU but even then depending on your settings vanilla cyberpunk will eat 8gb. If you notice stuttering or any texture issues then disable a few of the (surfaces mods) in vortex.
 
-You can use my 4k add on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high end systems only 10gb Vram+)**
+You can use my 4k add on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high end systems only 16gb Vram+)**
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -868,8 +868,6 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 
 - V can now zoom in with the scope on your weapon.
 - V can now craft Scopes and Muzzle attachments.
-- More blood splatters.
-- Dead NPCs now take 5 minutes to become indestructible.
 - Ragdoll physics are now much more realistic.
 - More frequent dismemberment, decapitation and mutilation of the torso.
 - Restores some missing/cut crafting specs for some weapons.
