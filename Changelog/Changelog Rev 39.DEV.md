@@ -1,6 +1,6 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 
-[HEY CHOOMS Rev 39 is COMING SOON](https://)
+[HEY CHOOMS Rev 40 is COMING SOON](https://)
 -
 
 NOTES
@@ -12,19 +12,16 @@ CYBERCLEAN IS RECCOMENDED!!!
 UPDATED
 -
 
-- [Judy Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4508?tab=description)
-- [Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718)
-- [Dressify - Atelier Store for Hyst's body refits](https://www.nexusmods.com/cyberpunk2077/mods/4969?tab=description)
 
 
 REMOVED
 -
 
-- [More Blood Splatters](https://www.nexusmods.com/cyberpunk2077/mods/3975?tab=description)
 
 NEW MODS ADDED 
 -
 
+- [Deceptious Quest Core](https://www.nexusmods.com/cyberpunk2077/mods/7831)
 
 
 BUGS
