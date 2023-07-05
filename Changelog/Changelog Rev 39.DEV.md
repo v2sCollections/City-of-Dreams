@@ -26,7 +26,6 @@ UPDATED
 - [Enhanced Big Breasts - BODY MOD](https://www.nexusmods.com/cyberpunk2077/mods/4654?tab=description)
 - [Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790?tab=description)
 - [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987)
-- [
 
 REMOVED
 -
@@ -39,6 +38,7 @@ NEW MODS ADDED
 - [Lowrise Pants - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8456?tab=description)
 - [Open Road - Pacyfica Swimgear Highwaist - Fem V](https://www.nexusmods.com/cyberpunk2077/mods/8658?tab=description)
 - [The RVC00N Dumpster - Rockergirl Jacket (F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8708?tab=description)
+- [Silver Touch - Cyberware Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/8667?tab=description)
 - [
 
 BUGS
