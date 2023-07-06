@@ -7,7 +7,10 @@ NOTES
 -
 
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!! 
-CYBERCLEAN IS RECCOMENDED!!!
+YOU MUST CYBERCLEAN AFTER INSTALLING THE UPDATE!!!
+AMM And mods that require it are now optionall due to some users crashing with AMM installed.
+In world navagation has been removed due to crashes.
+
 
 UPDATED
 -
@@ -26,10 +29,12 @@ UPDATED
 - [Enhanced Big Breasts - BODY MOD](https://www.nexusmods.com/cyberpunk2077/mods/4654?tab=description)
 - [Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790?tab=description)
 - [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987)
+- [The RVC00Ns Plugins - HoloPlugins (M-F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/5803)
 
 REMOVED
 -
 
+- [In-World Navigation](https://)
 
 NEW MODS ADDED 
 -
@@ -39,7 +44,7 @@ NEW MODS ADDED
 - [Open Road - Pacyfica Swimgear Highwaist - Fem V](https://www.nexusmods.com/cyberpunk2077/mods/8658?tab=description)
 - [The RVC00N Dumpster - Rockergirl Jacket (F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8708?tab=description)
 - [Silver Touch - Cyberware Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/8667?tab=description)
-- [
+- [The RVC00Ns Plugins (PinkyDude's Virtual Atelier Store)](https://www.nexusmods.com/cyberpunk2077/mods/8724?tab=description)
 
 BUGS
 -
@@ -52,5 +57,6 @@ MODS NOT WORKING AT THE MOMENT
 
 - [Let there be flight](https://)
 - [CTD Helper](https://)
+- [In-World Navigation](https://)
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
