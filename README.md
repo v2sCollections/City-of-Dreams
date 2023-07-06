@@ -1,6 +1,6 @@
 IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/MRGHIA88V2/City-of-Dreams)
 
-### Collection Rev 39         Collection Updated and working for Game version 1.63 Patch 1
+### Collection Rev 40         Collection Updated and working for Game version 1.63 Patch 1
 
 ![](https://s11.gifyu.com/images/Border11.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://) for **Cyberpunk 2077**.
 
@@ -486,7 +486,7 @@ You can find these item in the Dedicated [City of Dreams Atelier Store](https://
 ## ![](https://s11.gifyu.com/images/Graphics.png)
 
 - Reshade included.
-- Reshade Presets.
+- Reshade Preset.
 - Draw distance boost.
 - Unlocked FOV.
 - Remove the Crouch vignette effect.
@@ -499,11 +499,9 @@ You can find these item in the Dedicated [City of Dreams Atelier Store](https://
 > [Upscaled Videos Include](https://)
 
 - UHD Main Menu Splash Screens.
-- UHD Character Selection Screen.
 - UHD Splash Screen.
 - QHD Intro.
 - QHD Edgerunner Braindance.
-- HD Pachinko Palor.
 - Clean Loading Screens
 
 > [Upscaled Textures Include](https://)
