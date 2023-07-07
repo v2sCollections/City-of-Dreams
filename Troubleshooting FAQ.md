@@ -21,6 +21,8 @@
 11) [My game is crashing after creating a character](#my-game-is-crashing-after-creating-a-character)
 12) [Reshade doesnt launch when I click it It tells me that it cant be found](#reshade-doesnt-launch-when-i-click-it-it-tells-me-that-it-cant-be-found)
 13) [HUD Elements are off the screen](#hud-elements-are-off-the-screen)
+14) [Mini Map isnt showing up](#mini-map-isnt-showing-up)
+15) [I cant shoot the drones in the car in the Heist Mission](#i-cant-shoot-the-drones-in-the-car-in-the-heist-mission)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -233,4 +235,23 @@ This is due to a mod called HUDitor it allows you to move the hud widgets where 
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
+
+
+## Mini Map isnt showing up❓
+
+Press "Y" to show the mini map.
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
+## I cant shoot the drones in the car in the Heist Mission❓
+
+You can fix this bug by 
+
+1) Equip a pistol before getting into the car.
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
 
