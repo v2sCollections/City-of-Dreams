@@ -177,7 +177,9 @@ For some users these were able to fix there issues at this stage im still unsure
 
 1) Disable surface mods in Vortex.
 
-2) Make sure graphics driver is up to date .
+2) Make sure graphics driver is up to date/Reinstall graphics driver 
+
+3) Disable any overlay (steam or nvidia/amd overlay for example) 
 
 4) Disable the apearance menu mod.
 
@@ -185,7 +187,10 @@ For some users these were able to fix there issues at this stage im still unsure
 
 6) Disable "PMU Angry Pose Packs Core"
 
-7) Disable "Wilsons Range"
+7) Make sure these are upto date>
+⁠Common Redist
+⁠Unknown
+
 
 
 Another workaround is to start a vanilla game and then redploy the mods after.
@@ -198,7 +203,7 @@ Another workaround is to start a vanilla game and then redploy the mods after.
 
 4) Go back to Vortex and Deploy the mods this will enable all the mods. 
 
-5) Start the game and load the save and see if you are able to play. 
+5) Start the game and load the save and see if you are able to play.
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -240,6 +245,8 @@ This is due to a mod called HUDitor it allows you to move the hud widgets where 
 ## Mini Map isnt showing up❓
 
 Press "Y" to show the mini map.
+
+If this doesnt work its becuause you have the E3 Compass installed this will disable the mini map.
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
