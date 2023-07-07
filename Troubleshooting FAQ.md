@@ -20,7 +20,7 @@
 10) [My game is crashing at the first loading screen](#my-game-is-crashing-at-the-first-loading-screen)
 11) [My game is crashing after creating a character](#my-game-is-crashing-after-creating-a-character)
 12) [Reshade doesnt launch when I click it It tells me that it cant be found](#reshade-doesnt-launch-when-i-click-it-it-tells-me-that-it-cant-be-found)
-
+13) [HUD Elements are off the screen](#hud-elements-are-off-the-screen)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -215,6 +215,22 @@ Sometimes you need to relink Vortex to a tool.
 4) Now selct "target" and browse to where you have the tool installed this will be in the main cyberpunk directory.
 
 ![img](https://s12.gifyu.com/images/SQNLK.png)
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
+
+## HUD Elements are off the screen❓
+
+This is due to a mod called HUDitor it allows you to move the hud widgets where ever you would like. 
+
+1) Once in game hold SHIFT and press U to customize the hud settings to suit you. 
+
+2) To go to the next widget press the LEFT and RIGHT arrow keys.
+
+3) To rest the widgets press X
+
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
