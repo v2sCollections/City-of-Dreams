@@ -31,7 +31,6 @@ NEW MODS ADDED
 
 - [Nola Dreamer and Aquelyras - punk shoes - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8702?tab=description)
 - [Nola Dreamer and Aquelyras atelier](https://www.nexusmods.com/cyberpunk2077/mods/8704?tab=description)
-- [1993 Nissan 240SX (S13)](https://www.nexusmods.com/cyberpunk2077/mods/8730?tab=description)
 - [Open Road - Pacyfica Swimgear Trunks - Masc](https://www.nexusmods.com/cyberpunk2077/mods/8742?tab=description)
 - [Open Road - Pacyfica Swimgear Swim Shorts - Masc V](https://www.nexusmods.com/cyberpunk2077/mods/8741?tab=description)
 - [XRX TankTop 2023 Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8738?tab=description)
