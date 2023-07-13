@@ -2,11 +2,13 @@ IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/MRGHIA88V2/City-o
 
 ### Collection Rev 40         Collection Updated and working for Game version 1.63 Patch 1
 
-![](https://s11.gifyu.com/images/Border11.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://) for **Cyberpunk 2077**.
+https://www.youtube.com/watch?v=vvpmq34uBAc
+
+![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://) for **Cyberpunk 2077**.
 
 This isn't just a mod list I've slapped together this is a whole new world of **cyberpunk 2077** with hundreds of hours spent building, configuring, modding and testing to create the best cyberpunk experience possible (my dream cyberpunk).
 
-This is a [700+](https://) Mod Collection it is the largest and most comprehensive mod list for **Cyberpunk 2077** if you can't be bothered reading this description then this collection isn't for you.
+This is a [7](https://)[50+](https://) Mod Collection it is the largest and most comprehensive mod list for **Cyberpunk 2077** if you can't be bothered reading this description then this collection isn't for you.
 
 If you would like a smaller collection try my [City of Dreams (lite)](https://next.nexusmods.com/cyberpunk2077/collections/ayfbwl?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) version.
 
@@ -60,7 +62,7 @@ This collection is extensively tested with every new version that is released. I
 
 ![img](https://i.imgur.com/HJkjnor.png)
 
-- 700+ Mods in one click.
+- 750+ Mods in one click.
 - 300+ Clothing Mods Featuring over 1000 clothes added to the Alteier Store.
 - 100+ Loading Screens.
 - 80+ Atelier Stores.
@@ -254,9 +256,8 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 1. To use CET (Cyber Engine Tweaks) use [F11](https://) on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,Vehicle camera and many more.
 2. I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and on our discord. Or here [Keybinds](https://github.com/2077v2/City-of-Dreams/blob/main/Keybinds.md)
 3. ⛔ On the main menu go to the graphics tab and you will find "texture quality"  Set this to "HIGH".
-4. Once in game hold SHIFT and press U to customize the hud settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
 
-![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)
+![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)4. Once in game hold SHIFT and press U to customize the hud settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
 
 ***
 
@@ -420,9 +421,10 @@ You can find these item in the Dedicated [City of Dreams Atelier Store](https://
 
 ⛔ When in the game go to the Mod tab in the menu and enable these 2 settings shown below.
 
-![](https://i.imgur.com/5VWAfHn.png)
+![](https://i.imgur.com/5VWAfHn.png) ⛔ If you use the E3 Compass when in the game go to the Mod Settings tab in the menu and enable the setting shown below.
 
-- [E3 2018 Inventory - Spicy HUDs](https://www.nexusmods.com/cyberpunk2077/mods/6901)
+&#x20; ![](https://s11.gifyu.com/images/SWLyO.jpg)
+
 - [E3 2018 HUD - Spicy HUDs](https://www.nexusmods.com/cyberpunk2077/mods/3023)
 - [E3 Icons Remastered (Hud and Map)](https://www.nexusmods.com/cyberpunk2077/mods/4230)
 - [E3 Smart Windows](https://www.nexusmods.com/cyberpunk2077/mods/7026)
@@ -486,7 +488,7 @@ You can find these item in the Dedicated [City of Dreams Atelier Store](https://
 ## ![](https://s11.gifyu.com/images/Graphics.png)
 
 - Reshade included.
-- Reshade Preset.
+- Reshade Presets.
 - Draw distance boost.
 - Unlocked FOV.
 - Remove the Crouch vignette effect.
@@ -499,9 +501,11 @@ You can find these item in the Dedicated [City of Dreams Atelier Store](https://
 > [Upscaled Videos Include](https://)
 
 - UHD Main Menu Splash Screens.
+- UHD Character Selection Screen.
 - UHD Splash Screen.
 - QHD Intro.
 - QHD Edgerunner Braindance.
+- HD Pachinko Palor.
 - Clean Loading Screens
 
 > [Upscaled Textures Include](https://)
@@ -882,6 +886,26 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 
 SOR-22
 
+***
+
+## &#x20;Drone Companions&#x20;
+
+https://www.youtube.com/watch?v=1Nfuqr3KmMw
+
+[Drone Companions](https://www.nexusmods.com/cyberpunk2077/mods/4520?tab=description) by [Scissors123454321](https://www.nexusmods.com/cyberpunk2077/users/78269633)
+
+### &#x20;Features
+
+> Adds a new type of Operating System to the game which allows for the crafting and control of companion Drones, Androids, and Mechs.
+
+- There is a new type of Operating System called a TechDeck. Operating Systems are like the Cyberdeck, Berserk, etc.
+- Equipping a TechDeck allows the user to craft a set amount of Drones that will then follow the player around and fight with them until destroyed.
+- Crafting is done under the 'Drones' tab of the Crafting screen (previously called 'Cyberware Mods'), and recipes are required to craft the Drones, sold at Weapon Vendors.
+- There's 8 TechDecks at ripperdocs inRare,Epic, andLegendary qualities. See TechDecks section for locations/info.
+- Rare TechDecks are available at Technical Ability 6,Epicat 12, andLegendary at 18.
+- The Drones are crafted with regular crafting components, as well as a new component called a Drone Module, which will appear at vendors, and also as loot on mechanical NPCs.
+- The Drone recipes are scattered around at Weapon vendors. See Drone Types section for locations/info.
+
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## ![](https://s11.gifyu.com/images/Altier-Store.png)
@@ -1155,6 +1179,7 @@ Special thanks to these chooms who helped make this collection preem. And everyo
 - gknova-2
 - Starfox
 - Jeridlee
+- Fenrir
 
 And all the teams and modders behind all the tools that make cyberpunk 2077 modding possible.
 

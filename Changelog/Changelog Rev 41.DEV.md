@@ -30,6 +30,7 @@ UPDATED
 - [Silver Breezy - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/7773)
 - [I Really Want To Stay At Your House - Judy](https://www.nexusmods.com/cyberpunk2077/mods/8753)
 - [Enhanced Big Breasts - BODY MOD](https://www.nexusmods.com/cyberpunk2077/mods/4654)
+- [City of Dreams Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/8344?tab=description)
 
 REMOVED
 -
@@ -48,6 +49,8 @@ NEW MODS ADDED
 - [Open Road - Pacyfica Swimgear Trunks - Masc](https://www.nexusmods.com/cyberpunk2077/mods/8742?tab=description)
 - [Open Road - Pacyfica Swimgear Swim Shorts - Masc V](https://www.nexusmods.com/cyberpunk2077/mods/8741?tab=description)
 - [XRX TankTop 2023 Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8738?tab=description)
+- [Fronky's Fashions Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/8348?tab=description)
+- [Custom Tanks - ArchiveXL - FemV - MascV - Requests Open](https://www.nexusmods.com/cyberpunk2077/mods/8640)
 
 BUGS
 -
