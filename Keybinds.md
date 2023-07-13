@@ -45,6 +45,7 @@ These can be configured in game but ive configured them to get you started. Thes
 - D> Right
 - SPACE> Up
 - CAPSLK> Down
+- C> Exit Drone
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
