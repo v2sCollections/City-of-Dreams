@@ -14,6 +14,9 @@ CYBERCLEAN IS RECOMMENDED!!!
 - Changed config for corrupt NCPD. It now cost double the eddies to call of the police.
 - Changed config for Damage scaling to NPCs and Player.
 - Changed config for Silencers and throwing knifes.
+- Changed config for AlternateMidairMovement. Now compatible with wall hang.
+- Removed some clipping clothing.
+- Crash Fixes.
 
 UPDATED
 -
@@ -27,13 +30,15 @@ UPDATED
 - [Silver Breezy - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/7773)
 - [I Really Want To Stay At Your House - Judy](https://www.nexusmods.com/cyberpunk2077/mods/8753)
 - [Enhanced Big Breasts - BODY MOD](https://www.nexusmods.com/cyberpunk2077/mods/4654)
-- [
 
 REMOVED
 -
 
-- [E3 2018 Inventory - Spicy HUDs](https://www.nexusmods.com/cyberpunk2077/mods/6901)
-- [The Afterlife - Re imagined](https://www.nexusmods.com/cyberpunk2077/mods/7688?tab=description)
+- [E3 2018 Inventory - Spicy HUDs](https://www.nexusmods.com/cyberpunk2077/mods/6901) BUG FIX
+- [The Afterlife - Re imagined](https://www.nexusmods.com/cyberpunk2077/mods/7688?tab=description) BUG FIX
+- [Angel Full Outfit - Angel Wings Male](https://www.nexusmods.com/cyberpunk2077/mods/3401?tab=description) CLIPPING
+- [Swimsuit for Fem V](https://www.nexusmods.com/cyberpunk2077/mods/4535) CLIPPING
+- [HQ Food - Fries - Better Quality Models and Textures](https://www.nexusmods.com/cyberpunk2077/mods/4818?tab=description) CRASHING ISSUES
 
 NEW MODS ADDED 
 -
