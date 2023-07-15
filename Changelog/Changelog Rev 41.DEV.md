@@ -25,7 +25,7 @@ UPDATED
 - [NC Fashion Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4805)
 - [spawn0 - NEW WEAPONS MOD](https://www.nexusmods.com/cyberpunk2077/mods/3791)
 - [Native Settings UI](https://www.nexusmods.com/cyberpunk2077/mods/3518?tab=description)
-- [Pet Your Cat]https://www.nexusmods.com/cyberpunk2077/mods/6198)
+- [Pet Your Cat](https://www.nexusmods.com/cyberpunk2077/mods/6198)
 - [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987?tab=description)
 - [Silver Breezy - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/7773)
 - [I Really Want To Stay At Your House - Judy](https://www.nexusmods.com/cyberpunk2077/mods/8753)
