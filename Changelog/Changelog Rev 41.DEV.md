@@ -40,6 +40,8 @@ REMOVED
 - [Angel Full Outfit - Angel Wings Male](https://www.nexusmods.com/cyberpunk2077/mods/3401?tab=description) CLIPPING
 - [Swimsuit for Fem V](https://www.nexusmods.com/cyberpunk2077/mods/4535) CLIPPING
 - [HQ Food - Fries - Better Quality Models and Textures](https://www.nexusmods.com/cyberpunk2077/mods/4818?tab=description) CRASHING ISSUES
+- [AMM - Scenes Pack](https://www.nexusmods.com/cyberpunk2077/mods/790?tab=description) CRASHING ISSUES
+
 
 NEW MODS ADDED 
 -
