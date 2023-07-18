@@ -103,3 +103,12 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
+
+
+### CPAH
+
+- CONTROLL+SHIFT+H>Analysis
+- CONTROLL+SHIFT+K>Autohack
+
+
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
