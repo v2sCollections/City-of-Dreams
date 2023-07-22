@@ -26,7 +26,11 @@ NEW MODS ADDED
 - [I Really Want To Stay At Your House - Panam](https://www.nexusmods.com/cyberpunk2077/mods/8775?tab=description)
 - [I Really Want To Stay At Your House - Kerry](https://www.nexusmods.com/cyberpunk2077/mods/8806?tab=description)
 - [Pagani Zonda Cinque roadster](https://www.nexusmods.com/cyberpunk2077/mods/8795?tab=description)
-- [
+- [I Really Want To Stay At Your House - River](https://www.nexusmods.com/cyberpunk2077/mods/8826?tab=description)
+- [Audi R8 Liberty Walk](https://www.nexusmods.com/cyberpunk2077/mods/8827?tab=description)
+- [HQ Food - Soda - Real Chromanticore](https://www.nexusmods.com/cyberpunk2077/mods/8407?tab=description)
+- [HQ Food - Soda - Real Nicola](https://www.nexusmods.com/cyberpunk2077/mods/8491?tab=description)
+- [No Paper Bags From Vending Machines](
 
 BUGS
 -
