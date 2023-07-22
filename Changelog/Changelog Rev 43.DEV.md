@@ -18,6 +18,7 @@ UPDATED
 REMOVED
 -
 
+- [Inventory Zoom](https://www.nexusmods.com/cyberpunk2077/mods/4776)
 
 
 NEW MODS ADDED 
@@ -31,6 +32,7 @@ NEW MODS ADDED
 - [HQ Food - Soda - Real Chromanticore](https://www.nexusmods.com/cyberpunk2077/mods/8407?tab=description)
 - [HQ Food - Soda - Real Nicola](https://www.nexusmods.com/cyberpunk2077/mods/8491?tab=description)
 - [No Paper Bags From Vending Machines](https://www.nexusmods.com/cyberpunk2077/mods/8387?tab=description)
+- [Peachu Qipao - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8823?tab=description)
 
 BUGS
 -
