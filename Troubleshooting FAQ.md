@@ -23,6 +23,7 @@
 13) [HUD Elements are off the screen](#hud-elements-are-off-the-screen)
 14) [Mini Map isnt showing up](#mini-map-isnt-showing-up)
 15) [I cant shoot the drones in the car in the Heist Mission](#i-cant-shoot-the-drones-in-the-car-in-the-heist-mission)
+16) [My game is crashing when loading a save](#my-game-is-crashing-when-loading-a-save)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -262,3 +263,23 @@ You can fix this bug by
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 
+## My game is crashing when loading a save
+
+Make sure you have disabled cross-platform saves as shown below. 
+
+![img](https://s12.gifyu.com/images/SWeJF.png)
+
+If this doesnt fix th issue you can try the following.
+
+Play the game without mods and make a save and then reactivate mods and load the save.
+
+1) In Vortex on the mods tab select **"Purge"** this will remove the mods from the game files.
+
+2) Boot up the vanilla game load your save now save and close the game.
+
+3) In Vortex on the mods tab select "**Deploy"**
+
+4) Boot up the game and load your save.
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
