@@ -1,14 +1,12 @@
-IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/MRGHIA88V2/City-of-Dreams)
-
-### Collection Rev 40         Collection Updated and working for Game version 1.63 Patch 1
+### Collection Rev 43         Collection Updated and working for Game version 1.63 Patch 1
 
 https://www.youtube.com/watch?v=vvpmq34uBAc
 
 ![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://) for **Cyberpunk 2077**.
 
-This isn't just a mod list I've slapped together this is a whole new world of **cyberpunk 2077** with hundreds of hours spent building, configuring, modding and testing to create the best cyberpunk experience possible (my dream cyberpunk).
+This isn't just a mod list I've slapped together this is a whole new world of **cyberpunk 2077** with hundreds of hours spent building, configuring, modding and testing to create the best cyberpunk experience possible.
 
-This is a [7](https://)[50+](https://) Mod Collection it is the largest and most comprehensive mod list for **Cyberpunk 2077** if you can't be bothered reading this description then this collection isn't for you.
+This is a [7](https://)[50+](https://) Mod Collection it is the largest and most comprehensive mod list for **Cyberpunk 2077** it has been put together in a way that you can customize your playthrough to suit your style.&#x20;
 
 If you would like a smaller collection try my [City of Dreams (lite)](https://next.nexusmods.com/cyberpunk2077/collections/ayfbwl?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) version.
 
@@ -20,23 +18,7 @@ I hope you enjoy this collection and the game as much as I do. Time for me to de
 
 This collection is extensively tested with every new version that is released. If it's not working for you there's a good chance you have missed a step. Please join the discord so we can assist you and get you up and going before you downvote the collection.
 
-![img](https://i.imgur.com/wAJUpeU.png)
-
-# [Contents:](https://)
-
-1. Why This Collection❓
-2. What Is Included❓
-3. Read before installing❗
-4. Warnings❗
-5. Installation.
-6. Troubleshooting.
-7. Mod Settings and Overview.
-8. Modding The Collection.
-9. Compatible Collections & Pack Installation Guide.
-10. Performance Guide for Cyberpunk2077 by-[v2](https://www.nexusmods.com/users/123334373)
-11. System Requirements.
-12. Permissions.
-13. Support The Curators and Modders.
+![img](https://i.imgur.com/wAJUpeU.png)![](https://s12.gifyu.com/images/SW4jN.png)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -62,30 +44,7 @@ This collection is extensively tested with every new version that is released. I
 
 ![img](https://i.imgur.com/HJkjnor.png)
 
-- 750+ Mods in one click.
-- 300+ Clothing Mods Featuring over 1000 clothes added to the Alteier Store.
-- 100+ Loading Screens.
-- 80+ Atelier Stores.
-- 50+ Weapon and Armor Mods.
-- 50+ Body Mods for  V and most Other NPCs.
-- 25+ Graphics & Texture Mods.
-- 20+ Custom apartment themes.
-- 20+ Custom Vehicles.
-- 20+ Photo Mode Pose Packs.
-- 15+ Custom Menu Backgrounds.
-- E3 Theme.
-- Edgerunners Theme.
-- Custom Vehicle Tuning.
-- Gameplay mods & Tweaks.
-- Bug fixes.
-- Quality-of-life improvements.
-- Input mods.
-- Improved UI.
-- In-game Mod Menus
-- In-game Appearance Menu
-- In-game-Cheat Menus.
-- Save Game Editor.
-- Support for other Modular Expansion Packs.
+![](https://s12.gifyu.com/images/SW8xD.jpg)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -107,7 +66,7 @@ C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 
 ## [READ](https://)
 
-- ⛔\*\*DO NOT \*\*use a pirated game. It is against Nexus rules and is illegal and i will not provide any support.
+- ⛔DO NOT use a pirated game. It is against Nexus rules and is illegal and i will not provide any support.
 
 ## [Updating Collection](https://)[   ](https://)
 
@@ -151,7 +110,7 @@ https://www.youtube.com/watch?v=sn-Ju\_OWP\_8
 ## [Cyberpunk2077](https://)
 
 1. Start with a fresh install of**Cyberpunk 2077**.
-2. You need to create a mod folder go to the following location\*\*(Locations below) \*\*and create a folder named mod. When done should look as follows.
+2. You need to create a mod folder go to the following location (Locations below) and create a folder named mod. When done should look as follows.
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk 2077\archive\pc\mod
@@ -159,9 +118,9 @@ GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk 2077\archive\pc\mod
 Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 ```
 
-1. ⛔ Launch Cyberpunk 2077 and go to the settings menu and on the gameplay tab turn off\*\*"Enable Analytics"\*\*
+1. ⛔ Launch Cyberpunk 2077 and go to the settings menu and on the gameplay tab turn off "Enable Analytics" and "Enable cross-platform Saves"
 
-![](https://s12.gifyu.com/images/Analytics.jpg)
+![](https://s12.gifyu.com/images/SWeJF.png)
 
 ***
 
@@ -175,7 +134,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 ## [Vortex & Cyberpunk](https://)
 
-1. Open Vortex and click on\*\*"Select a game to manage".\*\*
+1. Open Vortex and click on "Select a game to manage".
 
 ![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)
 
@@ -201,8 +160,8 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 11 ) On your main Vortex window, it will now show an icon for **"Cyberpunk 2077"** showing that it is a managed game in Vortex.
 
-1. Go to the settings and on the mods tab check\*\*"automatically use suggested path for staging folder" \*\*then check "**suggest and "apply".**
-2. On the same window select\*\*"hard link deployment" \*\*and check\*\*"apply".\*\*
+1. Go to the settings and on the mods tab check "automatically use suggested path for staging folder" then check "**suggest and "apply".**
+2. On the same window select "hard link deployment" and check "apply".
 
 ![](https://s11.gifyu.com/images/Untitledef56ac4a42e1f37d.jpg)
 
@@ -210,7 +169,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ## [Disabling REDmod Autoconversion](https://)
 
-1. ⛔ While still in settings go to the "\*\*V2077 Settings" \*\*tab and make sure that REDmod Autoconvert is disabled as shown in the picture below.
+1. ⛔ While still in settings go to the "V2077 Settings" tab and make sure that REDmod Autoconvert is disabled as shown in the picture below.
 
 ![](https://s11.gifyu.com/images/Untitle44d.jpg)
 
@@ -222,7 +181,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ![](https://s12.gifyu.com/images/Screenshot-2023-04-17-115745.png)
 
-1. Click\*\*"Add to Vortex"(choose your newly created profile)\*\*.
+1. Click "Add to Vortex"(choose your newly created profile).
 
 ![](https://s12.gifyu.com/images/Untitled1.png)
 
@@ -230,12 +189,12 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 1. These may pop up in Vortex as you are downloading the collection.
 
-- When you see a pop-up titled\*\*"Mod contains protected paths"\*\* select\*\*"Yes install to staging anyway"\*\*
-- When you see a pop-up titled\*\*"You have reached the fallback installer"**select**"Yes install to staging anyway"\*\*
-- When you see a pop-up titled\*\*"not an archive"**select**"create mod"\*\*.
+- When you see a pop-up titled **"Mod contains protected paths"** select **"Yes install to staging anyway"**
+- When you see a pop-up titled **"You have reached the fallback installer"** select "Yes install to staging anyway"
+- When you see a pop-up titled **"not an archive" **select** "create mod"**.
 - When you see a pop-up titled "**Mod installed but may need manual adjustment**" select "**Understood**".
 - When you see a pop-up titled "**Error**" select "**close**"
-- Throughout the installation process, you will have some\*\*"installer" \*\*popups so that you can customize some mods to your liking.
+- Throughout the installation process, you will have some **"installer"** popups so that you can customize some mods to your liking.
 
 ***
 
@@ -243,7 +202,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 \***Note** If you don't want the optional mods skip this step.
 
-1. Select\*\*"show" \*\*optional mods then select\*\*"no thanks"\*\*
+1. Select **"show"** optional mods then select **"no thanks"**
 
 ![](https://s11.gifyu.com/images/Optinal.jpg)
 
@@ -331,15 +290,6 @@ You need to disable "Analytics"
 2. Launch the game
 3. Go to the settings menu and on the gameplay tab disable Analytics.
 
-## [My character and some female NPCs have weird texture lines on them ](https://)❓
-
-You need to set the texture quality to "HIGH"
-
-**Note** This setting doesnt show when in game you must be in the main menu.
-
-1. Launch the game
-2. Go to the settings menu and on the graphics tab set texture quality to high.
-
 ## [Cyberclean](https://)
 
 Always double-check Vortex to make sure it uninstalled/installed something properly during an update. If you are having any issues with crashing or mods not loading you can do the following.
@@ -377,7 +327,7 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 If you see this> ⛔ then you need to read and follow the directions.
 
-⛔ All ***(OPTIONAL)***  mods will be enabled automatically if you choose to install **"all optional mods" (see the optional mods section above in the install guide)** if you do choose to install all then you will have to manually disable the ones you don't want it.
+⛔ All ***(OPTIONAL)***  mods will be enabled automatically if you choose to install **"all optional mods" (see the optional mods section above in the install guide)** if you do choose to install all then you will have to manually disable the ones you don't want.
 
 ⛔ It Is important that you read the following guide to fully understand everything clearly.
 
@@ -449,7 +399,7 @@ You can find these item in the Dedicated [City of Dreams Atelier Store](https://
 - [Edgerunners Posters](https://www.nexusmods.com/cyberpunk2077/mods/5203)***(OPTIONAL)***
 - [Edgerunner 2077](https://)***(OPTIONAL)***
 - [Lucy - Edgerunners Sky Ad](https://www.nexusmods.com/cyberpunk2077/mods/5201?tab=description)***(OPTIONAL)***
-- [Wannabe Edgerunner - A simple Cyberpsychosis mod](https://www.nexusmods.com/cyberpunk2077/mods/5646)***(OPTIONAL)***\*Note Read more on the\*\*"gameplay"\*\*tab
+- [Wannabe Edgerunner - A simple Cyberpsychosis mod](https://www.nexusmods.com/cyberpunk2077/mods/5646)***(OPTIONAL)***\*Note Read more on the "gameplay" tab
 - [Edgerunners Loading Screen Pack.](https://)***(OPTIONAL)***
 - [Edgerunners- Rebecca's hairstyle haircolor](https://www.nexusmods.com/cyberpunk2077/mods/5418?tab=description)***(OPTIONAL)***
 - [Edgerunners- Rebecca's face cyberware](https://www.nexusmods.com/cyberpunk2077/mods/5524?tab=description)***(OPTIONAL)***
@@ -477,11 +427,12 @@ You can find these item in the Dedicated [City of Dreams Atelier Store](https://
 - Fixes Weapon UI bug when loading a game.
 - Fixes an audio bug for no sound on some proximity Mines.
 - Fixes River's dialogue in Holo calls it now actually plays the same as talking to him in person.
-- Fixes missing crucial clue audio playback in\*\*(The Hunt quest).\*\*
-- Fixes missing animations in the\*\*(Skippy quest episodes)\*\*.
+- Fixes missing crucial clue audio playback in (The Hunt quest).
+- Fixes missing animations in the (Skippy quest episodes).
 - Fixes the clipping of Frank Nostra's hair cap.
 - Fixes mitches jacket with one that fits correctly.
 - Fixes sleeves automatically rolling up for long-sleeved clothes when first-person perspective camera is active.
+- Fixes the dark box shadows cast by holotext screens with using ray/path tracing.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -537,9 +488,131 @@ You can use my 4k add on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 - V can now slide sideways. More flexibility on the slide's trajectory. Improves camera control when sliding. Prevents stairs and small obstacles like sidewalks from cancelling the slide.
 - The custom Level cap allows you to keep levelling up past level 50.
 - Using healing items builds up your "Toxicity" until you "Overdose", requiring you to wait for the effect to wear off before using more inhalers/injectors.
-- Modified every part of the damage system and other elements to give gangs and corps more flavour and uniqueness. Also, get benefits and penalties against gangs/corps based on your life path.
 - Darkens the edges of the screen when your stamina is low.
 - Third-person mode.
+
+***
+
+## Lifepath Bonuses and Gang Corp Traits
+
+![](https://s11.gifyu.com/images/Sc9qr.png) [Lifepath Bonuses and Gang Corp Traits](https://www.nexusmods.com/cyberpunk2077/mods/2217) by [rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803).
+
+### Features
+
+> Modified every part of the damage system and other elements to give gangs and corps more flavour and uniqueness. Also, get benefits and penalties against gangs/corps based on your life path.
+
+**Gangs**\
+\
+**Animals**\
+
+
+- **Firewall:** Immune to control hacks
+- **Massive:** Cannot be grappled (may replace with related ability in the future - you can turn it back on in the config if you want)
+- **Pain Editors:** Immune to Electrocution
+- **Ultratestosterone:** Immune to Poison
+- **Combat Drug Injectors:** Resistant to non-melee damage (0.5x)
+- **Implanted Muscles:** Ignore 25% of player armor
+
+**Maelstrom**\
+
+
+- **Firewall:** Immune to covert hacks
+- **ICE:** +1 upload time, +1 RAM cost
+- **Cyberoptics:** enhanced detection (1.5x)
+- **Pain Editors:** Immune to Burning
+- **Mostly Chrome:** Immune to Bleeding
+- **Chrome Dome:** Resistant to Headshots (0.5x)
+- **Subdermal Body Plating:** Resistant to Assault weapons (0.5x)
+
+**Scavengers**\
+
+
+- **ICE:** +1 upload time
+- **Pain Editors:** Immune to Electrocution
+- **Health Monitors:** One shot protection (max 80% of full health in one shot)
+- **Kerenzikov:** Smartbullet Evasion (50% miss prob)
+- **Spare Parts:** Resistant to Hack damage (0.5x)
+
+**Sixth Street**\
+
+
+- **Firewall:** Immune to damage hacks
+- **ICE:** +2 upload time, +1 RAM cost
+- **Pain Editors:** Resistant to Blunt and Annihilation damage (0.5x)
+- **Health Monitors:** One shot protection (max 80% of full health in one shot)
+- **Ballistic Counter Measures:** Resistant to Power weapons (0.5x), vulnerable to Ricochet (2x)
+
+**Tyger Claws**\
+
+
+- **Firewall:** Immune to ultimate hacks
+- **ICE:** +1 upload time, +2 RAM cost
+- **ECM:** Smartgun jammer (80% miss prob)
+- **Pain Editors:** Immune to Burning, resistant to Grenade damage (0.5x)
+
+**Valentinos**\
+
+
+- **Reflex Boosters:** Resistant to Critical Hits (0.25x)
+- **Armor Piercing Rounds:** Ignore 50% of player armor
+- **Projected Simulacrum:** Immune to Homing Grenades
+- **Synth-adrenaline:** Immune to Bleeding
+- **Polarized skin plating:** Resistant to Tech damage (0.5x)
+
+**Voodoo Boys**\
+
+
+- **Firewall:** Immune to ultimate hacks
+- **ICE:** +2 upload time, +4 RAM cost
+- **Bullet Hacking:** Resistant to Smart weapon damage (0.5x)
+- **Backup Processor:** Resistant to Hack damage (0.5x)
+
+**Wraiths**\
+
+
+- **Firewall:** Immune to covert hacks
+- **ICE:** +1 RAM cost
+- **Pain Editors:** Resistant to Melee Attacks (0.5x)
+- **Military-grade Cochlear Implants:** Resistant to Stealth damage (0.25x)
+- **Kiroshi Mk 2:** enhanced detection (1.2x)
+- **Corp-poisoned Water:** Immune to Poison
+
+**Corps**\
+\
+**Arasaka**\
+
+
+- **Firewall:** Immune to ultimate hacks
+- **ICE:** +1 upload time, +2 RAM cost
+- **Life Extending Circuits:** Resistant to Critical Hits (0.5x)
+- **Neuro Backup:** One shot protection (max 80% of full health in one shot)
+- **Cochlear Implants:** Resistant to Stealth damage (0.25x)
+
+**Biotechnica**\
+
+
+- **Firewall:** Immune to control hacks
+- **ICE:** +1 upload time
+- **Nano Med Bots:** Immune to Bleeding and Poison
+- **Bullet-ejecting Armor Plating:** Resistant to Power weapons (0.5x)
+
+**Kang Tao**\
+
+
+- **Firewall:** Immune to covert hacks
+- **ICE:** +1 RAM cost
+- **ECM:** Smartgun jammer (80% miss prob)
+- **Automated Internal Fire Suppression:** Immune to Burning
+- **Projected Simulacrum:** Immune to Homing Grenades
+
+**Militech**\
+
+
+- **Firewall:** Immune to damage hacks
+- **ICE:** +2 upload time, +1 RAM cost
+- **Advanced Armor:** Immune to Electrocution
+- **Reinforced Helmets:** Resistant to Headshots (0.25x)
+- **Tech Nullifying Weave:** Resistant to Tech damage (0.5x)
 
 ***
 
@@ -577,7 +650,7 @@ Walljumping is triggered when the player is:
 - After jumping hold Forward + Left/Right and turn your mouse in the same direction to make a wide arc.
 - After jumping let go of Forward and hold Left/Right and turn your mouse in the same direction to make a sharper turn.
 - With source engine movement you can also tap strafe, which is rapidly pressing the movement keys in the air to drastically change your movement direction.
-- If you let go of every movement key (WASD) the character will start \*\*slowing down, \*\*you can also slow down faster by moving backwards but keep in mind the character will actually start moving backwards once the forward momentum is gone.
+- If you let go of every movement key (WASD) the character will start slowing down, you can also slow down faster by moving backwards but keep in mind the character will actually start moving backwards once the forward momentum is gone.
 
 ***
 
@@ -638,14 +711,13 @@ Limited HUD
 - **Enemy Highlighting**: if enabled then the enemy highlight effect will be visible only for non-friendly NPCs under the Ping effect
 - **Objects Coloring:** allows to change or remove fill and outline glow colouring for different object categories (friendly and hostile NPCs, hackable devices, distractions etc.)
 
-\*\*HUDitor \*\*allows players to move & resize some of the main widgets on the screen.
+HUDitor allows players to move & resize some of the main widgets on the screen.
 
 Inventory
 
 - Iconic Items cannot be disassembled.
 - Category filters for your storage items list.
 - Smaller Arrows.
-- You can now zoom in on V in the inventory menu.
 
 Journal
 
@@ -700,11 +772,11 @@ UI Colours
 - God Mode and Infinite Stamina.
 - Change Attributes.
 - Change Experience and Levels.
-- Alter Other Stats\*\*(temporary)\*\*: Armor, Carry Capacity, Crit Chance and Damage, Health, etc.
+- Alter Other Stats (temporary): Armor, Carry Capacity, Crit Chance and Damage, Health, etc.
 - Add or remove perks.
 - Unlock Achievements.
 - Kill NPCs.
-- Time Manipulation: Set Game Time, Freeze Time\*\*(time of day)\*\*and Slow Motion.
+- Time Manipulation: Set Game Time, Freeze Time (time of day) and Slow Motion.
 - Quest Manipulation: End Quest, Untrack Active Quest and change quest and romance facts.
 - Teleport Features: Save current position and teleport back to a saved location, Custom Teleport Locations.
 - Upgrade your clothing mods, weapon mods, quick hacks, cyberware mods
@@ -821,20 +893,22 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 - She sleeps in her bed at night.
 - V can control the Radio, Bedroom TV, Kitchen TV, and Bathroom TV in Judy's apartment.
 - Choose from 50 different outfits for Judy.
+- Judy will now stay at V's H10 apartment sometimes, if V romanced her.
 
 ### **Kerrie**
 
 > When you visit Kerrie he will be more active.
 
 - He drinks near his bar and eats in front of his car.
-- He showers\*\*(if you are in a relationship)\*\*.
-- He smokes in his bathroom\*\*(only after showering)\*\*.
-- He plays the guitar\*\*(either in his bedroom or on the sofa)\*\*.
-- He lounges on the sofa\*\*(like his base game behaviour)\*\*.
-- He sleeps in his bed at night\*\*(without having to wait for the player to use the bed)\*\*.
+- He showers (if you are in a relationship).
+- He smokes in his bathroom (only after showering).
+- He plays the guitar (either in his bedroom or on the sofa).
+- He lounges on the sofa (like his base game behaviour).
+- He sleeps in his bed at night (without having to wait for the player to use the bed).
 - V can chat with him at any of the activities.
-- V can hug him at any activity where he is not holding a guitar\*\*(only if in a relationship)\*\*.
+- V can hug him at any activity where he is not holding a guitar (only if in a relationship).
 - V can request a number of songs when he is holding his guitar.
+- Kerry will now stay at V's H10 apartment sometimes, if V romanced him.
 
 ### **Panam**
 
@@ -843,11 +917,12 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 - She drinks at the bar.
 - She eats takeout near the tables.
 - She showers.
-- She plays on her phone\*\*(she also does this after using the shower)\*\*.
-- She sleeps in her bed at night\*\*(without having to wait for the player to use the bed)\*\*.
+- She plays on her phone (she also does this after using the shower).
+- She sleeps in her bed at night (without having to wait for the player to use the bed).
 - She now sends you more messages.
 - V can chat with her or hug her during any of the activities (except sleeping or showering).
-- V can kiss her during any of the activities\*\*(except sleeping or showering)\*\*.
+- V can kiss her during any of the activities (except sleeping or showering).
+- Panam will now stay at V's H10 apartment sometimes, if V romanced her.
 
 ### **River**
 
@@ -855,13 +930,13 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 
 - He Drinks by the door.
 - He Eats in the kitchen.
-- He Showers\*\*(if you romanced him, but no one-night-stand)\*\*.
+- He Showers (if you romanced him, but no one-night-stand).
 - He Works out at the punching bag.
-- He Sleeps in his bed at night\*\*(without having to wait for the player to use the bed)\*\*.
-- V can chat with him at any of the activities\*\*(except sleeping or showering)\*\*.
+- He Sleeps in his bed at night (without having to wait for the player to use the bed).
+- V can chat with him at any of the activities (except sleeping or showering).
 - V can hug, and kiss, him at any of these activities if romanced (but not one-night-stand, sleeping or showering).
 - Joss' kids now actually sleep, but they also play both in their bedroom and in the main hall.
-- Both kids and River will now greet V\*\*(River's greeting is bugged in the base game)\*\*.
+- Both kids and River will now greet V (River's greeting is bugged in the base game).
 - There is now a radio in the main hall/room of the trailer, it just adds the option for a little ambient music in the otherwise dead trailer.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
@@ -926,6 +1001,7 @@ https://www.youtube.com/watch?v=1Nfuqr3KmMw
 - [Apzurv](https://www.nexusmods.com/cyberpunk2077/users/18222069)
 - [NolaDreamer](https://www.nexusmods.com/cyberpunk2077/users/103558203)
 - [PinkyDude](https://www.nexusmods.com/cyberpunk2077/users/20892624)
+- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
 
 ![](https://gifyu.com/image/SdKfy)![](https://gifyu.com/image/SdKtk)![](https://gifyu.com/image/SdKtk.img)![](https://s2.gifyu.com/images/ezgif.com-video-to-gifde3b2c1ceec906ca.gif)[Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987) by [Pacings](https://www.nexusmods.com/cyberpunk2077/users/96220198).
 
@@ -1085,6 +1161,9 @@ Upgraded/Tweaked cyberware
 - [Type-66 MIDNIGHT](https://www.nexusmods.com/cyberpunk2077/mods/8288).
 - [Ford Mustang Boss 1969](https://www.nexusmods.com/cyberpunk2077/mods/8375).
 - [Mercedes-Benz 190E W201](https://www.nexusmods.com/cyberpunk2077/mods/8521?tab=description).
+- [Pagani Zonda Cinque roadster](https://www.nexusmods.com/cyberpunk2077/mods/8795?tab=description).
+- [1993 Nissan 240SX (S13)](https://www.nexusmods.com/cyberpunk2077/mods/8730).
+- [Audi R8 Liberty Walk](https://www.nexusmods.com/cyberpunk2077/mods/8827).
 - [Lamborghini Terzo Millennio](https://www.nexusmods.com/cyberpunk2077/mods/2398).
 
 ***
@@ -1152,7 +1231,7 @@ Recommended In-game settings These settings will give a small performance boost 
 - RAM> 16GB
 - CPU> R5 3600 or i5 9600K
 - STORAGE> 12.5GB
-- STORAGE TYPE> SSD\*\*(Recommended)\*\*
+- STORAGE TYPE> SSD
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -1169,17 +1248,17 @@ Please let us know if you have any issues with this collection I'm sure we can f
 
 If you enjoy this collection, **PLEASE** endorse the mod authors and Support me to help me build the best collection we can for this game.
 
-I'm looking for team members with the knowledge and time to help me build this collection join the discord to fill out an application.
-
 Special thanks to these chooms who helped make this collection preem. And everyone on the Nexus & The Cyberpunk modding Discords.
 
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)
+- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
+- Jinxy 𝓩𝓸𝓶𝓫𝓲𝓮 Hyperdrive
+- Fenrir
 - The Magnificent Doctor Presto
 - gknova-2
 - Starfox
 - Jeridlee
-- Fenrir
 
 And all the teams and modders behind all the tools that make cyberpunk 2077 modding possible.
 
