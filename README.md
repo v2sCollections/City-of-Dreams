@@ -1,5 +1,7 @@
 ### Collection Rev 43         Collection Updated and working for Game version 1.63 Patch 1
 
+![](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
+
 https://www.youtube.com/watch?v=vvpmq34uBAc
 
 ![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://) for **Cyberpunk 2077**.
