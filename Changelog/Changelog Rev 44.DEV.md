@@ -21,6 +21,7 @@ REMOVED
 NEW MODS ADDED 
 -
 
+- [Ranged Attack Speed Damage Fix](https://www.nexusmods.com/cyberpunk2077/mods/4997?tab=description)
 
 BUGS
 -
