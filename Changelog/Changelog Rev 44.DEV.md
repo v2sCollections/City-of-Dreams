@@ -9,10 +9,29 @@ NOTES
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!! 
 CYBERCLEAN IS RECOMMENDED!!!
 
+- Crash Fixes.
+- More clothes.
+- More custom cars.
+- Bug fixes.
+- Reshade has been updated.
 
 UPDATED
 -
 
+- [Alvarix Custom Store - Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4602)
+- [Underwear removal extended - includes FPP and TPP modes - The Cyberpunk 2077 Player nude patch CET edition.](https://www.nexusmods.com/cyberpunk2077/mods/4605)
+- [Cub Atelier Store - Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/6949)
+- [Apartment Cats - Custom Cats](https://www.nexusmods.com/cyberpunk2077/mods/6837)
+- [Apartment Cats - Corpo Plaza (Leia)](https://www.nexusmods.com/cyberpunk2077/mods/6329)
+- [Apartment Cats - The Glen (Nali)](https://www.nexusmods.com/cyberpunk2077/mods/6276)
+- [I Really Want To Stay At Your House - Judy](https://www.nexusmods.com/cyberpunk2077/mods/8753)
+- [I Really Want To Stay At Your House - Kerry](https://www.nexusmods.com/cyberpunk2077/mods/8806)
+- [I Really Want To Stay At Your House - River](https://www.nexusmods.com/cyberpunk2077/mods/8826)
+- [Enhanced Big Breasts (EBB) - BODY MOD](https://www.nexusmods.com/cyberpunk2077/mods/4654)
+- [Space Capsule - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/8892)
+- [Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718)
+- [Silver Touch - Cyberware Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/8667?tab=description)
+- [Ford Mustang RTR Spec 5](https://www.nexusmods.com/cyberpunk2077/mods/8912)
 
 REMOVED
 -
@@ -35,7 +54,9 @@ NEW MODS ADDED
 - [Ford Mustang RTR Spec 5](https://www.nexusmods.com/cyberpunk2077/mods/8912)
 - [The RVC00N Dumpster - Fancy Striped Dress (F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8843?tab=description)
 - [Hyst EBBN Store - Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/8927?tab=description)
-- [
+- [Space Capsule - The Commander's Armor - Masc](https://www.nexusmods.com/cyberpunk2077/mods/8923?tab=description)
+- [Dino Dinovic - Chest Tattoo Fix](https://www.nexusmods.com/cyberpunk2077/mods/5866/?tab=description&jump_to_comment=126306948)
+- [(Silver Touch) Mirage Wings Cyberware - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8918?tab=description)
 
 BUGS
 -
