@@ -16,6 +16,7 @@
 9) [Finding and reading log files](#finding-and-reading-log-files)
 10) [Cyberpunk Mod Troubleshooting](#cyberpunk-mod-troubleshooting)
 11) [First Launch with the Collection](first-launch-with-the-collection)
+12) [Game Difficulty](game-difficulty)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -210,6 +211,22 @@ You can read the wiki [HERE](https://wiki.redmodding.org/cyberpunk-2077-modding/
 4) Once in game hold SHIFT and press U to customize the hud settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
 
 6) IF YOU ARE A E3 USER FOLLOW THE PICS BELOW
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
+## Game Difficulty
+
+You can change the difficulty to suit your style.
+
+1) From the main menu select Mods.
+
+2) Select "RMK MODS"
+
+Use these menus in game to make it Easier or Harder based on your play style.
+
+If you want to learn more about how these mods work check out the mod page on Nexus >https://www.nexusmods.com/cyberpunk2077/mods/1712
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
