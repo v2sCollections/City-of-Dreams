@@ -16,7 +16,10 @@
 9) [Finding and reading log files](#finding-and-reading-log-files)
 10) [Cyberpunk Mod Troubleshooting](#cyberpunk-mod-troubleshooting)
 11) [First Launch with the Collection](first-launch-with-the-collection)
-12) [Game Difficulty](game-difficulty)
+12) [System Specs](system-specs)
+13) [Game Difficulty](game-difficulty)
+14) [Random Crashes](random-crashes)
+15) [Modded Game Backup](modded-game-backup)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -216,6 +219,50 @@ You can read the wiki [HERE](https://wiki.redmodding.org/cyberpunk-2077-modding/
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 
+## System Specs
+
+System specs for the base collection & (Lite) Version
+
+VRAM> 8GB
+GPU>(see below)
+1080p> RTX 3060 or RX 6700 XT
+1440p> RTX 3080 or RX 6800 XT
+RAM> 16GB
+CPU> R5 3600 or i5 9600K
+STORAGE> 12.5GB
+STORAGE TYPE> SSD
+
+
+System specs for the  4k Graphics Pack
+
+VRAM> 16GB
+GPU>(see below)
+1080p> RTX 3080 or RX 6800 XT
+1440p> RTX 3090 or RX 6900 XT
+RAM> 32GB
+CPU> R5 5600 or i5-12400F
+STORAGE> 28GB
+STORAGE TYPE> SSD
+
+Weak  Hardware
+
+Some crashes are caused by weak hardware. The collection uses alot of RAM this can lead to crashes if the user only has 16gb of RAM installed and they are runnning alot of background programs.
+
+SSD vs HDD
+
+Cyberpunk 2077 needs to be installed on a SSD if its not the following can occur.
+
+Texture Pop In
+Missing textures
+Texture Loading
+Very Long load times
+Slow Vortex Deployment
+Crashes
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
 ## Game Difficulty
 
 You can change the difficulty to suit your style.
@@ -227,6 +274,43 @@ You can change the difficulty to suit your style.
 Use these menus in game to make it Easier or Harder based on your play style.
 
 If you want to learn more about how these mods work check out the mod page on Nexus >https://www.nexusmods.com/cyberpunk2077/mods/1712
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
+## Random Crashes
+
+The game may crash here or there its just something we cyberpunks have to deal with. 
+
+But if you are getting constant crashes then there is a issue let us know so we can assist you.
+
+You may find that the game will crash when doing the following. This is due to the game compiling the scripts for all the mods.
+
+1) After the first install of the collection.
+
+2) After a "cyberclean"
+
+3) After a collection update.
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
+##Modded Game Backup
+
+Move game folder before the DLC and any other upgrade.
+
+
+1) open vortex/mods and purge first so you don't mess up with the files
+
+2) move the game foder where you want it (on the same drive)
+
+3) go to games on vortex, press on the 3 dots on cyberpunk 2077 and then manually set location. find the folder you just moved
+
+4) deploy mods and then go to tools and press on the 3 dots on the side of each tool and press on edit. Then change them to the folder u moved
+
+If you want to upgrade your cyberpunk modded folder. just update the game with steam/gog and copy the steam/gog cyberpunk 2077 game folder to your cyberpunk modded folder. PURGE MODS IN VORTEX FIRST
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
