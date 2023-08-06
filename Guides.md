@@ -273,6 +273,8 @@ You can change the difficulty to suit your style.
 
 Use these menus in game to make it Easier or Harder based on your play style.
 
+![img](https://s11.gifyu.com/images/Sciel.png)
+
 If you want to learn more about how these mods work check out the mod page on Nexus >https://www.nexusmods.com/cyberpunk2077/mods/1712
 
 
