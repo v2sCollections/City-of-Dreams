@@ -223,26 +223,26 @@ You can read the wiki [HERE](https://wiki.redmodding.org/cyberpunk-2077-modding/
 
 System specs for the base collection & (Lite) Version
 
-VRAM> 8GB
-GPU>(see below)
-1080p> RTX 3060 or RX 6700 XT
-1440p> RTX 3080 or RX 6800 XT
-RAM> 16GB
-CPU> R5 3600 or i5 9600K
-STORAGE> 12.5GB
-STORAGE TYPE> SSD
+- VRAM> 8GB
+- GPU>(see below)
+- 1080p> RTX 3060 or RX 6700 XT
+- 1440p> RTX 3080 or RX 6800 XT
+- RAM> 16GB
+- CPU> R5 3600 or i5 9600K
+- STORAGE> 12.5GB
+- STORAGE TYPE> SSD
 
 
 System specs for the  4k Graphics Pack
 
-VRAM> 16GB
-GPU>(see below)
-1080p> RTX 3080 or RX 6800 XT
-1440p> RTX 3090 or RX 6900 XT
-RAM> 32GB
-CPU> R5 5600 or i5-12400F
-STORAGE> 28GB
-STORAGE TYPE> SSD
+- VRAM> 16GB
+- GPU>(see below)
+- 1080p> RTX 3080 or RX 6800 XT
+- 1440p> RTX 3090 or RX 6900 XT
+- RAM> 32GB
+- CPU> R5 5600 or i5-12400F
+- STORAGE> 28GB
+- STORAGE TYPE> SSD
 
 Weak  Hardware
 
@@ -252,12 +252,12 @@ SSD vs HDD
 
 Cyberpunk 2077 needs to be installed on a SSD if its not the following can occur.
 
-Texture Pop In
-Missing textures
-Texture Loading
-Very Long load times
-Slow Vortex Deployment
-Crashes
+- Texture Pop In
+- Missing textures
+- Texture Loading
+- Very Long load times
+- Slow Vortex Deployment
+- Crashes
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
