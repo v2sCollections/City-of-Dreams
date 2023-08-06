@@ -15,11 +15,11 @@
 8) [Finding log files](#finding-log-files)
 9) [Finding and reading log files](#finding-and-reading-log-files)
 10) [Cyberpunk Mod Troubleshooting](#cyberpunk-mod-troubleshooting)
-11) [First Launch with the Collection](first-launch-with-the-collection)
-12) [System Specs](system-specs)
-13) [Game Difficulty](game-difficulty)
-14) [Random Crashes](random-crashes)
-15) [Modded Game Backup](modded-game-backup)
+11) [First Launch with the Collection](#first-launch-with-the-collection)
+12) [System Specs](#system-specs)
+13) [Game Difficulty](#game-difficulty)
+14) [Random Crashes](#random-crashes)
+15) [Modded Game Backup](#modded-game-backup)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -297,7 +297,7 @@ You may find that the game will crash when doing the following. This is due to t
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 
-##Modded Game Backup
+## Modded Game Backup
 
 Move game folder before the DLC and any other upgrade.
 
