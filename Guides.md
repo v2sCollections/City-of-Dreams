@@ -20,6 +20,7 @@
 13) [Game Difficulty](#game-difficulty)
 14) [Random Crashes](#random-crashes)
 15) [Modded Game Backup](#modded-game-backup)
+16) [Cyberpunk 2077 Game Patch Versions](#cyberpunk-2077-game-patch-versions)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -313,6 +314,26 @@ Move game folder before the DLC and any other upgrade.
 4) deploy mods and then go to tools and press on the 3 dots on the side of each tool and press on edit. Then change them to the folder u moved
 
 If you want to upgrade your cyberpunk modded folder. just update the game with steam/gog and copy the steam/gog cyberpunk 2077 game folder to your cyberpunk modded folder. PURGE MODS IN VORTEX FIRST
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
+## Cyberpunk 2077 Game Patch Versions
+
+This guide was made by Jack Humbert 
+
+Find your File Version:
+
+1) Locate Cyberpunk2077.exe in your game directory at bin/x64/Cyberpunk2077.exe
+
+2) Right-click and select Properties
+
+3) Select the Details tab
+
+4) Look for File version in the table - it should match one of the numbers below
+
+![img](https://s11.gifyu.com/images/ScieU.png)
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
