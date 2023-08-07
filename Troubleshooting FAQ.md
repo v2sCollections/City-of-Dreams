@@ -17,13 +17,14 @@
 7) [There is a weapon stuck in my inventory and i cant unequip it](#there-is-a-weapon-stuck-in-my-inventory-and-i-cant-unequip-it)
 8) [I see this error when opening the Virtual Atelier](#i-see-this-error-when-opening-the-virtual-atelier)
 9) [The Atelier Shop doesnt show up in game](#the-atelier-shop-doesnt-show-up-in-game)
-10) [My game is crashing at the first loading screen](#my-game-is-crashing-at-the-first-loading-screen)
+10) 
 11) [My game is crashing after creating a character](#my-game-is-crashing-after-creating-a-character)
 12) [Reshade doesnt launch when I click it It tells me that it cant be found](#reshade-doesnt-launch-when-i-click-it-it-tells-me-that-it-cant-be-found)
 13) [HUD Elements are off the screen](#hud-elements-are-off-the-screen)
 14) [Mini Map isnt showing up](#mini-map-isnt-showing-up)
 15) [I cant shoot the drones in the car in the Heist Mission](#i-cant-shoot-the-drones-in-the-car-in-the-heist-mission)
 16) [My game is crashing when loading a save](#my-game-is-crashing-when-loading-a-save)
+17) [My screen is zoomed in](#my-screen-is-zoomed-in)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -40,9 +41,27 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 ## My game is crashing on startup❓
 
-1) Check the install guide and make sure you followed the instructions.
+1) Check the install guide and make sure you follow the instructions.
 
-2) Perform a Cyberclean.
+2) Make sure the game is installed on a SSD.
+
+3)Perform a Cyberclean> ⁠Cyberclean Boot up the game and see if the problem is resolved.
+
+4) Check your Graphics Driver> ⁠Unknown and reinstall it.
+
+5) Make sure these are up to date>
+⁠Unknown
+⁠Unknown
+
+6)Go here > G:\SteamLibrary\steamapps\common\Cyberpunk 2077\bin\x64\     and Rename "dxgi.dll" to "d3d12.dll" 
+
+7) Disable the appearance mod menu mod in Vortex
+
+8) Disable the UHD Splash screen mod in Vortex
+
+9) Disable the QHD intro mod in Vortex (edited)
+
+10) Disable/Uninstall the reshade if you have installed and ran the program
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -156,17 +175,6 @@ Dont worry this is normall some shops haver the same items.
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 
-## My game is crashing at the first loading screen❓
-
-We are still yet to find the exact cause of this issue but some users have found a fix with the following.
-
-1) Run the game in bordereless mode
-
-2) Disable the apearance mod menu 
-
-3) Disable the UHD Splash screen
-
-4) Disable the QHD intro
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -265,11 +273,11 @@ You can fix this bug by
 
 ## My game is crashing when loading a save
 
-Make sure you have disabled cross-platform saves as shown below. 
+Make sure you have disabled cross-platform saves as shown below and you have the game installed on a SSD.  
 
 ![img](https://s12.gifyu.com/images/SWeJF.png)
 
-If this doesnt fix th issue you can try the following.
+If this doesnt fix th issue you can try the following. 
 
 Play the game without mods and make a save and then reactivate mods and load the save.
 
@@ -280,6 +288,20 @@ Play the game without mods and make a save and then reactivate mods and load the
 3) In Vortex on the mods tab select "**Deploy"**
 
 4) Boot up the game and load your save.
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
+## My screen is zoomed in
+
+Some times the camera can get stuck zoomed in. To fix this you can try the following. 
+
+1) If you are stuck zoomed in with your scope on a weapon press controll on your keyboard to toggle weapon zoom.
+
+2) Save your game and reload. 
+
+3) Change your fov and then change it back. 
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
