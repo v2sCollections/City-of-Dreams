@@ -32,7 +32,9 @@
 
 1) Start with a fresh install of **Cyberpunk 2077**.
 
-2) You need to create a mod folder go to the following location **(Locations below)** and create a folder named mod. When done should look as follows.
+2) Make sure the game is installed on a SSD.
+
+3) You need to create a mod folder go to the following location **(Locations below)** and create a folder named mod. When done should look as follows.
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk 2077\archive\pc\mod
@@ -40,7 +42,7 @@ GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk 2077\archive\pc\mod
 Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 ```
 
-3) ⛔ Launch cyberpunk 2077 and go to the settings menu and on the gameplay tab turn off **"Enable Analytics"**
+4) ⛔ Launch cyberpunk 2077 and go to the settings menu and on the gameplay tab turn off **"Enable Analytics"**
 
 ![](https://s12.gifyu.com/images/Analytics.jpg)
 
@@ -48,7 +50,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 ## Vortex
 
-4) You will need **Vortex** mod manager downloaded and installed you can find it from the link below. If you already have Vortex skip this step.
+5) You will need **Vortex** mod manager downloaded and installed you can find it from the link below. If you already have Vortex skip this step.
 
 [![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1 "Vortex page")
 
@@ -56,19 +58,19 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 ## Vortex and Cyberpunk
 
-5) Open Vortex and click on **"Select a game to manage".**
+6) Open Vortex and click on **"Select a game to manage".**
 
 ![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)
 
-6 ) On the next screen scroll down to the **"Cyberpunk 2077"** icon and click on **"Manage".**
+7) On the next screen scroll down to the **"Cyberpunk 2077"** icon and click on **"Manage".**
 
 ![](https://s12.gifyu.com/images/Untitled99ac613c165d0e14.jpg)
 
-7 ) On the popup that appears click on **"Download"** on the bottom right, vortex will restart.
+8) On the popup that appears click on **"Download"** on the bottom right, vortex will restart.
 
-8 ) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
+9) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
 
-9 ) A window will now pop up where you can choose the folder where  **"Cyberpunk 2077"** is installed. **(Locations below)**.
+10) A window will now pop up where you can choose the folder where  **"Cyberpunk 2077"** is installed. **(Locations below)**.
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk 2077
@@ -76,15 +78,15 @@ GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk 2077
 Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 ```
 
-10 ) Vortex will pop up a window titled **"REDmod DLC missing"** Click **"Ignore".**
+11) Vortex will pop up a window titled **"REDmod DLC missing"** Click **"Ignore".**
 
 ![](https://s12.gifyu.com/images/Redmod-Missing.jpg)
 
-11 ) On your main Vortex window, it will now show an icon for **"Cyberpunk 2077"** showing that it is a managed game in Vortex.
+12) On your main Vortex window, it will now show an icon for **"Cyberpunk 2077"** showing that it is a managed game in Vortex.
 
-12) Go to the settings and on the mods tab check **"automatically use suggested path for staging folder"** then check "**suggest and "apply".**
+13) Go to the settings and on the mods tab check **"automatically use suggested path for staging folder"** then check "**suggest and "apply".**
 
-13) On the same window select **"hard link deployment"**  and check **"apply".**
+14) On the same window select **"hard link deployment"**  and check **"apply".**
 
 ![](https://s11.gifyu.com/images/Untitledef56ac4a42e1f37d.jpg)
 
@@ -92,7 +94,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ## Disabling REDmod Autoconversion
 
-14) ⛔ While still in settings go to the "**V2077 Settings"** tab and make sure that REDmod Autoconvert is disabled as shown in the picture below.
+15) ⛔ While still in settings go to the "**V2077 Settings"** tab and make sure that REDmod Autoconvert is disabled as shown in the picture below.
 
 ![](https://s11.gifyu.com/images/Untitle44d.jpg)
 
@@ -100,17 +102,17 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ## Installing the collection
 
-15) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
+16) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
 ![](https://s12.gifyu.com/images/Screenshot-2023-04-17-115745.png)
 
-16) Click **"Add to Vortex"** **(choose your newly created profile)**.
+17) Click **"Add to Vortex"** **(choose your newly created profile)**.
 
 ![](https://s12.gifyu.com/images/Untitled1.png)
 
 ## Pop Ups
 
-17) These may pop up in Vortex as you are downloading the collection.
+18) These may pop up in Vortex as you are downloading the collection.
 
 - When you see a pop-up titled **"Mod contains protected paths"** select **"Yes install to staging anyway"**
 - When you see a pop-up titled **"You have reached the fallback installer"** select **"Yes install to staging anyway"**
@@ -123,7 +125,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ***Note** If you don't want the optional mods skip this step.
 
-18) Select **"show"** optional mods then select **"no thanks"**
+19) Select **"show"** optional mods then select **"no thanks"**
 
 ![](https://s11.gifyu.com/images/Optinal.jpg)
 
@@ -133,11 +135,11 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ## In game settings
 
-20) To use **CET** (**Cyber Engine Tweaks)** use **F11** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,3rd person camera, Vehicle camera and many more.
+21) To use **CET** (**Cyber Engine Tweaks)** use **F11** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,3rd person camera, Vehicle camera and many more.
 
-21) I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and on our discord. Or here [Keybinds](https://github.com/MRGHIA88V2/City-of-Dreams/blob/f4b254dc31b142ce6e733cf321e1f28b218a3d1c/Keybinds.md)
+22) I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and on our discord. Or here [Keybinds](https://github.com/MRGHIA88V2/City-of-Dreams/blob/f4b254dc31b142ce6e733cf321e1f28b218a3d1c/Keybinds.md)
 
-22) ⛔ On the main menu go to the graphics tab and you will find **"texture quality"** Set this to **"HIGH".**
+23) ⛔ On the main menu go to the graphics tab and you will find **"texture quality"** Set this to **"HIGH".**
 
 ![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)
 
