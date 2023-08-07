@@ -14,6 +14,7 @@ CYBERCLEAN IS RECOMMENDED!!!
 - More custom cars.
 - Bug fixes.
 - Reshade has been updated.
+- Reconfigured Reduced loot weapon drop chance.
 
 UPDATED
 -
@@ -32,10 +33,16 @@ UPDATED
 - [Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718)
 - [Silver Touch - Cyberware Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/8667?tab=description)
 - [Ford Mustang RTR Spec 5](https://www.nexusmods.com/cyberpunk2077/mods/8912)
+- [Silver Breezy - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/7773)
+- [TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197)
+- [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)
+- [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)
+- [(Silver Touch) Doll Body Cyberware - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8686)
 
 REMOVED
 -
 
+- [Hyst_Refit_TATTOO_BIG BREAST_Patch](https://www.nexusmods.com/cyberpunk2077/mods/4654?tab=description)
 
 NEW MODS ADDED 
 -
@@ -57,6 +64,7 @@ NEW MODS ADDED
 - [Space Capsule - The Commander's Armor - Masc](https://www.nexusmods.com/cyberpunk2077/mods/8923?tab=description)
 - [Dino Dinovic - Chest Tattoo Fix](https://www.nexusmods.com/cyberpunk2077/mods/5866/?tab=description&jump_to_comment=126306948)
 - [(Silver Touch) Mirage Wings Cyberware - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8918?tab=description)
+- [(Silver Breezy Store) Alt's Cyberdeck - Archive XL - AMM Prop](https://www.nexusmods.com/cyberpunk2077/mods/8875?tab=description)
 
 BUGS
 -
