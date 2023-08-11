@@ -182,23 +182,25 @@ Dont worry this is normall some shops haver the same items.
 
 ## My game is crashing after creating a character❓
 
-For some users these were able to fix there issues at this stage im still unsure what causes the crash issue at the chracter creation screen.
+For some users, these were able to fix their issues.
 
-1) Disable surface mods in Vortex.
+1) Make sure the game is installed on a SSD
 
-2) Make sure graphics driver is up to date/Reinstall graphics driver 
+2) Disable surface mods in Vortex.
 
-3) Disable any overlay (steam or nvidia/amd overlay for example) 
+3) Make sure the graphics driver is up to date/Reinstall the graphics driver 
 
-4) Disable the apearance menu mod.
+4) Disable any overlay (steam or Nvidia/amd overlay for example) 
 
-5) Run the game in windowed fullscreen.
+5) Disable the appearance menu mod.
 
-6) Disable "PMU Angry Pose Packs Core"
+6) Run the game in windowed fullscreen.
 
-7) Make sure these are upto date>
+7) Disable "PMU Angry Pose Packs Core"
+
+8) Make sure these are upto date>
 ⁠Common Redist
-⁠Unknown
+⁠NET 7 Desktop Runtime
 
 
 
