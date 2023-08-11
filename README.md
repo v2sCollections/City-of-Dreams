@@ -1,6 +1,6 @@
-### Collection Rev 43         Collection Updated and working for Game version 1.63 Patch 1
+IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/MRGHIA88V2/City-of-Dreams)
 
-![](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
+### Collection Rev 43         Collection Updated and working for Game version 1.63 Patch 1
 
 https://www.youtube.com/watch?v=vvpmq34uBAc
 
@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=vvpmq34uBAc
 
 This isn't just a mod list I've slapped together this is a whole new world of **cyberpunk 2077** with hundreds of hours spent building, configuring, modding and testing to create the best cyberpunk experience possible.
 
-This is a [7](https://)[50+](https://) Mod Collection it is the largest and most comprehensive mod list for **Cyberpunk 2077** it has been put together in a way that you can customize your playthrough to suit your style.&#x20;
+This is a [800+](https://) Mod Collection it is the largest and most comprehensive mod list for **Cyberpunk 2077** it has been put together in a way that you can customize your playthrough to suit your style.&#x20;
 
 If you would like a smaller collection try my [City of Dreams (lite)](https://next.nexusmods.com/cyberpunk2077/collections/ayfbwl?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) version.
 
@@ -29,7 +29,7 @@ This collection is extensively tested with every new version that is released. I
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Cyberpunk 2077.
 - The most exstensive mod collection on nexus for cyberpunk 2077.
 - Easy to follow step-by-step installation guide.
-- Only-[12](https://)GB in download size for-[700+](https://)mods.
+- Only-[12](https://)GB in download size for [800+](https://) mods.
 - Mods specifically created for the collection.
 - Support for other Modular Expansion Packs.
 - Setup Video-[HERE](https://)
@@ -37,8 +37,11 @@ This collection is extensively tested with every new version that is released. I
 - [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
 - [Youtube Channel](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)-with Guides and Videos.
 - Continuous Support in Comments and on Discord.
+- Live voice support.
+- Nexus Premium Giveaways (Every Week).
+- and much much more join our Discord for more information.
 
-![](]https://i.imgur.com/VeCI8dy.png)[![](https://i.imgur.com/VeCI8dy.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow chooms everday.
+![](]https://i.imgur.com/VeCI8dy.png)[![](https://i.imgur.com/VeCI8dy.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow chooms every day.
 
 [![](https://s12.gifyu.com/images/SuqD4.png)](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)Follow us on [Youtube](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA) for guides and videos.
 
@@ -52,7 +55,7 @@ This collection is extensively tested with every new version that is released. I
 
 ## ![img](https://i.imgur.com/vKOjnBL.png)[Make a Backup Save](https://)
 
-- Mods for Cyberpunk 2077 are pretty reliable but it's always good to make a backup of your save file. Save file location can be found below just copy the contents of this file and place it somewhere on your pc.
+- Mods for Cyberpunk 2077 are pretty reliable but it's always good to make a backup of your save file. The save file location can be found below just copy the contents of this file and place it somewhere on your pc.
 
 ```
 C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
@@ -68,12 +71,12 @@ C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 
 ## [READ](https://)
 
-- ⛔DO NOT use a pirated game. It is against Nexus rules and is illegal and i will not provide any support.
+- ⛔DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
 
 ## [Updating Collection](https://)[   ](https://)
 
 - **⛔**Updating the collection is as easy as clicking the "Update" button. When prompted to "**Remove mods from old revision**" make sure to click the"**Remove All**" button.
-- ⛔**DO NOT**update any of the mods in this collection individually in\*\*Vortex \*\*when a mod gets updated we will update the collection.
+- ⛔**DO NOT update** any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
 - Notes will be in the changelog.
 
 ## [Launching Cyberpunk 2077](https://)
@@ -90,7 +93,7 @@ C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 
 ## [Install time](https://)
 
-This is a large collection i recommend purchasing a nexus premium account even just for 1 month to install the collection it will make installation much easier. And you can just cancel the subscription asfter the installation if you wish.
+This is a large collection I recommend purchasing a Nexus premium account even just for 1 month to install the collection it will make installation much easier. And you can just cancel the subscription after the installation if you wish.
 
 **Premium Users**: Takes 1.5 hours + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
 **Free Users:** Takes 2 to 2.5 hours + Semi-automatic. You will have to click on download for each mod one by one.
@@ -111,8 +114,9 @@ https://www.youtube.com/watch?v=sn-Ju\_OWP\_8
 
 ## [Cyberpunk2077](https://)
 
-1. Start with a fresh install of**Cyberpunk 2077**.
-2. You need to create a mod folder go to the following location (Locations below) and create a folder named mod. When done should look as follows.
+1. Start with a fresh install of Cyberpunk 2077.
+2. Make sure the game is installed on an SSD.
+3. You need to create a mod folder go to the following location (Locations below) and create a folder named mod. When done should look as follows.
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk 2077\archive\pc\mod
@@ -197,6 +201,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 - When you see a pop-up titled "**Mod installed but may need manual adjustment**" select "**Understood**".
 - When you see a pop-up titled "**Error**" select "**close**"
 - Throughout the installation process, you will have some **"installer"** popups so that you can customize some mods to your liking.
+- YOU MAY SEE SOME RED INSTALL ERRORS IN VORTEX THIS IS OK AND CAN BE FIXED AFTER THE INSTALLATION.
 
 ***
 
@@ -214,11 +219,11 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ## [In-game settings](https://)
 
-1. To use CET (Cyber Engine Tweaks) use [F11](https://) on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,Vehicle camera and many more.
+1. To use CET (Cyber Engine Tweaks) use [F11](https://) on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Vehicle camera and many more.
 2. I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and on our discord. Or here [Keybinds](https://github.com/2077v2/City-of-Dreams/blob/main/Keybinds.md)
 3. ⛔ On the main menu go to the graphics tab and you will find "texture quality"  Set this to "HIGH".
 
-![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)4. Once in game hold SHIFT and press U to customize the hud settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
+![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)4. Once in the game hold SHIFT and press U to customize the hud settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
 
 ***
 
@@ -361,7 +366,7 @@ And check out the gallery at the top of this page for videos by some of the mod 
 
 ## ![](https://s11.gifyu.com/images/SuwJ1.png)
 
-You can find these item in the Dedicated [City of Dreams Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/8344).
+You can find these items in the Dedicated [City of Dreams Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/8344).
 
 ### Features
 
@@ -392,7 +397,7 @@ You can find these item in the Dedicated [City of Dreams Atelier Store](https://
 
 ![](https://s11.gifyu.com/images/Untitled18244ce047bd870e.png)
 
-You can find these item in the Dedicated [City of Dreams Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/8344).
+You can find these items in the Dedicated [City of Dreams Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/8344).
 
 ### Features
 
@@ -433,8 +438,9 @@ You can find these item in the Dedicated [City of Dreams Atelier Store](https://
 - Fixes missing animations in the (Skippy quest episodes).
 - Fixes the clipping of Frank Nostra's hair cap.
 - Fixes mitches jacket with one that fits correctly.
-- Fixes sleeves automatically rolling up for long-sleeved clothes when first-person perspective camera is active.
-- Fixes the dark box shadows cast by holotext screens with using ray/path tracing.
+- Fixes sleeves automatically rolling up for long-sleeved clothes when the first-person perspective camera is active.
+- Fixes the dark box shadows cast by holo text screens using ray/path tracing.
+- Fixes textures on Dino Dinovic's chest tattoo.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -479,7 +485,7 @@ You can find these item in the Dedicated [City of Dreams Atelier Store](https://
 
 ⛔ Note that some of these will eat your vram i recommend a min 8gb GPU but even then depending on your settings vanilla cyberpunk will eat 8gb. If you notice stuttering or any texture issues then disable a few of the (surfaces mods) in vortex.
 
-You can use my 4k add on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high end systems only 16gb Vram+)**
+You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high-end**armour\*\* systems only 16gb Vram+)\*\*
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -505,18 +511,16 @@ You can use my 4k add on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 
 **Gangs**\
 \
-**Animals**\
-
+**Animals**\\
 
 - **Firewall:** Immune to control hacks
 - **Massive:** Cannot be grappled (may replace with related ability in the future - you can turn it back on in the config if you want)
 - **Pain Editors:** Immune to Electrocution
 - **Ultratestosterone:** Immune to Poison
 - **Combat Drug Injectors:** Resistant to non-melee damage (0.5x)
-- **Implanted Muscles:** Ignore 25% of player armor
+- **Implanted Muscles:** Ignore 25% of player armour
 
-**Maelstrom**\
-
+**Maelstrom**\\
 
 - **Firewall:** Immune to covert hacks
 - **ICE:** +1 upload time, +1 RAM cost
@@ -526,51 +530,45 @@ You can use my 4k add on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 - **Chrome Dome:** Resistant to Headshots (0.5x)
 - **Subdermal Body Plating:** Resistant to Assault weapons (0.5x)
 
-**Scavengers**\
-
+**Scavengers**\\
 
 - **ICE:** +1 upload time
 - **Pain Editors:** Immune to Electrocution
-- **Health Monitors:** One shot protection (max 80% of full health in one shot)
+- **Health Monitors:** One-shot protection (max 80% of full health in one shot)
 - **Kerenzikov:** Smartbullet Evasion (50% miss prob)
 - **Spare Parts:** Resistant to Hack damage (0.5x)
 
-**Sixth Street**\
-
+**Sixth Street**\\
 
 - **Firewall:** Immune to damage hacks
 - **ICE:** +2 upload time, +1 RAM cost
 - **Pain Editors:** Resistant to Blunt and Annihilation damage (0.5x)
-- **Health Monitors:** One shot protection (max 80% of full health in one shot)
+- **Health Monitors:** One-shot protection (max 80% of full health in one shot)
 - **Ballistic Counter Measures:** Resistant to Power weapons (0.5x), vulnerable to Ricochet (2x)
 
-**Tyger Claws**\
-
+**Tyger Claws**\\
 
 - **Firewall:** Immune to ultimate hacks
 - **ICE:** +1 upload time, +2 RAM cost
 - **ECM:** Smartgun jammer (80% miss prob)
 - **Pain Editors:** Immune to Burning, resistant to Grenade damage (0.5x)
 
-**Valentinos**\
-
+**Valentinos**\\
 
 - **Reflex Boosters:** Resistant to Critical Hits (0.25x)
-- **Armor Piercing Rounds:** Ignore 50% of player armor
+- **Armour Piercing Rounds:** Ignore 50% of player's armour
 - **Projected Simulacrum:** Immune to Homing Grenades
 - **Synth-adrenaline:** Immune to Bleeding
 - **Polarized skin plating:** Resistant to Tech damage (0.5x)
 
-**Voodoo Boys**\
-
+**Voodoo Boys**\\
 
 - **Firewall:** Immune to ultimate hacks
 - **ICE:** +2 upload time, +4 RAM cost
 - **Bullet Hacking:** Resistant to Smart weapon damage (0.5x)
 - **Backup Processor:** Resistant to Hack damage (0.5x)
 
-**Wraiths**\
-
+**Wraiths**\\
 
 - **Firewall:** Immune to covert hacks
 - **ICE:** +1 RAM cost
@@ -581,25 +579,22 @@ You can use my 4k add on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 
 **Corps**\
 \
-**Arasaka**\
-
+**Arasaka**\\
 
 - **Firewall:** Immune to ultimate hacks
 - **ICE:** +1 upload time, +2 RAM cost
 - **Life Extending Circuits:** Resistant to Critical Hits (0.5x)
-- **Neuro Backup:** One shot protection (max 80% of full health in one shot)
+- **Neuro Backup:** One-shot protection (max 80% of full health in one shot)
 - **Cochlear Implants:** Resistant to Stealth damage (0.25x)
 
-**Biotechnica**\
-
+**Biotechnica**\\
 
 - **Firewall:** Immune to control hacks
 - **ICE:** +1 upload time
 - **Nano Med Bots:** Immune to Bleeding and Poison
 - **Bullet-ejecting Armor Plating:** Resistant to Power weapons (0.5x)
 
-**Kang Tao**\
-
+**Kang Tao**\\
 
 - **Firewall:** Immune to covert hacks
 - **ICE:** +1 RAM cost
@@ -607,8 +602,7 @@ You can use my 4k add on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 - **Automated Internal Fire Suppression:** Immune to Burning
 - **Projected Simulacrum:** Immune to Homing Grenades
 
-**Militech**\
-
+**Militech**\\
 
 - **Firewall:** Immune to damage hacks
 - **ICE:** +2 upload time, +1 RAM cost
@@ -628,23 +622,23 @@ https://www.youtube.com/watch?v=JtPB9BjaAbE
 
 > Allows the player to control the character midair while jumping and double jumping (no different types of leg cyberware supported yet). Adds "wallbouncing/walljumping" inspired by an Apex Legends movement mechanic, which means you can bounce back from a wall when directly looking at it and pressing/holding jump. Made the player slow down in the air if not pressing any movement keys to allow for a lot more precise landing than vanilla. Controller is supported and most things are configurable with [Native Settings UI](https://www.nexusmods.com/cyberpunk2077/mods/3518)
 
-**How to walljump:**
+**How to wall jump all**dialogue jumping.
 
-Walljumping is triggered when the player is:
+Wall jumping is triggered when the player is:
 
 1. in the air.
-2. looking directly forward at a solid surface which is right in front of the player character.
+2. looking directly forward at a solid surface that is right in front of the player character.
 3. holding down the jump button.
 
-- You need to stop moving forward (let go of forward key or pull back analog stick) in order to not go back directly at the wall right after the walljump.
-- You can instantly redirect your walljump in a backwards diagonal left/right direction if you press left or right movement keys at the moment you walljump.
-- Redirecting the wallbounce direction is possible in general with camera positioning and movement keys, similar to regular midair movement (its strength is boosted to feel more fluid, but it needs some practice to get the hang of it)
+- You need to stop moving forward (let go of the forward key or pull back the analog stick) in order to not go back directly at the wall right after the wall jump.
+- You can instantly redirect your wall jump in a backward diagonal left/right direction if you press the left or right movement keys at the moment you wall jump.
+- Redirecting the wall bounce direction is possible in general with camera positioning and movement keys, similar to the regular midair movement (its strength is boosted to feel more fluid, but it needs some practice to get the hang of it)
 
-**Walljump usage with double jump:**
+**Walljump usage with a **jump all double** jump:**
 
-- If you don't want to double jump at all, \*\*HOLD \*\*the jump button from the ground to only walljump.
-- If you want to double jump after a wall jump, \*\*HOLD \*\*the jump button from the ground -> walljump -> release the jump key -> press the jump key again to double jump.
-- Double jump will be used up when\*\* pressing instead of holding\*\* the jump key, but I compensated this with increasing the jump height, so it becomes a feature instead of a bug.\\
+- If you don't want to double jump at all, \*\*HOLD \*\*the jump button from the ground to only wall jump.
+- If you want to double jump after a wall jump, \*\*HOLD \*\*the jump button from the ground -> wall jump -> release the jump key -> press the jump key again to double jump.
+- Double jump will be used up when pressing instead of holding the jump key, but I compensated this by increasing the jump height, so it becomes a feature instead of a bug.\\
 
 **How to control midair movement:**
 
@@ -689,7 +683,7 @@ https://www.youtube.com/watch?v=8cCpCjBYiA4
 - Item sliders are set to the max by default for Drop, Stash and Sell actions.
 - You can now craft items while in combat.
 - You can tweak some of the interaction and loot marker visibility behaviour.
-- You can mark any item in your inventory as Junk so you will be able to sell all marked items at once using vendors "Sell Junk" option.
+- You can mark any item in your inventory as Junk so you will be able to sell all marked items at once using the vendor "Sell Junk" option.
 - You can search your inventory for shards, quests and messages.
 - Increases time spans between sickness effects applied to V by The Relic.
 - Untrack quests the same way you track them -- by right-clicking in the Journal or on the Map
@@ -707,7 +701,7 @@ Limited HUD
 - **Notification Sounds**: muting some in-game notifications
 - **Hide Interaction Prompts**: options to hide some basic interaction prompts
 - **Widgets Remover**: a few options to hide some UI widgets
-- **Dialog Widget Resizer**: allows to scale dialog widget size, by default scale value is set to 1.0 so tweak it as you like
+- **Dialogue Widget Resizer**: allows to scale dialogue widget size, by default scale value is set to 1.0 so tweak it as you like
 - **Fix Evolution Icons**: fixes wrong icons for Power and Tech weapons used in info popups
 - **No Marker Pulse**: disables pulse animation for tracked markers
 - **Enemy Highlighting**: if enabled then the enemy highlight effect will be visible only for non-friendly NPCs under the Ping effect
@@ -839,7 +833,7 @@ https://www.youtube.com/watch?v=uScj2cK4qME
 - Vendors now show their real names.
 - Improved radio lets you skip songs add songs and remove songs you don't want out of the playlists.
 - Immersive time skip allows you to still see the world around you when you skip time.
-- Expression and pose packs for photo mode adds over 100 different poses and expressions.
+- Expression and pose packs for photo mode add over 100 different poses and expressions.
 - The weather has been completely rebalanced you will see more changes in weather.
 - People will now casually interact with you as you walk near them.
 - Fully useable stock market system that dynamically reacts to quests and player action.
@@ -895,7 +889,7 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 - She sleeps in her bed at night.
 - V can control the Radio, Bedroom TV, Kitchen TV, and Bathroom TV in Judy's apartment.
 - Choose from 50 different outfits for Judy.
-- Judy will now stay at V's H10 apartment sometimes, if V romanced her.
+- Judy will now stay at V's H10 apartment sometimes if V romanced her.
 
 ### **Kerrie**
 
@@ -910,7 +904,7 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 - V can chat with him at any of the activities.
 - V can hug him at any activity where he is not holding a guitar (only if in a relationship).
 - V can request a number of songs when he is holding his guitar.
-- Kerry will now stay at V's H10 apartment sometimes, if V romanced him.
+- Kerry will now stay at V's H10 apartment sometimes if V romanced him.
 
 ### **Panam**
 
@@ -924,7 +918,7 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 - She now sends you more messages.
 - V can chat with her or hug her during any of the activities (except sleeping or showering).
 - V can kiss her during any of the activities (except sleeping or showering).
-- Panam will now stay at V's H10 apartment sometimes, if V romanced her.
+- Panam will now stay at V's H10 apartment sometimes if V romanced her.
 
 ### **River**
 
@@ -956,7 +950,7 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 - Adjusted lighting for all explosions and fire effects.
 - Sticky Grenades have been converted to throwable proximity mines.
 - Glowing Knives and Katanas.
-- No throwing knife autoswap.
+- No throwing knife auto swap.
 - You can now add muzzle attachments to some shotguns.
 
 ### Buffs
@@ -978,10 +972,10 @@ https://www.youtube.com/watch?v=1Nfuqr3KmMw
 - There is a new type of Operating System called a TechDeck. Operating Systems are like the Cyberdeck, Berserk, etc.
 - Equipping a TechDeck allows the user to craft a set amount of Drones that will then follow the player around and fight with them until destroyed.
 - Crafting is done under the 'Drones' tab of the Crafting screen (previously called 'Cyberware Mods'), and recipes are required to craft the Drones, sold at Weapon Vendors.
-- There's 8 TechDecks at ripperdocs inRare,Epic, andLegendary qualities. See TechDecks section for locations/info.
-- Rare TechDecks are available at Technical Ability 6,Epicat 12, andLegendary at 18.
+- There are 8 TechDecks at Ripperdocs with rare, Epic, and legendary qualities. See the TechDecks section for locations/info.
+- Rare TechDecks are available at Technical Ability 6, Epicat 12, and Legendary at 18.
 - The Drones are crafted with regular crafting components, as well as a new component called a Drone Module, which will appear at vendors, and also as loot on mechanical NPCs.
-- The Drone recipes are scattered around at Weapon vendors. See Drone Types section for locations/info.
+- The Drone recipes are scattered around at Weapon vendors. See the Drone Types section for locations/info.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -1062,7 +1056,8 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 - V can now replay romance scenes.
 - Breast Jiggle Physics.
-- Underwear removed in all situations where your character is nude.
+- Diffrent types of Pubic Hair.
+- Underwear is removed in all situations where your character is nude.
 - Strippers and sex workers now have much more revealing clothing.
 - Joytoy was replaced in jig jig street.
 - Vshojo Advertisements.
@@ -1141,7 +1136,7 @@ Upgraded/Tweaked cyberware
 - **I**t will now cost Eddies to summon your vehicle.
 - It will cost you more eddies to repair destroyed vehicles when summoning them.
 - Summon and spawn distances for vehicles decreased.
-- No camera auto-centering while driving in TPP and FPP mode.
+- No camera auto-centring while driving in TPP and FPP mode.
 
 ### **Custom Vehicles**
 
@@ -1193,7 +1188,7 @@ Upgraded/Tweaked cyberware
 
 Please do not forget that when you install any extra collections, it's your responsibility and they may not work as intended unless curated by me.
 
-You can use my 4k add on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high end systems only 10gb Vram+)** [City of Dreams 4k Graphics Pack by v2](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp).
+You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high-end systems only 16gb Vram+)** [City of Dreams 4k Graphics Pack by v2](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp).
 
 If you would like a smaller collection try my [City of Dreams (lite)](https://next.nexusmods.com/cyberpunk2077/collections/ayfbwl?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) version.
 
@@ -1203,7 +1198,7 @@ If you would like a smaller collection try my [City of Dreams (lite)](https://ne
 
 ![img](https://i.imgur.com/ejtvYe2.png)
 
-Recommended In-game settings These settings will give a small performance boost without sacrificing quality.
+Recommended In-game settings These settings will give a slight performance boost without sacrificing quality.
 
 ![img](https://i.imgur.com/OV2YTbg.png)
 
@@ -1258,7 +1253,6 @@ Special thanks to these chooms who helped make this collection preem. And everyo
 - Jinxy 𝓩𝓸𝓶𝓫𝓲𝓮 Hyperdrive
 - Fenrir
 - The Magnificent Doctor Presto
-- gknova-2
 - Starfox
 - Jeridlee
 
