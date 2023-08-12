@@ -80,6 +80,8 @@ NEW MODS ADDED
 - [(Silver Six Store) Gladio's Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8808?tab=description)
 - [(Silver Breezy Store) Boho Dress Variations and Recolors - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8945?tab=description)
 - [The RVC00N Dumpster - Dexter Deshawn Glasses (M F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8958?tab=description)
+- [Boxer Hand Wraps](https://www.nexusmods.com/cyberpunk2077/mods/8317?tab=description)
+- [Shrubbery Shop (Equipment-EX FemV Pubic Hair - ArchiveXL) Vanilla - Hyst - Solo Ultimate - Solo OG - Solo Small Breasts - Valentine - Lush](https://www.nexusmods.com/cyberpunk2077/mods/8169?tab=description)
 
 BUGS
 -
