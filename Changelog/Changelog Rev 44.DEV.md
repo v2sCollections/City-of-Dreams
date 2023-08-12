@@ -38,11 +38,21 @@ UPDATED
 - [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 - [(Silver Touch) Doll Body Cyberware - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8686)
+- [Silver Six - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/7032)
+- [Silver Breezy - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/7773)
+- [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064)
+- [Kerry Interactions Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4990)
+- [Panam Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4626)
+- [River Romanced Enhanced (and general fixes)](https://www.nexusmods.com/cyberpunk2077/mods/4870)
+- [Zwei Custom PMU Pose Packs - Core](https://www.nexusmods.com/cyberpunk2077/mods/7165)
+- [The RVC00Ns Plugins - HoloPlugins (M-F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/5803)
+- [The RVC00N Dumpster - Murk Man Costume (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8236)
 
 REMOVED
 -
 
 - [Hyst_Refit_TATTOO_BIG BREAST_Patch](https://www.nexusmods.com/cyberpunk2077/mods/4654?tab=description)
+- [Named Saves](https://www.nexusmods.com/cyberpunk2077/mods/4521)
 
 NEW MODS ADDED 
 -
@@ -65,6 +75,11 @@ NEW MODS ADDED
 - [Dino Dinovic - Chest Tattoo Fix](https://www.nexusmods.com/cyberpunk2077/mods/5866/?tab=description&jump_to_comment=126306948)
 - [(Silver Touch) Mirage Wings Cyberware - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8918?tab=description)
 - [(Silver Breezy Store) Alt's Cyberdeck - Archive XL - AMM Prop](https://www.nexusmods.com/cyberpunk2077/mods/8875?tab=description)
+- [Cat Antenna Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8794?tab=description)
+- [Leather Punk Outfit](https://www.nexusmods.com/cyberpunk2077/mods/8953?tab=description)
+- [(Silver Six Store) Gladio's Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8808?tab=description)
+- [(Silver Breezy Store) Boho Dress Variations and Recolors - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8945?tab=description)
+- [The RVC00N Dumpster - Dexter Deshawn Glasses (M F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8958?tab=description)
 
 BUGS
 -
