@@ -47,6 +47,8 @@ UPDATED
 - [Zwei Custom PMU Pose Packs - Core](https://www.nexusmods.com/cyberpunk2077/mods/7165)
 - [The RVC00Ns Plugins - HoloPlugins (M-F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/5803)
 - [The RVC00N Dumpster - Murk Man Costume (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8236)
+- [NC Fashion Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4805)
+- [The RVC00N Dumpster (PinkyDude's Virtual Atelier Store)](https://www.nexusmods.com/cyberpunk2077/mods/5802?tab=description)
 
 REMOVED
 -
@@ -82,6 +84,7 @@ NEW MODS ADDED
 - [The RVC00N Dumpster - Dexter Deshawn Glasses (M F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8958?tab=description)
 - [Boxer Hand Wraps](https://www.nexusmods.com/cyberpunk2077/mods/8317?tab=description)
 - [Shrubbery Shop (Equipment-EX FemV Pubic Hair - ArchiveXL) Vanilla - Hyst - Solo Ultimate - Solo OG - Solo Small Breasts - Valentine - Lush](https://www.nexusmods.com/cyberpunk2077/mods/8169?tab=description)
+- [Ziva Gymwear Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8964?tab=description)
 
 BUGS
 -
