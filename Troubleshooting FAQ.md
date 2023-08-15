@@ -249,6 +249,10 @@ This is due to a mod called HUDitor it allows you to move the hud widgets where 
 
 3) To rest the widgets press X
 
+![img](https://i.imgur.com/odR9sZl.mp4)
+
+(https://www.nexusmods.com/cyberpunk2077/mods/3315)
+
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
