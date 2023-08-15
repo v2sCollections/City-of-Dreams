@@ -311,3 +311,6 @@ Some times the camera can get stuck zoomed in. To fix this you can try the follo
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
+
+
+![](https://s12.gifyu.com/images/SuG0u.png)

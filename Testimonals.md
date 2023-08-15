@@ -98,3 +98,7 @@ also great discord!"
 ## simsimsimh:
 
 "Thanks a lot V2 for the amazing collection!"
+
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
+
+![](https://s12.gifyu.com/images/SuG0u.png)
