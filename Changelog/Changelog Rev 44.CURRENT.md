@@ -1,6 +1,6 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 
-[HEY CHOOMS Rev 44 is HERE](https://)
+[HEY CHOOMS Rev 44 is COMING SOON](https://)
 -
 
 NOTES
