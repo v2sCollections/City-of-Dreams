@@ -1,4 +1,4 @@
-IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/MRGHIA88V2/City-of-Dreams)
+![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 
 ### Collection Rev 44         Collection Updated and working for Game version 1.63 Patch 1
 
