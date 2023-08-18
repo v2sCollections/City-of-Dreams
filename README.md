@@ -1,12 +1,12 @@
 IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/MRGHIA88V2/City-of-Dreams)
 
-### Collection Rev 43         Collection Updated and working for Game version 1.63 Patch 1
+### Collection Rev 44         Collection Updated and working for Game version 1.63 Patch 1
 
 https://www.youtube.com/watch?v=vvpmq34uBAc
 
 ![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://) for **Cyberpunk 2077**.
 
-This isn't just a mod list I've slapped together this is a whole new world of **cyberpunk 2077** with hundreds of hours spent building, configuring, modding and testing to create the best cyberpunk experience possible.
+This isn't just a mod list we have slapped together this is a whole new world of **cyberpunk 2077** with hundreds of hours spent building, configuring, modding and testing to create the best cyberpunk experience possible.
 
 This is a [800+](https://) Mod Collection it is the largest and most comprehensive mod list for **Cyberpunk 2077** it has been put together in a way that you can customize your playthrough to suit your style.&#x20;
 
@@ -15,6 +15,8 @@ If you would like a smaller collection try my [City of Dreams (lite)](https://ne
 Huge thank you to all the talented chooms that have put in the time and effort to create these preem mods. If you enjoy this collection, please show your support and [ENDORSE](https://) the mod authors and the collection.
 
 I hope you enjoy this collection and the game as much as I do. Time for me to delta but don't be a stranger join our community of edgerunners over on [Discord](https://discord.gg/xZNztPjA2u) see you there choom.
+
+See what other chooms think of the collection [HERE](https://github.com/2077v2/City-of-Dreams/blob/main/Testimonals.md).
 
 ## [Collection not working](https://) ❓
 
@@ -29,7 +31,7 @@ This collection is extensively tested with every new version that is released. I
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Cyberpunk 2077.
 - The most exstensive mod collection on nexus for cyberpunk 2077.
 - Easy to follow step-by-step installation guide.
-- Only-[12](https://)GB in download size for [800+](https://) mods.
+- Only-[13](https://)GB in download size for [800+](https://) mods.
 - Mods specifically created for the collection.
 - Support for other Modular Expansion Packs.
 - Setup Video-[HERE](https://)
@@ -741,7 +743,6 @@ Vendors
 Saves
 
 - You can now filter your saved games by life path.
-- You can now name your saved files.
 
 Mods
 
@@ -1227,7 +1228,7 @@ Recommended In-game settings These settings will give a slight performance boost
 - 1440p> RTX 3080 or RX 6800 XT
 - RAM> 16GB
 - CPU> R5 3600 or i5 9600K
-- STORAGE> 12.5GB
+- STORAGE> 13GB
 - STORAGE TYPE> SSD
 
 ![img](https://i.imgur.com/wAJUpeU.png)
