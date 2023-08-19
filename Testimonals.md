@@ -101,4 +101,16 @@ also great discord!"
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
+## Hulkovic
+
+"man i really have to say this collection is awesome its not that often that when i follow the guide 1/1 and it works out of the box really kudos to everyone who worked on this amazing collection"
+
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
+
+## Luan
+
+"ive already said it but now i discovered this channel oops. I love the Cyberpunk collection almost no problems and v2 is always there to help thx"
+
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
+
 ![](https://s12.gifyu.com/images/SuG0u.png)

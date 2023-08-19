@@ -13,6 +13,10 @@ CYBERCLEAN IS RECOMMENDED!!!
 UPDATED
 -
 
+- [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)
+- [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945?tab=description)
+- [Lifepath Bonuses and Gang-Corp Traits](https://www.nexusmods.com/cyberpunk2077/mods/2217)
+- [Hacking Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/7000?tab=description)
 
 REMOVED
 -
@@ -42,7 +46,10 @@ NEW MODS ADDED
 - [Peachu Succubo Bodysuit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8981?tab=description)
 - [The RVC00N Dumpster - Fancy Unbuttoned Shirt (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8977?tab=description)
 - [(Silver Six Store) Reno's Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8969?tab=description)
-- [
+- [The RVC00N Dumpster - Kerry Eurodyne Boots (M F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8975?tab=description)
+- [Archangel Wings](https://www.nexusmods.com/cyberpunk2077/mods/8970?tab=description)
+- [Hacking Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/7000?tab=description)
+- [Lotus Dress - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8991?tab=description)
 
 BUGS
 -
