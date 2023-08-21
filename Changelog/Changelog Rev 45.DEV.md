@@ -1,6 +1,6 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 
-[HEY CHOOMS Rev 45 is COMING SOON](https://)
+[HEY CHOOMS Rev 45 is HERE](https://)
 -
 
 NOTES
@@ -9,6 +9,8 @@ NOTES
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!! 
 CYBERCLEAN IS RECOMMENDED!!!
 
+- Crash Fix
+- Stability Fix
 
 UPDATED
 -
@@ -17,10 +19,21 @@ UPDATED
 - [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945?tab=description)
 - [Lifepath Bonuses and Gang-Corp Traits](https://www.nexusmods.com/cyberpunk2077/mods/2217)
 - [Hacking Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/7000?tab=description)
+- [Silver Six - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/7032)
+- [Silver Breezy - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/7773)
+- [Cub Atelier Store - Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/6949)
+- [Peachu and Hyst Atelier Store - Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/6943)
+- [The RVC00N Dumpster (PinkyDude's Virtual Atelier Store)](https://www.nexusmods.com/cyberpunk2077/mods/5802)
+- [The RVC00N Dumpster - Dexter Deshawn Glasses (M F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8958)
+- [(Six Digits Store) Metallic and Glowy Nails - Archive XL - Equipment EX](https://www.nexusmods.com/cyberpunk2077/mods/7527?tab=description)
+- [Custom Quickslots for Consumables Grenades and Cyberware Abilities](https://www.nexusmods.com/cyberpunk2077/mods/3096)
+- [Alvarix Custom Store - Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4602)
+- [Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780)
 
 REMOVED
 -
 
+- [cybercmd](https://www.nexusmods.com/cyberpunk2077/mods/5176?tab=description)
 
 
 NEW MODS ADDED 
@@ -43,13 +56,15 @@ NEW MODS ADDED
 - [Lace Underwear P2 - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8986?tab=description)
 - [PMU - Romance Set](https://www.nexusmods.com/cyberpunk2077/mods/8932?tab=description)
 - [CubVektor Strapless Dress - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8950?tab=description)
-- [Peachu Succubo Bodysuit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8981?tab=description)
 - [The RVC00N Dumpster - Fancy Unbuttoned Shirt (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8977?tab=description)
 - [(Silver Six Store) Reno's Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8969?tab=description)
 - [The RVC00N Dumpster - Kerry Eurodyne Boots (M F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8975?tab=description)
 - [Archangel Wings](https://www.nexusmods.com/cyberpunk2077/mods/8970?tab=description)
 - [Hacking Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/7000?tab=description)
 - [Lotus Dress - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8991?tab=description)
+- [Turtle Neck Top Hyst EBB Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8996?tab=description)
+- [Split Dress and Bikini - ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/8999?tab=description)
+- [QoL - Fix for the Arasaka nuke being on the 21st...](https://www.nexusmods.com/cyberpunk2077/mods/9004?tab=description)
 
 BUGS
 -
