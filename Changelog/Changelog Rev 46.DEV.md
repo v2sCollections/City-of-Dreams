@@ -13,6 +13,7 @@ CYBERCLEAN IS RECOMMENDED!!!
 UPDATED
 -
 
+Rebalaced gameplay difficulty.
 
 
 REMOVED
@@ -25,6 +26,8 @@ REMOVED
 NEW MODS ADDED 
 -
 
+- [Combat Pants - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9016?tab=description)
+- [(Silver Breezy Store) Alt Pants Recolors and Variations - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9007?tab=description)
 
 BUGS
 -

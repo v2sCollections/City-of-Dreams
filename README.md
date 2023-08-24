@@ -1,6 +1,7 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 
-### Collection Rev 44         Collection Updated and working for Game version 1.63 Patch 1
+
+### Collection Rev 46         Collection Updated and working for Game version 1.63 Patch 1
 
 https://www.youtube.com/watch?v=vvpmq34uBAc
 
@@ -408,7 +409,6 @@ You can find these items in the Dedicated [City of Dreams Atelier Store](https:/
 - [Edgerunners Posters](https://www.nexusmods.com/cyberpunk2077/mods/5203)***(OPTIONAL)***
 - [Edgerunner 2077](https://)***(OPTIONAL)***
 - [Lucy - Edgerunners Sky Ad](https://www.nexusmods.com/cyberpunk2077/mods/5201?tab=description)***(OPTIONAL)***
-- [Wannabe Edgerunner - A simple Cyberpsychosis mod](https://www.nexusmods.com/cyberpunk2077/mods/5646)***(OPTIONAL)***\*Note Read more on the "gameplay" tab
 - [Edgerunners Loading Screen Pack.](https://)***(OPTIONAL)***
 - [Edgerunners- Rebecca's hairstyle haircolor](https://www.nexusmods.com/cyberpunk2077/mods/5418?tab=description)***(OPTIONAL)***
 - [Edgerunners- Rebecca's face cyberware](https://www.nexusmods.com/cyberpunk2077/mods/5524?tab=description)***(OPTIONAL)***
@@ -443,6 +443,7 @@ You can find these items in the Dedicated [City of Dreams Atelier Store](https:/
 - Fixes sleeves automatically rolling up for long-sleeved clothes when the first-person perspective camera is active.
 - Fixes the dark box shadows cast by holo text screens using ray/path tracing.
 - Fixes textures on Dino Dinovic's chest tattoo.
+- Fixes the clock time during the Arasaka raid to match the expected time: Team arrives at ~23:35 pm, leaves at ~23:45pm Aug 20th, instead of 00:10 am on August 21st.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -487,7 +488,7 @@ You can find these items in the Dedicated [City of Dreams Atelier Store](https:/
 
 ⛔ Note that some of these will eat your vram i recommend a min 8gb GPU but even then depending on your settings vanilla cyberpunk will eat 8gb. If you notice stuttering or any texture issues then disable a few of the (surfaces mods) in vortex.
 
-You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high-end**armour\*\* systems only 16gb Vram+)\*\*
+You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high-end** systems only 16gb Vram+)
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -650,24 +651,6 @@ Wall jumping is triggered when the player is:
 - With source engine movement you can also tap strafe, which is rapidly pressing the movement keys in the air to drastically change your movement direction.
 - If you let go of every movement key (WASD) the character will start slowing down, you can also slow down faster by moving backwards but keep in mind the character will actually start moving backwards once the forward momentum is gone.
 
-***
-
-### Wannabe Edgerunner **Cyberpsychosis**
-
-https://www.youtube.com/watch?v=8cCpCjBYiA4
-
-&#x20;[Wannabe Edgerunner](https://www.nexusmods.com/cyberpunk2077/mods/5646?tab=description) by [djkovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
-
-### Features
-
-> Adds a very basic Humanity Cost system for cyberware implants as well as a few low Humanity side-effects including cyberpsychosis.
-
-- New stat - Humanity, which depends on installed cyber ware, Berserk/Sandevistan usage and committed kills.
-- A few Humanity thresholds, each with its own effects and visuals.
-- Possible Cyberpsychosis when Humanity becomes very low.
-- Cyberware Humanity Cost is based on implant type and quality.
-- A new injector should help you to manage Humanity.
-
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## ![](https://s12.gifyu.com/images/Quality-of-life.png)
@@ -678,9 +661,7 @@ https://www.youtube.com/watch?v=8cCpCjBYiA4
 - Cleans up the green colour from the quick hack screen.
 - Remove quest tags from equipped items so they can be dismantled and sold.
 - Unequip all equipped items (armour, weapons and cyberware).
-- Reduced loot throughout the city.
 - See what attribute level you needed for conversation skill checks that you passed.
-- Reduced drop chances for chosen loot categories from in-game containers, NPCs and world-placed objects.
 - Improved mini map zoom allows the map to dynamically zoom in and out depending on what areas you are in or if you are in the combat state.
 - Item sliders are set to the max by default for Drop, Stash and Sell actions.
 - You can now craft items while in combat.
@@ -984,7 +965,7 @@ https://www.youtube.com/watch?v=1Nfuqr3KmMw
 
 ### Features
 
-> 80+ Shops with hundreds of clothes, armour,cyberware, vehicles, jewellery and weapons added to the Alteier store these can be accessed in-game from any computer these include items from some of the most talented modders in the CP2077 community such as.
+> 100+ Shops with over 1500 pieces of Clothing, Armour,Cyberware, Vehicles, Jewellery and Weapons added to the Alteier store these can be accessed in-game from any computer these include items from some of the most talented modders in the CP2077 community such as.
 
 - [kweknexuss](https://www.nexusmods.com/cyberpunk2077/users/86973158)
 - [MONSTERaider](https://www.nexusmods.com/users/1630457)
@@ -998,6 +979,7 @@ https://www.youtube.com/watch?v=1Nfuqr3KmMw
 - [Apzurv](https://www.nexusmods.com/cyberpunk2077/users/18222069)
 - [NolaDreamer](https://www.nexusmods.com/cyberpunk2077/users/103558203)
 - [PinkyDude](https://www.nexusmods.com/cyberpunk2077/users/20892624)
+- [VeegeeAlvarez](https://www.nexusmods.com/cyberpunk2077/users/120233618)
 - [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
 
 ![](https://gifyu.com/image/SdKfy)![](https://gifyu.com/image/SdKtk)![](https://gifyu.com/image/SdKtk.img)![](https://s2.gifyu.com/images/ezgif.com-video-to-gifde3b2c1ceec906ca.gif)[Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987) by [Pacings](https://www.nexusmods.com/cyberpunk2077/users/96220198).
@@ -1149,19 +1131,16 @@ Upgraded/Tweaked cyberware
 - [Quadra Turbo K.S Edition](https://www.nexusmods.com/cyberpunk2077/mods/8260).
 - [Type-66 DUSK](https://www.nexusmods.com/cyberpunk2077/mods/8009).
 - [Arch Nasare Itsumade Black Devil](https://www.nexusmods.com/cyberpunk2077/mods/7980).
-- [Thorton Mackinaw Wasteland Leviathan](https://www.nexusmods.com/cyberpunk2077/mods/7996).
 - [Arch Nasare Itsumade ONI. Angel](https://www.nexusmods.com/cyberpunk2077/mods/8023).
 - [Quartz HELLHOUND](https://www.nexusmods.com/cyberpunk2077/mods/8159).
-- [Quartz Bandit Wasteland Hunter](https://www.nexusmods.com/cyberpunk2077/mods/7971).
-- [Kaukaz Bratsk CUTIE](https://www.nexusmods.com/cyberpunk2077/mods/8028).
 - [Thorton Galena GRAPHITE](https://www.nexusmods.com/cyberpunk2077/mods/8230).
 - [Initial D Archer Quartz](https://www.nexusmods.com/cyberpunk2077/mods/8279).
 - [Type-66 MIDNIGHT](https://www.nexusmods.com/cyberpunk2077/mods/8288).
-- [Ford Mustang Boss 1969](https://www.nexusmods.com/cyberpunk2077/mods/8375).
 - [Mercedes-Benz 190E W201](https://www.nexusmods.com/cyberpunk2077/mods/8521?tab=description).
 - [Pagani Zonda Cinque roadster](https://www.nexusmods.com/cyberpunk2077/mods/8795?tab=description).
 - [1993 Nissan 240SX (S13)](https://www.nexusmods.com/cyberpunk2077/mods/8730).
 - [Audi R8 Liberty Walk](https://www.nexusmods.com/cyberpunk2077/mods/8827).
+- [Ford Mustang RTR Spec 5](https://www.nexusmods.com/cyberpunk2077/mods/8912).
 - [Lamborghini Terzo Millennio](https://www.nexusmods.com/cyberpunk2077/mods/2398).
 
 ***
