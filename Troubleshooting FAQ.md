@@ -17,7 +17,7 @@
 7) [There is a weapon stuck in my inventory and i cant unequip it](#there-is-a-weapon-stuck-in-my-inventory-and-i-cant-unequip-it)
 8) [I see this error when opening the Virtual Atelier](#i-see-this-error-when-opening-the-virtual-atelier)
 9) [The Atelier Shop doesnt show up in game](#the-atelier-shop-doesnt-show-up-in-game)
-10) 
+10) [Updating the Collection](#updating=the-collection)
 11) [My game is crashing after creating a character](#my-game-is-crashing-after-creating-a-character)
 12) [Reshade doesnt launch when I click it It tells me that it cant be found](#reshade-doesnt-launch-when-i-click-it-it-tells-me-that-it-cant-be-found)
 13) [HUD Elements are off the screen](#hud-elements-are-off-the-screen)
@@ -25,6 +25,7 @@
 15) [I cant shoot the drones in the car in the Heist Mission](#i-cant-shoot-the-drones-in-the-car-in-the-heist-mission)
 16) [My game is crashing when loading a save](#my-game-is-crashing-when-loading-a-save)
 17) [My screen is zoomed in](#my-screen-is-zoomed-in)
+18) [Pirated Games](#pirated-games)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -174,7 +175,16 @@ Dont worry this is normall some shops haver the same items.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
+## Updating the Collection
 
+Updating the collection is as easy as clicking the "Update" button.
+When prompted to "Remove mods from old revision" make sure to click the "Remove All" button.
+DO NOT update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
+Notes will be in the changelog
+
+Updating
+
+1)
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -312,5 +322,12 @@ Some times the camera can get stuck zoomed in. To fix this you can try the follo
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
+
+## Pirated Games
+
+DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
 
 ![](https://s12.gifyu.com/images/SuG0u.png)

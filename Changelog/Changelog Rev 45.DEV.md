@@ -10,7 +10,8 @@ REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!!
 CYBERCLEAN IS RECOMMENDED!!!
 
 - Crash Fix
-- Stability Fix
+- Stability Fixes
+- Reconfigured Reduced loot again to add more drop chances for loot in Containers.
 
 UPDATED
 -
