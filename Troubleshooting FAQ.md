@@ -45,7 +45,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 1) Check the install guide and make sure you follow the instructions.
 
-2) Make sure the game is installed on a SSD.
+2) Make sure the game is installed on a **SSD.**
 
 3)Perform a Cyberclean> ⁠Cyberclean Boot up the game and see if the problem is resolved.
 
@@ -167,7 +167,7 @@ Dont worry this is normall some shops haver the same items.
 
 1) Open Vortex 
 
-2) On the mods tab search for "Virtual Atelier"
+2) On the mods tab search for **Virtual Atelier**
 
 2) Right click on the mod and select reinstall.
 
@@ -180,7 +180,7 @@ Dont worry this is normall some shops haver the same items.
 
 Updating the collection is as easy as clicking the "Update" button.
 When prompted to "Remove mods from old revision" make sure to click the "Remove All" button.
-DO NOT update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
+**DO NOT** update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
 Notes will be in the changelog
 
 Updating
@@ -195,19 +195,19 @@ Updating
 
 For some users, these were able to fix their issues.
 
-1) Make sure the game is installed on a SSD
+1) Make sure the game is installed on a **SSD**
 
-2) Disable surface mods in Vortex.
+2) Disable **surface** mods in Vortex.
 
 3) Make sure the graphics driver is up to date/Reinstall the graphics driver 
 
 4) Disable any overlay (steam or Nvidia/amd overlay for example) 
 
-5) Disable the appearance menu mod.
+5) Disable the **appearance menu mod.**
 
 6) Run the game in windowed fullscreen.
 
-7) Disable "PMU Angry Pose Packs Core"
+7) Disable **"PMU Angry Pose Packs Core"**
 
 8) Make sure these are upto date>
 ⁠Common Redist
@@ -217,13 +217,13 @@ For some users, these were able to fix their issues.
 
 Another workaround is to start a vanilla game and then redploy the mods after.
 
-1) Purge the mods in Vortex
+1) **Purge** the mods in Vortex
 
 2) Create a character without mods.
 
 3) Save the game after the first mission.
 
-4) Go back to Vortex and Deploy the mods this will enable all the mods. 
+4) Go back to Vortex and **Deploy** the mods this will enable all the mods. 
 
 5) Start the game and load the save and see if you are able to play.
 
@@ -252,13 +252,13 @@ Sometimes you need to relink Vortex to a tool.
 
 ## HUD Elements are off the screen❓
 
-This is due to a mod called HUDitor it allows you to move the hud widgets where ever you would like. 
+This is due to a mod called **HUDitor** it allows you to move the hud widgets where ever you would like. 
 
-1) Once in game hold SHIFT and press U to customize the hud settings to suit you. 
+1) Once in game hold **SHIFT** and press **U** to customize the hud settings to suit you. 
 
 2) To go to the next widget press the LEFT and RIGHT arrow keys.
 
-3) To rest the widgets press X
+3) To rest the widgets press **X**
 
 ![img](https://i.imgur.com/odR9sZl.mp4)
 
@@ -270,7 +270,7 @@ This is due to a mod called HUDitor it allows you to move the hud widgets where 
 
 ## Mini Map isnt showing up❓
 
-Press "Y" to show the mini map.
+Press **"Y"** to show the mini map.
 
 If this doesnt work its becuause you have the E3 Compass installed this will disable the mini map.
 
@@ -328,8 +328,8 @@ Some times the camera can get stuck zoomed in. To fix this you can try the follo
 
 ## Can i use a Pirated Game❓
 
-**NO** Mods will not work with a Pirated/Cracked version of the game.
-**DO NOT** use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
+- **NO** Mods will not work with a Pirated/Cracked version of the game.
+- **DO NOT** use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -337,7 +337,7 @@ Some times the camera can get stuck zoomed in. To fix this you can try the follo
 
 ## My character has 2 arms, 2 different skin colours, 2 tattoos, 2 Hairstyles etc❓
 
-This can happen if you change your character in the game (mirror or a ripperdoc). This is caused by the Appearance Change Unlocker mod this mod is needed to be able to change many things on your character like tattoos ect 
+This can happen if you change your character in the game (mirror or a ripperdoc). This is caused by the **Appearance Change Unlocker** mod this mod is needed to be able to change many things on your character like tattoos ect 
 
 1) Reload your current save.
 or
