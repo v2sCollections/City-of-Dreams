@@ -17,7 +17,7 @@
 7) [There is a weapon stuck in my inventory and i cant unequip it](#there-is-a-weapon-stuck-in-my-inventory-and-i-cant-unequip-it)
 8) [I see this error when opening the Virtual Atelier](#i-see-this-error-when-opening-the-virtual-atelier)
 9) [The Atelier Shop doesnt show up in game](#the-atelier-shop-doesnt-show-up-in-game)
-10) [Updating the Collection](#updating=the-collection)
+10) [How do i update the Collection](#how-do-i-update-the-collection)
 11) [My game is crashing after creating a character](#my-game-is-crashing-after-creating-a-character)
 12) [Reshade doesnt launch when I click it It tells me that it cant be found](#reshade-doesnt-launch-when-i-click-it-it-tells-me-that-it-cant-be-found)
 13) [HUD Elements are off the screen](#hud-elements-are-off-the-screen)
@@ -25,7 +25,8 @@
 15) [I cant shoot the drones in the car in the Heist Mission](#i-cant-shoot-the-drones-in-the-car-in-the-heist-mission)
 16) [My game is crashing when loading a save](#my-game-is-crashing-when-loading-a-save)
 17) [My screen is zoomed in](#my-screen-is-zoomed-in)
-18) [Pirated Games](#pirated-games)
+18) [Can i use a Pirated Game](#can-i-use-a-pirated-game)
+19) [My character has 2 arms 2 different skin colours 2 tattoos 2 Hairstyles etc](#my-character-has-2-arms-2-diffrent-skin-colours-2-tattoos-2-hairstyles-etc)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -175,7 +176,7 @@ Dont worry this is normall some shops haver the same items.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## Updating the Collection
+## How do i update the Collection
 
 Updating the collection is as easy as clicking the "Update" button.
 When prompted to "Remove mods from old revision" make sure to click the "Remove All" button.
@@ -287,7 +288,8 @@ You can fix this bug by
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 
-## My game is crashing when loading a save
+## My game is crashing when loading a save❓
+
 
 Make sure you have disabled cross-platform saves as shown below and you have the game installed on a SSD.  
 
@@ -309,7 +311,8 @@ Play the game without mods and make a save and then reactivate mods and load the
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 
-## My screen is zoomed in
+## My screen is zoomed in❓
+
 
 Some times the camera can get stuck zoomed in. To fix this you can try the following. 
 
@@ -323,11 +326,25 @@ Some times the camera can get stuck zoomed in. To fix this you can try the follo
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 
-## Pirated Games
+## Can i use a Pirated Game❓
 
-DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
+**NO** Mods will not work with a Pirated/Cracked version of the game.
+**DO NOT** use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
+
+
+## My character has 2 arms, 2 different skin colours, 2 tattoos, 2 Hairstyles etc❓
+
+This can happen if you change your character in the game (mirror or a ripperdoc). This is caused by the Appearance Change Unlocker mod this mod is needed to be able to change many things on your character like tattoos ect 
+
+1) Reload your current save.
+or
+2) Restart the game.
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
 
 ![](https://s12.gifyu.com/images/SuG0u.png)
