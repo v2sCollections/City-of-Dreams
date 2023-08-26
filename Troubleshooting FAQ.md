@@ -43,7 +43,20 @@
 
 </details>
 
-2) [My game crashes at the breaching screen](#my-game-crashes-at-the-breaching-screen)
+<details>
+<summary>My game crashes at the breaching screen</summary>
+
+You need to disable "Analytics"
+
+1) Purge the mods in Vortex
+
+2) Launch the game 
+
+3) Go to the settings menu and on the gameplay tab disable Analytics.
+
+</details>
+
+
 3) [My game is crashing after creating a character](#my-game-is-crashing-after-creating-a-character)
 4) [My game is crashing when loading a save](#my-game-is-crashing-when-loading-a-save)
 
@@ -86,30 +99,6 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk2077.exe
 GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk2077.exe
 Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe  
 ```
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-
-## My game is crashing on startup❓
-
-
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-
-## My game crashes at the breaching screen❓
-
-You need to disable "Analytics"
-
-1) Purge the mods in Vortex
-
-2) Launch the game 
-
-3) Go to the settings menu and on the gameplay tab disable Analytics.
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
 
 
 ## My character and some female NPCs have weird texture lines on them❓
