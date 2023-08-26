@@ -8,26 +8,49 @@
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 ## Contents
+
+- [Crashes](#crashes)
+- [Troubleshooting](#troubleshooting)
+- [Gameplay Questions](#gameplay-questions)
+- [Bugs](#bugs)
+- [Other Questions](#other-questions)
+
+## Crashes
+
+1) [My game is crashing on startup](#my-game-is-crashing-on-startup)
+2) [My game crashes at the breaching screen](#my-game-crashes-at-the-breaching-screen)
+3) [My game is crashing after creating a character](#my-game-is-crashing-after-creating-a-character)
+4) [My game is crashing when loading a save](#my-game-is-crashing-when-loading-a-save)
+
+## Troubleshooting
+
+1) [HUD Elements are off the screen](#hud-elements-are-off-the-screen)
+2) [Mini Map isnt showing up](#mini-map-isnt-showing-up)
+3) [I get a message at the main menu saying that mods could not be loaded like in the picture below](#i-get-a-message-at-the-main-menu-saying-that-mods-could-not-be-loaded-like-in-the-picture-below)
+4) [Reshade doesnt launch when I click it It tells me that it cant be found](#reshade-doesnt-launch-when-i-click-it-it-tells-me-that-it-cant-be-found)
+5) [I see this error when opening the Virtual Atelier](#i-see-this-error-when-opening-the-virtual-atelier)
+6) [The Atelier Shop doesnt show up in game](#the-atelier-shop-doesnt-show-up-in-game)
+
+## Gameplay Questions
+
+1) [I cant shoot the drones in the car in the Heist Mission](#i-cant-shoot-the-drones-in-the-car-in-the-heist-mission)
+
+
+## Bugs
+
+1) [My character and some female NPCs have weird texture lines on them](#my-character-and-some-female-npcs-have-weird-texture-lines-on-them)
+2) [There is a weapon stuck in my inventory and i cant unequip it](#there-is-a-weapon-stuck-in-my-inventory-and-i-cant-unequip-it)
+3) [My screen is zoomed in](#my-screen-is-zoomed-in)
+4) [My character has 2 arms 2 different skin colours 2 tattoos 2 Hairstyles etc](#my-character-has-2-arms-2-diffrent-skin-colours-2-tattoos-2-hairstyles-etc)
+5) [The Camera is locked i cant move up/down](#the-camera-is-locked-i-cant-move-up-or-down)
+
+
+## Other Questions
 1) [Where is the game located](#where-is-the-game-located) 
-2) [My game is crashing on startup](#my-game-is-crashing-on-startup)
-3) [My game crashes at the breaching screen](#my-game-crashes-at-the-breaching-screen)
-4) [My character and some female NPCs have weird texture lines on them](#my-character-and-some-female-npcs-have-weird-texture-lines-on-them)
-5) [I get a message at the main menu saying that mods could not be loaded like in the picture below](#i-get-a-message-at-the-main-menu-saying-that-mods-could-not-be-loaded-like-in-the-picture-below)
-6) [The Camera is locked i cant move up/down](#the-camera-is-locked-i-cant-move-up-or-down)
-7) [There is a weapon stuck in my inventory and i cant unequip it](#there-is-a-weapon-stuck-in-my-inventory-and-i-cant-unequip-it)
-8) [I see this error when opening the Virtual Atelier](#i-see-this-error-when-opening-the-virtual-atelier)
-9) [The Atelier Shop doesnt show up in game](#the-atelier-shop-doesnt-show-up-in-game)
-10) [How do i update the Collection](#how-do-i-update-the-collection)
-11) [My game is crashing after creating a character](#my-game-is-crashing-after-creating-a-character)
-12) [Reshade doesnt launch when I click it It tells me that it cant be found](#reshade-doesnt-launch-when-i-click-it-it-tells-me-that-it-cant-be-found)
-13) [HUD Elements are off the screen](#hud-elements-are-off-the-screen)
-14) [Mini Map isnt showing up](#mini-map-isnt-showing-up)
-15) [I cant shoot the drones in the car in the Heist Mission](#i-cant-shoot-the-drones-in-the-car-in-the-heist-mission)
-16) [My game is crashing when loading a save](#my-game-is-crashing-when-loading-a-save)
-17) [My screen is zoomed in](#my-screen-is-zoomed-in)
-18) [Can i use a Pirated Game](#can-i-use-a-pirated-game)
-19) [My character has 2 arms 2 different skin colours 2 tattoos 2 Hairstyles etc](#my-character-has-2-arms-2-diffrent-skin-colours-2-tattoos-2-hairstyles-etc)
-20) [Where are the optional mods](#where-are-the-optional-mods)
+2) [How do i update the Collection](#how-do-i-update-the-collection)
+3) [Can i use a Pirated Game](#can-i-use-a-pirated-game)
+4) [Where are the optional mods](#where-are-the-optional-mods)
+
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
