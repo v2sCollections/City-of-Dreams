@@ -33,11 +33,11 @@
 
 6)Go here > G:\SteamLibrary\steamapps\common\Cyberpunk 2077\bin\x64\     and Rename "dxgi.dll" to "d3d12.dll" 
 
-7) Disable the appearance mod menu mod in Vortex
+7) Disable the appearance mod menu mod in Vortex.
 
-8) Disable the UHD Splash screen mod in Vortex
+8) Disable the UHD Splash screen mod in Vortex.
 
-9) Disable the QHD intro mod in Vortex (edited)
+9) Disable the QHD intro mod in Vortex.
 
 10) Disable/Uninstall the reshade if you have installed and ran the program
 
@@ -46,13 +46,13 @@
 <details>
 <summary>My game crashes at the breaching screen</summary>
 
-You need to disable "Analytics"
+You need to disable **"Analytics"**
 
 1) Purge the mods in Vortex
 
 2) Launch the game 
 
-3) Go to the settings menu and on the gameplay tab disable Analytics.
+3) Go to the settings menu and on the gameplay tab disable **"Analytics"**.
 
 </details>
 
@@ -73,9 +73,7 @@ For some users, these were able to fix their issues.
 
 6) Run the game in windowed fullscreen.
 
-7) Disable **"PMU Angry Pose Packs Core"**
-
-8) Make sure these are upto date>
+7) Make sure these are upto date>
 ⁠Common Redist
 ⁠NET 7 Desktop Runtime
 
