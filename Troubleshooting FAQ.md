@@ -96,11 +96,12 @@ Another workaround is to start a vanilla game and then redploy the mods after.
 <details>
 <summary>My game is crashing when loading a save</summary>
 
-Make sure you have disabled cross-platform saves as shown below and you have the game installed on a SSD.  
+
+Make sure you have disabled **"cross-platform saves"** as shown below and you have the game installed on a SSD.  
 
 ![img](https://s12.gifyu.com/images/SWeJF.png)
 
-If this doesnt fix th issue you can try the following. 
+If this doesnt fix the issue you can try the following. 
 
 Play the game without mods and make a save and then reactivate mods and load the save.
 
