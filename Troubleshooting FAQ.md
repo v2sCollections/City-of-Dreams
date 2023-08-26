@@ -50,6 +50,8 @@
 <details>
 <summary>My game crashes at the breaching screen</summary>
 
+![img](https://i.imgur.com/wAJUpeU.png)
+
 You need to disable **"Analytics"**
 
 1) Purge the mods in Vortex
@@ -58,10 +60,14 @@ You need to disable **"Analytics"**
 
 3) Go to the settings menu and on the gameplay tab disable **"Analytics"**.
 
+![img](https://i.imgur.com/wAJUpeU.png)
+
 </details>
 
 <details>
 <summary>My game is crashing after creating a character</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
 
 For some users, these were able to fix their issues.
 
@@ -93,11 +99,14 @@ Another workaround is to start a vanilla game and then redploy the mods after.
 
 5) Start the game and load the save and see if you are able to play.
 
+![img](https://i.imgur.com/wAJUpeU.png)
+
 </details>
 
 <details>
 <summary>My game is crashing when loading a save</summary>
 
+![img](https://i.imgur.com/wAJUpeU.png)
 
 Make sure you have disabled **"cross-platform saves"** as shown below and you have the game installed on a SSD.  
 
@@ -114,6 +123,8 @@ Play the game without mods and make a save and then reactivate mods and load the
 3) In Vortex on the mods tab select "**Deploy"**
 
 4) Boot up the game and load your save.
+
+![img](https://i.imgur.com/wAJUpeU.png)
 
 </details>
 
