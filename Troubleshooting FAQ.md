@@ -19,6 +19,8 @@
 <details>
 <summary>My game is crashing on startup</summary>
 
+![img](https://i.imgur.com/wAJUpeU.png)
+
 1) Check the install guide and make sure you follow the instructions.
 
 2) Make sure the game is installed on a **SSD.**
@@ -40,6 +42,8 @@
 9) Disable the QHD intro mod in Vortex.
 
 10) Disable/Uninstall the reshade if you have installed and ran the program
+
+![img](https://i.imgur.com/wAJUpeU.png)
 
 </details>
 
