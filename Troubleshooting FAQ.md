@@ -3,7 +3,7 @@
 
 **⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Cyberpunk2077, or the collection when you see errors on Vortex.
 
-## FAQ
+# Frequently Asked Questions
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
