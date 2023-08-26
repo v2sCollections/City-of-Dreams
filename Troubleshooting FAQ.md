@@ -350,17 +350,17 @@ or
 
 ## Where are the optional mods❓
 
-**1**) Open Vortex
-**2**) Select **"Collections"**
-**3**) Select **"View"** on the collection.
+1) Open Vortex
+2) Select **"Collections"**
+3) Select **"View"** on the collection.
 
 ![img](https://s11.gifyu.com/images/Sguez.png)
 
-**4**) Select **"Mods"**
+4) Select **"Mods"**
 
 ![img](https://s11.gifyu.com/images/Sgueb.png)
 
-**5**) Now you can filter between **"Required"** and **"Recommended"** Recommended being the optional Mods.
+5) Now you can filter between **"Required"** and **"Recommended"** Recommended being the optional Mods.
 
 
 ![img](https://s11.gifyu.com/images/SgueM.jpg)
