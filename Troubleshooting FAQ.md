@@ -7,13 +7,14 @@
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## Contents
+
 
 - [Crashes](#crashes)
 - [Troubleshooting](#troubleshooting)
 - [Gameplay Questions](#gameplay-questions)
 - [Bugs](#bugs)
 - [Other Questions](#other-questions)
+
 
 ## Crashes
 
