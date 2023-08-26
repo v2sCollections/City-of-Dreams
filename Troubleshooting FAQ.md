@@ -5,9 +5,6 @@
 
 # Frequently Asked Questions
 
-![img](https://i.imgur.com/wAJUpeU.png)
-
-
 
 - [Crashes](#crashes)
 - [Troubleshooting](#troubleshooting)
@@ -15,6 +12,7 @@
 - [Bugs](#bugs)
 - [Other Questions](#other-questions)
 
+![img](https://i.imgur.com/wAJUpeU.png)
 
 ## Crashes
 
