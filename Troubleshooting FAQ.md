@@ -27,6 +27,7 @@
 17) [My screen is zoomed in](#my-screen-is-zoomed-in)
 18) [Can i use a Pirated Game](#can-i-use-a-pirated-game)
 19) [My character has 2 arms 2 different skin colours 2 tattoos 2 Hairstyles etc](#my-character-has-2-arms-2-diffrent-skin-colours-2-tattoos-2-hairstyles-etc)
+20) [Where are the optional mods](#where-are-the-optional-mods)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -342,6 +343,27 @@ This can happen if you change your character in the game (mirror or a ripperdoc)
 1) Reload your current save.
 or
 2) Restart the game.
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
+## Where are the optional mods❓
+
+**1**) Open Vortex
+**2**) Select **"Collections"**
+**3**) Select **"View"** on the collection.
+
+![img](https://s11.gifyu.com/images/Sguez.png)
+
+**4**) Select **"Mods"**
+
+![img](https://s11.gifyu.com/images/Sgueb.png)
+
+**5**) Now you can filter between **"Required"** and **"Recommended"** Recommended being the optional Mods.
+
+
+![img](https://s11.gifyu.com/images/SgueM.jpg)
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
