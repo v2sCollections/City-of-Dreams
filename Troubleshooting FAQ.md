@@ -93,7 +93,26 @@ Another workaround is to start a vanilla game and then redploy the mods after.
 
 </details>
 
-4) [My game is crashing when loading a save](#my-game-is-crashing-when-loading-a-save)
+<details>
+<summary>My game is crashing when loading a save</summary>
+
+Make sure you have disabled cross-platform saves as shown below and you have the game installed on a SSD.  
+
+![img](https://s12.gifyu.com/images/SWeJF.png)
+
+If this doesnt fix th issue you can try the following. 
+
+Play the game without mods and make a save and then reactivate mods and load the save.
+
+1) In Vortex on the mods tab select **"Purge"** this will remove the mods from the game files.
+
+2) Boot up the vanilla game load your save now save and close the game.
+
+3) In Vortex on the mods tab select "**Deploy"**
+
+4) Boot up the game and load your save.
+
+</details>
 
 ## Troubleshooting
 
@@ -293,29 +312,6 @@ If this doesnt work its becuause you have the E3 Compass installed this will dis
 You can fix this bug by 
 
 1) Equip a pistol before getting into the car.
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-
-## My game is crashing when loading a save❓
-
-
-Make sure you have disabled cross-platform saves as shown below and you have the game installed on a SSD.  
-
-![img](https://s12.gifyu.com/images/SWeJF.png)
-
-If this doesnt fix th issue you can try the following. 
-
-Play the game without mods and make a save and then reactivate mods and load the save.
-
-1) In Vortex on the mods tab select **"Purge"** this will remove the mods from the game files.
-
-2) Boot up the vanilla game load your save now save and close the game.
-
-3) In Vortex on the mods tab select "**Deploy"**
-
-4) Boot up the game and load your save.
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
