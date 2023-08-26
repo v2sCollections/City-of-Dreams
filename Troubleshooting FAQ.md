@@ -56,8 +56,43 @@ You need to disable "Analytics"
 
 </details>
 
+<details>
+<summary>My game is crashing after creating a character</summary>
 
-3) [My game is crashing after creating a character](#my-game-is-crashing-after-creating-a-character)
+For some users, these were able to fix their issues.
+
+1) Make sure the game is installed on a **SSD**
+
+2) Disable **surface** mods in Vortex.
+
+3) Make sure the graphics driver is up to date/Reinstall the graphics driver 
+
+4) Disable any overlay (steam or Nvidia/amd overlay for example) 
+
+5) Disable the **appearance menu mod.**
+
+6) Run the game in windowed fullscreen.
+
+7) Disable **"PMU Angry Pose Packs Core"**
+
+8) Make sure these are upto date>
+⁠Common Redist
+⁠NET 7 Desktop Runtime
+
+Another workaround is to start a vanilla game and then redploy the mods after.
+
+1) **Purge** the mods in Vortex
+
+2) Create a character without mods.
+
+3) Save the game after the first mission.
+
+4) Go back to Vortex and **Deploy** the mods this will enable all the mods. 
+
+5) Start the game and load the save and see if you are able to play.
+
+</details>
+
 4) [My game is crashing when loading a save](#my-game-is-crashing-when-loading-a-save)
 
 ## Troubleshooting
@@ -204,49 +239,6 @@ Notes will be in the changelog
 Updating
 
 1)
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-
-## My game is crashing after creating a character❓
-
-For some users, these were able to fix their issues.
-
-1) Make sure the game is installed on a **SSD**
-
-2) Disable **surface** mods in Vortex.
-
-3) Make sure the graphics driver is up to date/Reinstall the graphics driver 
-
-4) Disable any overlay (steam or Nvidia/amd overlay for example) 
-
-5) Disable the **appearance menu mod.**
-
-6) Run the game in windowed fullscreen.
-
-7) Disable **"PMU Angry Pose Packs Core"**
-
-8) Make sure these are upto date>
-⁠Common Redist
-⁠NET 7 Desktop Runtime
-
-
-
-Another workaround is to start a vanilla game and then redploy the mods after.
-
-1) **Purge** the mods in Vortex
-
-2) Create a character without mods.
-
-3) Save the game after the first mission.
-
-4) Go back to Vortex and **Deploy** the mods this will enable all the mods. 
-
-5) Start the game and load the save and see if you are able to play.
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
 
 
 ## Reshade doesnt launch when I click it It tells me that it cant be found❓
