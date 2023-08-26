@@ -16,7 +16,33 @@
 
 ## Crashes
 
-1) [My game is crashing on startup](#my-game-is-crashing-on-startup)
+<details>
+<summary>My game is crashing on startup</summary>
+
+1) Check the install guide and make sure you follow the instructions.
+
+2) Make sure the game is installed on a **SSD.**
+
+3)Perform a Cyberclean> ⁠Cyberclean Boot up the game and see if the problem is resolved.
+
+4) Check your Graphics Driver> ⁠Unknown and reinstall it.
+
+5) Make sure these are up to date>
+⁠Unknown
+⁠Unknown
+
+6)Go here > G:\SteamLibrary\steamapps\common\Cyberpunk 2077\bin\x64\     and Rename "dxgi.dll" to "d3d12.dll" 
+
+7) Disable the appearance mod menu mod in Vortex
+
+8) Disable the UHD Splash screen mod in Vortex
+
+9) Disable the QHD intro mod in Vortex (edited)
+
+10) Disable/Uninstall the reshade if you have installed and ran the program
+
+</details>
+
 2) [My game crashes at the breaching screen](#my-game-crashes-at-the-breaching-screen)
 3) [My game is crashing after creating a character](#my-game-is-crashing-after-creating-a-character)
 4) [My game is crashing when loading a save](#my-game-is-crashing-when-loading-a-save)
@@ -66,27 +92,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 ## My game is crashing on startup❓
 
-1) Check the install guide and make sure you follow the instructions.
 
-2) Make sure the game is installed on a **SSD.**
-
-3)Perform a Cyberclean> ⁠Cyberclean Boot up the game and see if the problem is resolved.
-
-4) Check your Graphics Driver> ⁠Unknown and reinstall it.
-
-5) Make sure these are up to date>
-⁠Unknown
-⁠Unknown
-
-6)Go here > G:\SteamLibrary\steamapps\common\Cyberpunk 2077\bin\x64\     and Rename "dxgi.dll" to "d3d12.dll" 
-
-7) Disable the appearance mod menu mod in Vortex
-
-8) Disable the UHD Splash screen mod in Vortex
-
-9) Disable the QHD intro mod in Vortex (edited)
-
-10) Disable/Uninstall the reshade if you have installed and ran the program
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
