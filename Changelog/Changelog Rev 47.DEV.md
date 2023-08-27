@@ -9,9 +9,15 @@ NOTES
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!! 
 CYBERCLEAN IS RECOMMENDED!!!
 
+- Reshade has been updated to 5.9.2
 
 UPDATED
 -
+
+- [Alvarix Custom Store - Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4602?tab=description)
+- [Lotus Dress - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8991?tab=description)
+- [I Really Want To Stay At Your House - Judy](https://www.nexusmods.com/cyberpunk2077/mods/8753?tab=description)
+- [NC Fashion Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4805)
 
 
 REMOVED
@@ -22,7 +28,7 @@ NEW MODS ADDED
 -
 
 - [Steampunk Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9033?tab=description)
-- [
+- [Peachu Jeans - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9037?tab=description)
 
 
 BUGS
