@@ -17,7 +17,117 @@ Huge thank you to all the talented chooms that have put in the time and effort t
 
 I hope you enjoy this collection and the game as much as I do. Time for me to delta but don't be a stranger join our community of edgerunners over on [Discord](https://discord.gg/xZNztPjA2u) see you there choom.
 
-See what other chooms think of the collection [HERE](https://github.com/2077v2/City-of-Dreams/blob/main/Testimonals.md).
+<details><summary>CLICK HERE TO SEE WHAT OTHER CHOOMS THINK OF THE COLLECTION</summary>
+![](https://camo.githubusercontent.com/cb463f13e901c2fdc57d1cb1a2f933ae6b19602d41f3892c19c9a3b8daa8448e/68747470733a2f2f7331312e67696679752e636f6d2f696d616765732f536347794b2e706e67)
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### OUSEN:
+
+"I just wanted to take the time to thank you, V2, for the effort you put into creating this modlist and for the incredible gaming experience it has provided. It brings me much closer to the gaming experience I always wanted to have with Vanilla.
+
+People probably don't realize the time and work it takes to find the right functional balance with so many mods.
+
+This modlist offers a unique and customizable gaming experience that has reignited my love for the game. I used to enjoy Night City a lot, and this modlist gives it a refreshing twist.
+
+I also want to mention the work put into writing installation guides and tutorials, which are equally well-crafted with clear and concise explanations.
+
+And one more thing, I haven't mentioned yet, but I also want to highlight the kindness and constant support present on this Discord community. Of course, I'm grateful to V2, but also to Fenrir, who took the time to answer my countless questions in recent days.
+
+With that said, I must go now, I have a city to burn."
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### Fenrir:
+
+"Seeing you succeed like this with a big collection is impressive. But being here with you on your journey just on the side is huge for a little nobody like myself.
+
+I remember when I told you that this collection will grow fast and I see new names here very often, just like I suspected. It’s an awesome collection with awesome people.
+
+HUGE respect to V2 for giving us his time to fix this collection with 700+ mods to work with so little issues is just AWESOME."
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### Fronky-Bot:
+
+I'd also like to thank V2 for including a couple of my mods in the collection, and quite literally skyrocketing the downloads on them xD
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### relentless81:
+
+"Thanks for all the effort involved to make this collection. I have been enjoying it so far. Its hard sometimes to find collections that work with no issues but this one is top notch!! Great work."
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### Jinxy 𝓩𝓸𝓶𝓫𝓲𝓮 Hyperdrive:
+
+"I would like to preface this by first of all thanking the lead behind this collection V2. And all their efforts for maintaining what often can be described as a rather complex and time consuming process, maintaining a collection of mods with a database this large is no easy task, but the dedication and willingness of this individual has made City of Dreams a "Go to" Collection for many, including myself . And with the ease of which the collection has worked as well.
+
+I would also like to thank the staff of this discord for their dedication and expertise in helping solve a plethora of technical issues users can often experience, such is the nature of modding and pc's. Which it itself is no easy feat when you're dealing with potentially hundreds if not thousands of different PC configurations.
+
+Thank you also to the countless modders that without them would not make these collections possible at all. Their countless hours of testing and dedication to hundreds and hundreds of mods, and all for the love and passion of modding and sharing with the community. Making Cyberpunk even more enjoyable for us all.
+
+Thank you to CD Projekt RED for developing this game, and thank you to them for sticking with it and constantly improving the game over the course of time since it's launch, for without them no one us may even be here gathered today.
+
+And also finally a thank you to the discord community for being helpful and pleasant and making the discord a great place for all to gather and talk and about share mods etc."
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### CrazyLazyDaze:
+
+"This is an amazing collection love all the additions especially the car additions love driving around in a audi. Keep up the good work."
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### StefBC:
+
+"V2, this is a great list and fantastic support. Thank you for it. I just started playing CP2077 and am really enjoying it"
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### Combustibob:
+
+"Terrific mod compilation! Started a new playthrough after a long hiatus and this has majorly improved the fun factor, thank you!"
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### ConfidesConch:
+
+"Great list, no crashes on 1.62 ez to install an V2 always helps by questions also great discord!"
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### Drayth:
+
+"Nice collection! Been working great so far."
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### Loti:
+
+"thank you for this beauty of a modpack."
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### simsimsimh:
+
+"Thanks a lot V2 for the amazing collection!"
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+## Hulkovic
+
+"man i really have to say this collection is awesome its not that often that when i follow the guide 1/1 and it works out of the box really kudos to everyone who worked on this amazing collection"
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+## Luan
+
+"ive already said it but now i discovered this channel oops. I love the Cyberpunk collection almost no problems and v2 is always there to help thx"
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+</details>
 
 ## [Collection not working](https://) ❓
 
@@ -42,7 +152,7 @@ This collection is extensively tested with every new version that is released. I
 - Continuous Support in Comments and on Discord.
 - Live voice support.
 - Nexus Premium Giveaways (Every Week).
-- and much much more join our Discord for more information.
+- and much much more Join our Discord for more information.
 
 ![](]https://i.imgur.com/VeCI8dy.png)[![](https://i.imgur.com/VeCI8dy.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow chooms every day.
 
@@ -58,7 +168,7 @@ This collection is extensively tested with every new version that is released. I
 
 ## ![img](https://i.imgur.com/vKOjnBL.png)[Make a Backup Save](https://)
 
-- Mods for Cyberpunk 2077 are pretty reliable but it's always good to make a backup of your save file. The save file location can be found below just copy the contents of this file and place it somewhere on your pc.
+- Mods for Cyberpunk 2077 are pretty reliable but it's always good to make a backup of your save file. The save file location can be found below Just copy the contents of this file and place it somewhere on your PC.
 
 ```
 C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
@@ -66,7 +176,7 @@ C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-- ![img](https://i.imgur.com/IdqHWV6.png)
+![img](https://i.imgur.com/IdqHWV6.png)
 
 ## ⛔[WARNINGS](https://)⛔
 
@@ -81,6 +191,12 @@ C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 - **⛔**Updating the collection is as easy as clicking the "Update" button. When prompted to "**Remove mods from old revision**" make sure to click the"**Remove All**" button.
 - ⛔**DO NOT update** any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
 - Notes will be in the changelog.
+- After an update do the following.\
+  1\) Travel to V's first/main apartment in H10\
+  2\) Find and use the \[REBOOT NCI] interaction in the stash room\
+  3\) Leave the apartment and then walk back in
+
+This resets the mod Night City Interactions.
 
 ## [Launching Cyberpunk 2077](https://)
 
@@ -135,7 +251,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 ## [Vortex](https://)
 
-1. You will need[Vortex](https://www.nexusmods.com/site/mods/1)mod manager downloaded and installed you can find it from the link below. If you already have Vortex skip this step.
+1. You will need[Vortex](https://www.nexusmods.com/site/mods/1)mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
 
 [![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1 "Vortex page")
 
@@ -151,7 +267,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 ![](https://s12.gifyu.com/images/Untitled99ac613c165d0e14.jpg)
 
-7 ) On the popup that appears click on **"Download"** on the bottom right, vortex will restart.
+7 ) On the popup that appears click on **"Download"** on the bottom right, Vortex will restart.
 
 8 ) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
 
@@ -226,7 +342,7 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 2. I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and on our discord. Or here [Keybinds](https://github.com/2077v2/City-of-Dreams/blob/main/Keybinds.md)
 3. ⛔ On the main menu go to the graphics tab and you will find "texture quality"  Set this to "HIGH".
 
-![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)4. Once in the game hold SHIFT and press U to customize the hud settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
+![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)4. Once in the game hold SHIFT and press U to customize the HUD settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
 
 ***
 
@@ -238,6 +354,7 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ## [Reshade](https://)
 
+<details><summary>CLICK HERE FOR OPTIONAL RESHADE INSTALLATION</summary>
 ReShade is included with the collection once you have finished downloading it will be placed on the toolbar in the top left-hand corner of Vortex.
 
 1. Click on Reshade in the top corner.
@@ -257,14 +374,15 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 3. Select next and finish the installation.
 4. Run the game
 
-I have added these reshades below.
+I have added the Reshade below.
 
-- City of Dreams Reshade by[v2](https://www.nexusmods.com/hogwartslegacy/users/123334373)
+- City of Dreams Reshade by [v2](https://www.nexusmods.com/hogwartslegacy/users/123334373)
 
 ### **Reshade controls**
 
 **End** key to toggle main effects\
 **Home** key to open GUI
+</details>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -272,11 +390,22 @@ I have added these reshades below.
 
 **⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Cyberpunk2077, or the collection when you see errors on Vortex.
 
-You can find the full Troubleshooting list on our Discord and here [Troubleshooting/FAQ](https://github.com/MRGHIA88V2/City-of-Dreams/blob/main/Troubleshooting%20FAQ.md)&#x20;
+You can find the full Troubleshooting list on our [Discord](https://discord.gg/xZNztPjA2u) and here [Troubleshooting/FAQ](https://github.com/MRGHIA88V2/City-of-Dreams/blob/main/Troubleshooting%20FAQ.md)&#x20;
 
-You can find all our guides on our Discord and here [Guides](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md)
+You can find all our guides on our [Discord](https://discord.gg/xZNztPjA2u) and here [Guides](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md)
 
 ## FAQ
+
+<details><summary>CLICK HERE FOR COMMON FAQs</summary>
+## [My game crashes at the "breaching screen"](https://) ❓
+
+You need to disable "Analytics"
+
+1. Purge the mods in Vortex
+2. Launch the game&#x20;
+3. Go to the settings menu and on the gameplay tab disable Analytics.
+4. Deploy the mods in Vortex
+5. Launch the game.
 
 ## [Where is the game located ](https://) ❓
 
@@ -288,21 +417,15 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 ## [My game is crashing on startup?](https://) or [My game won't launch after Collection Update ](https://)❓
 
-1. Check the install guide and make sure you followed the instructions.
-2. Update your Graphics Driver.
-3. Perform a Cyberclean.
-
-## [My game is crashing at the breaching screen](https://) ❓
-
-You need to disable "Analytics"
-
-1. Purge the mods in Vortex
-2. Launch the game
-3. Go to the settings menu and on the gameplay tab disable Analytics.
+1. Check the install guide and make sure you follow the instructions.
+2. Make sure the game is installed on an SSD.
+3. Update your Graphics Driver.
+4. Perform a Cyberclean.
 
 ## [Cyberclean](https://)
 
 Always double-check Vortex to make sure it uninstalled/installed something properly during an update. If you are having any issues with crashing or mods not loading you can do the following.
+
 AUTO
 
 Download my mod to run a script to do this for you get it [HERE ](https://www.nexusmods.com/cyberpunk2077/mods/8595)
@@ -328,6 +451,7 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 1. Verify game files inside your launcher.
 2. Deploy mods in Vortex.
 3. Launch the game and see if the problem is resolved.
+</details>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -1178,6 +1302,7 @@ If you would like a smaller collection try my [City of Dreams (lite)](https://ne
 
 ![img](https://i.imgur.com/ejtvYe2.png)
 
+<details><summary>CLICK HERE FOR OUR PERFORMANCE GUIDE</summary>
 Recommended In-game settings These settings will give a slight performance boost without sacrificing quality.
 
 ![img](https://i.imgur.com/OV2YTbg.png)
@@ -1196,6 +1321,7 @@ Recommended In-game settings These settings will give a slight performance boost
 - [QUICK CPU](https://coderbag.com/product/quickcpu)
 - [ISLC](https://www.wagnardsoft.com/forums/viewtopic.php?t=1256)
 - [NVIDIA PROFILE INSPECTOR](https://github.com/Orbmu2k/nvidiaProfileInspector/releases)
+</details>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
