@@ -225,7 +225,7 @@ https://www.youtube.com/watch?v=sn-Ju\_OWP\_8
 
 ## [PC  Updates](https://)
 
-- Make sure that you have the latest version of Microsoft visual studio C++ >[HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+- Make sure that you have the latest version of Microsoft Visual Studio C++ >[HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 - Make sure that you have the latest Desktop Runtime >[HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
 - Make sure that you have the latest Graphics driver update.
 
@@ -243,7 +243,7 @@ GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk 2077\archive\pc\mod
 Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 ```
 
-1. ⛔ Launch Cyberpunk 2077 and go to the settings menu and on the gameplay tab turn off "Enable Analytics" and "Enable cross-platform Saves"
+1. ⛔ Launch Cyberpunk 2077 and go to the settings menu and on the gameplay, tab turn off "Enable Analytics" and "Enable cross-platform Saves"
 
 ![](https://s12.gifyu.com/images/SWeJF.png)
 
@@ -251,7 +251,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 ## [Vortex](https://)
 
-1. You will need[Vortex](https://www.nexusmods.com/site/mods/1)mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
+1. You will need [Vortex](https://www.nexusmods.com/site/mods/1) mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
 
 [![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1 "Vortex page")
 
@@ -267,7 +267,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 ![](https://s12.gifyu.com/images/Untitled99ac613c165d0e14.jpg)
 
-7 ) On the popup that appears click on **"Download"** on the bottom right, Vortex will restart.
+7 ) On the popup that appears click on **"Download"** on the bottom right, and Vortex will restart.
 
 8 ) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
 
@@ -501,7 +501,7 @@ You can find these items in the Dedicated [City of Dreams Atelier Store](https:/
 
 ⛔ Enabling the E3 Compass will disable the in-game mini-map.
 
-⛔ When enabling the E32018 hud you need to disable the Spicy HUD 2.2 in Vortex.
+⛔ When enabling the E32018 HUD you need to disable the Spicy HUD 2.2 in Vortex.
 
 ⛔ When in the game go to the Mod tab in the menu and enable these 2 settings shown below.
 
@@ -610,9 +610,9 @@ You can find these items in the Dedicated [City of Dreams Atelier Store](https:/
 - Water.
 - Food.
 
-⛔ Note that some of these will eat your vram i recommend a min 8gb GPU but even then depending on your settings vanilla cyberpunk will eat 8gb. If you notice stuttering or any texture issues then disable a few of the (surfaces mods) in vortex.
+⛔ Note that some of these will eat your VRAM i recommend a min 8 GB GPU but even then depending on your settings vanilla cyberpunk will eat 8gb. If you notice stuttering or any texture issues then disable a few of the (surfaces mods) in vortex.
 
-You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high-end** systems only 16gb Vram+)
+You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high-end** systems only 16 GB Vram+)
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -636,6 +636,7 @@ You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 
 > Modified every part of the damage system and other elements to give gangs and corps more flavour and uniqueness. Also, get benefits and penalties against gangs/corps based on your life path.
 
+<details><summary>CLICK FOR MORE DETAILS</summary>
 **Gangs**\
 \
 **Animals**\\
@@ -736,6 +737,9 @@ You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 - **Advanced Armor:** Immune to Electrocution
 - **Reinforced Helmets:** Resistant to Headshots (0.25x)
 - **Tech Nullifying Weave:** Resistant to Tech damage (0.5x)
+</details>
+
+
 
 ***
 
@@ -749,7 +753,8 @@ https://www.youtube.com/watch?v=JtPB9BjaAbE
 
 > Allows the player to control the character midair while jumping and double jumping (no different types of leg cyberware supported yet). Adds "wallbouncing/walljumping" inspired by an Apex Legends movement mechanic, which means you can bounce back from a wall when directly looking at it and pressing/holding jump. Made the player slow down in the air if not pressing any movement keys to allow for a lot more precise landing than vanilla. Controller is supported and most things are configurable with [Native Settings UI](https://www.nexusmods.com/cyberpunk2077/mods/3518)
 
-**How to wall jump all**dialogue jumping.
+<details><summary>CLICK FOR MORE DETAILS</summary>
+**How to wall jump**
 
 Wall jumping is triggered when the player is:
 
@@ -774,6 +779,9 @@ Wall jumping is triggered when the player is:
 - After jumping let go of Forward and hold Left/Right and turn your mouse in the same direction to make a sharper turn.
 - With source engine movement you can also tap strafe, which is rapidly pressing the movement keys in the air to drastically change your movement direction.
 - If you let go of every movement key (WASD) the character will start slowing down, you can also slow down faster by moving backwards but keep in mind the character will actually start moving backwards once the forward momentum is gone.
+</details>
+
+
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -895,15 +903,19 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 
 ### Features
 
-> [This tool can be found in your toolbar in the top left corner of Vortex.  And will allow for the following changes.](https://)
+> This tool can be found in your toolbar in the top left corner of Vortex.  And will allow for the following changes.
 
 ![](https://s11.gifyu.com/images/Save-Editor.jpg)
 
+<details><summary>CLICK FOR MORE DETAILS</summary>
 - Edit player stats such as level, street cred, etc.
 - Save and load presets for your character's appearance.
 - Edit the quantity, flags, stats & mod tree of items in your inventory.
 - Edit quest facts.
 - Quick actions - dedicated controls for common actions such as making items legendary & editing money.
+</details>
+
+
 
 ***
 
@@ -919,6 +931,7 @@ https://www.youtube.com/watch?v=uScj2cK4qME
 
 ![](https://s12.gifyu.com/images/Autohack.jpg)
 
+<details><summary>CLICK FOR MORE DETAILS</summary>
 - Automatic matrix code and sequence detection using OpenCV.
 - Selectable daemons in case your buffer size is not large enough.
 - Autohacking by sending keys to solve the matrix for you.
@@ -927,6 +940,9 @@ https://www.youtube.com/watch?v=uScj2cK4qME
 - Sound notifications for people with only one monitor.
 - Configurable detection and override settings if you are playing at a small resolution.
 - Support for GeForce NOW users﻿.
+</details>
+
+
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -971,6 +987,7 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 
 > Allows you to change and save NPC outfits by picking from a list and that is how this mod started but it has evolved into much, much more. You can now spawn NPC companions, and vehicles, select appearances for all player vehicles and have the ability to make your companions hostile. You can basically have your own boss fights whenever you like! Or you can ask them to drive you around the city when you're tired of being behind the wheel.
 
+<details><summary>CLICK FOR MORE DETAILS</summary>
 - Spawn Companions.
 - Change Appearances.
 - Decorate Your House.
@@ -980,6 +997,9 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 ### Apartments
 
 - Choose from 20 custom themes for Vs apartments.
+</details>
+
+
 
 ***
 
@@ -1075,6 +1095,7 @@ https://www.youtube.com/watch?v=1Nfuqr3KmMw
 
 > Adds a new type of Operating System to the game which allows for the crafting and control of companion Drones, Androids, and Mechs.
 
+<details><summary>CLICK FOR MORE DETAILS</summary>
 - There is a new type of Operating System called a TechDeck. Operating Systems are like the Cyberdeck, Berserk, etc.
 - Equipping a TechDeck allows the user to craft a set amount of Drones that will then follow the player around and fight with them until destroyed.
 - Crafting is done under the 'Drones' tab of the Crafting screen (previously called 'Cyberware Mods'), and recipes are required to craft the Drones, sold at Weapon Vendors.
@@ -1082,6 +1103,9 @@ https://www.youtube.com/watch?v=1Nfuqr3KmMw
 - Rare TechDecks are available at Technical Ability 6, Epicat 12, and Legendary at 18.
 - The Drones are crafted with regular crafting components, as well as a new component called a Drone Module, which will appear at vendors, and also as loot on mechanical NPCs.
 - The Drone recipes are scattered around at Weapon vendors. See the Drone Types section for locations/info.
+</details>
+
+
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
