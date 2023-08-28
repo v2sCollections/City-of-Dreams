@@ -9,7 +9,7 @@ NOTES
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!! 
 CYBERCLEAN IS RECOMMENDED!!!
 
-- Reshade has been updated to 5.9.2
+- Reshade has been updated to 5.9.2 (Run the reshade setup again and select update)
 
 UPDATED
 -
@@ -29,7 +29,8 @@ NEW MODS ADDED
 
 - [Steampunk Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9033?tab=description)
 - [Peachu Jeans - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9037?tab=description)
-
+- [Faster Drop Point Cooldowns](https://www.nexusmods.com/cyberpunk2077/mods/9049?tab=description)
+- [City of Dreams 97.7 FM](https://www.nexusmods.com/cyberpunk2077/mods/9053?tab=description)
 
 BUGS
 -
