@@ -322,6 +322,7 @@ All of this I offer free of charge. The only thing I ask is for you to **Endorse
 This is an overclocking tool but it does much more. With this tool, I can set the following.
 
 1) Custom fan curve this will help with **GPU** temps.
+
 2) Unlock the voltage control on the **GPU** this helps maintain higher clock speeds for the **GPU**.
 
 
@@ -330,7 +331,7 @@ This is an overclocking tool but it does much more. With this tool, I can set th
 
 This is a hardware monitoring tool that works alongside **MSI Afterburner**.
 
-**1**) This allows monitoring of all **GPU** parameters including an **FPS** counter, Temp readings, **FPS** cap and much much more
+1) This allows monitoring of all **GPU** parameters including an **FPS** counter, Temp readings, **FPS** cap and much much more
 
 
 
