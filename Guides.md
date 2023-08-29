@@ -142,6 +142,9 @@ Delete bindings.json located in \bin\x64\plugins\cyber_engine_tweaks and launch 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
+</details>
+
+
 ## Learning to Troubleshoot
 
 <details>
