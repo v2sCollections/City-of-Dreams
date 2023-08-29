@@ -1,7 +1,11 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 
 
-### Collection Rev 46         Collection Updated and working for Game version 1.63 Patch 1
+### **Updated & Compatible with Patch 1.63 Hotfix 1**
+
+IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/MRGHIA88V2/City-of-Dreams)
+
+### Collection Rev 47        &#x20;
 
 https://www.youtube.com/watch?v=vvpmq34uBAc
 
@@ -215,7 +219,7 @@ This resets the mod Night City Interactions.
 This is a large collection I recommend purchasing a Nexus premium account even just for 1 month to install the collection it will make installation much easier. And you can just cancel the subscription after the installation if you wish.
 
 **Premium Users**: Takes 1.5 hours + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
-**Free Users:** Takes 2 to 2.5 hours + Semi-automatic. You will have to click on download for each mod one by one.
+**Free Users:** Takes 2.5 to 3 hours + Semi-automatic. You will have to click on download for each mod one by one.
 
 ***
 
@@ -225,16 +229,16 @@ https://www.youtube.com/watch?v=sn-Ju\_OWP\_8
 
 ## [PC  Updates](https://)
 
-- Make sure that you have the latest version of Microsoft Visual Studio C++ >[HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-- Make sure that you have the latest Desktop Runtime >[HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
-- Make sure that you have the latest Graphics driver update.
+- ⛔ Make sure that you have the latest version of Microsoft Visual Studio C++ >[HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+- ⛔ Make sure that you have the latest Desktop Runtime >[HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
+- ⛔ Make sure that you have the latest Graphics driver update.
 
 ***
 
 ## [Cyberpunk2077](https://)
 
 1. Start with a fresh install of Cyberpunk 2077.
-2. Make sure the game is installed on an SSD.
+2. ⛔ Make sure the game is installed on an SSD.
 3. You need to create a mod folder go to the following location (Locations below) and create a folder named mod. When done should look as follows.
 
 ```
@@ -339,8 +343,121 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 ## [In-game settings](https://)
 
 1. To use CET (Cyber Engine Tweaks) use [F11](https://) on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Vehicle camera and many more.
-2. I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and on our discord. Or here [Keybinds](https://github.com/2077v2/City-of-Dreams/blob/main/Keybinds.md)
-3. ⛔ On the main menu go to the graphics tab and you will find "texture quality"  Set this to "HIGH".
+2. I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory. Or here [Keybinds](https://github.com/2077v2/City-of-Dreams/blob/main/Keybinds.md)
+
+<details><summary>CLICK FOR A FULL LIST OF KEYBINDS</summary>
+![](https://camo.githubusercontent.com/71498d3b97846faa765d38d209aefd3ee430c046f95ab05930ce0f5e03d1c039/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4b657962696e64732e706e67)
+
+These can be configured in-game but I've configured them to get you started. These are set for a full-size KB.
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### CUSTOM QUICKSLOTS
+
+- 3> Slot 1
+- 4> Slot 2
+- 5> Slot 3
+- 6> Slot 4
+- 7> Slot 5
+- 8> Slot 6
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### CET
+
+- F11> Overlay
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### JB THIRD PERSON
+
+- 1> Activate 3rd Person
+- C> Change Camera
+- R> Reset Camera
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### NO CLIP
+
+- SCRLK> Noclip
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### NANO DRONE
+
+- L> Spawn
+- W> Forward
+- S> Back
+- A> Left
+- D> Right
+- SPACE> Up
+- CAPSLK> Down
+- C> Exit Drone
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### ZOMMABLE SCOPES
+
+- CTRL> Zoom
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### RESHADE
+
+- HOME> UI
+- END> Toggle Reshade
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### IMMERSIVE TIMESKIP
+
+- O> Timeskip UI
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### HOLD TO HOLSTER
+
+- HOLD Reload> Holster
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### Night Vision
+
+- F3> NIGHT VISION
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### LIMITED HUD
+
+The mods adds two additional in-game hotkeys which you can use to toggle widgets visibility:
+
+- Y> Global Toggle Global hotkey which you can use to toggle visibility for any module combination by your choice. By default it toggles Minimap, Quest Tracker and Quest Markers modules.
+- L> Minimap Toggle
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### FLASHLIGHT
+
+- U> Toggle Flaslight
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### HUDITOR ADJUST HUD
+
+- SHIFT (hold) U> Activate Hud Editor
+- Left Arrow @ Right Arrow> Next Widget
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### CPAH
+
+- CONTROLL+SHIFT+H>Analysis
+- CONTROLL+SHIFT+K>Autohack
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+</details>
+
+1. ⛔ On the main menu go to the graphics tab and you will find "texture quality"  Set this to "HIGH".
 
 ![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)4. Once in the game hold SHIFT and press U to customize the HUD settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
 
@@ -402,10 +519,14 @@ You can find all our guides on our [Discord](https://discord.gg/xZNztPjA2u) and 
 You need to disable "Analytics"
 
 1. Purge the mods in Vortex
-2. Launch the game&#x20;
-3. Go to the settings menu and on the gameplay tab disable Analytics.
-4. Deploy the mods in Vortex
-5. Launch the game.
+
+![](https://s11.gifyu.com/images/Sg8LQ.jpg)2. Launch the game&#x20;
+
+3\. Go to the settings menu and on the gameplay tab disable Analytics.
+
+![](https://s11.gifyu.com/images/Sg8LW.jpg)4. Deploy the mods in Vortex
+
+5\. Launch the game.
 
 ## [Where is the game located ](https://) ❓
 
@@ -509,6 +630,7 @@ You can find these items in the Dedicated [City of Dreams Atelier Store](https:/
 
 &#x20; ![](https://s11.gifyu.com/images/SWLyO.jpg)
 
+<details><summary>CLICK HERE TO SEE WHAT E3 MODS COME WITH THE COLLECTION</summary>
 - [E3 2018 HUD - Spicy HUDs](https://www.nexusmods.com/cyberpunk2077/mods/3023)
 - [E3 Icons Remastered (Hud and Map)](https://www.nexusmods.com/cyberpunk2077/mods/4230)
 - [E3 Smart Windows](https://www.nexusmods.com/cyberpunk2077/mods/7026)
@@ -517,6 +639,7 @@ You can find these items in the Dedicated [City of Dreams Atelier Store](https:/
 - [E3 2018 V for Appearance Change Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/3973?tab=description)
 - [E3 V (Textures)](https://www.nexusmods.com/cyberpunk2077/mods/924?tab=description)
 - [Quadra Turbo R V-Tec E3 Recolor](https://www.nexusmods.com/cyberpunk2077/mods/1559)
+</details>
 
 ![](https://s12.gifyu.com/images/E3.png)
 
@@ -528,8 +651,9 @@ You can find these items in the Dedicated [City of Dreams Atelier Store](https:/
 
 ### Features
 
-> [Below are some Edgerunner mods some are optional you can enable them if you want the full Edgerunner Theme.](https://)
+> Below are some Edgerunner mods some are optional you can enable them if you want the full Edgerunner Theme.
 
+<details><summary>CLICK HERE TO SEE WHAT EDGERUNNER MODS COME WITH THE COLLECTION</summary>
 - [Edgerunners Posters](https://www.nexusmods.com/cyberpunk2077/mods/5203)***(OPTIONAL)***
 - [Edgerunner 2077](https://)***(OPTIONAL)***
 - [Lucy - Edgerunners Sky Ad](https://www.nexusmods.com/cyberpunk2077/mods/5201?tab=description)***(OPTIONAL)***
@@ -545,6 +669,7 @@ You can find these items in the Dedicated [City of Dreams Atelier Store](https:/
 - [Prime Edgerunners Station - RadioEXT](https://www.nexusmods.com/cyberpunk2077/mods/7614)
 - [QHD Edgerunner Braindance](https://www.nexusmods.com/cyberpunk2077/mods/8122)
 - [V's Edgerunners Mansion - Apartment DLC](https://www.nexusmods.com/cyberpunk2077/mods/5437)
+</details>
 
 ![](https://s12.gifyu.com/images/Untitedgrled.jpg)
 
@@ -625,6 +750,40 @@ You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 - Using healing items builds up your "Toxicity" until you "Overdose", requiring you to wait for the effect to wear off before using more inhalers/injectors.
 - Darkens the edges of the screen when your stamina is low.
 - Third-person mode.
+
+***
+
+## City of Dreams 97.7 FM
+
+![](https://s11.gifyu.com/images/SggWh.png)[City of Dreams 97.7 FM](https://www.nexusmods.com/cyberpunk2077/mods/9053)  by [2077v2](https://www.nexusmods.com/cyberpunk2077/users/123334373)
+
+### &#x20;Features
+
+> An in game Radio Station that you can use in Vehicles and In world Radios.&#x20;
+> \*NOTE You will need the Music Tracks You can get them on our [DISCORD](https://discord.gg/xZNztPjA2u)
+
+<details><summary>CLICK HERE TO SEE OUR MUSIC SELECTION</summary>
+### **Albums**
+
+- **ACDC**
+- **Metallica**
+- **Queen**
+- **KISS**
+
+### **Soundtracks**
+
+- **Blade Runner 2049**
+- **Blade Runner 1982**
+- **Altered Carbon**
+- **Ghost in the Shell**
+- **TRON**
+- **Ready Player One**
+
+### Video Game Soundtracks
+
+- **Deus Ex**
+- **Far Cry 3**
+</details>
 
 ***
 
@@ -739,8 +898,6 @@ You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 - **Tech Nullifying Weave:** Resistant to Tech damage (0.5x)
 </details>
 
-
-
 ***
 
 ### Alternative Midair Movement and Walljumping
@@ -781,7 +938,38 @@ Wall jumping is triggered when the player is:
 - If you let go of every movement key (WASD) the character will start slowing down, you can also slow down faster by moving backwards but keep in mind the character will actually start moving backwards once the forward momentum is gone.
 </details>
 
+***
 
+### Time Dilation Overhaul
+
+https://www.youtube.com/watch?v=-hPzkz1iF7g
+
+[Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931) by [TeslaCoiled](https://www.nexusmods.com/cyberpunk2077/users/3534466)
+
+### Features
+
+> Overhauls Time Dilation in Cyberpunk to provide a more challenging and rewarding experience. Featuring all new abilities such as Katana Reflect, Vehicle Time Dilation, and Teleportation!
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+This mod was created to address what felt like some fundamentally broken aspects of the way Time Dilation is handled within Cyberpunk 2077. This mod touches nearly every aspect of Time Dilation, and features 344 configurable variables to control it all!\
+\
+This mod primarily:\\
+
+- Provides some minor bug fixes and quality of life options
+- Changes the way NPCs behave in time dilation
+- Changes how Scanning/Quickhack Time Dilation works
+- Completely reworks the Sandevistan Operating System **(including versions that make ranged weapons viable, allow Katana bullet reflection, activate time dilation in vehicles, and allow the player to teleport)**
+
+For the purposes of this mod page, the default values will be utilized in discussing the various changes. Generally speaking, this mod aims to make Time Dilation gameplay more challenging and rewarding than the vanilla implementation. The 344 configurable variables in a Native Settings UI mod menu allow you to change and tweak the mod to your heart’s content.
+
+You can find the new sandevistans added by [Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931) at the following locations.
+
+- Zetatech Mk 4 - Arroyo Ripperdock
+- Militech Mk 4 - Kabuki Ripperdock
+- Raven Mk 5 - Rancho Ripperdock
+- Fuyutsuki Mk 5 - Japan Town Ripperdock
+- Moore Mk 5 - Badlands Ripperdock
+</details>
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -803,6 +991,7 @@ Wall jumping is triggered when the player is:
 - Increases time spans between sickness effects applied to V by The Relic.
 - Untrack quests the same way you track them -- by right-clicking in the Journal or on the Map
 - Additional loot markers on looting containers that show which types of loot are in them.
+- Decrease the time it takes for drop points to refill with Eddies
 
 ***
 
@@ -915,8 +1104,6 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 - Quick actions - dedicated controls for common actions such as making items legendary & editing money.
 </details>
 
-
-
 ***
 
 ### CPAH - Breach Protocol Autohacker
@@ -941,8 +1128,6 @@ https://www.youtube.com/watch?v=uScj2cK4qME
 - Configurable detection and override settings if you are playing at a small resolution.
 - Support for GeForce NOW users﻿.
 </details>
-
-
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -998,8 +1183,6 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 
 - Choose from 20 custom themes for Vs apartments.
 </details>
-
-
 
 ***
 
@@ -1104,8 +1287,6 @@ https://www.youtube.com/watch?v=1Nfuqr3KmMw
 - The Drones are crafted with regular crafting components, as well as a new component called a Drone Module, which will appear at vendors, and also as loot on mechanical NPCs.
 - The Drone recipes are scattered around at Weapon vendors. See the Drone Types section for locations/info.
 </details>
-
-
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
