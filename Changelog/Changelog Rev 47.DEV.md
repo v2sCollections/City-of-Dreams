@@ -18,7 +18,9 @@ UPDATED
 - [Lotus Dress - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8991?tab=description)
 - [I Really Want To Stay At Your House - Judy](https://www.nexusmods.com/cyberpunk2077/mods/8753?tab=description)
 - [NC Fashion Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4805)
-
+- [VEEGEE SHOP](https://www.nexusmods.com/cyberpunk2077/mods/8183)
+- [Judy Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4508)
+- [Idle Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/8038?tab=description)
 
 REMOVED
 -
@@ -31,6 +33,7 @@ NEW MODS ADDED
 - [Peachu Jeans - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9037?tab=description)
 - [Faster Drop Point Cooldowns](https://www.nexusmods.com/cyberpunk2077/mods/9049?tab=description)
 - [City of Dreams 97.7 FM](https://www.nexusmods.com/cyberpunk2077/mods/9053?tab=description)
+- [Echl Swimsuit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9036?tab=description)
 
 BUGS
 -
