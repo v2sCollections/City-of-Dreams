@@ -396,26 +396,27 @@ Alternatively you can disable the mod through the in game mod menus.
 </details>
 
 
-
-
 ## Other Questions
-1) [Where is the game located](#where-is-the-game-located) 
-2) [How do i update the Collection](#how-do-i-update-the-collection)
-3) [Can i use a Pirated Game](#can-i-use-a-pirated-game)
-4) [Where are the optional mods](#where-are-the-optional-mods)
 
+<details>
+<summary>Where is the game located</summary>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
-
-## Where is the game located❓
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk2077.exe
 GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk2077.exe
 Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe  
 ```
+ 
+![img](https://i.imgur.com/wAJUpeU.png)
 
-## How do i update the Collection
+</details>
+
+<details>
+<summary>How do i update the Collection</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
 
 Updating the collection is as easy as clicking the "Update" button.
 When prompted to "Remove mods from old revision" make sure to click the "Remove All" button.
@@ -426,18 +427,26 @@ Updating
 
 1)
 
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+<details>
+<summary>Can i use a Pirated Game</summary>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-
-## Can i use a Pirated Game❓
-
-- **NO** Mods will not work with a Pirated/Cracked version of the game.
+**NO** Mods will not work with a Pirated/Cracked version of the game.
 - **DO NOT** use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
 
+![img](https://i.imgur.com/wAJUpeU.png)
 
+</details>
 
-## Where are the optional mods❓
+<details>
+<summary>Where are the optional mods</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
 
 1) Open Vortex
 2) Select **"Collections"**
@@ -451,11 +460,9 @@ Updating
 
 5) Now you can filter between **"Required"** and **"Recommended"** Recommended being the optional Mods.
 
-
 ![img](https://s11.gifyu.com/images/SgueM.jpg)
-
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
+</details>
 
-![](https://s12.gifyu.com/images/SuG0u.png)
