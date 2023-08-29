@@ -209,11 +209,46 @@ If this doesnt work its becuause you have the E3 Compass installed this will dis
 
 </details>
 
-1) [I cant shoot the drones in the car in the Heist Mission](#i-cant-shoot-the-drones-in-the-car-in-the-heist-mission)
-2) [Why do quick hacks cost 0 Ram](#why-do-quick-hacks-cost-0-ram)
-3) [Where are ther new sandevistans](#where-are-the-new-sandevistans)
+
+<details>
+<summary>I cant shoot the drones in the car in the Heist Mission</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+You can fix this bug by 
+
+1) Equip a pistol before getting into the car.
 
 
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
+<details>
+<summary>Why do quick hacks cost 0 Ram</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+This is a bug caused by the (Better Netrunning) Mod it doesn't affect the actual cost.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+<details>
+<summary>Where are ther new sandevistans</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+You can find the new sandevistans added by Time Dilation Overhaul at the following locations.
+- Zetatech Mk 4 - Arroyo Ripperdock
+- Militech Mk 4 - Kabuki Ripperdock
+- Raven Mk 5 - Rancho Ripperdock
+- Fuyutsuki Mk 5 - Japan Town Ripperdock
+- Moore Mk 5 - Badlands Ripperdock
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
 
 
 ## Bugs
@@ -342,35 +377,6 @@ Sometimes you need to relink Vortex to a tool.
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
-
-
-## I cant shoot the drones in the car in the Heist Mission❓
-
-You can fix this bug by 
-
-1) Equip a pistol before getting into the car.
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-
-## Why do quick hacks cost 0 Ram❓
-
-This is a bug caused by the (Better Netrunning) Mod it doesn't affect the actual cost.
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-
-## Where are ther new sandevistans❓
-
-You can find the new sandevistans added by Time Dilation Overhaul at the following locations.
-- Zetatech Mk 4 - Arroyo Ripperdock
-- Militech Mk 4 - Kabuki Ripperdock
-- Raven Mk 5 - Rancho Ripperdock
-- Fuyutsuki Mk 5 - Japan Town Ripperdock
-- Moore Mk 5 - Badlands Ripperdock
-
 
 ## My screen is zoomed in❓
 
