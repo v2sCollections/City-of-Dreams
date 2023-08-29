@@ -5,6 +5,7 @@
 
 
 - [Gameplay](#gameplay)
+- [Learning to Troubleshoot](learning-to-troubleshoot)
 - [Other Guides](#other-guides)
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
@@ -105,27 +106,111 @@ To download Teamviewer click [HERE](https://www.teamviewer.com/en-us/download/wi
 </details>
 
 
+<details>
+<summary>Game Difficulty</summary>
 
-# Contents
+![img](https://i.imgur.com/wAJUpeU.png)
+
+You can change the difficulty to suit your style.
+
+1) From the main menu select Mods.
+
+2) Select "RMK MODS"
+
+Use these menus in game to make it Easier or Harder based on your play style.
+
+![img](https://s11.gifyu.com/images/Sciel.png)
+
+If you want to learn more about how these mods work check out the mod page on Nexus [HERE](https://www.nexusmods.com/cyberpunk2077/mods/1712)
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
 
 
+
+
+## Learning to Troubleshoot
+
+<details>
+<summary>Cyberpunk Mod Troubleshooting</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+You can read the wiki [HERE](https://wiki.redmodding.org/cyberpunk-2077-modding/help/users-troubleshooting)
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+<details>
+<summary>Finding log files</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+1) In your main Cyberpunk 2077 game directory you will see a bat file name **FindErrorsBat**
+
+```
+GOG>     Drive Letter:\Games\Cyberpunk 2077
+Steam>  Drive Letter:\Games\Steam\steamapps\common\Cyberpunk 2077
+Epic> Drive Letter:\Epic Games\Cyberpunk 2077
+```
+
+2) Double click the file.
+
+3) The script will have created a folder _LOGS in your Cyberpunk directory, which contains a file listing all the errors for you.
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+<details>
+<summary>Finding and reading log files</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+You can read the wiki [HERE](https://wiki.redmodding.org/cyberpunk-2077-modding/for-mod-users/user-guide-troubleshooting/finding-and-reading-log-files)
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+<details>
+<summary>Cybercheck</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+Always double-check Vortex to make sure it uninstalled something properly during an update. You can check by doing the following.
+
+1) Purge mods in Vortex this will remove all the mods from the mod folder into the staging area.
+
+3) Go to the following location and check inside the "mod" folder. If you see any left over mods delete them.
+
+GOG>     Drive Letter:\Games\Cyberpunk 2077\archive\pc\mod 
+Steam>   Drive Letter:\Games\Steam\steamapps\common\Cyberpunk 2077\archive\pc\mod
+Epic>    Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod 
+
+4) Deploy the mods in Vortex
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
 
 
 4) [Changing the CET keybind](#changing-the-cet-keybind)
 5) [Make a backup save](#make-a-backup-save)
-6) [Cybercheck](#cybercheck)
+6) [](#cybercheck)
 7) [Running Cyberpunk 2077 as admin](#running-cyberpunk-2077-as-admin)
-8) [Finding log files](#finding-log-files)
-9) [Finding and reading log files](#finding-and-reading-log-files)
-10) [Cyberpunk Mod Troubleshooting](#cyberpunk-mod-troubleshooting)
 11) [First Launch with the Collection](#first-launch-with-the-collection)
 12) [System Specs](#system-specs)
-13) [Game Difficulty](#game-difficulty)
 14) [Random Crashes](#random-crashes)
 15) [Modded Game Backup](#modded-game-backup)
 16) [Cyberpunk 2077 Game Patch Versions](#cyberpunk-2077-game-patch-versions)
 
-![img](https://i.imgur.com/wAJUpeU.png)
+
 
 ## Changing the CET keybind
 
@@ -152,25 +237,6 @@ Save files can be found here> C:\Users\Your username\Saved Games\CD Projekt Red\
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 
-
-## Cybercheck
-
-Always double-check Vortex to make sure it uninstalled something properly during an update. You can check by doing the following.
-
-1) Purge mods in Vortex this will remove all the mods from the mod folder into the staging area.
-
-3) Go to the following location and check inside the "mod" folder. If you see any left over mods delete them.
-
-GOG>     Drive Letter:\Games\Cyberpunk 2077\archive\pc\mod 
-Steam>   Drive Letter:\Games\Steam\steamapps\common\Cyberpunk 2077\archive\pc\mod
-Epic>    Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod 
-
-4) Deploy the mods in Vortex
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-
 ## Running Cyberpunk 2077 as admin
 
 1) Go to the following location and find the "cyberpunk2077.exe"
@@ -185,41 +251,6 @@ Cyberpunk 2077\bin\x64
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-
-## Finding log files
-
-1) Download the [file](https://raw.githubusercontent.com/DoctorPresto/Cyberpunk-Helper-Scripts/main/FindAllErrors.bat) attached.
-
-2) Move it to your main cyberpunk directory located here >
-
-```
-GOG>     Drive Letter:\Games\Cyberpunk 2077
-Steam>  Drive Letter:\Games\Steam\steamapps\common\Cyberpunk 2077
-Epic> Drive Letter:\Epic Games\Cyberpunk 2077
-```
-
-3) Double click the file .
-
-4) The script will have created a folder _LOGS in your Cyberpunk directory, which contains a file listing all the things for you.
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-
-## Finding and reading log files
-
-You can read the wiki [HERE](https://wiki.redmodding.org/cyberpunk-2077-modding/for-mod-users/user-guide-troubleshooting/finding-and-reading-log-files)
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-
-## Cyberpunk Mod Troubleshooting
-
-You can read the wiki [HERE](https://wiki.redmodding.org/cyberpunk-2077-modding/help/users-troubleshooting)
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
 
 
 ## First Launch with the Collection
@@ -277,24 +308,6 @@ Cyberpunk 2077 needs to be installed on a SSD if its not the following can occur
 - Very Long load times
 - Slow Vortex Deployment
 - Crashes
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-
-## Game Difficulty
-
-You can change the difficulty to suit your style.
-
-1) From the main menu select Mods.
-
-2) Select "RMK MODS"
-
-Use these menus in game to make it Easier or Harder based on your play style.
-
-![img](https://s11.gifyu.com/images/Sciel.png)
-
-If you want to learn more about how these mods work check out the mod page on Nexus >https://www.nexusmods.com/cyberpunk2077/mods/1712
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
