@@ -422,7 +422,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 Updating the collection is as easy as clicking the "Update" button.
 When prompted to "Remove mods from old revision" make sure to click the "Remove All" button.
 
-- **DO NOT** update any of the mods in this collection individually in **Vortex** when a mod gets updated we will update the collection.
+- ⛔ **DO NOT** update any of the mods in this collection individually in **Vortex** when a mod gets updated we will update the collection.
 - Notes will be in the changelog
 
 Updating
@@ -438,8 +438,8 @@ Updating
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-- **NO** Mods will not work with a Pirated/Cracked version of the game.
-- **DO NOT** use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
+- ⛔ **NO** Mods will not work with a Pirated/Cracked version of the game.
+- ⛔ **DO NOT** use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
