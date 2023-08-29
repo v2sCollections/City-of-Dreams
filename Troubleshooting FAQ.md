@@ -165,12 +165,57 @@ You didnt turn of **"redmod autoconvert"** read the installation guide and start
 
 </details>
 
-4) [Reshade doesnt launch when I click it It tells me that it cant be found](#reshade-doesnt-launch-when-i-click-it-it-tells-me-that-it-cant-be-found)
-5) [I see this error when opening the Virtual Atelier](#i-see-this-error-when-opening-the-virtual-atelier)
-6) [The Atelier Shop doesnt show up in game](#the-atelier-shop-doesnt-show-up-in-game)
+<details>
+<summary>Reshade doesnt launch when I click it It tells me that it cant be found</summary>
 
+![img](https://i.imgur.com/wAJUpeU.png)
+
+Sometimes you need to relink Vortex to a tool.
+
+1) Go to the dashboard tab in Vortex.
+
+2) Scroll down untill you see tools.
+
+3) Click the 3 dots next to the tool you need to relink ie Reshade. and select "edit"
+
+4) Now selct "target" and browse to where you have the tool installed this will be in the main cyberpunk directory.
+
+![img](https://s12.gifyu.com/images/SQNLK.png)
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+<details>
+<summary>I see this error when opening the Virtual Atelier</summary>
+
+![img](https://s11.gifyu.com/images/SuJ1O.png)
+
+Dont worry this is normall some shops haver the same items.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+<details>
+<summary>The Atelier Shop doesnt show up in game</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+1) Open Vortex 
+
+2) On the mods tab search for **Virtual Atelier**
+
+2) Right click on the mod and select reinstall.
+
+4) Launch the game and see if the problem is  resolved.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
+
+
 
 
 ## Gameplay Questions
@@ -326,29 +371,6 @@ Alternatively you can disable the mod through the in game mod menus.
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 
-## I see this error when opening the Virtual Atelier❓
-
-![img](https://s11.gifyu.com/images/SuJ1O.png)
-
-Dont worry this is normall some shops haver the same items.
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-
-## The Atelier Shop doesnt show up in game❓
-
-1) Open Vortex 
-
-2) On the mods tab search for **Virtual Atelier**
-
-2) Right click on the mod and select reinstall.
-
-4) Launch the game and see if the problem is  resolved.
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
 ## How do i update the Collection
 
 Updating the collection is as easy as clicking the "Update" button.
@@ -360,23 +382,6 @@ Updating
 
 1)
 
-
-## Reshade doesnt launch when I click it It tells me that it cant be found❓
-
-Sometimes you need to relink Vortex to a tool.
-
-1) Go to the dashboard tab in Vortex.
-
-2) Scroll down untill you see tools.
-
-3) Click the 3 dots next to the tool you need to relink ie Reshade. and select "edit"
-
-4) Now selct "target" and browse to where you have the tool installed this will be in the main cyberpunk directory.
-
-![img](https://s12.gifyu.com/images/SQNLK.png)
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
 
 ## My screen is zoomed in❓
 
