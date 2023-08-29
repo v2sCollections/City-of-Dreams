@@ -219,9 +219,9 @@ You can fix this bug by
 
 1) Equip a pistol before getting into the car.
 
-
 ![img](https://i.imgur.com/wAJUpeU.png)
 
+</details>
 
 <details>
 <summary>Why do quick hacks cost 0 Ram</summary>
