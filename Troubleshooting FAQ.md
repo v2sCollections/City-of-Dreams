@@ -190,6 +190,8 @@ Sometimes you need to relink Vortex to a tool.
 <details>
 <summary>I see this error when opening the Virtual Atelier</summary>
 
+![img](https://i.imgur.com/wAJUpeU.png)
+
 ![img](https://s11.gifyu.com/images/SuJ1O.png)
 
 Dont worry this is normall some shops haver the same items.
@@ -297,14 +299,101 @@ You can find the new sandevistans added by Time Dilation Overhaul at the followi
 
 </details>
 
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
+
+
+
 
 ## Bugs
 
-1) [My character and some female NPCs have weird texture lines on them](#my-character-and-some-female-npcs-have-weird-texture-lines-on-them)
-2) [There is a weapon stuck in my inventory and i cant unequip it](#there-is-a-weapon-stuck-in-my-inventory-and-i-cant-unequip-it)
-3) [My screen is zoomed in](#my-screen-is-zoomed-in)
-4) [My character has 2 arms 2 different skin colours 2 tattoos 2 Hairstyles etc](#my-character-has-2-arms-2-diffrent-skin-colours-2-tattoos-2-hairstyles-etc)
-5) [The Camera is locked i cant move up/down](#the-camera-is-locked-i-cant-move-up-or-down)
+<details>
+<summary>My character and some female NPCs have weird texture lines on them</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+You need to set the texture quality to **"HIGH"**
+
+**Note** This setting doesnt show when in game you must be in the main menu.
+
+1) Launch the game 
+
+2) Go to the settings menu and on the graphics tab set texture quality to high.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+<details>
+<summary>here is a weapon stuck in my inventory and i cant unequip it</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+1) Go to a Vendor and sort by all.
+
+2) Locate the problem weapon and sell it.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+<details>
+<summary>My screen is zoomed in</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+Some times the camera can get stuck zoomed in. To fix this you can try the following. 
+
+1) If you are stuck zoomed in with your scope on a weapon press controll on your keyboard to toggle weapon zoom.
+
+2) Save your game and reload. 
+
+3) Change your fov and then change it back. 
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+<details>
+<summary>My character has 2 arms 2 different skin colours 2 tattoos 2 Hairstyles etc</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+This can happen if you change your character in the game (mirror or a ripperdoc). This is caused by the **Appearance Change Unlocker** mod this mod is needed to be able to change many things on your character like tattoos ect 
+
+1) Reload your current save.
+or
+2) Restart the game.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+<details>
+<summary>The Camera is locked i cant move up/down</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+This is a bug everyone has had for a long time with the third person mode there is a simple but inconvenient fix. When the camera lock happens 
+
+1) Activate 3rd person with "1"
+
+2) Deactivate third person with "1"
+
+Now the camera should be unlocked
+
+Alternatively you can disable the mod through the in game mod menus. 
+
+1) Select Mods from the main menu 
+
+2) Toggle off third person mode.
+
+![](https://s11.gifyu.com/images/3rd-person.jpg)
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
 
 
 
@@ -326,53 +415,6 @@ GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk2077.exe
 Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe  
 ```
 
-
-## My character and some female NPCs have weird texture lines on them❓
-
-You need to set the texture quality to **"HIGH"**
-
-**Note** This setting doesnt show when in game you must be in the main menu.
-
-1) Launch the game 
-
-2) Go to the settings menu and on the graphics tab set texture quality to high.
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-
-## The Camera is locked i cant move up or down❓
-
-This is a bug everyone has had for a long time with the third person mode there is a simple but inconvenient fix. When the camera lock happens 
-
-1) Activate 3rd person with "1"
-
-2) Deactivate third person with "1"
-
-Now the camera should be unlocked
-
-Alternatively you can disable the mod through the in game mod menus. 
-
-1) Select Mods from the main menu 
-
-2) Toggle off third person mode.
-
-![](https://s11.gifyu.com/images/3rd-person.jpg)
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-
-## There is a weapon stuck in my inventory and i cant unequip it❓
-
-1) Go to a Vendor and sort by all.
-
-2) Locate the problem weapon and sell it.
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-
 ## How do i update the Collection
 
 Updating the collection is as easy as clicking the "Update" button.
@@ -385,17 +427,6 @@ Updating
 1)
 
 
-## My screen is zoomed in❓
-
-Some times the camera can get stuck zoomed in. To fix this you can try the following. 
-
-1) If you are stuck zoomed in with your scope on a weapon press controll on your keyboard to toggle weapon zoom.
-
-2) Save your game and reload. 
-
-3) Change your fov and then change it back. 
-
-
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 
@@ -404,20 +435,6 @@ Some times the camera can get stuck zoomed in. To fix this you can try the follo
 - **NO** Mods will not work with a Pirated/Cracked version of the game.
 - **DO NOT** use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
 
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-
-## My character has 2 arms, 2 different skin colours, 2 tattoos, 2 Hairstyles etc❓
-
-This can happen if you change your character in the game (mirror or a ripperdoc). This is caused by the **Appearance Change Unlocker** mod this mod is needed to be able to change many things on your character like tattoos ect 
-
-1) Reload your current save.
-or
-2) Restart the game.
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
 
 
 ## Where are the optional mods❓
