@@ -9,11 +9,12 @@ NOTES
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!! 
 CYBERCLEAN IS RECOMMENDED!!!
 
+- Rebalaced gameplay difficulty.
 
 UPDATED
 -
 
-Rebalaced gameplay difficulty.
+
 
 
 REMOVED
