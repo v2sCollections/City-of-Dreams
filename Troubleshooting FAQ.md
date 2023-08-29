@@ -26,7 +26,7 @@
 
 1) Check the install guide and make sure you follow the instructions.
 
-2) Make sure the game is installed on a **SSD.**
+2) Make sure the game is installed on an **SSD.**
 
 3) Perform a **Cyberclean** Then boot up the game and see if the problem is resolved.
 
