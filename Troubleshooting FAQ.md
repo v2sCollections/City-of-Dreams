@@ -131,7 +131,7 @@ Play the game without mods and make a save and then reactivate mods and load the
 ## Troubleshooting
 
 <details>
-<summary>HUD Elements are off the screen<summary>
+<summary>HUD Elements are off the screen</summary>
 
 
 This is due to a mod called **HUDitor** it allows you to move the hud widgets where ever you would like. 
