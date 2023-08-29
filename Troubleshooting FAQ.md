@@ -130,7 +130,26 @@ Play the game without mods and make a save and then reactivate mods and load the
 
 ## Troubleshooting
 
-1) [HUD Elements are off the screen](#hud-elements-are-off-the-screen)
+<details>
+<summary>HUD Elements are off the screen<summary>
+
+
+This is due to a mod called **HUDitor** it allows you to move the hud widgets where ever you would like. 
+
+1) Once in game hold **SHIFT** and press **U** to customize the hud settings to suit you. 
+
+2) To go to the next widget press the LEFT and RIGHT arrow keys.
+
+3) To rest the widgets press **X**
+
+![img](https://i.imgur.com/odR9sZl.mp4)
+
+(https://www.nexusmods.com/cyberpunk2077/mods/3315)
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
 2) [Mini Map isnt showing up](#mini-map-isnt-showing-up)
 3) [I get a message at the main menu saying that mods could not be loaded like in the picture below](#i-get-a-message-at-the-main-menu-saying-that-mods-could-not-be-loaded-like-in-the-picture-below)
 4) [Reshade doesnt launch when I click it It tells me that it cant be found](#reshade-doesnt-launch-when-i-click-it-it-tells-me-that-it-cant-be-found)
@@ -140,7 +159,8 @@ Play the game without mods and make a save and then reactivate mods and load the
 ## Gameplay Questions
 
 1) [I cant shoot the drones in the car in the Heist Mission](#i-cant-shoot-the-drones-in-the-car-in-the-heist-mission)
-
+2) [Why do quick hacks cost 0 Ram](#why-do-quick-hacks-cost-0-ram)
+3) [Where are ther new sandevistans](#where-are-the-new-sandevistans)
 
 ## Bugs
 
@@ -292,25 +312,6 @@ Sometimes you need to relink Vortex to a tool.
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 
-
-## HUD Elements are off the screen❓
-
-This is due to a mod called **HUDitor** it allows you to move the hud widgets where ever you would like. 
-
-1) Once in game hold **SHIFT** and press **U** to customize the hud settings to suit you. 
-
-2) To go to the next widget press the LEFT and RIGHT arrow keys.
-
-3) To rest the widgets press **X**
-
-![img](https://i.imgur.com/odR9sZl.mp4)
-
-(https://www.nexusmods.com/cyberpunk2077/mods/3315)
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-
 ## Mini Map isnt showing up❓
 
 Press **"Y"** to show the mini map.
@@ -331,8 +332,25 @@ You can fix this bug by
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 
-## My screen is zoomed in❓
+## Why do quick hacks cost 0 Ram❓
 
+This is a bug caused by the (Better Netrunning) Mod it doesn't affect the actual cost.
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
+## Where are ther new sandevistans❓
+
+You can find the new sandevistans added by Time Dilation Overhaul at the following locations.
+- Zetatech Mk 4 - Arroyo Ripperdock
+- Militech Mk 4 - Kabuki Ripperdock
+- Raven Mk 5 - Rancho Ripperdock
+- Fuyutsuki Mk 5 - Japan Town Ripperdock
+- Moore Mk 5 - Badlands Ripperdock
+
+
+## My screen is zoomed in❓
 
 Some times the camera can get stuck zoomed in. To fix this you can try the following. 
 

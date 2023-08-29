@@ -10,6 +10,7 @@ REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!!
 CYBERCLEAN IS RECOMMENDED!!!
 
 - Reshade has been updated to 5.9.2 (Run the reshade setup again and select update)
+- Fixed Vortex False errors. (To fix this i had to remove some apartment themes. They will be added back in our next update)
 
 UPDATED
 -
