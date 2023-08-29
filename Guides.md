@@ -6,6 +6,7 @@
 
 - [Gameplay](#gameplay)
 - [Learning to Troubleshoot](learning-to-troubleshoot)
+- [Backups](backups)
 - [Other Guides](#other-guides)
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
@@ -128,7 +129,18 @@ If you want to learn more about how these mods work check out the mod page on Ne
 </details>
 
 
+<details>
+<summary>Changing the CET keybind</summary>
 
+![img](https://i.imgur.com/wAJUpeU.png)
+
+To change the (CET) Cyber Engine Tweaks Overlay.
+
+Delete bindings.json located in \bin\x64\plugins\cyber_engine_tweaks and launch Cyberpunk 2077 to set a new key bind.
+
+**Note** This will also delete any other key bind configuration you have chosen for your mods.
+
+![img](https://i.imgur.com/wAJUpeU.png)
 
 ## Learning to Troubleshoot
 
@@ -189,9 +201,11 @@ Always double-check Vortex to make sure it uninstalled something properly during
 
 3) Go to the following location and check inside the "mod" folder. If you see any left over mods delete them.
 
+```
 GOG>     Drive Letter:\Games\Cyberpunk 2077\archive\pc\mod 
 Steam>   Drive Letter:\Games\Steam\steamapps\common\Cyberpunk 2077\archive\pc\mod
 Epic>    Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod 
+```
 
 4) Deploy the mods in Vortex
 
@@ -200,76 +214,58 @@ Epic>    Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 </details>
 
 
-4) [Changing the CET keybind](#changing-the-cet-keybind)
-5) [Make a backup save](#make-a-backup-save)
-6) [](#cybercheck)
-7) [Running Cyberpunk 2077 as admin](#running-cyberpunk-2077-as-admin)
-11) [First Launch with the Collection](#first-launch-with-the-collection)
-12) [System Specs](#system-specs)
-14) [Random Crashes](#random-crashes)
-15) [Modded Game Backup](#modded-game-backup)
-16) [Cyberpunk 2077 Game Patch Versions](#cyberpunk-2077-game-patch-versions)
 
 
+## Backups
 
-## Changing the CET keybind
-
-To change the (CET) Cyber Engine Tweaks Overlay.
-
-Delete bindings.json located in \bin\x64\plugins\cyber_engine_tweaks and launch Cyberpunk 2077 to set a new key bind.
-
-**Note** This will also delete any other key bind configuration you have chosen for your mods.
-
-
+<details>
+<summary>Make a backup save</summary>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
-
-
-
-## Make a backup save
 
 Mods for Cyberpunk 2077 are pretty reliable but it's always good to make a backup of your saved file. 
 
-Save files can be found here> C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077 just copy the contents of this file and place it somewhere on your pc
-
-
+Save files can be found here> C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077 just copy the contents of this file and place it somewhere on your pc.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
+</details>
 
-## Running Cyberpunk 2077 as admin
-
-1) Go to the following location and find the "cyberpunk2077.exe"
-Cyberpunk 2077\bin\x64
-
-2) Right click the exe and go to "properties"
-
-3) On the compatibility tab check the box for "run this program as administrator" and select "apply" and "ok"
-
-![img](https://s12.gifyu.com/images/SQNWC.jpg)
-
+<details>
+<summary>Modded Game Backup</summary>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
+Move game folder before the DLC and any other upgrade.
 
 
-## First Launch with the Collection
+1) open vortex/mods and purge first so you don't mess up with the files
 
-1) To use CET (Cyber Engine Tweaks) use F11 on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,Vehicle camera and many more.
+2) move the game foder where you want it (on the same drive)
 
-2) I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and HERE>⁠Keybinds .
+3) go to games on vortex, press on the 3 dots on cyberpunk 2077 and then manually set location. find the folder you just moved
 
-3) On the main menu go to the graphics tab and you will find "texture quality"  Set this to "HIGH".
+4) deploy mods and then go to tools and press on the 3 dots on the side of each tool and press on edit. Then change them to the folder u moved
 
-4) Once in game hold SHIFT and press U to customize the hud settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
-
-6) IF YOU ARE A E3 USER FOLLOW THE PICS BELOW
-
+If you want to upgrade your cyberpunk modded folder. just update the game with steam/gog and copy the steam/gog cyberpunk 2077 game folder to your cyberpunk modded folder. PURGE MODS IN VORTEX FIRST
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
+</details>
 
-## System Specs
+
+
+
+## Other Guides
+
+
+
+
+
+<details>
+<summary>System Specs</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
 
 System specs for the base collection & (Lite) Version
 
@@ -309,11 +305,41 @@ Cyberpunk 2077 needs to be installed on a SSD if its not the following can occur
 - Slow Vortex Deployment
 - Crashes
 
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+<details>
+<summary>Cyberpunk 2077 Game Patch Versions</summary>
+
+
+
+</details>
+
+<details>
+<summary>Running Cyberpunk 2077 as admin</summary>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
+1) Go to the following location and find the "cyberpunk2077.exe"
+Cyberpunk 2077\bin\x64
 
-## Random Crashes
+2) Right click the exe and go to "properties"
+
+3) On the compatibility tab check the box for "run this program as administrator" and select "apply" and "ok"
+
+![img](https://s12.gifyu.com/images/SQNWC.jpg)
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+<details>
+<summary>Random Crashes</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
 
 The game may crash here or there its just something we cyberpunks have to deal with. 
 
@@ -330,27 +356,12 @@ You may find that the game will crash when doing the following. This is due to t
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
+</details>
 
-## Modded Game Backup
-
-Move game folder before the DLC and any other upgrade.
-
-
-1) open vortex/mods and purge first so you don't mess up with the files
-
-2) move the game foder where you want it (on the same drive)
-
-3) go to games on vortex, press on the 3 dots on cyberpunk 2077 and then manually set location. find the folder you just moved
-
-4) deploy mods and then go to tools and press on the 3 dots on the side of each tool and press on edit. Then change them to the folder u moved
-
-If you want to upgrade your cyberpunk modded folder. just update the game with steam/gog and copy the steam/gog cyberpunk 2077 game folder to your cyberpunk modded folder. PURGE MODS IN VORTEX FIRST
-
+<details>
+<summary>Game Patch Versions</summary>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
-
-
-## Cyberpunk 2077 Game Patch Versions
 
 This guide was made by Jack Humbert 
 
@@ -368,5 +379,28 @@ Find your File Version:
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
+
+
+11) [First Launch with the Collection](#first-launch-with-the-collection)
+
+
+
+
+
+
+
+## First Launch with the Collection
+
+1) To use CET (Cyber Engine Tweaks) use F11 on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,Vehicle camera and many more.
+
+2) I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and HERE>⁠Keybinds .
+
+3) On the main menu go to the graphics tab and you will find "texture quality"  Set this to "HIGH".
+
+4) Once in game hold SHIFT and press U to customize the hud settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
+
+6) IF YOU ARE A E3 USER FOLLOW THE PICS BELOW
+
+
 
 ![](https://s12.gifyu.com/images/SuG0u.png)
