@@ -12,7 +12,7 @@
 - [Bugs](#bugs)
 - [Other Questions](#other-questions)
 
-![img](https://i.imgur.com/wAJUpeU.png)
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 
 
