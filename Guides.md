@@ -91,6 +91,8 @@ We can filter mods in Vortex from a variety of options we are going to use the c
 <details>
 <summary>Live Voice chat support and Remote connection</summary>
 
+![img](https://i.imgur.com/wAJUpeU.png)
+
 I can help you if you are stuck with LIVE Voice chat support and screenshare in the ⁠🔧︱Live VC Support channel in discord
 
 If you are really stuck i can connect to your Pc via a remote connection all you have to do is click the download link it will take you to a software page to download Teamviewer with this tool i can control your pc remotely (while you watch) with a one time use code and password. You can uninstall the program after so you can have peace of mind.
