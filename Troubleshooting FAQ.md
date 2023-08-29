@@ -132,7 +132,6 @@ Play the game without mods and make a save and then reactivate mods and load the
 </details>
 
 
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 
 ## Troubleshooting
@@ -217,8 +216,6 @@ Dont worry this is normall some shops haver the same items.
 
 </details>
 
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
-
 
 
 
@@ -298,8 +295,6 @@ You can find the new sandevistans added by Time Dilation Overhaul at the followi
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 </details>
-
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 
 
