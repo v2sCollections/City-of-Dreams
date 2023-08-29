@@ -3,16 +3,37 @@
 
 # Guides
 
-
+- [First Launch With The Collection](#first-launch-with-the-collection)
 - [Gameplay](#gameplay)
-- [Learning to Troubleshoot](learning-to-troubleshoot)
-- [Backups](backups)
+- [Learning to Troubleshoot](#learning-to-troubleshoot)
+- [Backups](#backups)
 - [Other Guides](#other-guides)
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 
+## First Launch With The Collection
 
+<details>
+<summary>First Launch with the Collection</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+1) To use CET (Cyber Engine Tweaks) use F11 on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,Vehicle camera and many more.
+
+2) I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and HERE>⁠Keybinds .
+
+3) On the main menu go to the graphics tab and you will find "texture quality"  Set this to "HIGH".
+
+4) Once in game hold SHIFT and press U to customize the hud settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
+
+6) IF YOU ARE A E3 USER FOLLOW THE PICS BELOW
+
+![](https://s12.gifyu.com/images/SuG0u.png)
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
 
 ## Gameplay
 
@@ -228,7 +249,13 @@ Epic>    Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 Mods for Cyberpunk 2077 are pretty reliable but it's always good to make a backup of your saved file. 
 
-Save files can be found here> C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077 just copy the contents of this file and place it somewhere on your pc.
+Save files can be found here 
+
+```
+C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
+```
+
+just copy the contents of this file and place it somewhere on your pc.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -326,7 +353,10 @@ Cyberpunk 2077 needs to be installed on a SSD if its not the following can occur
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 1) Go to the following location and find the "cyberpunk2077.exe"
+
+```
 Cyberpunk 2077\bin\x64
+```
 
 2) Right click the exe and go to "properties"
 
@@ -370,7 +400,11 @@ This guide was made by Jack Humbert
 
 Find your File Version:
 
-1) Locate Cyberpunk2077.exe in your game directory at bin/x64/Cyberpunk2077.exe
+1) Locate Cyberpunk2077.exe in your game directory at 
+
+```
+bin/x64/Cyberpunk2077.exe
+```
 
 2) Right-click and select Properties
 
@@ -380,30 +414,6 @@ Find your File Version:
 
 ![img](https://s11.gifyu.com/images/ScieU.png)
 
-
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-
-11) [First Launch with the Collection](#first-launch-with-the-collection)
-
-
-
-
-
-
-
-## First Launch with the Collection
-
-1) To use CET (Cyber Engine Tweaks) use F11 on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,Vehicle camera and many more.
-
-2) I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and HERE>⁠Keybinds .
-
-3) On the main menu go to the graphics tab and you will find "texture quality"  Set this to "HIGH".
-
-4) Once in game hold SHIFT and press U to customize the hud settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
-
-6) IF YOU ARE A E3 USER FOLLOW THE PICS BELOW
-
-
-
-![](https://s12.gifyu.com/images/SuG0u.png)
+</details>
