@@ -306,9 +306,9 @@ To download Teamviewer click [HERE](https://www.teamviewer.com/en-us/download/wi
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-I've been building Pcs for a few years now and have picked up a few tips and tricks along the way. You can also check out my builds here > https://discord.com/channels/1076179431195955290/1089444542194913320
+I've been building Pcs for a few years now and have picked up a few tips and tricks along the way. You can also check out my builds on our Discord.
 
-I can connect to your Pc via a remote connection https://discord.com/channels/1076179431195955290/1099748664177594399  and optimize your Pc for gaming. 
+I can connect to your Pc via a remote connection [Team Viewer]() and optimize your Pc for gaming. 
 
 I use a few tools and methods which I will explain here. These tools/programs are lightweight and will not take up many resources in the background. These tools are used widely by the Pc community and are well known.
 
@@ -317,16 +317,16 @@ All links to these tools will be listed below so you can check them out for your
 All of this I offer free of charge. The only thing I ask is for you to **Endorse** and support our collections. It really means a lot to us.
 
 
-**MSI afterburner**
+### MSI afterburner
 
 This is an overclocking tool but it does much more. With this tool, I can set the following.
 
-**1**) Custom fan curve this will help with **GPU** temps.
-**2**) Unlock the voltage control on the **GPU** this helps maintain higher clock speeds for the **GPU**.
+1) Custom fan curve this will help with **GPU** temps.
+2) Unlock the voltage control on the **GPU** this helps maintain higher clock speeds for the **GPU**.
 
 
 
-**RTSS Riva Statistics Tuner**
+### RTSS Riva Statistics Tuner
 
 This is a hardware monitoring tool that works alongside **MSI Afterburner**.
 
@@ -334,54 +334,54 @@ This is a hardware monitoring tool that works alongside **MSI Afterburner**.
 
 
 
-**ISLC Intelligent Standby List Cleaner**
+### ISLC Intelligent Standby List Cleaner
 
 This help to clear out the standby list in Windows in turn freeing up Memory **RAM** the benefits of this tool are fewer stutters in game and maintaining a steady fps.
 
 
 
-**Quick CPU**
+### Quick CPU
 
-**Quick CPU** is a program that was designed to fine-tune and monitor important CPU and System parameters such as **CPU** Temperature (Package and Core Temp), **CPU** Performance, Power, Voltage, Current, Core Parking, Frequency Scaling, System Memory, Turbo Boost, C-States, Speed Shift FIVR Control as well as making other adjustments.
+Quick CPU is a program that was designed to fine-tune and monitor important CPU and System parameters such as **CPU** Temperature (Package and Core Temp), **CPU** Performance, Power, Voltage, Current, Core Parking, Frequency Scaling, System Memory, Turbo Boost, C-States, Speed Shift FIVR Control as well as making other adjustments.
 
 
-**CPU Z & GPU z**
+### CPU Z & GPU z
 
 These will allow you to identify the GPU and CPU.
 
 
-**GEEK Uninstaller**
+### GEEK Uninstaller
 
 This is a great tool for uninstalling programs and removing any traces they leave behind.
 
 
-**WINDOWS OPTIMIZATION**
+### WINDOWS OPTIMIZATION
 
 As well as the tools i can install and configure there are also some optimizations I can perform inside of Windows itself.
 
 These include.
 
-**1**) Nvidia control panel optimizations
+1) Nvidia control panel optimizations
 
-**2**) Bios optimizations.
+2) Bios optimizations.
 
-**3**) Power management optimizations.
+3) Power management optimizations.
 
-**4**) Game-specific optimizations.
+4) Game-specific optimizations.
 
 
 
-**OVERCLOCKING OF THE GPU**
+### OVERCLOCKING OF THE GPU
 
 I can overclock and stress test your **GPU**.
 
 
 
-**As well as all of the above I can.**
+### As well as all of the above I can.
 
-**1**) Clear out old unused Windows files taking up space on your System.
+1) Clear out old unused Windows files taking up space on your System.
 
-**2**) Run system scans to ensure everything is running as it should be and repair errors.
+2) Run system scans to ensure everything is running as it should be and repair errors.
 
 [MSI afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
 
