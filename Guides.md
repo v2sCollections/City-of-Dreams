@@ -3,28 +3,23 @@
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-# Contents
+# Guides
 
-1) [Cyberclean](#cyberclean)
-2) [Checking for old mods or mods that arnt part of the collection](#checking-for-old-mods-or-mods-that-arnt-part-of-the-collection)
-3) [Live Voice chat support and Remote connection](#live-voice-chat-support-and-remote-connection)
-4) [Changing the CET keybind](#changing-the-cet-keybind)
-5) [Make a backup save](#make-a-backup-save)
-6) [Cybercheck](#cybercheck)
-7) [Running Cyberpunk 2077 as admin](#running-cyberpunk-2077-as-admin)
-8) [Finding log files](#finding-log-files)
-9) [Finding and reading log files](#finding-and-reading-log-files)
-10) [Cyberpunk Mod Troubleshooting](#cyberpunk-mod-troubleshooting)
-11) [First Launch with the Collection](#first-launch-with-the-collection)
-12) [System Specs](#system-specs)
-13) [Game Difficulty](#game-difficulty)
-14) [Random Crashes](#random-crashes)
-15) [Modded Game Backup](#modded-game-backup)
-16) [Cyberpunk 2077 Game Patch Versions](#cyberpunk-2077-game-patch-versions)
+
+- [Gameplay](#gameplay)
+- [Other Guides](#other-guides)
+
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
+
+
+
+
+## Gameplay
+
+<details>
+<summary>Cyberclean</summary>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
-
-## Cyberclean
 
 Always double-check Vortex to make sure it uninstalled/installed something properly during an update. If you are having any issues with crashing or mods not loading you can do the following.
 
@@ -73,12 +68,15 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 6) Launch the game and see if the problem is resolved.
 
 
-
 ![img](https://i.imgur.com/wAJUpeU.png)
 
+</details>
 
 
-## Checking for old mods or mods that arnt part of the collection
+<details>
+<summary>Checking for old mods or mods that arnt part of the collection</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
 
 We can filter mods in Vortex from a variety of options we are going to use the collections filter this is helpfull to find old mods or mods that are not part of the collection.
 
@@ -88,13 +86,12 @@ We can filter mods in Vortex from a variety of options we are going to use the c
 
 ![](https://s11.gifyu.com/images/Su3mn.png)
 
-
-
 ![img](https://i.imgur.com/wAJUpeU.png)
 
+</details>
 
-
-## Live Voice chat support and Remote connection
+<details>
+<summary>Live Voice chat support and Remote connection</summary>
 
 I can help you if you are stuck with LIVE Voice chat support and screenshare in the ⁠🔧︱Live VC Support channel in discord
 
@@ -103,11 +100,32 @@ If you are really stuck i can connect to your Pc via a remote connection all you
 To download Teamviewer click [HERE](https://www.teamviewer.com/en-us/download/windows/?utm_source=google&utm_medium=cpc&utm_campaign=au|b|pr|22|jun|tv-core-download-sn|free|t0|0&utm_content=Download&utm_term=teamviewer%20download&gad=1&gclid=CjwKCAjw9pGjBhB-EiwAa5jl3JtSMlwskHVNVTH2fzvXvtj6wTBD_uhieVL3zYhh38ZYQBQscEv3KRoCZGsQAvD_BwE)
 🔧︱Live VC Support in discord
 
-
-
 ![img](https://i.imgur.com/wAJUpeU.png)
 
+</details>
 
+
+
+# Contents
+
+
+
+
+4) [Changing the CET keybind](#changing-the-cet-keybind)
+5) [Make a backup save](#make-a-backup-save)
+6) [Cybercheck](#cybercheck)
+7) [Running Cyberpunk 2077 as admin](#running-cyberpunk-2077-as-admin)
+8) [Finding log files](#finding-log-files)
+9) [Finding and reading log files](#finding-and-reading-log-files)
+10) [Cyberpunk Mod Troubleshooting](#cyberpunk-mod-troubleshooting)
+11) [First Launch with the Collection](#first-launch-with-the-collection)
+12) [System Specs](#system-specs)
+13) [Game Difficulty](#game-difficulty)
+14) [Random Crashes](#random-crashes)
+15) [Modded Game Backup](#modded-game-backup)
+16) [Cyberpunk 2077 Game Patch Versions](#cyberpunk-2077-game-patch-versions)
+
+![img](https://i.imgur.com/wAJUpeU.png)
 
 ## Changing the CET keybind
 
