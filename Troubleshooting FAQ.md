@@ -132,6 +132,7 @@ Play the game without mods and make a save and then reactivate mods and load the
 </details>
 
 
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 
 ## Troubleshooting
@@ -169,6 +170,7 @@ You didnt turn of **"redmod autoconvert"** read the installation guide and start
 6) [The Atelier Shop doesnt show up in game](#the-atelier-shop-doesnt-show-up-in-game)
 
 
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 
 ## Gameplay Questions
