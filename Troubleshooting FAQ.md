@@ -196,6 +196,8 @@ Dont worry this is normall some shops haver the same items.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
+</details>
+
 <details>
 <summary>The Atelier Shop doesnt show up in game</summary>
 
