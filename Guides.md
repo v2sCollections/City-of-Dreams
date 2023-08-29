@@ -29,8 +29,6 @@
 
 6) IF YOU ARE A E3 USER FOLLOW THE PICS BELOW
 
-![](https://s12.gifyu.com/images/SuG0u.png)
-
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 </details>
@@ -417,3 +415,5 @@ bin/x64/Cyberpunk2077.exe
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 </details>
+
+![](https://s12.gifyu.com/images/SuG0u.png)
