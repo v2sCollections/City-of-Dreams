@@ -137,41 +137,6 @@ Play the game without mods and make a save and then reactivate mods and load the
 ## Troubleshooting
 
 <details>
-<summary>HUD Elements are off the screen</summary>
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-This is due to a mod called **HUDitor** it allows you to move the hud widgets where ever you would like. 
-
-1) Once in game hold **SHIFT** and press **U** to customize the hud settings to suit you. 
-
-2) To go to the next widget press the LEFT and RIGHT arrow keys.
-
-3) To rest the widgets press **X**
-
-See the mod [HERE](https://www.nexusmods.com/cyberpunk2077/mods/3315)
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-</details>
-
-
-<details>
-<summary>Mini Map isnt showing up</summary>
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-Press **"Y"** to show the mini map.
-
-If this doesnt work its becuause you have the E3 Compass installed this will disable the mini map.
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-</details>
-
-
-<details>
 <summary>I get a message at the main menu saying that mods could not be loaded like in the picture below</summary>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -207,6 +172,40 @@ You didnt turn of **"redmod autoconvert"** read the installation guide and start
 
 
 ## Gameplay Questions
+
+<details>
+<summary>HUD Elements are off the screen</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+This is due to a mod called **HUDitor** it allows you to move the hud widgets where ever you would like. 
+
+1) Once in game hold **SHIFT** and press **U** to customize the hud settings to suit you. 
+
+2) To go to the next widget press the LEFT and RIGHT arrow keys.
+
+3) To rest the widgets press **X**
+
+See the mod [HERE](https://www.nexusmods.com/cyberpunk2077/mods/3315)
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+<details>
+<summary>Mini Map isnt showing up</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+Press **"Y"** to show the mini map.
+
+If this doesnt work its becuause you have the E3 Compass installed this will disable the mini map.
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
 
 1) [I cant shoot the drones in the car in the Heist Mission](#i-cant-shoot-the-drones-in-the-car-in-the-heist-mission)
 2) [Why do quick hacks cost 0 Ram](#why-do-quick-hacks-cost-0-ram)
