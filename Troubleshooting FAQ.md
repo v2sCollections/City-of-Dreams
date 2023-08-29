@@ -28,7 +28,7 @@
 
 2) Make sure the game is installed on a **SSD.**
 
-3) Perform a Cyberclean **Cyberclean** Boot up the game and see if the problem is resolved.
+3) Perform a **Cyberclean** Then boot up the game and see if the problem is resolved.
 
 4) Check your Graphics Driver is up to date or and reinstall it.
 
@@ -36,11 +36,11 @@
 ⁠Unknown
 ⁠Unknown
 
-6) Disable the appearance mod menu mod in Vortex.
+6) Disable the (Appearance mod menu) mod in **Vortex**.
 
-7) Disable the UHD Splash screen mod in Vortex.
+7) Disable the (UHD Splash screen) mod in **Vortex**.
 
-8) Disable the QHD intro mod in Vortex.
+8) Disable the (QHD intro mod) in **Vortex**.
 
 9) Disable/Uninstall the reshade if you have installed and ran the program
 
