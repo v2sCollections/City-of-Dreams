@@ -30,7 +30,7 @@
 
 3) Perform a **Cyberclean** Then boot up the game and see if the problem is resolved.
 
-4) Check your Graphics Driver is up to date or and reinstall it.
+4) Check your Graphics Driver is up to date or reinstall it.
 
 5) Make sure these are up to date>
 ⁠Unknown
@@ -55,11 +55,19 @@
 
 You need to disable **"Analytics"**
 
-1) Purge the mods in Vortex
+1) **Purge** the mods in **Vortex**
+
+![img](https://s11.gifyu.com/images/Sg8LQ.jpg)
 
 2) Launch the game 
 
 3) Go to the settings menu and on the gameplay tab disable **"Analytics"**.
+
+![img](https://s11.gifyu.com/images/Sg8LW.jpg)
+
+4) **Deploy** the mods in **Vortex**
+
+5) Launch the game.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
