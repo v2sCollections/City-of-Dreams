@@ -111,7 +111,7 @@ Another workaround is to start a vanilla game and then redploy the mods after.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-Make sure you have disabled **"cross-platform saves"** as shown below and you have the game installed on a SSD.  
+Make sure you have disabled **"cross-platform saves"** as shown below and you have the game installed on a **SSD**.  
 
 ![img](https://s12.gifyu.com/images/SWeJF.png)
 
@@ -155,8 +155,48 @@ See the mod [HERE](https://www.nexusmods.com/cyberpunk2077/mods/3315)
 
 </details>
 
-2) [Mini Map isnt showing up](#mini-map-isnt-showing-up)
-3) [I get a message at the main menu saying that mods could not be loaded like in the picture below](#i-get-a-message-at-the-main-menu-saying-that-mods-could-not-be-loaded-like-in-the-picture-below)
+
+<details>
+<summary>Mini Map isnt showing up</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+Press **"Y"** to show the mini map.
+
+If this doesnt work its becuause you have the E3 Compass installed this will disable the mini map.
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+<details>
+<summary>I get a message at the main menu saying that mods could not be loaded like in the picture below</summary>
+
+![](https://s12.gifyu.com/images/Screenshot_2023-05-05_103305.png)
+
+You didnt turn of **"redmod autoconvert"** read the installation guide and start from scratch.
+
+1) Delete the collection and archives.
+
+2) Turn of **"redmod autoconvert"**
+
+![](https://s11.gifyu.com/images/Untitle44d.jpg)
+
+3) Run a **"cyberclean"**
+
+4) Delete the **"mod"** folder in the main game directory this is the redmods folder.
+
+![](https://s12.gifyu.com/images/Redmod-folder.jpg)
+
+5) Reinstall collection
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
 4) [Reshade doesnt launch when I click it It tells me that it cant be found](#reshade-doesnt-launch-when-i-click-it-it-tells-me-that-it-cant-be-found)
 5) [I see this error when opening the Virtual Atelier](#i-see-this-error-when-opening-the-virtual-atelier)
 6) [The Atelier Shop doesnt show up in game](#the-atelier-shop-doesnt-show-up-in-game)
@@ -211,30 +251,6 @@ You need to set the texture quality to **"HIGH"**
 1) Launch the game 
 
 2) Go to the settings menu and on the graphics tab set texture quality to high.
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-
-## I get a message at the main menu saying that mods could not be loaded like in the picture below❓
-
-![](https://s12.gifyu.com/images/Screenshot_2023-05-05_103305.png)
-
-You didnt turn of **"redmod autoconvert"** read the installation guide and start from scratch.
-
-1) Delete the collection and archives.
-
-2) Turn of **"redmod autoconvert"**
-
-![](https://s11.gifyu.com/images/Untitle44d.jpg)
-
-3) Run a **"cyberclean"**
-
-4) Delete the **"mod"** folder in the main game directory this is the redmods folder.
-
-![](https://s12.gifyu.com/images/Redmod-folder.jpg)
-
-5) Reinstall collection
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -320,16 +336,6 @@ Sometimes you need to relink Vortex to a tool.
 4) Now selct "target" and browse to where you have the tool installed this will be in the main cyberpunk directory.
 
 ![img](https://s12.gifyu.com/images/SQNLK.png)
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-
-## Mini Map isnt showing up❓
-
-Press **"Y"** to show the mini map.
-
-If this doesnt work its becuause you have the E3 Compass installed this will disable the mini map.
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
