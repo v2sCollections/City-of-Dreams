@@ -28,23 +28,21 @@
 
 2) Make sure the game is installed on a **SSD.**
 
-3)Perform a Cyberclean> ⁠Cyberclean Boot up the game and see if the problem is resolved.
+3) Perform a Cyberclean **Cyberclean** Boot up the game and see if the problem is resolved.
 
-4) Check your Graphics Driver> ⁠Unknown and reinstall it.
+4) Check your Graphics Driver is up to date or and reinstall it.
 
 5) Make sure these are up to date>
 ⁠Unknown
 ⁠Unknown
 
-6)Go here > G:\SteamLibrary\steamapps\common\Cyberpunk 2077\bin\x64\     and Rename "dxgi.dll" to "d3d12.dll" 
+6) Disable the appearance mod menu mod in Vortex.
 
-7) Disable the appearance mod menu mod in Vortex.
+7) Disable the UHD Splash screen mod in Vortex.
 
-8) Disable the UHD Splash screen mod in Vortex.
+8) Disable the QHD intro mod in Vortex.
 
-9) Disable the QHD intro mod in Vortex.
-
-10) Disable/Uninstall the reshade if you have installed and ran the program
+9) Disable/Uninstall the reshade if you have installed and ran the program
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
