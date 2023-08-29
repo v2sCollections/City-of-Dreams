@@ -155,7 +155,11 @@ If you want to learn more about how these mods work check out the mod page on Ne
 
 To change the (CET) Cyber Engine Tweaks Overlay.
 
-Delete bindings.json located in \bin\x64\plugins\cyber_engine_tweaks and launch Cyberpunk 2077 to set a new key bind.
+Delete bindings.json located in 
+
+```
+bin\x64\plugins\cyber_engine_tweaks and launch Cyberpunk 2077 to set a new key bind.
+```
 
 **Note** This will also delete any other key bind configuration you have chosen for your mods.
 
