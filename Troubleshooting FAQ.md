@@ -14,6 +14,9 @@
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
+
+
+
 ## Crashes
 
 <details>
@@ -128,11 +131,15 @@ Play the game without mods and make a save and then reactivate mods and load the
 
 </details>
 
+
+
+
 ## Troubleshooting
 
 <details>
 <summary>HUD Elements are off the screen</summary>
 
+![img](https://i.imgur.com/wAJUpeU.png)
 
 This is due to a mod called **HUDitor** it allows you to move the hud widgets where ever you would like. 
 
@@ -142,9 +149,7 @@ This is due to a mod called **HUDitor** it allows you to move the hud widgets wh
 
 3) To rest the widgets press **X**
 
-![img](https://i.imgur.com/odR9sZl.mp4)
-
-(https://www.nexusmods.com/cyberpunk2077/mods/3315)
+See the mod [HERE](https://www.nexusmods.com/cyberpunk2077/mods/3315)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -156,11 +161,17 @@ This is due to a mod called **HUDitor** it allows you to move the hud widgets wh
 5) [I see this error when opening the Virtual Atelier](#i-see-this-error-when-opening-the-virtual-atelier)
 6) [The Atelier Shop doesnt show up in game](#the-atelier-shop-doesnt-show-up-in-game)
 
+
+
+
 ## Gameplay Questions
 
 1) [I cant shoot the drones in the car in the Heist Mission](#i-cant-shoot-the-drones-in-the-car-in-the-heist-mission)
 2) [Why do quick hacks cost 0 Ram](#why-do-quick-hacks-cost-0-ram)
 3) [Where are ther new sandevistans](#where-are-the-new-sandevistans)
+
+
+
 
 ## Bugs
 
@@ -169,6 +180,8 @@ This is due to a mod called **HUDitor** it allows you to move the hud widgets wh
 3) [My screen is zoomed in](#my-screen-is-zoomed-in)
 4) [My character has 2 arms 2 different skin colours 2 tattoos 2 Hairstyles etc](#my-character-has-2-arms-2-diffrent-skin-colours-2-tattoos-2-hairstyles-etc)
 5) [The Camera is locked i cant move up/down](#the-camera-is-locked-i-cant-move-up-or-down)
+
+
 
 
 ## Other Questions
