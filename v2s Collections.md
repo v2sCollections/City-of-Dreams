@@ -1,4 +1,4 @@
-# v2s Collections 
+![img](https://s12.gifyu.com/images/SuGfO.png)
 
 
 
@@ -7,6 +7,8 @@
 - [Nexus](https://www.nexusmods.com/users/123334373)
 - [Discord](https://discord.gg/xZNztPjA2u)
 - [Github](https://github.com/2077v2)
+- [Youtube City of Dreams](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)
+- [Youtube](https://www.youtube.com/channel/UCR_euZhiwAFpzShIs7j7xTA)
 
 ## Collections
 
