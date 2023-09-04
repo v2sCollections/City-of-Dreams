@@ -303,6 +303,18 @@ You can find the new sandevistans added by (Time Dilation Overhaul) at the follo
 </details>
 
 
+<details>
+<summary>System-Ex Not working</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+You need to go to a ripperdoc and hover over a slot to buy more slots
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
 
 
 ## Bugs
