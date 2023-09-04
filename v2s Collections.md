@@ -29,3 +29,8 @@
 ### Elden Ring
 
 - [Elden Ring The Tarnished by v2](https://next.nexusmods.com/eldenring/collections/qpwypd?utm_source=copy&utm_medium=social&utm_campaign=share_collection)
+
+### Starfield
+
+- [Constellation by v2](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy&utm_medium=social&utm_campaign=share_collection)
+- [Constellation4k Graphics Packby v2](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy&utm_medium=social&utm_campaign=share_collection)

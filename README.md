@@ -3,7 +3,6 @@
 
 ### **Updated & Compatible with Patch 1.63 Hotfix 1**
 
-IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/MRGHIA88V2/City-of-Dreams)
 
 ### Collection Rev 47        &#x20;
 
@@ -153,9 +152,10 @@ This collection is extensively tested with every new version that is released. I
 - Dedicated Youtube Channel-[HERE](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)
 - [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
 - [Youtube Channel](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)-with Guides and Videos.
+- [Github Repository](https://github.com/2077v2/City-of-Dreams)-with Guides/FAQs and much more.
 - Continuous Support in Comments and on Discord.
 - Live voice support.
-- Nexus Premium Giveaways (Every Week).
+- Giveaways. Nexus Premium/Game Keys/Discord Nitro (Every Week).&#x20;
 - and much much more Join our Discord for more information.
 
 ![](]https://i.imgur.com/VeCI8dy.png)[![](https://i.imgur.com/VeCI8dy.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow chooms every day.
@@ -178,15 +178,9 @@ This collection is extensively tested with every new version that is released. I
 C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 ```
 
-![img](https://i.imgur.com/wAJUpeU.png)
-
-![img](https://i.imgur.com/IdqHWV6.png)
-
 ## ⛔[WARNINGS](https://)⛔
 
-- If you see this> ⛔ then you need to read and follow the directions.
-
-## [READ](https://)
+If you see this> ⛔ then you need to read and follow the directions.
 
 - ⛔DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
 
@@ -269,9 +263,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 6 ) On the next screen scroll down to the **"Cyberpunk 2077"** icon and click on **"Manage".**
 
-![](https://s12.gifyu.com/images/Untitled99ac613c165d0e14.jpg)
-
-7 ) On the popup that appears click on **"Download"** on the bottom right, and Vortex will restart.
+![](https://s12.gifyu.com/images/Untitled99ac613c165d0e14.jpg)7 ) On the popup that appears click on **"Download"** on the bottom right, and Vortex will restart.
 
 8 ) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
 
@@ -459,7 +451,7 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 
 1. ⛔ On the main menu go to the graphics tab and you will find "texture quality"  Set this to "HIGH".
 
-![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)4. Once in the game hold SHIFT and press U to customize the HUD settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
+![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)4. If you installed the optional "HUDitor" mod then once in the game hold SHIFT and press U to customize the HUD settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
 
 ***
 
@@ -586,9 +578,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ⛔ It Is important that you read the following guide to fully understand everything clearly.
 
-You can have a look at some of the mod GIF previews > [HERE](https://gifyu.com/album/098)
-
-And check out the gallery at the top of this page for videos by some of the mod authors showcased in this collection.
+You can check out the gallery at the top of this page for videos by some of the mod authors showcased in this collection.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -608,7 +598,7 @@ And check out the gallery at the top of this page for videos by some of the mod 
 
 ## ![](https://s11.gifyu.com/images/Diffuculty.png)
 
-> [Most mods have in-game settings so you can set the difficulties as you wish for an easier or more challenging experience.](https://)
+> Most mods have in-game settings so you can set the difficulties as you wish for an easier or more challenging experience.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -735,7 +725,7 @@ You can find these items in the Dedicated [City of Dreams Atelier Store](https:/
 - Water.
 - Food.
 
-⛔ Note that some of these will eat your VRAM i recommend a min 8 GB GPU but even then depending on your settings vanilla cyberpunk will eat 8gb. If you notice stuttering or any texture issues then disable a few of the (surfaces mods) in vortex.
+⛔ Note that some of these will eat your VRAM I recommend a min 8 GB GPU but even then depending on your settings vanilla cyberpunk will eat 8 GB. If you notice stuttering or any texture issues then disable a few of the (surfaces mods) in vortex.
 
 You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high-end** systems only 16 GB Vram+)
 
@@ -1497,7 +1487,7 @@ Upgraded/Tweaked cyberware
 
 Please do not forget that when you install any extra collections, it's your responsibility and they may not work as intended unless curated by me.
 
-You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high-end systems only 16gb Vram+)** [City of Dreams 4k Graphics Pack by v2](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp).
+You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high-end systems only 16gb Vram+)**
 
 If you would like a smaller collection try my [City of Dreams (lite)](https://next.nexusmods.com/cyberpunk2077/collections/ayfbwl?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) version.
 
@@ -1543,13 +1533,6 @@ Recommended In-game settings These settings will give a slight performance boost
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![img](https://i.imgur.com/eESs6Q9.png)
-
-- ⛔ Please don't use a similar name to this collection.
-- ⛔ I do not allow you to copy or clone this collection in any way.
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
 ![img](https://i.imgur.com/DlgYZel.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
 
 Please let us know if you have any issues with this collection I'm sure we can figure it out.
@@ -1559,6 +1542,7 @@ If you enjoy this collection, **PLEASE** endorse the mod authors and Support me 
 Special thanks to these chooms who helped make this collection preem. And everyone on the Nexus & The Cyberpunk modding Discords.
 
 - [canliberk](https://www.nexusmods.com/users/5027009)
+- [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
 - [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)
 - [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
 - Jinxy 𝓩𝓸𝓶𝓫𝓲𝓮 Hyperdrive
@@ -1584,17 +1568,11 @@ If you would like to support me so I can afford some new chrome click the button
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![](https://s12.gifyu.com/images/Follow-me.png)![](https://s12.gifyu.com/images/cropped.jpg)
+## ![](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)[Disclaimer](https://)
 
-## -[YOUTUBE](https://www.youtube.com/@2077_v2)-----[TWITCH](https://www.twitch.tv/2077v2)-----[TIKTOK](https://www.tiktok.com/@2077v2?is_from_webapp=1\&sender_device=pc)-----[TWITTER](https://twitter.com/2077V2)-----[FACEBOOK](https://www.facebook.com/MRGHIA88V2/)-----[RANKONE](https://www.rankone.global/2077v2)-----[DISCORD](https://discord.gg/xZNztPjA2u)-
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-![](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
-
-## [Disclaimer](https://)
-
-- I will not be responsible for any possibility of save corruption.
+- ⛔ I will not be responsible for any possibility of save corruption.
+- ⛔ Please don't use a similar name to this collection.
+- ⛔ I do not allow you to copy or clone this collection in any way.
 - CD PROJEKT®, Cyberpunk®, Cyberpunk 2077® are registered trademarks of CD PROJEKT S.A. © 2022 CD PROJEKT S.A
 
 ![img](https://i.imgur.com/wAJUpeU.png)
