@@ -433,7 +433,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 <details>
 <summary>How do i update the Collection</summary>
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
+![img](https://i.imgur.com/wAJUpeU.png)
 
 :no_entry:Updating the collection is as easy as clicking the "Update" button in Vortex. When prompted to "Remove mods from old revision" make sure to click the "Remove All" button.
 
@@ -451,7 +451,7 @@ Updating
 
 **3)** When prompted to "Remove mods from old revision" make sure to click the "Remove All" button.
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
+![img](https://i.imgur.com/wAJUpeU.png)
 
 </details>
 
