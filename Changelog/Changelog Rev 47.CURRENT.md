@@ -35,6 +35,7 @@ NEW MODS ADDED
 - [Faster Drop Point Cooldowns](https://www.nexusmods.com/cyberpunk2077/mods/9049?tab=description)
 - [City of Dreams 97.7 FM](https://www.nexusmods.com/cyberpunk2077/mods/9053?tab=description)
 - [Echl Swimsuit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9036?tab=description)
+- [City of Dreams Jacket and Tank Top](https://www.nexusmods.com/cyberpunk2077/mods/9137?tab=description)
 
 BUGS
 -
