@@ -315,6 +315,23 @@ You need to go to a ripperdoc and hover over a slot to buy more slots
 </details>
 
 
+<details>
+<summary>The Cyberpunk 2077 splash screen will loop for a few minutes.</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+This can happen on the first few launches of the collection.
+
+Things to note.
+
+**1**) Make sure the game is installed on an **SSD**.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+
 
 
 ## Bugs
