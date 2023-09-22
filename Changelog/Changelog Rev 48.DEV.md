@@ -40,11 +40,15 @@ UPDATED
 - [Johnson's Stuff Exotics Set 1 - Fluffy Ears and Tail with physics](https://www.nexusmods.com/cyberpunk2077/mods/4485)
 - [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511)
 - [Stand Still Please](https://www.nexusmods.com/cyberpunk2077/mods/4714)
-- [Judy Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4508]
+- [Judy Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4508)
 - [City of Dreams Jacket and Tank Top](https://www.nexusmods.com/cyberpunk2077/mods/9137)
 - [Alvarix Custom Store - Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4602)
 - [(Silver Breezy Store) Alt Pants Recolors and Variations - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9007)
 - [NC Fashion Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4805)
+- [Immersion patch - The Hunt quest missing audio restore](https://www.nexusmods.com/cyberpunk2077/mods/7413)
+- [Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316)
+- [(Silver Breezy Store) Casual Sneakers - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9057)
+- [Faster Iguana Hatch](https://www.nexusmods.com/cyberpunk2077/mods/5112?tab=description)
 - [
 
 REMOVED
