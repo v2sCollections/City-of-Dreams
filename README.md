@@ -1,8 +1,27 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 
 
+# [IMPORTANT READ!!!](https://)
+
+### Hey chooms
+
+It's nearly time for **Phantom Liberty**&#x20;
+
+## [Mods](https://)
+
+Mods will be broken we don't know for how long it could be a day it could be a week. As soon as they have been updated we will be working hard on our new update.
+
+[INSTRUCTIONS TO ROLL BACK GAME VERSIONS](https://wiki.redmodding.org/cyberpunk-2077-modding/for-mod-users/users-modding-cyberpunk-2077/users-downgrading-preventing-auto-updates) If you want to continue to play the modded version of the game.
+
+[Cyberclean](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md#troubleshooting) If you want to play vanilla with the DLC. After the cyberclean **DO NOT** **deploy** the mods.&#x20;
+
+Regards v2
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
 ### **Updated & Compatible with Patch 1.63 Hotfix 1**
 
+IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/MRGHIA88V2/City-of-Dreams)
 
 ### Collection Rev 47        &#x20;
 
@@ -158,9 +177,9 @@ This collection is extensively tested with every new version that is released. I
 - Giveaways. Nexus Premium/Game Keys/Discord Nitro (Every Week).&#x20;
 - and much much more Join our Discord for more information.
 
-![](]https://i.imgur.com/VeCI8dy.png)[![](https://i.imgur.com/VeCI8dy.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow chooms every day.
+![](]https://i.imgur.com/VeCI8dy.png)[![](https://s11.gifyu.com/images/S4CqN.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow chooms every day.
 
-[![](https://s12.gifyu.com/images/SuqD4.png)](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)Follow us on [Youtube](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA) for guides and videos.
+[![](https://s11.gifyu.com/images/S4Cmy.png)](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)Follow us on [Youtube](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA) for guides and videos.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -745,7 +764,7 @@ You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 
 ## City of Dreams 97.7 FM
 
-![](https://s11.gifyu.com/images/SggWh.png)[City of Dreams 97.7 FM](https://www.nexusmods.com/cyberpunk2077/mods/9053)  by [2077v2](https://www.nexusmods.com/cyberpunk2077/users/123334373)
+![](https://s11.gifyu.com/images/SgB8o.png)[City of Dreams 97.7 FM](https://www.nexusmods.com/cyberpunk2077/mods/9053)  by [2077v2](https://www.nexusmods.com/cyberpunk2077/users/123334373)
 
 ### &#x20;Features
 
@@ -1564,7 +1583,9 @@ And all the teams and modders behind all the tools that make cyberpunk 2077 modd
 
 If you would like to support me so I can afford some new chrome click the button below and chuck me some eddies detes attached. Can't donate? I understand a simple thank you and endorsement is much appreciated.
 
-[![](https://s12.gifyu.com/images/Eddies.png)](https://www.buymeacoffee.com/2077v2)
+[![](https://s11.gifyu.com/images/S4peN.png)](https://patreon.com/v2sCollections?utm_medium=clipboard_copy\&utm_source=copyLink\&utm_campaign=creatorshare_creator\&utm_content=join_link)
+
+Or, [buy me a coffee](https://www.buymeacoffee.com/2077v2)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
