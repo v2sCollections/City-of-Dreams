@@ -49,6 +49,7 @@ UPDATED
 - [Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316)
 - [(Silver Breezy Store) Casual Sneakers - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9057)
 - [Faster Iguana Hatch](https://www.nexusmods.com/cyberpunk2077/mods/5112?tab=description)
+- [Unlock Fov](https://www.nexusmods.com/cyberpunk2077/mods/7989?tab=description)
 - [
 
 REMOVED
