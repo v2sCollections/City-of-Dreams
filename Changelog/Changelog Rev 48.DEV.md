@@ -7,7 +7,7 @@ NOTES
 -
 
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!! 
-CYBERCLEAN IS RECOMMENDED!!!
+CYBERCLEAN IS MANDORTORY!!!
 
 
 UPDATED
@@ -50,6 +50,11 @@ UPDATED
 - [(Silver Breezy Store) Casual Sneakers - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9057)
 - [Faster Iguana Hatch](https://www.nexusmods.com/cyberpunk2077/mods/5112?tab=description)
 - [Unlock Fov](https://www.nexusmods.com/cyberpunk2077/mods/7989?tab=description)
+- [Silent Silencers and Throwing Knives](https://www.nexusmods.com/cyberpunk2077/mods/4070?tab=description)
+- [Enhanced Big Breasts (EBB) - BODY MOD](https://www.nexusmods.com/cyberpunk2077/mods/4654?tab=description)
+- [Cookedprefabs Nulled](https://www.nexusmods.com/cyberpunk2077/mods/4789)
+- [Street Vendors](https://www.nexusmods.com/cyberpunk2077/mods/2894)
+- [Unequip Mods](https://www.nexusmods.com/cyberpunk2077/mods/2358)
 - [
 
 REMOVED
