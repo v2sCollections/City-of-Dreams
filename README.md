@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=vvpmq34uBAc
 
 ![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://) for **Cyberpunk 2077**.
 
-This isn't just a mod list we have slapped together this is a whole new world of **cyberpunk 2077** with hundreds of hours spent building, configuring, modding and testing to create the best cyberpunk experience possible.
+This isn't just a mod list we have slapped together this is a whole new world of **cyberpunk 2077** with hundreds of hours spent building, configuring, modding, and testing to create the best cyberpunk experience possible.
 
 This is a [800+](https://) Mod Collection it is the largest and most comprehensive mod list for **Cyberpunk 2077** it has been put together in a way that you can customize your playthrough to suit your style.&#x20;
 
@@ -205,15 +205,11 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [Updating Collection](https://)[   ](https://)
 
-- **⛔**Updating the collection is as easy as clicking the "Update" button. When prompted to "**Remove mods from old revision**" make sure to click the"**Remove All**" button.
+- Updating the collection is as easy as clicking the **"Update"** button.&#x20;
+- Make sure to update the current profile you are using inside of Vortex. Using one Profile ensures stability for Vortex.&#x20;
+- When prompted to "**Remove mods from old revision**" make sure to click the "**Remove All**" button.
 - ⛔**DO NOT update** any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
 - Notes will be in the changelog.
-- After an update do the following.\
-  1\) Travel to V's first/main apartment in H10\
-  2\) Find and use the \[REBOOT NCI] interaction in the stash room\
-  3\) Leave the apartment and then walk back in
-
-This resets the mod Night City Interactions.
 
 ## [Launching Cyberpunk 2077](https://)
 
@@ -225,7 +221,7 @@ This resets the mod Night City Interactions.
 
 ## ![img](https://i.imgur.com/JyLQDVe.png)[READ](https://)
 
-- ⛔ It Is important that you**READ**the following Installation guide to fully understand everything clearly. It is a simple step-by-step guide.
+- ⛔ It Is important that you **READ **the following Installation guide to fully understand everything clearly. It is a simple step-by-step guide.
 
 ## [Install time](https://)
 
@@ -250,9 +246,11 @@ https://www.youtube.com/watch?v=sn-Ju\_OWP\_8
 
 ## [Cyberpunk2077](https://)
 
-1. Start with a fresh install of Cyberpunk 2077.
-2. ⛔ Make sure the game is installed on an SSD.
-3. You need to create a mod folder go to the following location (Locations below) and create a folder named mod. When done should look as follows.
+**1**) Start with a fresh install of Cyberpunk 2077.
+
+**2**) ⛔ Make sure the game is installed on an SSD.
+
+**3**) You need to create a mod folder go to the following location (Locations below) and create a folder named mod. When done should look as follows.
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk 2077\archive\pc\mod
@@ -260,15 +258,13 @@ GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk 2077\archive\pc\mod
 Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 ```
 
-1. ⛔ Launch Cyberpunk 2077 and go to the settings menu and on the gameplay, tab turn off "Enable Analytics" and "Enable cross-platform Saves"
-
-![](https://s12.gifyu.com/images/SWeJF.png)
+**4**) ⛔ Launch Cyberpunk 2077 and go to the settings menu and on the gameplay, tab turn off "Enable Analytics" and "Enable cross-platform Saves"
 
 ***
 
 ## [Vortex](https://)
 
-1. You will need [Vortex](https://www.nexusmods.com/site/mods/1) mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
+**1**) You will need [Vortex](https://www.nexusmods.com/site/mods/1) mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
 
 [![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1 "Vortex page")
 
@@ -276,17 +272,15 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 ## [Vortex & Cyberpunk](https://)
 
-1. Open Vortex and click on "Select a game to manage".
+**1**) Open Vortex and click on "Select a game to manage".
 
-![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)
+![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)**2**) On the next screen scroll down to the **"Cyberpunk 2077"** icon and click on **"Manage".**
 
-6 ) On the next screen scroll down to the **"Cyberpunk 2077"** icon and click on **"Manage".**
+![](https://s12.gifyu.com/images/Untitled99ac613c165d0e14.jpg)**3**) On the popup that appears click on **"Download"** on the bottom right, and Vortex will restart.
 
-![](https://s12.gifyu.com/images/Untitled99ac613c165d0e14.jpg)7 ) On the popup that appears click on **"Download"** on the bottom right, and Vortex will restart.
+**4**) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
 
-8 ) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
-
-9 ) A window will now pop up where you can choose the folder where  **"Cyberpunk 2077"** is installed. **(Locations below)**.
+**5**) A window will now pop up where you can choose the folder where  **"Cyberpunk 2077"** is installed. **(Locations below)**.
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk 2077
@@ -294,14 +288,13 @@ GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk 2077
 Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 ```
 
-10 ) Vortex will pop up a window titled **"REDmod DLC missing"** Click **"Ignore".**
+**6**) Vortex will pop up a window titled **"REDmod DLC missing"** Click **"Ignore".**
 
-![](https://s12.gifyu.com/images/Redmod-Missing.jpg)
+![](https://s12.gifyu.com/images/Redmod-Missing.jpg)**7**) On your main Vortex window, it will now show an icon for **"Cyberpunk 2077"** showing that it is a managed game in Vortex.
 
-11 ) On your main Vortex window, it will now show an icon for **"Cyberpunk 2077"** showing that it is a managed game in Vortex.
+**8**) Go to the settings and on the Mods tab check **"automatically use suggested path for staging folder"** then check "**suggest and "apply".**
 
-1. Go to the settings and on the mods tab check "automatically use suggested path for staging folder" then check "**suggest and "apply".**
-2. On the same window select "hard link deployment" and check "apply".
+**9**) On the same window select "hard link deployment" and check "apply".
 
 ![](https://s11.gifyu.com/images/Untitledef56ac4a42e1f37d.jpg)
 
@@ -309,25 +302,23 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ## [Disabling REDmod Autoconversion](https://)
 
-1. ⛔ While still in settings go to the "V2077 Settings" tab and make sure that REDmod Autoconvert is disabled as shown in the picture below.
-
-![](https://s11.gifyu.com/images/Untitle44d.jpg)
+**1**) ⛔ While still in settings go to the "V2077 Settings" tab and make sure that REDmod Autoconvert is disabled as shown in the picture below.
 
 ***
 
 ## [INSTALLING THE COLLECTION](https://)
 
-1. Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
+**1**) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
-![](https://s12.gifyu.com/images/Screenshot-2023-04-17-115745.png)
-
-1. Click "Add to Vortex"(choose your newly created profile).
+![](https://s12.gifyu.com/images/Screenshot-2023-04-17-115745.png)**2**) Click "Add to Vortex"(choose your newly created profile).
 
 ![](https://s12.gifyu.com/images/Untitled1.png)
 
+***
+
 ## [POPUPS](https://)
 
-1. These may pop up in Vortex as you are downloading the collection.
+**1**) These may pop up in Vortex as you are downloading the collection.
 
 - When you see a pop-up titled **"Mod contains protected paths"** select **"Yes install to staging anyway"**
 - When you see a pop-up titled **"You have reached the fallback installer"** select "Yes install to staging anyway"
@@ -343,18 +334,17 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 \***Note** If you don't want the optional mods skip this step.
 
-1. Select **"show"** optional mods then select **"no thanks"**
+**1**) Select **"show"** optional mods then select **"no thanks"**
 
-![](https://s11.gifyu.com/images/Optinal.jpg)
-
-Now you can choose which ***(OPTIONAL)***  mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(make sure to read these messages)**.
+![](https://s11.gifyu.com/images/Optinal.jpg)Now you can choose which ***(OPTIONAL)***  mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(make sure to read these messages)**.
 
 ***
 
 ## [In-game settings](https://)
 
-1. To use CET (Cyber Engine Tweaks) use [F11](https://) on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Vehicle camera and many more.
-2. I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory. Or here [Keybinds](https://github.com/2077v2/City-of-Dreams/blob/main/Keybinds.md)
+**1**) To use CET (Cyber Engine Tweaks) use [F11](https://) on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Vehicle camera and many more.
+
+**2**) I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory. Or here [Keybinds](https://github.com/2077v2/City-of-Dreams/blob/main/Keybinds.md)
 
 <details><summary>CLICK FOR A FULL LIST OF KEYBINDS</summary>
 ![](https://camo.githubusercontent.com/71498d3b97846faa765d38d209aefd3ee430c046f95ab05930ce0f5e03d1c039/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4b657962696e64732e706e67)
@@ -468,9 +458,9 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 ![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
 </details>
 
-1. ⛔ On the main menu go to the graphics tab and you will find "texture quality"  Set this to "HIGH".
+**3**) ⛔ On the main menu go to the graphics tab and you will find "texture quality"  Set this to "HIGH".
 
-![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)4. If you installed the optional "HUDitor" mod then once in the game hold SHIFT and press U to customize the HUD settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
+![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)**4**) If you installed the **(OPTIONAL)** "HUDitor" mod then once in the game hold SHIFT and press U to customize the HUD settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
 
 ***
 
@@ -485,11 +475,11 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 <details><summary>CLICK HERE FOR OPTIONAL RESHADE INSTALLATION</summary>
 ReShade is included with the collection once you have finished downloading it will be placed on the toolbar in the top left-hand corner of Vortex.
 
-1. Click on Reshade in the top corner.
+**1**) Click on Reshade in the top corner.
 
 ![](https://s11.gifyu.com/images/Reshade994ca6dfeae6e8e5.jpg)
 
-1. Select browse and find the **"*****Cyberpunk2077.exe*****"** and select it.**(Locations below)**
+**2**) Select browse and find the **"*****Cyberpunk2077.exe*****"** and select it.**(Locations below)**
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk2077.exe
@@ -497,10 +487,13 @@ GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk2077.exe
 Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe  
 ```
 
-1. Select Directx 10/11/12
-2. On the **"select preset to install"** select next
-3. Select next and finish the installation.
-4. Run the game
+**3**) Select Directx 10/11/12
+
+**4**) On the **"select preset to install"** select next
+
+**5**) Select next and finish the installation.
+
+Run the game
 
 I have added the Reshade below.
 
@@ -1587,9 +1580,7 @@ If you would like to support me so I can afford some new chrome click the button
 
 Or, [buy me a coffee](https://www.buymeacoffee.com/2077v2)
 
-![img](https://i.imgur.com/wAJUpeU.png)
-
-## ![](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)[Disclaimer](https://)
+### ![img](https://i.imgur.com/wAJUpeU.png)[Disclaimer](https://)
 
 - ⛔ I will not be responsible for any possibility of save corruption.
 - ⛔ Please don't use a similar name to this collection.
