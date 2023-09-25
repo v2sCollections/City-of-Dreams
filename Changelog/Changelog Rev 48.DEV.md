@@ -55,6 +55,9 @@ UPDATED
 - [Cookedprefabs Nulled](https://www.nexusmods.com/cyberpunk2077/mods/4789)
 - [Street Vendors](https://www.nexusmods.com/cyberpunk2077/mods/2894)
 - [Unequip Mods](https://www.nexusmods.com/cyberpunk2077/mods/2358)
+- [(Silver Breezy Store) Accessory Collection - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7850)
+- [Notifications For Radio Song Changes](https://www.nexusmods.com/cyberpunk2077/mods/4631?tab=description)
+- [(Silver Breezy Store) Accessory Collection - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7850)
 - [
 
 REMOVED
