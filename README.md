@@ -221,7 +221,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## ![img](https://i.imgur.com/JyLQDVe.png)[READ](https://)
 
-- ⛔ It Is important that you **READ **the following Installation guide to fully understand everything clearly. It is a simple step-by-step guide.
+- ⛔ It Is important that you **READ** the following Installation guide to fully understand everything clearly. It is a simple step-by-step guide.
 
 ## [Install time](https://)
 
@@ -701,7 +701,7 @@ You can find these items in the Dedicated [City of Dreams Atelier Store](https:/
 ## ![](https://s11.gifyu.com/images/Graphics.png)
 
 - Reshade included.
-- Reshade Presets.
+- Reshade Preset.
 - Draw distance boost.
 - Unlocked FOV.
 - Remove the Crouch vignette effect.
@@ -709,8 +709,16 @@ You can find these items in the Dedicated [City of Dreams Atelier Store](https:/
 - 100+ Loading Screens added to the game.
 - Clean Loading Screens.
 - Limited dynamic hud elements.
-- No Camera Auto Centering.
+- No Camera auto-centering.
 
+## A message from [XilaMonstrr](https://www.nexusmods.com/starfield/users/126616023)
+
+**ABOUT ME**\
+I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=user+files), nearly all texture optimization or upscaling for Skyrim and Cyberpunk 2077, including [Performance Optimized Textures for all of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/68055). My work has been featured in a number of gaming magazines over the past two years.\
+\
+You can find me in [v2's discord here](https://discord.gg/v2-s-collections-1076179431195955290).
+
+<details><summary>CLICK HERE TO SEE WHAT GRAPHICS MODS COME WITH THE COLLECTION</summary>
 > [Upscaled Videos Include](https://)
 
 - UHD Main Menu Splash Screens.
@@ -718,11 +726,18 @@ You can find these items in the Dedicated [City of Dreams Atelier Store](https:/
 - UHD Splash Screen.
 - QHD Intro.
 - QHD Edgerunner Braindance.
-- HD Pachinko Palor.
+- HD Pachinko Parlor.
 - Clean Loading Screens
 
 > [Upscaled Textures Include](https://)
 
+- Every NPC
+- Tattoos
+- World Map.
+- Graffiti
+- Cyberware
+- Poster and Signs.
+- Vending Machines.
 - Bricks.
 - Concrete.
 - Rocks.
@@ -736,8 +751,9 @@ You can find these items in the Dedicated [City of Dreams Atelier Store](https:/
 - Tiles.
 - Water.
 - Food.
+</details>
 
-⛔ Note that some of these will eat your VRAM I recommend a min 8 GB GPU but even then depending on your settings vanilla cyberpunk will eat 8 GB. If you notice stuttering or any texture issues then disable a few of the (surfaces mods) in vortex.
+⛔ Note that some of these will eat your VRAM I recommend a min 8 GB GPU but even then depending on your settings vanilla cyberpunk will eat 8 GB. If you notice stuttering or any texture issues then disable a few of the (surface mods) in Vortex.
 
 You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high-end** systems only 16 GB Vram+)
 
