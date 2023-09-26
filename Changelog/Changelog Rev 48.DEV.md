@@ -59,7 +59,10 @@ UPDATED
 - [Notifications For Radio Song Changes](https://www.nexusmods.com/cyberpunk2077/mods/4631?tab=description)
 - [(Silver Breezy Store) Accessory Collection - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7850)
 - [Panam Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4626?tab=description)
-
+- [Kerry Interactions Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4990)
+- [Weather Probability Rebalance](https://www.nexusmods.com/cyberpunk2077/mods/3196?tab=description)
+- [River Romanced Enhanced (and general fixes)](https://www.nexusmods.com/cyberpunk2077/mods/4870)
+- [
 REMOVED
 -
 
