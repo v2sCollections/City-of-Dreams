@@ -58,11 +58,12 @@ UPDATED
 - [(Silver Breezy Store) Accessory Collection - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7850)
 - [Notifications For Radio Song Changes](https://www.nexusmods.com/cyberpunk2077/mods/4631?tab=description)
 - [(Silver Breezy Store) Accessory Collection - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7850)
-- [
+- [Panam Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4626?tab=description)
 
 REMOVED
 -
 
+- [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064)
 
 NEW MODS ADDED 
 -
@@ -125,5 +126,6 @@ MODS NOT WORKING AT THE MOMENT
 - [CTD Helper](https://)
 - [In-World Navigation](https://)
 - [The Afterlife - Re imagined](https://)
+- [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064)
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
