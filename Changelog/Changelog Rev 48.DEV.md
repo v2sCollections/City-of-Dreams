@@ -62,16 +62,19 @@ UPDATED
 - [Kerry Interactions Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4990)
 - [Weather Probability Rebalance](https://www.nexusmods.com/cyberpunk2077/mods/3196?tab=description)
 - [River Romanced Enhanced (and general fixes)](https://www.nexusmods.com/cyberpunk2077/mods/4870)
-- [
+- [Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718?tab=description)
+
+
 REMOVED
 -
 
 - [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064)
+- [Underwear removal extended - includes FPP and TPP modes - The Cyberpunk 2077 Player nude patch CET edition.](https://www.nexusmods.com/cyberpunk2077/mods/4605?tab=description)
 
 NEW MODS ADDED 
 -
 
-
+- [Player Underwear Removal Extended Redscript 4 Game 2.x](https://www.nexusmods.com/cyberpunk2077/mods/9264)
 - [City of Dreams Jacket and Tank Top](https://www.nexusmods.com/cyberpunk2077/mods/9137?tab=description)
 - [High-Res Hair and Beards - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7184?tab=description)
 - [High Res NPCs - Altiera Cunningham](https://www.nexusmods.com/cyberpunk2077/mods/7624?tab=description)
