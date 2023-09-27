@@ -24,7 +24,6 @@ UPDATED
 
 - [Cookedprefabs Nulled](https://www.nexusmods.com/cyberpunk2077/mods/4789)
 
-## MODS
 
 ### BODY
 
