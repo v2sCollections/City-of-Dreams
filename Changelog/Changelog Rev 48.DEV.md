@@ -9,9 +9,55 @@ NOTES
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!! 
 CYBERCLEAN IS MANDORTORY!!!
 
+- Changed the name of the Collection.
 
 UPDATED
 -
+
+### CORE
+
+- [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107)
+- [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)
+- [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511)
+
+### CORE 2
+
+- [Cookedprefabs Nulled](https://www.nexusmods.com/cyberpunk2077/mods/4789)
+
+## MODS
+
+### BODY
+
+- [Underwear removal extended - includes FPP and TPP modes - The Cyberpunk 2077 Player nude patch CET edition.](https://www.nexusmods.com/cyberpunk2077/mods/4605)
+- [Restored Crafting Specs](https://www.nexusmods.com/cyberpunk2077/mods/4250)
+- [Enhanced Big Breasts (EBB) - BODY MOD](https://www.nexusmods.com/cyberpunk2077/mods/4654?tab=description)
+
+### GAMEPLAY
+
+- [Simple Menu - An In-Game UI including Hotkeys](https://www.nexusmods.com/cyberpunk2077/mods/818)
+- [Filter Saves by Lifepath and Type](https://www.nexusmods.com/cyberpunk2077/mods/3400)
+- [Better Loot Markers](https://www.nexusmods.com/cyberpunk2077/mods/3486)
+- [Stand Still Please](https://www.nexusmods.com/cyberpunk2077/mods/4714)
+- [Judy Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4508)
+- [Immersion patch - The Hunt quest missing audio restore](https://www.nexusmods.com/cyberpunk2077/mods/7413)
+- [Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316)
+- [Street Vendors](https://www.nexusmods.com/cyberpunk2077/mods/2894)
+- [Unequip Mods](https://www.nexusmods.com/cyberpunk2077/mods/2358)
+- [Panam Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4626?tab=description)
+- [Kerry Interactions Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4990)
+- [Weather Probability Rebalance](https://www.nexusmods.com/cyberpunk2077/mods/3196?tab=description)
+- [River Romanced Enhanced (and general fixes)](https://www.nexusmods.com/cyberpunk2077/mods/4870)
+- [Immersion patch - The Hunt quest missing audio restore](https://www.nexusmods.com/cyberpunk2077/mods/7413?tab=description)
+- [Use Your Cybernetic Eyes to Aim 2.0](https://www.nexusmods.com/cyberpunk2077/mods/6793?tab=description)
+- [QoL - Interactive Judy's Apartment Devices](https://www.nexusmods.com/cyberpunk2077/mods/8099)
+- [Faster Iguana Hatch](https://www.nexusmods.com/cyberpunk2077/mods/5112?tab=description)
+- [Unlock Fov](https://www.nexusmods.com/cyberpunk2077/mods/7989?tab=description)
+- [Silent Silencers and Throwing Knives](https://www.nexusmods.com/cyberpunk2077/mods/4070?tab=description)
+- [Notifications For Radio Song Changes](https://www.nexusmods.com/cyberpunk2077/mods/4631?tab=description)
+- [Edgerunners Location Additions](https://www.nexusmods.com/cyberpunk2077/mods/5428?tab=description)
+- [Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016?tab=description)
+
+### CLOTHING
 
 - [City of Dreams Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/8344)
 - [Silver Six - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/7032)
@@ -24,45 +70,23 @@ UPDATED
 - [(Silver Breezy Store) Rogue Boots - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8332)
 - [(Silver Breezy Store) Alt's Cyberdeck - Archive XL - AMM Prop](https://www.nexusmods.com/cyberpunk2077/mods/8875)
 - [(Silver Six Store) Wizzo's 'Kassie' Over-Knee Boots - Male V](https://www.nexusmods.com/cyberpunk2077/mods/8003)
-- [Underwear removal extended - includes FPP and TPP modes - The Cyberpunk 2077 Player nude patch CET edition.](https://www.nexusmods.com/cyberpunk2077/mods/4605)
-- [Restored Crafting Specs](https://www.nexusmods.com/cyberpunk2077/mods/4250)
 - [(Silver Breezy Store) Long Spike Boots - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7818)
-- [Simple Menu - An In-Game UI including Hotkeys](https://www.nexusmods.com/cyberpunk2077/mods/818)
-- [Filter Saves by Lifepath and Type](https://www.nexusmods.com/cyberpunk2077/mods/3400)
 - [VEEGEE SHOP](https://www.nexusmods.com/cyberpunk2077/mods/8183)
 - [The RVC00N Dumpster (PinkyDude's Virtual Atelier Store)](https://www.nexusmods.com/cyberpunk2077/mods/5802)
 - [The RVC00N Dumpster - Dexter Deshawn Glasses (M F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8958)
-- [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [(Silver Touch) Doll Body Cyberware - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8686)
 - [Nola Dreamer and Aquelyras atelier](https://www.nexusmods.com/cyberpunk2077/mods/8704)
 - [Zwei Custom PMU Pose Packs - MascV - Core](https://www.nexusmods.com/cyberpunk2077/mods/7763)
-- [Better Loot Markers](https://www.nexusmods.com/cyberpunk2077/mods/3486)
 - [Johnson's Stuff Exotics Set 1 - Fluffy Ears and Tail with physics](https://www.nexusmods.com/cyberpunk2077/mods/4485)
-- [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511)
-- [Stand Still Please](https://www.nexusmods.com/cyberpunk2077/mods/4714)
-- [Judy Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4508)
 - [City of Dreams Jacket and Tank Top](https://www.nexusmods.com/cyberpunk2077/mods/9137)
 - [Alvarix Custom Store - Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4602)
 - [(Silver Breezy Store) Alt Pants Recolors and Variations - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9007)
 - [NC Fashion Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4805)
-- [Immersion patch - The Hunt quest missing audio restore](https://www.nexusmods.com/cyberpunk2077/mods/7413)
-- [Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316)
+- [(Silver Breezy Store) Accessory Collection - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7850)
 - [(Silver Breezy Store) Casual Sneakers - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9057)
-- [Faster Iguana Hatch](https://www.nexusmods.com/cyberpunk2077/mods/5112?tab=description)
-- [Unlock Fov](https://www.nexusmods.com/cyberpunk2077/mods/7989?tab=description)
-- [Silent Silencers and Throwing Knives](https://www.nexusmods.com/cyberpunk2077/mods/4070?tab=description)
-- [Enhanced Big Breasts (EBB) - BODY MOD](https://www.nexusmods.com/cyberpunk2077/mods/4654?tab=description)
-- [Cookedprefabs Nulled](https://www.nexusmods.com/cyberpunk2077/mods/4789)
-- [Street Vendors](https://www.nexusmods.com/cyberpunk2077/mods/2894)
-- [Unequip Mods](https://www.nexusmods.com/cyberpunk2077/mods/2358)
 - [(Silver Breezy Store) Accessory Collection - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7850)
-- [Notifications For Radio Song Changes](https://www.nexusmods.com/cyberpunk2077/mods/4631?tab=description)
-- [(Silver Breezy Store) Accessory Collection - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7850)
-- [Panam Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4626?tab=description)
-- [Kerry Interactions Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4990)
-- [Weather Probability Rebalance](https://www.nexusmods.com/cyberpunk2077/mods/3196?tab=description)
-- [River Romanced Enhanced (and general fixes)](https://www.nexusmods.com/cyberpunk2077/mods/4870)
-- [Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718?tab=description)
+
+
 
 
 REMOVED
@@ -70,6 +94,7 @@ REMOVED
 
 - [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064)
 - [Underwear removal extended - includes FPP and TPP modes - The Cyberpunk 2077 Player nude patch CET edition.](https://www.nexusmods.com/cyberpunk2077/mods/4605?tab=description)
+- [Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718?tab=description)
 
 NEW MODS ADDED 
 -
@@ -133,5 +158,6 @@ MODS NOT WORKING AT THE MOMENT
 - [In-World Navigation](https://)
 - [The Afterlife - Re imagined](https://)
 - [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064)
+- [Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718?tab=description)
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
