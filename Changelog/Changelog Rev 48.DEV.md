@@ -19,11 +19,15 @@ UPDATED
 - [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107)
 - [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511)
+- [TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197)
+- [RED4ext](https://www.nexusmods.com/cyberpunk2077/mods/2380)
+- [Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780)
 
 ### CORE 2
 
 - [Cookedprefabs Nulled](https://www.nexusmods.com/cyberpunk2077/mods/4789)
-
+- [Native Settings UI](https://www.nexusmods.com/cyberpunk2077/mods/3518?tab=description)
+- [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 
 ### BODY
 
@@ -55,6 +59,21 @@ UPDATED
 - [Notifications For Radio Song Changes](https://www.nexusmods.com/cyberpunk2077/mods/4631?tab=description)
 - [Edgerunners Location Additions](https://www.nexusmods.com/cyberpunk2077/mods/5428?tab=description)
 - [Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016?tab=description)
+- [Stash Filters](https://www.nexusmods.com/cyberpunk2077/mods/5298)
+- [Sleeves](https://www.nexusmods.com/cyberpunk2077/mods/3309)
+- [Simple XP Multiplier](https://www.nexusmods.com/cyberpunk2077/mods/3136)
+- [Relic Effect Periods](https://www.nexusmods.com/cyberpunk2077/mods/5113)
+- [I Really Want To Stay At Your House - Judy](https://www.nexusmods.com/cyberpunk2077/mods/8753)
+- [Quadra Turbo K.S Edition](https://www.nexusmods.com/cyberpunk2077/mods/8260)
+- [Improved Slide](https://www.nexusmods.com/cyberpunk2077/mods/5533?tab=description)
+- [More Frequent Dismemberment](https://www.nexusmods.com/cyberpunk2077/mods/3694)
+- [FreeFly (Noclip)](https://www.nexusmods.com/cyberpunk2077/mods/780)
+- [JB - TPP MOD WIP third person](https://www.nexusmods.com/cyberpunk2077/mods/669?tab=description)
+- [Level Scaling and Balance](https://www.nexusmods.com/cyberpunk2077/mods/1712)
+- [Always First Equip](https://www.nexusmods.com/cyberpunk2077/mods/2557)
+- [Appearance Change Unlocker - Character Preset Manager](https://www.nexusmods.com/cyberpunk2077/mods/3850)
+- [Convo Skill Check Scaling](https://www.nexusmods.com/cyberpunk2077/mods/2886)
+- [
 
 ### CLOTHING
 
