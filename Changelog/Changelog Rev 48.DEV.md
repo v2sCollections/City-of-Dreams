@@ -143,6 +143,8 @@ UPDATED
 - [Apartment Cats - Corpo Plaza](https://www.nexusmods.com/cyberpunk2077/mods/6329)
 - [Apartment Cats - Japantown](https://www.nexusmods.com/cyberpunk2077/mods/6493)
 
+![img](https://i.imgur.com/wAJUpeU.png)
+
 REMOVED
 -
 
@@ -158,6 +160,7 @@ REMOVED
 - [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064) 
 - [QoL - Fix for the Arasaka nuke being on the 21st...](https://www.nexusmods.com/cyberpunk2077/mods/9004?tab=description)
 
+![img](https://i.imgur.com/wAJUpeU.png)
 
 NEW MODS ADDED 
 -
@@ -217,6 +220,8 @@ NEW MODS ADDED
 - [High Res NPCs - US Cracks](https://www.nexusmods.com/cyberpunk2077/mods/7957?tab=description)
 - [High-Res Architecture - V's Apartment - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/6305?tab=description)
 - [High-Res NPCs - 8ug8ear](https://www.nexusmods.com/cyberpunk2077/mods/7167?tab=description)
+
+![img](https://i.imgur.com/wAJUpeU.png)
 
 BUGS
 -
