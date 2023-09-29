@@ -149,6 +149,7 @@ REMOVED
 - [Underwear removal extended - includes FPP and TPP modes - The Cyberpunk 2077 Player nude patch CET edition.](https://www.nexusmods.com/cyberpunk2077/mods/4605?tab=description)
 - [Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718?tab=description)
 - [4k Complexion and Body for Female V](https://www.nexusmods.com/cyberpunk2077/mods/1873?tab=description)
+- [Authentic Shift Audio Gear Ratios (Standalone or Cyber Vehicle Overhaul)](https://www.nexusmods.com/cyberpunk2077/mods/6823?tab=description)
 
 ### NOW IN BASE GAME
 
@@ -170,7 +171,6 @@ NEW MODS ADDED
 - [Srgpf Full Outfit For MALE - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9151?tab=description)
 - [Srgpf Full Outfit For FEM - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9150?tab=description)
 - [Adgn Full Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9086?tab=description)
-- [
 
 ### TEXTURES
 
@@ -233,5 +233,6 @@ MODS NOT WORKING AT THE MOMENT
 - [The Afterlife - Re imagined](https://)
 - [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064)
 - [Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718?tab=description)
+- [Authentic Shift Audio Gear Ratios (Standalone or Cyber Vehicle Overhaul)](https://www.nexusmods.com/cyberpunk2077/mods/6823?tab=description)
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
