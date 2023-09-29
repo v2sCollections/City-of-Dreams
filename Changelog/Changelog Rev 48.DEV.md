@@ -155,7 +155,7 @@ REMOVED
 - [Notifications For Radio Song Changes](https://www.nexusmods.com/cyberpunk2077/mods/4631)
 - [Simple untrack quest](https://www.nexusmods.com/cyberpunk2077/mods/5177?tab=description) 
 - [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064) 
-
+- [QoL - Fix for the Arasaka nuke being on the 21st...](https://www.nexusmods.com/cyberpunk2077/mods/9004?tab=description)
 
 
 NEW MODS ADDED 
