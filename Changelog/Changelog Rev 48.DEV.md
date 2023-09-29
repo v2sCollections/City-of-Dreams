@@ -146,16 +146,34 @@ UPDATED
 REMOVED
 -
 
-- [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064) IN BASE GAME
 - [Underwear removal extended - includes FPP and TPP modes - The Cyberpunk 2077 Player nude patch CET edition.](https://www.nexusmods.com/cyberpunk2077/mods/4605?tab=description)
 - [Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718?tab=description)
-- [Simple untrack quest](https://www.nexusmods.com/cyberpunk2077/mods/5177?tab=description) IN BASE GAME
+
+
+### NOW IN BASE GAME
+
+- [Notifications For Radio Song Changes](https://www.nexusmods.com/cyberpunk2077/mods/4631)
+- [Simple untrack quest](https://www.nexusmods.com/cyberpunk2077/mods/5177?tab=description) 
+- [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064) 
+
+
 
 NEW MODS ADDED 
 -
 
+### CLOTHING
+
+- [Maid Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9238?tab=description)
 - [Player Underwear Removal Extended Redscript 4 Game 2.x](https://www.nexusmods.com/cyberpunk2077/mods/9264)
 - [City of Dreams Jacket and Tank Top](https://www.nexusmods.com/cyberpunk2077/mods/9137?tab=description)
+- [Nike Shoe - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9201?tab=description)
+- [Srgpf Full Outfit For MALE - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9151?tab=description)
+- [Srgpf Full Outfit For FEM - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9150?tab=description)
+- [Adgn Full Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9086?tab=description)
+- [
+
+### TEXTURES
+
 - [High-Res Hair and Beards - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7184?tab=description)
 - [High Res NPCs - Altiera Cunningham](https://www.nexusmods.com/cyberpunk2077/mods/7624?tab=description)
 - [High Res NPCs - Claire Russell](https://www.nexusmods.com/cyberpunk2077/mods/7625?tab=description)
