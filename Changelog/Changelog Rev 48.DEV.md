@@ -39,8 +39,6 @@ UPDATED
 ### GAMEPLAY
 
 - [Simple Menu - An In-Game UI including Hotkeys](https://www.nexusmods.com/cyberpunk2077/mods/818)
-- [Filter Saves by Lifepath and Type](https://www.nexusmods.com/cyberpunk2077/mods/3400)
-- [Better Loot Markers](https://www.nexusmods.com/cyberpunk2077/mods/3486)
 - [Stand Still Please](https://www.nexusmods.com/cyberpunk2077/mods/4714)
 - [Immersion patch - The Hunt quest missing audio restore](https://www.nexusmods.com/cyberpunk2077/mods/7413)
 - [Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316)
@@ -53,7 +51,6 @@ UPDATED
 - [Faster Iguana Hatch](https://www.nexusmods.com/cyberpunk2077/mods/5112?tab=description)
 - [Unlock Fov](https://www.nexusmods.com/cyberpunk2077/mods/7989?tab=description)
 - [Silent Silencers and Throwing Knives](https://www.nexusmods.com/cyberpunk2077/mods/4070?tab=description)
-- [Notifications For Radio Song Changes](https://www.nexusmods.com/cyberpunk2077/mods/4631?tab=description)
 - [Edgerunners Location Additions](https://www.nexusmods.com/cyberpunk2077/mods/5428?tab=description)
 - [Stash Filters](https://www.nexusmods.com/cyberpunk2077/mods/5298)
 - [Sleeves](https://www.nexusmods.com/cyberpunk2077/mods/3309)
@@ -67,13 +64,18 @@ UPDATED
 - [Level Scaling and Balance](https://www.nexusmods.com/cyberpunk2077/mods/1712)
 - [Always First Equip](https://www.nexusmods.com/cyberpunk2077/mods/2557)
 - [Appearance Change Unlocker - Character Preset Manager](https://www.nexusmods.com/cyberpunk2077/mods/3850)
-- [Convo Skill Check Scaling](https://www.nexusmods.com/cyberpunk2077/mods/2886)
 - [TV Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/8162)
+- [Crouch vignette effect remover](https://www.nexusmods.com/cyberpunk2077/mods/535)
+
+### UI+HUD
+
+- [Dot No More and - no Sticky Crosshair - no sticky Subtitles - no sticky Progress Bar - no Shard sticky hum](https://www.nexusmods.com/cyberpunk2077/mods/3102?tab=description)
 - [Immersive Timeskip](https://www.nexusmods.com/cyberpunk2077/mods/5115)
 - [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)
-- [Crouch vignette effect remover](https://www.nexusmods.com/cyberpunk2077/mods/535)
-- [
-
+- [Convo Skill Check Scaling](https://www.nexusmods.com/cyberpunk2077/mods/2886)
+- [Notifications For Radio Song Changes](https://www.nexusmods.com/cyberpunk2077/mods/4631?tab=description)
+- [Filter Saves by Lifepath and Type](https://www.nexusmods.com/cyberpunk2077/mods/3400)
+- [Better Loot Markers](https://www.nexusmods.com/cyberpunk2077/mods/3486)
 
 ### NPC IMMERSION
 
@@ -144,9 +146,10 @@ UPDATED
 REMOVED
 -
 
-- [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064)
+- [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064) IN BASE GAME
 - [Underwear removal extended - includes FPP and TPP modes - The Cyberpunk 2077 Player nude patch CET edition.](https://www.nexusmods.com/cyberpunk2077/mods/4605?tab=description)
 - [Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718?tab=description)
+- [Simple untrack quest](https://www.nexusmods.com/cyberpunk2077/mods/5177?tab=description) IN BASE GAME
 
 NEW MODS ADDED 
 -
