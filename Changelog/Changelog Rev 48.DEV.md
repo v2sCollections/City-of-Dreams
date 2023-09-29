@@ -148,7 +148,7 @@ REMOVED
 
 - [Underwear removal extended - includes FPP and TPP modes - The Cyberpunk 2077 Player nude patch CET edition.](https://www.nexusmods.com/cyberpunk2077/mods/4605?tab=description)
 - [Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718?tab=description)
-
+- [4k Complexion and Body for Female V](https://www.nexusmods.com/cyberpunk2077/mods/1873?tab=description)
 
 ### NOW IN BASE GAME
 
@@ -174,6 +174,7 @@ NEW MODS ADDED
 
 ### TEXTURES
 
+- [4k Body - Extra - Abs](https://www.nexusmods.com/cyberpunk2077/mods/7125?tab=description)
 - [High-Res Hair and Beards - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7184?tab=description)
 - [High Res NPCs - Altiera Cunningham](https://www.nexusmods.com/cyberpunk2077/mods/7624?tab=description)
 - [High Res NPCs - Claire Russell](https://www.nexusmods.com/cyberpunk2077/mods/7625?tab=description)
