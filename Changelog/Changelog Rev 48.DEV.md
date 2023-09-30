@@ -29,7 +29,8 @@ UPDATED
 - [Cookedprefabs Nulled](https://www.nexusmods.com/cyberpunk2077/mods/4789)
 - [Native Settings UI](https://www.nexusmods.com/cyberpunk2077/mods/3518?tab=description)
 - [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)
-- 
+- [Deceptious Quest Core](https://www.nexusmods.com/cyberpunk2077/mods/7831)
+
 ### BODY
 
 - [Underwear removal extended - includes FPP and TPP modes - The Cyberpunk 2077 Player nude patch CET edition.](https://www.nexusmods.com/cyberpunk2077/mods/4605)
@@ -76,6 +77,9 @@ UPDATED
 - [Notifications For Radio Song Changes](https://www.nexusmods.com/cyberpunk2077/mods/4631?tab=description)
 - [Filter Saves by Lifepath and Type](https://www.nexusmods.com/cyberpunk2077/mods/3400)
 - [Better Loot Markers](https://www.nexusmods.com/cyberpunk2077/mods/3486)
+- [Mark To Sell](https://www.nexusmods.com/cyberpunk2077/mods/4725)
+- [Real Vendor Names](https://www.nexusmods.com/cyberpunk2077/mods/4941)
+- [HUDitor](https://www.nexusmods.com/cyberpunk2077/mods/3315)
 
 ### NPC IMMERSION
 
@@ -109,6 +113,7 @@ UPDATED
 - [(Silver Breezy Store) Casual Sneakers - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9057)
 - [(Silver Breezy Store) Accessory Collection - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7850)
 - [(Silver Breezy Store) Alt Pants Recolors and Variations - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9007)
+- [Full Body Fashionware - Archive-XL](https://www.nexusmods.com/cyberpunk2077/mods/5039)
 
 ### VIRTUAL ATELIER
 
@@ -127,6 +132,7 @@ UPDATED
 - [Rolls-Royce Wraith](https://www.nexusmods.com/cyberpunk2077/mods/8618?tab=description)
 - [Pagani Zonda Cinque roadster](https://www.nexusmods.com/cyberpunk2077/mods/8795)
 - [Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016?tab=description)
+- [1993 Nissan 240SX (S13)](https://www.nexusmods.com/cyberpunk2077/mods/8730)
 
 ### PMU POSE PACKS
 
@@ -142,6 +148,7 @@ UPDATED
 - [Apartment Cats - Northside Motel](https://www.nexusmods.com/cyberpunk2077/mods/6379)
 - [Apartment Cats - Corpo Plaza](https://www.nexusmods.com/cyberpunk2077/mods/6329)
 - [Apartment Cats - Japantown](https://www.nexusmods.com/cyberpunk2077/mods/6493)
+- [Pet Your Cat](https://www.nexusmods.com/cyberpunk2077/mods/6198?tab=description)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -152,18 +159,42 @@ REMOVED
 - [Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718?tab=description)
 - [4k Complexion and Body for Female V](https://www.nexusmods.com/cyberpunk2077/mods/1873?tab=description)
 - [Authentic Shift Audio Gear Ratios (Standalone or Cyber Vehicle Overhaul)](https://www.nexusmods.com/cyberpunk2077/mods/6823?tab=description)
+- [SOR-22 Power Precision Rifle fix](https://www.nexusmods.com/cyberpunk2077/mods/8481?tab=description)
+- [Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931?_gl=1%2A1q4e4b0%2A_ga%2ANTM5MzA5NTU4LjE2OTQ4NzkyMzY.%2A_ga_N0TELNQ37M%2AMTY5NjA5NDk2MC43OS4xLjE2OTYxMDczNDEuMC4wLjA.&tab=description)
+- [Lucy - Edgerunners Sky Ad](https://www.nexusmods.com/cyberpunk2077/mods/5201?tab=description)
+- [Raytracing Overdrive Optimizations](https://www.nexusmods.com/cyberpunk2077/mods/8059?tab=description)
+- [Muzzles for Shotguns](https://www.nexusmods.com/cyberpunk2077/mods/8522?tab=description)
+- [Kiroshi Optics Expanded](https://www.nexusmods.com/cyberpunk2077/mods/5672?tab=description)
 
 ### NOW IN BASE GAME
 
 - [Notifications For Radio Song Changes](https://www.nexusmods.com/cyberpunk2077/mods/4631)
 - [Simple untrack quest](https://www.nexusmods.com/cyberpunk2077/mods/5177?tab=description) 
 - [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064) 
+- [Alternative Midair Movement and Walljumping](https://www.nexusmods.com/cyberpunk2077/mods/5160)
+- [Classic Braindance Wreath](https://www.nexusmods.com/cyberpunk2077/mods/7286)
+- [(DEPRECATED) Unequip Cyberware](https://www.nexusmods.com/cyberpunk2077/mods/2282?tab=description)
+
+### FIXED IN BASE GAME
+
+- [Immersion patch - No crowd panic from stealth activity](https://www.nexusmods.com/cyberpunk2077/mods/7360?tab=description)
+- [Hovering Vehicles fix](https://www.nexusmods.com/cyberpunk2077/mods/3649?tab=description)
+- [Immersion patch - No crowd panic form using devices.](https://www.nexusmods.com/cyberpunk2077/mods/7353?tab=description)
+- [Immersion patch - Skippy animations restore](https://www.nexusmods.com/cyberpunk2077/mods/7428?tab=description)
 - [QoL - Fix for the Arasaka nuke being on the 21st...](https://www.nexusmods.com/cyberpunk2077/mods/9004?tab=description)
+- [Weapon Showcase UI Fix](https://www.nexusmods.com/cyberpunk2077/mods/5451)
+- [Frank Hair Cap fix](https://www.nexusmods.com/cyberpunk2077/mods/2937?tab=description)
+- [Proximity Mine Audio Bug Fix (pre 2.0 only)](https://www.nexusmods.com/cyberpunk2077/mods/6743?tab=description)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 NEW MODS ADDED 
 -
+
+
+### OTHER
+
+
 
 ### CLOTHING
 
@@ -174,6 +205,9 @@ NEW MODS ADDED
 - [Srgpf Full Outfit For MALE - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9151?tab=description)
 - [Srgpf Full Outfit For FEM - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9150?tab=description)
 - [Adgn Full Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9086?tab=description)
+- [XRX Tactical Shorts Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9400?tab=description)
+- [High Fashion Netrunner - more than 150 suits - ready for PL](https://www.nexusmods.com/cyberpunk2077/mods/9314?tab=description)
+- [E3 - V's Favorite Shirt](https://www.nexusmods.com/cyberpunk2077/mods/9424?tab=description)
 
 ### TEXTURES
 
@@ -239,5 +273,7 @@ MODS NOT WORKING AT THE MOMENT
 - [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064)
 - [Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718?tab=description)
 - [Authentic Shift Audio Gear Ratios (Standalone or Cyber Vehicle Overhaul)](https://www.nexusmods.com/cyberpunk2077/mods/6823?tab=description)
+- [Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931?_gl=1%2A1q4e4b0%2A_ga%2ANTM5MzA5NTU4LjE2OTQ4NzkyMzY.%2A_ga_N0TELNQ37M%2AMTY5NjA5NDk2MC43OS4xLjE2OTYxMDczNDEuMC4wLjA.&tab=description)
+- [Lucy - Edgerunners Sky Ad](https://www.nexusmods.com/cyberpunk2077/mods/5201?tab=description)
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
