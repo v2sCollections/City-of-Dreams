@@ -203,7 +203,7 @@ NEW MODS ADDED
 
 ### OTHER
 
-
+- [Cosmopolitan Dogtown (Multilingual NPCs - Change V's native language)](https://www.nexusmods.com/cyberpunk2077/mods/9275?tab=description)
 
 ### CLOTHING
 
