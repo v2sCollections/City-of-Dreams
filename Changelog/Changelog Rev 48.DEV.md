@@ -3,6 +3,8 @@
 [HEY CHOOMS Rev 48 is COMING SOON](https://)
 -
 
+## Each of these mods have been updated and individually tested on Cyberpunk 2.0. In toattal we have tested over 650 Mods. This is a massive task and so far it has taken over 25 hours. I will continue to test and update the required mods and then we will Publish our Beta test. If you would like to test the new Beta Revision you can join the Discord and grab the Tester role. See you soon chooms.
+
 NOTES
 -
 
@@ -171,6 +173,7 @@ REMOVED
 - [Arasaka Cyberware OS Mk6](https://www.nexusmods.com/cyberpunk2077/mods/5031?tab=description&BH=0)
 - [Immersive Vik](https://www.nexusmods.com/cyberpunk2077/mods/6794)
 - [E3 Icons Remastered (Hud and Map)](https://www.nexusmods.com/cyberpunk2077/mods/4230?tab=description)
+- [Sit Anywhere - Immersive FPP Camera](https://www.nexusmods.com/cyberpunk2077/mods/7316?tab=description)
 
 ### NOW IN BASE GAME
 
