@@ -30,6 +30,7 @@ UPDATED
 - [Native Settings UI](https://www.nexusmods.com/cyberpunk2077/mods/3518?tab=description)
 - [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 - [Deceptious Quest Core](https://www.nexusmods.com/cyberpunk2077/mods/7831)
+- [Material and Texture Override](https://www.nexusmods.com/cyberpunk2077/mods/5266?tab=description)
 
 ### BODY
 
@@ -132,6 +133,7 @@ UPDATED
 - [Rolls-Royce Wraith](https://www.nexusmods.com/cyberpunk2077/mods/8618?tab=description)
 - [Pagani Zonda Cinque roadster](https://www.nexusmods.com/cyberpunk2077/mods/8795)
 - [Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016?tab=description)
+- [Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034?tab=description)
 - [1993 Nissan 240SX (S13)](https://www.nexusmods.com/cyberpunk2077/mods/8730)
 
 ### PMU POSE PACKS
@@ -165,6 +167,10 @@ REMOVED
 - [Raytracing Overdrive Optimizations](https://www.nexusmods.com/cyberpunk2077/mods/8059?tab=description)
 - [Muzzles for Shotguns](https://www.nexusmods.com/cyberpunk2077/mods/8522?tab=description)
 - [Kiroshi Optics Expanded](https://www.nexusmods.com/cyberpunk2077/mods/5672?tab=description)
+- [Ranged Attack Speed Damage Fix](https://www.nexusmods.com/cyberpunk2077/mods/4997?tab=description)
+- [Arasaka Cyberware OS Mk6](https://www.nexusmods.com/cyberpunk2077/mods/5031?tab=description&BH=0)
+- [Immersive Vik](https://www.nexusmods.com/cyberpunk2077/mods/6794)
+- [E3 Icons Remastered (Hud and Map)](https://www.nexusmods.com/cyberpunk2077/mods/4230?tab=description)
 
 ### NOW IN BASE GAME
 
@@ -274,6 +280,8 @@ MODS NOT WORKING AT THE MOMENT
 - [Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718?tab=description)
 - [Authentic Shift Audio Gear Ratios (Standalone or Cyber Vehicle Overhaul)](https://www.nexusmods.com/cyberpunk2077/mods/6823?tab=description)
 - [Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931?_gl=1%2A1q4e4b0%2A_ga%2ANTM5MzA5NTU4LjE2OTQ4NzkyMzY.%2A_ga_N0TELNQ37M%2AMTY5NjA5NDk2MC43OS4xLjE2OTYxMDczNDEuMC4wLjA.&tab=description)
+- [Ranged Attack Speed Damage Fix](https://www.nexusmods.com/cyberpunk2077/mods/4997?tab=description)
 - [Lucy - Edgerunners Sky Ad](https://www.nexusmods.com/cyberpunk2077/mods/5201?tab=description)
+- [Arasaka Cyberware OS Mk6](https://www.nexusmods.com/cyberpunk2077/mods/5031?tab=description&BH=0)
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
