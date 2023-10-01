@@ -3,7 +3,7 @@
 [HEY CHOOMS Rev 48 is COMING SOON](https://)
 -
 
-## Each of these mods have been updated and individually tested on Cyberpunk 2.0. In toattal we have tested over 720 Mods. This is a massive task and so far it has taken over 25 hours. I will continue to test and update the required mods (50 Updates to go) and then we will Publish our Beta test. If you would like to test the new Beta Revision you can join the Discord and grab the Tester role. See you soon chooms.
+## Each of these mods have been updated and individually tested on Cyberpunk 2.0. In toattal we have tested over 750 Mods. This is a massive task and so far it has taken over 35 hours. I will continue to test and update the required mods (50 Updates to go) and then we will Publish our Beta test. If you would like to test the new Beta Revision you can join the Discord and grab the Tester role. See you soon chooms.
 
 NOTES
 -
