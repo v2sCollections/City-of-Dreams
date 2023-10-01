@@ -174,6 +174,12 @@ REMOVED
 - [Immersive Vik](https://www.nexusmods.com/cyberpunk2077/mods/6794)
 - [E3 Icons Remastered (Hud and Map)](https://www.nexusmods.com/cyberpunk2077/mods/4230?tab=description)
 - [Sit Anywhere - Immersive FPP Camera](https://www.nexusmods.com/cyberpunk2077/mods/7316?tab=description)
+- [Smarter Target Analysis](https://www.nexusmods.com/cyberpunk2077/mods/3194?tab=description)
+- [Toxicity](https://www.nexusmods.com/cyberpunk2077/mods/4317?tab=description)
+- [Crafting Quality of Life](https://www.nexusmods.com/cyberpunk2077/mods/4453)
+- [Restore Legendary Ping](https://www.nexusmods.com/cyberpunk2077/mods/3313?tab=description)
+- [Remove Street Cred Requirements](https://www.nexusmods.com/cyberpunk2077/mods/3343?tab=description)
+- [System-EX](https://www.nexusmods.com/cyberpunk2077/mods/3158?tab=description)
 
 ### NOW IN BASE GAME
 
@@ -183,6 +189,9 @@ REMOVED
 - [Alternative Midair Movement and Walljumping](https://www.nexusmods.com/cyberpunk2077/mods/5160)
 - [Classic Braindance Wreath](https://www.nexusmods.com/cyberpunk2077/mods/7286)
 - [(DEPRECATED) Unequip Cyberware](https://www.nexusmods.com/cyberpunk2077/mods/2282?tab=description)
+- [AI Netrunners Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/2468?tab=description)
+- [Amateur Hackers](https://www.nexusmods.com/cyberpunk2077/mods/4880?tab=description)
+- [Zoom To Walk](https://www.nexusmods.com/cyberpunk2077/mods/3317?tab=description)
 
 ### FIXED IN BASE GAME
 
@@ -194,6 +203,7 @@ REMOVED
 - [Weapon Showcase UI Fix](https://www.nexusmods.com/cyberpunk2077/mods/5451)
 - [Frank Hair Cap fix](https://www.nexusmods.com/cyberpunk2077/mods/2937?tab=description)
 - [Proximity Mine Audio Bug Fix (pre 2.0 only)](https://www.nexusmods.com/cyberpunk2077/mods/6743?tab=description)
+- [Sensible Stamina and Athletics](https://www.nexusmods.com/cyberpunk2077/mods/2861?tab=description)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -204,6 +214,7 @@ NEW MODS ADDED
 ### OTHER
 
 - [Cosmopolitan Dogtown (Multilingual NPCs - Change V's native language)](https://www.nexusmods.com/cyberpunk2077/mods/9275?tab=description)
+- [Cyberware-EX](https://www.nexusmods.com/cyberpunk2077/mods/9429?tab=description)
 
 ### CLOTHING
 
@@ -286,5 +297,10 @@ MODS NOT WORKING AT THE MOMENT
 - [Ranged Attack Speed Damage Fix](https://www.nexusmods.com/cyberpunk2077/mods/4997?tab=description)
 - [Lucy - Edgerunners Sky Ad](https://www.nexusmods.com/cyberpunk2077/mods/5201?tab=description)
 - [Arasaka Cyberware OS Mk6](https://www.nexusmods.com/cyberpunk2077/mods/5031?tab=description&BH=0)
+
+Mods not working but im keeping an eye on as they may be updated or they may not
+-
+
+- [Toxicity](https://www.nexusmods.com/cyberpunk2077/mods/4317?tab=description)
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
