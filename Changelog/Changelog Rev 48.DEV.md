@@ -3,7 +3,7 @@
 [HEY CHOOMS Rev 48 is COMING SOON](https://)
 -
 
-## Each of these mods have been updated and individually tested on Cyberpunk 2.0. In toattal we have tested over 750 Mods. This is a massive task and so far it has taken over 35 hours. I will continue to test and update the required mods (50 Updates to go) and then we will Publish our Beta test. If you would like to test the new Beta Revision you can join the Discord and grab the Tester role. See you soon chooms.
+## Each of these mods have been updated and individually tested on Cyberpunk 2.0. In toattal we have tested over 780 Mods. This is a massive task and so far it has taken over 38 hours. I will continue to test and update the required mods (50 Updates to go) and then we will Publish our Beta test. If you would like to test the new Beta Revision you can join the Discord and grab the Tester role. See you soon chooms.
 
 NOTES
 -
@@ -70,6 +70,9 @@ UPDATED
 - [Appearance Change Unlocker - Character Preset Manager](https://www.nexusmods.com/cyberpunk2077/mods/3850)
 - [TV Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/8162)
 - [Crouch vignette effect remover](https://www.nexusmods.com/cyberpunk2077/mods/535)
+- [Sit Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/7299?tab=description)
+- [Simple Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/2913?tab=description)
+- [Street Kid Techie Apartment V2](https://www.nexusmods.com/cyberpunk2077/mods/3351?tab=description)
 
 ### UI+HUD
 
@@ -83,6 +86,8 @@ UPDATED
 - [Mark To Sell](https://www.nexusmods.com/cyberpunk2077/mods/4725)
 - [Real Vendor Names](https://www.nexusmods.com/cyberpunk2077/mods/4941)
 - [HUDitor](https://www.nexusmods.com/cyberpunk2077/mods/3315)
+- [Enhanced Craft](https://www.nexusmods.com/cyberpunk2077/mods/4378?tab=description)
+- [Muted Markers](https://www.nexusmods.com/cyberpunk2077/mods/1727)
 
 ### NPC IMMERSION
 
@@ -165,13 +170,11 @@ REMOVED
 - [Authentic Shift Audio Gear Ratios (Standalone or Cyber Vehicle Overhaul)](https://www.nexusmods.com/cyberpunk2077/mods/6823?tab=description)
 - [SOR-22 Power Precision Rifle fix](https://www.nexusmods.com/cyberpunk2077/mods/8481?tab=description)
 - [Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931?_gl=1%2A1q4e4b0%2A_ga%2ANTM5MzA5NTU4LjE2OTQ4NzkyMzY.%2A_ga_N0TELNQ37M%2AMTY5NjA5NDk2MC43OS4xLjE2OTYxMDczNDEuMC4wLjA.&tab=description)
-- [Lucy - Edgerunners Sky Ad](https://www.nexusmods.com/cyberpunk2077/mods/5201?tab=description)
 - [Raytracing Overdrive Optimizations](https://www.nexusmods.com/cyberpunk2077/mods/8059?tab=description)
 - [Muzzles for Shotguns](https://www.nexusmods.com/cyberpunk2077/mods/8522?tab=description)
 - [Kiroshi Optics Expanded](https://www.nexusmods.com/cyberpunk2077/mods/5672?tab=description)
 - [Ranged Attack Speed Damage Fix](https://www.nexusmods.com/cyberpunk2077/mods/4997?tab=description)
 - [Arasaka Cyberware OS Mk6](https://www.nexusmods.com/cyberpunk2077/mods/5031?tab=description&BH=0)
-- [Immersive Vik](https://www.nexusmods.com/cyberpunk2077/mods/6794)
 - [E3 Icons Remastered (Hud and Map)](https://www.nexusmods.com/cyberpunk2077/mods/4230?tab=description)
 - [Sit Anywhere - Immersive FPP Camera](https://www.nexusmods.com/cyberpunk2077/mods/7316?tab=description)
 - [Smarter Target Analysis](https://www.nexusmods.com/cyberpunk2077/mods/3194?tab=description)
@@ -180,18 +183,30 @@ REMOVED
 - [Restore Legendary Ping](https://www.nexusmods.com/cyberpunk2077/mods/3313?tab=description)
 - [Remove Street Cred Requirements](https://www.nexusmods.com/cyberpunk2077/mods/3343?tab=description)
 - [System-EX](https://www.nexusmods.com/cyberpunk2077/mods/3158?tab=description)
+- [RipperDeck (CET)](https://www.nexusmods.com/cyberpunk2077/mods/2850)
+- [Improved Minimap Zoom](https://www.nexusmods.com/cyberpunk2077/mods/2959)
+- [The Edgerunner Bazaar](https://www.nexusmods.com/cyberpunk2077/mods/712?tab=description)
+- [flib's UI Improvements](https://www.nexusmods.com/cyberpunk2077/mods/2729?tab=description)
+- [No Tell Motel - Expanded](https://www.nexusmods.com/cyberpunk2077/mods/4989)
+- [Megabuildings Expanded And Enhanced - Completed](https://www.nexusmods.com/cyberpunk2077/mods/7355)
+- [Concept Little China](https://www.nexusmods.com/cyberpunk2077/mods/8165)
+- [Dewdrop Inn Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/6089?tab=description)
+
+My Mods that require an update. (Low Priority)
+
+- [Faster Drop Point Cooldowns](https://www.nexusmods.com/cyberpunk2077/mods/9049?tab=description)
 
 ### NOW IN BASE GAME
 
 - [Notifications For Radio Song Changes](https://www.nexusmods.com/cyberpunk2077/mods/4631)
-- [Simple untrack quest](https://www.nexusmods.com/cyberpunk2077/mods/5177?tab=description) 
-- [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064) 
+- [Simple untrack quest](https://www.nexusmods.com/cyberpunk2077/mods/5177?tab=description)  
 - [Alternative Midair Movement and Walljumping](https://www.nexusmods.com/cyberpunk2077/mods/5160)
 - [Classic Braindance Wreath](https://www.nexusmods.com/cyberpunk2077/mods/7286)
 - [(DEPRECATED) Unequip Cyberware](https://www.nexusmods.com/cyberpunk2077/mods/2282?tab=description)
 - [AI Netrunners Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/2468?tab=description)
 - [Amateur Hackers](https://www.nexusmods.com/cyberpunk2077/mods/4880?tab=description)
 - [Zoom To Walk](https://www.nexusmods.com/cyberpunk2077/mods/3317?tab=description)
+- [Iconic Weapon](https://www.nexusmods.com/cyberpunk2077/mods/4216)
 
 ### FIXED IN BASE GAME
 
@@ -215,6 +230,11 @@ NEW MODS ADDED
 
 - [Cosmopolitan Dogtown (Multilingual NPCs - Change V's native language)](https://www.nexusmods.com/cyberpunk2077/mods/9275?tab=description)
 - [Cyberware-EX](https://www.nexusmods.com/cyberpunk2077/mods/9429?tab=description)
+- [Rita Wheeler Romanced](https://www.nexusmods.com/cyberpunk2077/mods/9191?tab=description)
+- [Don't Hide Stamina Bar on Holster (Bug Fix)](https://www.nexusmods.com/cyberpunk2077/mods/9448?tab=description)
+- [RipperDeck](https://www.nexusmods.com/cyberpunk2077/mods/9302?tab=description)
+- [Named Saves](https://www.nexusmods.com/cyberpunk2077/mods/4521?tab=description)
+- [Megabuildings enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4924?tab=description)
 
 ### CLOTHING
 
@@ -295,12 +315,19 @@ MODS NOT WORKING AT THE MOMENT
 - [Authentic Shift Audio Gear Ratios (Standalone or Cyber Vehicle Overhaul)](https://www.nexusmods.com/cyberpunk2077/mods/6823?tab=description)
 - [Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931?_gl=1%2A1q4e4b0%2A_ga%2ANTM5MzA5NTU4LjE2OTQ4NzkyMzY.%2A_ga_N0TELNQ37M%2AMTY5NjA5NDk2MC43OS4xLjE2OTYxMDczNDEuMC4wLjA.&tab=description)
 - [Ranged Attack Speed Damage Fix](https://www.nexusmods.com/cyberpunk2077/mods/4997?tab=description)
-- [Lucy - Edgerunners Sky Ad](https://www.nexusmods.com/cyberpunk2077/mods/5201?tab=description)
 - [Arasaka Cyberware OS Mk6](https://www.nexusmods.com/cyberpunk2077/mods/5031?tab=description&BH=0)
+- [flib's UI Improvements](https://www.nexusmods.com/cyberpunk2077/mods/2729?tab=description)
+- [No Tell Motel - Expanded](https://www.nexusmods.com/cyberpunk2077/mods/4989)
+- [Megabuildings Expanded And Enhanced - Completed](https://www.nexusmods.com/cyberpunk2077/mods/7355)
+- [Concept Little China](https://www.nexusmods.com/cyberpunk2077/mods/8165)
+- [Dewdrop Inn Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/6089?tab=description)
 
 Mods not working but im keeping an eye on as they may be updated or they may not
 -
 
 - [Toxicity](https://www.nexusmods.com/cyberpunk2077/mods/4317?tab=description)
+- [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064)
+- [Immersive Vik](https://www.nexusmods.com/cyberpunk2077/mods/6794)
+- [The Edgerunner Bazaar](https://www.nexusmods.com/cyberpunk2077/mods/712?tab=description)
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
