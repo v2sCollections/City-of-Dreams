@@ -88,6 +88,8 @@ UPDATED
 - [HUDitor](https://www.nexusmods.com/cyberpunk2077/mods/3315)
 - [Enhanced Craft](https://www.nexusmods.com/cyberpunk2077/mods/4378?tab=description)
 - [Muted Markers](https://www.nexusmods.com/cyberpunk2077/mods/1727)
+- [Custom Quickslots for Consumables Grenades and Cyberware Abilities](https://www.nexusmods.com/cyberpunk2077/mods/3096?tab=description)
+- [Neu-ReSpec](https://www.nexusmods.com/cyberpunk2077/mods/2881)
 
 ### NPC IMMERSION
 
@@ -150,7 +152,7 @@ UPDATED
 - [Zwei Custom PMU Pose Packs - MascV - Core](https://www.nexusmods.com/cyberpunk2077/mods/7763)
 - [Zwei Custom PMU Pose Packs - Core](https://www.nexusmods.com/cyberpunk2077/mods/7165)
 - [Angy Pose Packs - Cute and Sexy for femV](https://www.nexusmods.com/cyberpunk2077/mods/6871)
-
+- [Photo Mode Unlocker 2.0 XL](https://www.nexusmods.com/cyberpunk2077/mods/4319)
 ### CATS
 
 - [Apartment Cats - The Glen](https://www.nexusmods.com/cyberpunk2077/mods/6276)
@@ -158,6 +160,7 @@ UPDATED
 - [Apartment Cats - Corpo Plaza](https://www.nexusmods.com/cyberpunk2077/mods/6329)
 - [Apartment Cats - Japantown](https://www.nexusmods.com/cyberpunk2077/mods/6493)
 - [Pet Your Cat](https://www.nexusmods.com/cyberpunk2077/mods/6198?tab=description)
+
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -219,6 +222,7 @@ My Mods that require an update. (Low Priority)
 - [Frank Hair Cap fix](https://www.nexusmods.com/cyberpunk2077/mods/2937?tab=description)
 - [Proximity Mine Audio Bug Fix (pre 2.0 only)](https://www.nexusmods.com/cyberpunk2077/mods/6743?tab=description)
 - [Sensible Stamina and Athletics](https://www.nexusmods.com/cyberpunk2077/mods/2861?tab=description)
+- [Hacking Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/7000?tab=description)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -306,21 +310,42 @@ BUGS
 MODS NOT WORKING AT THE MOMENT 
 -
 
-- [Let there be flight](https://)
-- [CTD Helper](https://)
-- [In-World Navigation](https://)
+SAME MOD AUTHOR
+- [Let there be flight](https://www.nexusmods.com/cyberpunk2077/mods/5208)
+- [CTD Helper](https://www.nexusmods.com/cyberpunk2077/mods/5205)
+- [In-World Navigation](https://www.nexusmods.com/cyberpunk2077/mods/4583)
+- [Input Loader](https://www.nexusmods.com/cyberpunk2077/mods/4575)
+- [Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/4885)
+SAME MOD AUTHOR
+- [Respector](https://www.nexusmods.com/cyberpunk2077/mods/1263)
+- [Weapon Mod Overdrive](https://www.nexusmods.com/cyberpunk2077/mods/1714)
+- [Find-EX](https://www.nexusmods.com/cyberpunk2077/mods/8340)
+SAME MOD AUTHOR
+- [No Tell Motel - Expanded](https://www.nexusmods.com/cyberpunk2077/mods/4989)
+- [Megabuildings Expanded And Enhanced - Completed](https://www.nexusmods.com/cyberpunk2077/mods/7355)
+- [Concept Little China](https://www.nexusmods.com/cyberpunk2077/mods/8165)
+- [Dewdrop Inn Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/6089?tab=description)
 - [The Afterlife - Re imagined](https://)
 - [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064)
+SAME MOD AUTHOR
+- [Playable Arcade Machines](https://www.nexusmods.com/cyberpunk2077/mods/4213)
+- [Corrupt NCPD](https://www.nexusmods.com/cyberpunk2077/mods/4510)
+- [V's Edgerunners Mansion - Apartment DLC](https://www.nexusmods.com/cyberpunk2077/mods/5437)
+- [Stock Market and News System](https://www.nexusmods.com/cyberpunk2077/mods/6319)
+SAME MOD AUTHOR
+- [Lifepath Bonuses and Gang-Corp Traits](https://www.nexusmods.com/cyberpunk2077/mods/2217?tab=description)
+
+
+- [Arasaka Cyberarms](https://www.nexusmods.com/cyberpunk2077/mods/1099)
 - [Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718?tab=description)
 - [Authentic Shift Audio Gear Ratios (Standalone or Cyber Vehicle Overhaul)](https://www.nexusmods.com/cyberpunk2077/mods/6823?tab=description)
 - [Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931?_gl=1%2A1q4e4b0%2A_ga%2ANTM5MzA5NTU4LjE2OTQ4NzkyMzY.%2A_ga_N0TELNQ37M%2AMTY5NjA5NDk2MC43OS4xLjE2OTYxMDczNDEuMC4wLjA.&tab=description)
 - [Ranged Attack Speed Damage Fix](https://www.nexusmods.com/cyberpunk2077/mods/4997?tab=description)
 - [Arasaka Cyberware OS Mk6](https://www.nexusmods.com/cyberpunk2077/mods/5031?tab=description&BH=0)
 - [flib's UI Improvements](https://www.nexusmods.com/cyberpunk2077/mods/2729?tab=description)
-- [No Tell Motel - Expanded](https://www.nexusmods.com/cyberpunk2077/mods/4989)
-- [Megabuildings Expanded And Enhanced - Completed](https://www.nexusmods.com/cyberpunk2077/mods/7355)
-- [Concept Little China](https://www.nexusmods.com/cyberpunk2077/mods/8165)
-- [Dewdrop Inn Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/6089?tab=description)
+- [Simple Menu - An In-Game UI including Hotkeys](https://www.nexusmods.com/cyberpunk2077/mods/818)
+- [Nano Drone](https://www.nexusmods.com/cyberpunk2077/mods/3419)
+- [NPCs Gone Wild](https://www.nexusmods.com/cyberpunk2077/mods/1436)
 
 Mods not working but im keeping an eye on as they may be updated or they may not
 -
@@ -329,5 +354,10 @@ Mods not working but im keeping an eye on as they may be updated or they may not
 - [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064)
 - [Immersive Vik](https://www.nexusmods.com/cyberpunk2077/mods/6794)
 - [The Edgerunner Bazaar](https://www.nexusmods.com/cyberpunk2077/mods/712?tab=description)
+- [Hacking Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/7000?tab=description)
+- [Adaptive Sliders](https://www.nexusmods.com/cyberpunk2077/mods/5075)
+- [Alternative Midair Movement and Walljumping](https://www.nexusmods.com/cyberpunk2077/mods/5160)
+- [Optical Camo Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/3722)
+- [Lynx Paws Reimagined](https://www.nexusmods.com/cyberpunk2077/mods/4479?tab=description)
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)

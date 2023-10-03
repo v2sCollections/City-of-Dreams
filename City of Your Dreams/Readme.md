@@ -1,8 +1,10 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 
-### **Updated & Compatible with Patch 1.63 Hotfix 1**
+### **Updated & Compatible with 2.0**
 
-### Collection Rev 1        &#x20;
+![](https://s10.gifyu.com/images/S4a17.png)
+
+### Collection Rev 2        &#x20;
 
 ![](https://s11.gifyu.com/images/Border11.jpg)\
 ![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Your Dreams](https://) for **Cyberpunk 2077**.
@@ -20,12 +22,8 @@ Huge thank you to all the talented chooms that have put in the time and effort t
 - [Youtube Channel](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)-with Guides and Videos.
 - Continuous Support in Comments and on Discord.
 - Live voice support.
-- Nexus Premium Giveaways (Every Week).
-- and much much more join our Discord for more information.
-
-![](]https://i.imgur.com/VeCI8dy.png)[![](https://i.imgur.com/VeCI8dy.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow chooms every day.
-
-[![](https://s12.gifyu.com/images/SuqD4.png)](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)Follow us on [Youtube](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA) for guides and videos.
+- Giveaways. Nexus Premium/Game Keys/Discord Nitro (Every Week).&#x20;
+- and much much more Join our Discord for more information.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -47,7 +45,9 @@ C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 
 ## [Updating Collection](https://)[   ](https://)
 
-- **⛔**Updating the collection is as easy as clicking the "Update" button. When prompted to "**Remove mods from old revision**" make sure to click the"**Remove All**" button.
+- Updating the collection is as easy as clicking the **"Update"** button.&#x20;
+- Make sure to update the current profile you are using inside of Vortex. Using one Profile ensures stability for Vortex.&#x20;
+- When prompted to "**Remove mods from old revision**" make sure to click the "**Remove All**" button.
 - ⛔**DO NOT update** any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
 - Notes will be in the changelog.
 
@@ -80,9 +80,11 @@ C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 
 ## [Cyberpunk2077](https://)
 
-1. Start with a fresh install of Cyberpunk 2077.
-2. ⛔ Make sure the game is installed on an SSD.
-3. You need to create a mod folder go to the following location (Locations below) and create a folder named mod. When done should look as follows.
+**1**) Start with a fresh install of Cyberpunk 2077.
+
+**2**) ⛔ Make sure the game is installed on an SSD.
+
+**3**) You need to create a mod folder go to the following location (Locations below) and create a folder named mod. When done should look as follows.
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk 2077\archive\pc\mod
@@ -94,7 +96,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 ## [Vortex](https://)
 
-1. You will need[Vortex](https://www.nexusmods.com/site/mods/1)mod manager downloaded and installed you can find it from the link below. If you already have Vortex skip this step.
+**1**) You will need [Vortex](https://www.nexusmods.com/site/mods/1) mod manager downloaded and installed you can find it from the link below. If you already have Vortex skip this step.
 
 [![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1 "Vortex page")
 
@@ -102,19 +104,15 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 ## [Vortex & Cyberpunk](https://)
 
-1. Open Vortex and click on "Select a game to manage".
+**1**) Open Vortex and click on "Select a game to manage".
 
-![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)
+![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)**2**) On the next screen scroll down to the **"Cyberpunk 2077"** icon and click on **"Manage".**
 
-6 ) On the next screen scroll down to the **"Cyberpunk 2077"** icon and click on **"Manage".**
+![](https://s12.gifyu.com/images/Untitled99ac613c165d0e14.jpg)**3**) On the popup that appears click on **"Download"** on the bottom right, vortex will restart.
 
-![](https://s12.gifyu.com/images/Untitled99ac613c165d0e14.jpg)
+**4**) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
 
-7 ) On the popup that appears click on **"Download"** on the bottom right, vortex will restart.
-
-8 ) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
-
-9 ) A window will now pop up where you can choose the folder where  **"Cyberpunk 2077"** is installed. **(Locations below)**.
+**5**) A window will now pop up where you can choose the folder where  **"Cyberpunk 2077"** is installed. **(Locations below)**.
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk 2077
@@ -122,14 +120,13 @@ GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk 2077
 Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 ```
 
-10 ) Vortex will pop up a window titled **"REDmod DLC missing"** Click **"Ignore".**
+**6**) Vortex will pop up a window titled **"REDmod DLC missing"** Click **"Ignore".**
 
-![](https://s12.gifyu.com/images/Redmod-Missing.jpg)
+![](https://s12.gifyu.com/images/Redmod-Missing.jpg)**7**) On your main Vortex window, it will now show an icon for **"Cyberpunk 2077"** showing that it is a managed game in Vortex.
 
-11 ) On your main Vortex window, it will now show an icon for **"Cyberpunk 2077"** showing that it is a managed game in Vortex.
+**8**) Go to the settings and on the mods, tab check "automatically use suggested path for staging folder" then check "**suggest and "apply".**
 
-1. Go to the settings and on the mods tab check "automatically use suggested path for staging folder" then check "**suggest and "apply".**
-2. On the same window select "hard link deployment" and check "apply".
+**9**) On the same window select "hard link deployment" and check "apply".
 
 ![](https://s11.gifyu.com/images/Untitledef56ac4a42e1f37d.jpg)
 
@@ -137,7 +134,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ## [Disabling REDmod Autoconversion](https://)
 
-1. ⛔ While still in settings go to the "V2077 Settings" tab and make sure that REDmod Autoconvert is disabled as shown in the picture below.
+**1**) ⛔ While still in settings go to the "V2077 Settings" tab and make sure that REDmod Autoconvert is disabled as shown in the picture below.
 
 ![](https://s11.gifyu.com/images/Untitle44d.jpg)
 
@@ -145,17 +142,17 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ## [INSTALLING THE COLLECTION](https://)
 
-1. Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
+**1**) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
-![](https://s12.gifyu.com/images/Screenshot-2023-04-17-115745.png)
-
-1. Click "Add to Vortex"(choose your newly created profile).
+![](https://s12.gifyu.com/images/Screenshot-2023-04-17-115745.png)**2**) Click "Add to Vortex"(choose your newly created profile).
 
 ![](https://s12.gifyu.com/images/Untitled1.png)
 
+***
+
 ## [In-game settings](https://)
 
-1. To use CET (Cyber Engine Tweaks) set your keybind on the first launch of the collection.
+**1**) To use CET (Cyber Engine Tweaks) set your keybind on the first launch of the collection.
 
 ***
 
@@ -197,7 +194,9 @@ And all the teams and modders behind all the tools that make cyberpunk 2077 modd
 
 If you would like to support me so I can afford some new chrome click the button below and chuck me some eddies detes attached. Can't donate? I understand a simple thank you and endorsement is much appreciated.
 
-[![](https://s12.gifyu.com/images/Eddies.png)](https://www.buymeacoffee.com/2077v2)
+[![](https://s11.gifyu.com/images/S4peN.png)](https://patreon.com/v2sCollections?utm_medium=clipboard_copy\&utm_source=copyLink\&utm_campaign=creatorshare_creator\&utm_content=join_link)
+
+Or, [buy me a coffee](https://www.buymeacoffee.com/2077v2)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
