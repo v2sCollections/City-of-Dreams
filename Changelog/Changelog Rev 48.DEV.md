@@ -73,6 +73,8 @@ UPDATED
 - [Sit Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/7299?tab=description)
 - [Simple Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/2913?tab=description)
 - [Street Kid Techie Apartment V2](https://www.nexusmods.com/cyberpunk2077/mods/3351?tab=description)
+- [Corrupt NCPD](https://www.nexusmods.com/cyberpunk2077/mods/4510?tab=description)
+- [No Special Outfit Lock](https://www.nexusmods.com/cyberpunk2077/mods/3963)
 
 ### UI+HUD
 
@@ -124,6 +126,8 @@ UPDATED
 - [(Silver Breezy Store) Accessory Collection - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7850)
 - [(Silver Breezy Store) Alt Pants Recolors and Variations - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9007)
 - [Full Body Fashionware - Archive-XL](https://www.nexusmods.com/cyberpunk2077/mods/5039)
+- [spawn0 - TRUE BAGS AND BACKPACKS](https://www.nexusmods.com/cyberpunk2077/mods/6616)
+
 
 ### VIRTUAL ATELIER
 
@@ -194,6 +198,8 @@ REMOVED
 - [Megabuildings Expanded And Enhanced - Completed](https://www.nexusmods.com/cyberpunk2077/mods/7355)
 - [Concept Little China](https://www.nexusmods.com/cyberpunk2077/mods/8165)
 - [Dewdrop Inn Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/6089?tab=description)
+- [PMU Angry Pose Packs- Core](https://www.nexusmods.com/cyberpunk2077/mods/6872)
+- [CubVektor Strapless Dress- EBRB Seude](https://www.nexusmods.com/cyberpunk2077/mods/8950)
 
 My Mods that require an update. (Low Priority)
 
@@ -239,6 +245,8 @@ NEW MODS ADDED
 - [RipperDeck](https://www.nexusmods.com/cyberpunk2077/mods/9302?tab=description)
 - [Named Saves](https://www.nexusmods.com/cyberpunk2077/mods/4521?tab=description)
 - [Megabuildings enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4924?tab=description)
+- [Porsche 918 Spyder](https://www.nexusmods.com/cyberpunk2077/mods/9125)
+- [Mercedes Benz c63s AMG](https://www.nexusmods.com/cyberpunk2077/mods/9075?tab=description)
 
 ### CLOTHING
 
