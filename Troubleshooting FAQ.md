@@ -336,6 +336,19 @@ Things to note.
 
 ## Bugs
 
+
+<details>
+<summary>I can't exit out of the Settings Menu and other Menus</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+At this stage it seems that this bug is baked into older saves. You will need to start a fresh save.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
 <details>
 <summary>My character and some female NPCs have weird texture lines on them</summary>
 
