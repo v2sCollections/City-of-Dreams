@@ -122,9 +122,13 @@ https://www.youtube.com/watch?v=sn-Ju\_OWP\_8
 
 ## [Cyberpunk2077](https://)
 
-1. Start with a fresh install of **Cyberpunk 2077**.
-2. ⛔ Make sure the game is installed on an SSD.
-3. You need to create a mod folder go to the following location (Locations below) and create a folder named mod. When done should look as follows.
+**1**) Start with a fresh install of **Cyberpunk 2077**.
+
+**2**) ⛔ Make sure the game is installed on an SSD.
+
+**3**) ⛔ If you are using an older save from pre-2.0 and encounter any issues start a new save.
+
+**4**) You need to create a mod folder go to the following location (Locations below) and create a folder named mod. When done should look as follows.
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk 2077\archive\pc\mod
@@ -132,7 +136,7 @@ GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk 2077\archive\pc\mod
 Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 ```
 
-1. ⛔ Launch Cyberpunk 2077 and go to the settings menu and on the gameplay tab turn off "Enable Analytics" and "Enable cross-platform Saves"
+**5**) ⛔ Launch Cyberpunk 2077 and go to the settings menu and on the gameplay, tab turn off "Enable Analytics" and "Enable cross-platform Saves"
 
 ![](https://s12.gifyu.com/images/SWeJF.png)
 
@@ -140,7 +144,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 ## [Vortex](https://)
 
-1. You will need[Vortex](https://www.nexusmods.com/site/mods/1)mod manager downloaded and installed you can find it from the link below. If you already have Vortex skip this step.
+**1**) You will need [Vortex](https://www.nexusmods.com/site/mods/1) mod manager downloaded and installed you can find it from the link below. If you already have Vortex skip this step.
 
 [![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1 "Vortex page")
 
@@ -286,13 +290,9 @@ You need to disable "Analytics"
 4. Deploy the mods in Vortex
 5. Launch the game.
 
-## [Where is the game located ](https://) ❓
+## [I can't exit out of the Settings Menu and other Menus❓](https://)
 
-```
-Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk2077.exe
-GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk2077.exe
-Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe  
-```
+At this stage, it seems that this bug is baked into older saves. You will need to start a fresh save.
 
 ## [My game is crashing on startup?](https://) or [My game won't launch after Collection Update ](https://)❓
 
@@ -383,8 +383,6 @@ You can check out the gallery at the top of this page for videos by some of the 
 - Fixes disable the hiding, of the Stamina bar.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
-
-## ![](https://s11.gifyu.com/images/Graphics.png)
 
 ## ![](https://s11.gifyu.com/images/Graphics.png)
 
@@ -603,11 +601,11 @@ You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 - Unequip all equipped items (armour, weapons and cyberware).
 - See what attribute level you needed for conversation skill checks that you passed.
 - Improved mini map zoom allows the map to dynamically zoom in and out depending on what areas you are in or if you are in the combat state.
-- Item sliders are set to the max by default for Drop, Stash and Sell actions.
+- Item sliders are set to the max by default for Drop, Stash, and Sell actions.
 - You can now craft items while in combat.
-- You can tweak some of the interaction and loot marker visibility behaviour.
-- You can mark any item in your inventory as Junk so you will be able to sell all marked items at once using vendors "Sell Junk" option.
-- You can search your inventory for shards, quests and messages.
+- You can tweak some of the interaction and loot marker visibility behavior.
+- You can mark any item in your inventory as Junk so you will be able to sell all marked items at once using the vendor "Sell Junk" option.
+- You can search your inventory for shards, quests, and messages.
 - Increases time spans between sickness effects applied to V by The Relic.
 - Additional loot markers on looting containers that show which types of loot are in them.
 
@@ -627,7 +625,7 @@ Limited HUD
 - **Fix Evolution Icons**: fixes wrong icons for Power and Tech weapons used in info popups
 - **No Marker Pulse**: disables pulse animation for tracked markers
 - **Enemy Highlighting**: if enabled then the enemy highlight effect will be visible only for non-friendly NPCs under the Ping effect
-- **Objects Coloring:** allows to change or remove fill and outline glow colouring for different object categories (friendly and hostile NPCs, hackable devices, distractions etc.)
+- **Objects Coloring:** allows to change or remove fill and outline glow coloring for different object categories (friendly and hostile NPCs, hackable devices, distractions, etc.)
 
 Inventory
 
@@ -678,11 +676,11 @@ UI Colours
 > [**A few in-game cheat menus allow for full customization of the following gameplay elements.**](https://)
 
 - Refill Ammo: manual or automatic.
-- Add Money, Consumables and Materials to Convert Drinks and Food.
+- Add Money, Consumables, and Materials to Convert Drinks and Food.
 - Disassemble and Sell Items.
 - Upgrade equipped items and mods in your inventory to Uncommon, Rare, Epic or Legendary.
-- Max out your Level, Street Cred and Attributes.
-- Reset all Attributes, Perks and Skills.
+- Max out your Level, Street Cred, and Attributes.
+- Reset all Attributes, Perks, and Skills.
 - God Mode and Infinite Stamina.
 - Change Attributes.
 - Change Experience and Levels.
@@ -690,7 +688,7 @@ UI Colours
 - Add or remove perks.
 - Unlock Achievements.
 - Kill NPCs.
-- Time Manipulation: Set Game Time, Freeze Time (time of day) and Slow Motion.
+- Time Manipulation: Set Game Time, Freeze Time (time of day), and Slow Motion.
 - Quest Manipulation: End Quest, Untrack Active Quest and change quest and romance facts.
 - Teleport Features: Save current position and teleport back to a saved location, Custom Teleport Locations.
 - Upgrade your clothing mods, weapon mods, quick hacks, cyberware mods
@@ -749,7 +747,7 @@ https://www.youtube.com/watch?v=uScj2cK4qME
 ## ![](https://s12.gifyu.com/images/IMMERSION.png)
 
 - Adds the animation you see when you first pick up a weapon, configurable in the game.
-- Virtual Atelier adds an in-game store you can access from any computer in the game to buy weapons,cyberwar, clothes, drugs, vehicles and more.
+- Virtual Atelier adds an in-game store you can access from any computer in the game to buy weapons,cyberwar, clothes, drugs, vehicles, and more.
 - In-game torch.
 - Game time tweaks to make days and nights twice as long.
 - Vendors now show their real names.
@@ -762,10 +760,10 @@ https://www.youtube.com/watch?v=uScj2cK4qME
 - No more crowd panic from using computers, doors, access points, etc.
 - No more crowd panic caused by stealth grab takedowns or body pickups.
 - V can now press the aim button to walk without zooming in.
-- V can now purchase all the popular drugs in night city.
+- V can now purchase all the popular drugs in Night City.
 - V can now pay off NCPD to get rid of your crime status.
-- V can now have drinks at bars around night city.
-- V can now eat at food vendors around night city.
+- V can now have drinks at bars around Night City.
+- V can now eat at food vendors around Night City.
 - V can now sit in the chair to get work done at any Ripperdoc.
 - V now has access to more megabuildings at which you can buy new apartments.
 - V can now pet nibbles.
@@ -783,7 +781,6 @@ https://www.youtube.com/watch?v=uScj2cK4qME
 - Dead NPCs now take 5 minutes to become indestructible.
 - Ragdoll physics are now much more realistic.
 - Restores some missing/cut crafting specs for some weapons.
-- Cybernetic eyes allow you to zoom in while aiming.
 - Adds a kill counter to the side of the Malorian Arms piston.
 - Holster your weapon by holding the reload button.
 - Adjusted lighting for all explosions and fire effects.
@@ -853,7 +850,7 @@ Upgraded/Tweaked cyberware
 - V can now purchase all vehicles from the in-game atelier store.
 - V can control vehicle headlights and windows.
 - V can change the brightness and distance of vehicle headlights.
-- V can change the colours of the neon lights on all motorbikes.
+- V can change the colors of the neon lights on all motorbikes.
 - Displays in-world holographic arrows for quest/point of interest navigation, mirroring the dots in the minimap.
 - **I**t will now cost Eddies to summon your vehicle.
 - It will cost you more eddies to repair destroyed vehicles when summoning them.
