@@ -2,8 +2,6 @@
 
 ### **Updated and compatible with Patch 2.01**
 
-IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/2077v2/City-of-Dreams/blob/main/City%20of%20Dreams%20\(LITE\)/\(LITE\)README.md)
-
 ### Collection Rev 15        &#x20;
 
 ![](https://s11.gifyu.com/images/Border11.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://) (lite) Version for **Cyberpunk 2077**.
@@ -12,7 +10,7 @@ IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/2077v2/City-of-Dr
 Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Hogwarts](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Elden Ring](https://next.nexusmods.com/eldenring/collections/qpwypd?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/xZNztPjA2u) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
 </details>
 
-This isn't just a mod list I've slapped together this is the lite & SFW version of my main **cyberpunk 2077** collection with hundreds of hours spent building, configuring, modding, and testing to create the best cyberpunk experience possible.
+This isn't just a mod list I've slapped together this is the lite & SFW version of my main [cyberpunk 2077 collection](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) with hundreds of hours spent building, configuring, modding, and testing to create the best cyberpunk experience possible.
 
 I hope you enjoy this collection and the game as much as I do. Time for me to delta but don't be a stranger join our community of edgerunners over on [Discord](https://discord.gg/xZNztPjA2u) see you there choom.
 
@@ -426,7 +424,7 @@ You can find me in [v2's discord here](https://discord.gg/v2-s-collections-10761
 - Food.
 </details>
 
-⛔ Note that some of these will eat your VRAM I recommend a min 8 GB GPU but even then depending on your settings vanilla cyberpunk will eat 8 GB. If you notice stuttering or any texture issues then disable a few of the (surface mods) in Vortex.
+⛔ Note that some of these will eat your VRAM I recommend a minimum 8 GB GPU but even then depending on your settings vanilla cyberpunk will eat 8 GB. If you notice stuttering or any texture issues then disable a few of the (surface mods) in Vortex.
 
 You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high-end** systems only 16 GB Vram+)
 
@@ -596,9 +594,9 @@ You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 - The vehicle first person camera is now adjustable.
 - Hide shards you have already read.
 - Stops V from moving on the character creation screen.
-- Cleans up the green colour from the quick hack screen.
+- Cleans up the green color from the quick hack screen.
 - Remove quest tags from equipped items so they can be dismantled and sold.
-- Unequip all equipped items (armour, weapons and cyberware).
+- Unequip all equipped items (armor, weapons, and cyberware).
 - See what attribute level you needed for conversation skill checks that you passed.
 - Improved mini map zoom allows the map to dynamically zoom in and out depending on what areas you are in or if you are in the combat state.
 - Item sliders are set to the max by default for Drop, Stash, and Sell actions.
@@ -675,7 +673,8 @@ UI Colours
 
 > [**A few in-game cheat menus allow for full customization of the following gameplay elements.**](https://)
 
-- Refill Ammo: manual or automatic.
+<details><summary>CLICK TO SEE WHAT CHEATS COME WITH THE COLLECTION</summary>
+- &#x20;Refill Ammo: manual or automatic.
 - Add Money, Consumables, and Materials to Convert Drinks and Food.
 - Disassemble and Sell Items.
 - Upgrade equipped items and mods in your inventory to Uncommon, Rare, Epic or Legendary.
@@ -694,6 +693,7 @@ UI Colours
 - Upgrade your clothing mods, weapon mods, quick hacks, cyberware mods
 - In the game menu to configure multipliers for all XP types.
 - Unlock Vehicles and Instant Vehicle Spawn.
+</details>
 
 ***
 

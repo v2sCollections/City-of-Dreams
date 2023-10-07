@@ -5,7 +5,7 @@
 
 ### Hey chooms
 
-It's nearly time for **Phantom Liberty**&#x20;
+**Phantom Liberty** is here.
 
 ## [Mods](https://)
 
@@ -29,13 +29,21 @@ https://www.youtube.com/watch?v=vvpmq34uBAc
 
 ![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://) for **Cyberpunk 2077**.
 
+<details><summary>ABOUT ME</summary>
+Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Hogwarts](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Elden Ring](https://next.nexusmods.com/eldenring/collections/qpwypd?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/xZNztPjA2u) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
+</details>
+
+<details><summary>MY VISION FOR THIS COLLECTION</summary>
+My Vision for all my Collections is for you to be able to play the game any way you want. I won't force you to play a certain way I want you to have the tools to create your own experience so you can get the most out of your game.\
+\
+City of Dreams is the Ultimate experience you have access to everything you could ever need or want. Whether it's taking screenshots in photo mode, playing the most extreme difficulty, or cheating and hacking your way through Cyberpunk 2077 this collection has it all and I mean all.\
+\
+The only choice you don't have is the Custom one-off body by the talented Hyst. The collection has a huge number of clothing options that are all built around this amazing 4k sculpted body. This body may not be for everyone so we have you covered you can check out our [City of Dreams (lite)](https://next.nexusmods.com/cyberpunk2077/collections/ayfbwl?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) version if you would like to include your own clothing and custom body.
+
+And thats it choom I hope to see you in Night City but now its time for me to Delta.
+</details>
+
 This isn't just a mod list we have slapped together this is a whole new world of **cyberpunk 2077** with hundreds of hours spent building, configuring, modding, and testing to create the best cyberpunk experience possible.
-
-This is a [800+](https://) Mod Collection it is the largest and most comprehensive mod list for **Cyberpunk 2077** it has been put together in a way that you can customize your playthrough to suit your style.&#x20;
-
-If you would like a smaller collection try my [City of Dreams (lite)](https://next.nexusmods.com/cyberpunk2077/collections/ayfbwl?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) version.
-
-Huge thank you to all the talented chooms that have put in the time and effort to create these preem mods. If you enjoy this collection, please show your support and [ENDORSE](https://) the mod authors and the collection.
 
 I hope you enjoy this collection and the game as much as I do. Time for me to delta but don't be a stranger join our community of edgerunners over on [Discord](https://discord.gg/xZNztPjA2u) see you there choom.
 
@@ -153,7 +161,7 @@ And also finally a thank you to the discord community for being helpful and plea
 
 ## [Collection not working](https://) ❓
 
-This collection is extensively tested with every new version that is released. If it's not working for you there's a good chance you have missed a step. Please join the discord so we can assist you and get you up and going before you downvote the collection.
+This collection is extensively tested with every new version that is released. If it's not working for you. Please join the discord so we can assist you and get you up and going before you downvote the collection.
 
 ![img](https://i.imgur.com/wAJUpeU.png)![](https://s12.gifyu.com/images/SW4jN.png)
 
@@ -634,7 +642,6 @@ You can find these items in the Dedicated [City of Dreams Atelier Store](https:/
 
 <details><summary>CLICK HERE TO SEE WHAT E3 MODS COME WITH THE COLLECTION</summary>
 - [E3 2018 HUD - Spicy HUDs](https://www.nexusmods.com/cyberpunk2077/mods/3023)
-- [E3 Icons Remastered (Hud and Map)](https://www.nexusmods.com/cyberpunk2077/mods/4230)
 - [E3 Smart Windows](https://www.nexusmods.com/cyberpunk2077/mods/7026)
 - [E3 Compass](https://www.nexusmods.com/cyberpunk2077/mods/4331)
 - [E3 2018 Samurai Jacket](https://www.nexusmods.com/cyberpunk2077/mods/1124)
@@ -680,21 +687,16 @@ You can find these items in the Dedicated [City of Dreams Atelier Store](https:/
 ## ![](https://s12.gifyu.com/images/BUG-FIXES.png)
 
 - Fixes damage output of guns when using attachments.
-- Fixes random hovering vehicles.
 - Fixes Optical Camo bugs.
 - Fixes all UI elements that get stuck on the screen.
 - Fixes NPC behaviour around the Aldecaldos' new camp.
-- Fixes Weapon UI bug when loading a game.
-- Fixes an audio bug for no sound on some proximity Mines.
 - Fixes River's dialogue in Holo calls it now actually plays the same as talking to him in person.
 - Fixes missing crucial clue audio playback in (The Hunt quest).
-- Fixes missing animations in the (Skippy quest episodes).
-- Fixes the clipping of Frank Nostra's hair cap.
 - Fixes mitches jacket with one that fits correctly.
 - Fixes sleeves automatically rolling up for long-sleeved clothes when the first-person perspective camera is active.
 - Fixes the dark box shadows cast by holo text screens using ray/path tracing.
 - Fixes textures on Dino Dinovic's chest tattoo.
-- Fixes the clock time during the Arasaka raid to match the expected time: Team arrives at ~23:35 pm, leaves at ~23:45pm Aug 20th, instead of 00:10 am on August 21st.
+- Fixes disable the hiding, of the Stamina bar.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -702,7 +704,6 @@ You can find these items in the Dedicated [City of Dreams Atelier Store](https:/
 
 - Reshade included.
 - Reshade Preset.
-- Draw distance boost.
 - Unlocked FOV.
 - Remove the Crouch vignette effect.
 - You will no longer see distant 2D cars.
@@ -763,9 +764,8 @@ You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 
 - V now has a jetpack.
 - V can now hang off walls and jump from wall to wall.
-- V can now slide sideways. More flexibility on the slide's trajectory. Improves camera control when sliding. Prevents stairs and small obstacles like sidewalks from cancelling the slide.
-- The custom Level cap allows you to keep levelling up past level 50.
-- Using healing items builds up your "Toxicity" until you "Overdose", requiring you to wait for the effect to wear off before using more inhalers/injectors.
+- V can now slide sideways. More flexibility on the slide's trajectory. Improves camera control when sliding. Prevents stairs and small obstacles like sidewalks from canceling the slide.
+- The custom Level cap allows you to keep leveling up past level 50.
 - Darkens the edges of the screen when your stamina is low.
 - Third-person mode.
 
@@ -918,46 +918,6 @@ You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 
 ***
 
-### Alternative Midair Movement and Walljumping
-
-https://www.youtube.com/watch?v=JtPB9BjaAbE
-
-[Alternative Midair Movement and Walljumping](https://www.nexusmods.com/cyberpunk2077/mods/5160?tab=description) by [DemiGoD715](https://www.nexusmods.com/cyberpunk2077/users/30144935).
-
-### Features
-
-> Allows the player to control the character midair while jumping and double jumping (no different types of leg cyberware supported yet). Adds "wallbouncing/walljumping" inspired by an Apex Legends movement mechanic, which means you can bounce back from a wall when directly looking at it and pressing/holding jump. Made the player slow down in the air if not pressing any movement keys to allow for a lot more precise landing than vanilla. Controller is supported and most things are configurable with [Native Settings UI](https://www.nexusmods.com/cyberpunk2077/mods/3518)
-
-<details><summary>CLICK FOR MORE DETAILS</summary>
-**How to wall jump**
-
-Wall jumping is triggered when the player is:
-
-1. in the air.
-2. looking directly forward at a solid surface that is right in front of the player character.
-3. holding down the jump button.
-
-- You need to stop moving forward (let go of the forward key or pull back the analog stick) in order to not go back directly at the wall right after the wall jump.
-- You can instantly redirect your wall jump in a backward diagonal left/right direction if you press the left or right movement keys at the moment you wall jump.
-- Redirecting the wall bounce direction is possible in general with camera positioning and movement keys, similar to the regular midair movement (its strength is boosted to feel more fluid, but it needs some practice to get the hang of it)
-
-**Walljump usage with a **jump all double** jump:**
-
-- If you don't want to double jump at all, \*\*HOLD \*\*the jump button from the ground to only wall jump.
-- If you want to double jump after a wall jump, \*\*HOLD \*\*the jump button from the ground -> wall jump -> release the jump key -> press the jump key again to double jump.
-- Double jump will be used up when pressing instead of holding the jump key, but I compensated this by increasing the jump height, so it becomes a feature instead of a bug.\\
-
-**How to control midair movement:**
-
-- As a general rule of thumb, you'll be able to push the character in the direction you are pressing the movement keys and turning the camera affects the direction too.
-- After jumping hold Forward + Left/Right and turn your mouse in the same direction to make a wide arc.
-- After jumping let go of Forward and hold Left/Right and turn your mouse in the same direction to make a sharper turn.
-- With source engine movement you can also tap strafe, which is rapidly pressing the movement keys in the air to drastically change your movement direction.
-- If you let go of every movement key (WASD) the character will start slowing down, you can also slow down faster by moving backwards but keep in mind the character will actually start moving backwards once the forward momentum is gone.
-</details>
-
-***
-
 ### Time Dilation Overhaul
 
 https://www.youtube.com/watch?v=-hPzkz1iF7g
@@ -996,18 +956,17 @@ You can find the new sandevistans added by [Time Dilation Overhaul](https://www.
 - The vehicle first person camera is now adjustable.
 - Hide shards you have already read.
 - Stops V from moving on the character creation screen.
-- Cleans up the green colour from the quick hack screen.
+- Cleans up the green color from the quick hack screen.
 - Remove quest tags from equipped items so they can be dismantled and sold.
 - Unequip all equipped items (armour, weapons and cyberware).
 - See what attribute level you needed for conversation skill checks that you passed.
 - Improved mini map zoom allows the map to dynamically zoom in and out depending on what areas you are in or if you are in the combat state.
-- Item sliders are set to the max by default for Drop, Stash and Sell actions.
+- Item sliders are set to the max by default for Drop, Stash, and Sell actions.
 - You can now craft items while in combat.
-- You can tweak some of the interaction and loot marker visibility behaviour.
+- You can tweak some of the interaction and loot marker visibility behavior.
 - You can mark any item in your inventory as Junk so you will be able to sell all marked items at once using the vendor "Sell Junk" option.
-- You can search your inventory for shards, quests and messages.
+- You can search your inventory for shards, quests, and messages.
 - Increases time spans between sickness effects applied to V by The Relic.
-- Untrack quests the same way you track them -- by right-clicking in the Journal or on the Map
 - Additional loot markers on looting containers that show which types of loot are in them.
 - Decrease the time it takes for drop points to refill with Eddies
 
@@ -1066,7 +1025,7 @@ Saves
 
 Mods
 
-- Other mods add their own page and add settings widgets to the newly added\*\*"Mods"\*\*settings menu.
+- Other mods add their own page and add settings widgets to the newly added "Mods" settings menu.
 - Mod setting tab in the main menu.
 
 UI Colours
@@ -1080,7 +1039,8 @@ UI Colours
 
 > [**A few in-game cheat menus allow for full customization of the following gameplay elements.**](https://)
 
-- Refill Ammo: manual or automatic.
+<details><summary>CLICK TO SEE WHAT CHEATS COME WITH THE COLLECTION</summary>
+- &#x20;Refill Ammo: manual or automatic.
 - Add Money, Consumables and Materials to Convert Drinks and Food.
 - Disassemble and Sell Items.
 - Upgrade equipped items and mods in your inventory to Uncommon, Rare, Epic or Legendary.
@@ -1099,6 +1059,7 @@ UI Colours
 - Upgrade your clothing mods, weapon mods, quick hacks, cyberware mods
 - In the game menu to configure multipliers for all XP types.
 - Unlock Vehicles and Instant Vehicle Spawn.
+</details>
 
 ***
 
@@ -1152,7 +1113,7 @@ https://www.youtube.com/watch?v=uScj2cK4qME
 ## ![](https://s12.gifyu.com/images/IMMERSION.png)
 
 - Adds the animation you see when you first pick up a weapon, configurable in the game.
-- Virtual Atelier adds an in-game store you can access from any computer in the game to buy weapons,cyberwar, clothes, drugs, vehicles and more.
+- Virtual Atelier adds an in-game store you can access from any computer in the game to buy weapons,cyberwar, clothes, drugs, vehicles, and more.
 - In-game torch.
 - Game time tweaks to make days and nights twice as long.
 - Vendors now show their real names.
@@ -1160,7 +1121,7 @@ https://www.youtube.com/watch?v=uScj2cK4qME
 - Immersive time skip allows you to still see the world around you when you skip time.
 - Expression and pose packs for photo mode add over 100 different poses and expressions.
 - The weather has been completely rebalanced you will see more changes in weather.
-- People will now casually interact with you as you walk near them.
+- NPCs will now casually interact with you as you walk near them.
 - Fully useable stock market system that dynamically reacts to quests and player action.
 - Better viewing angles when in first person.
 - No more crowd panic from using computers, doors, access points, etc.
@@ -1268,21 +1229,15 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 
 - V can now zoom in with the scope on your weapon.
 - V can now craft Scopes and Muzzle attachments.
+- Dead NPCs now take 5 minutes to become indestructible.
 - Ragdoll physics are now much more realistic.
-- More frequent dismemberment, decapitation and mutilation of the torso.
 - Restores some missing/cut crafting specs for some weapons.
-- Netrunners can use more hacks on you and reveal your position now they have access to the same hacks as you.
+- Cybernetic eyes allow you to zoom in while aiming.
 - Adds a kill counter to the side of the Malorian Arms piston.
 - Holster your weapon by holding the reload button.
 - Adjusted lighting for all explosions and fire effects.
 - Sticky Grenades have been converted to throwable proximity mines.
 - Glowing Knives and Katanas.
-- No throwing knife auto swap.
-- You can now add muzzle attachments to some shotguns.
-
-### Buffs
-
-SOR-22
 
 ***
 
@@ -1476,19 +1431,14 @@ Upgraded/Tweaked cyberware
 - [92' NSX Rocket Bunny](https://www.nexusmods.com/cyberpunk2077/mods/7533).
 - [95' McLaren F1](https://www.nexusmods.com/cyberpunk2077/mods/7845).
 - [Quadra Turbo K.S Edition](https://www.nexusmods.com/cyberpunk2077/mods/8260).
-- [Type-66 DUSK](https://www.nexusmods.com/cyberpunk2077/mods/8009).
-- [Arch Nasare Itsumade Black Devil](https://www.nexusmods.com/cyberpunk2077/mods/7980).
-- [Arch Nasare Itsumade ONI. Angel](https://www.nexusmods.com/cyberpunk2077/mods/8023).
-- [Quartz HELLHOUND](https://www.nexusmods.com/cyberpunk2077/mods/8159).
-- [Thorton Galena GRAPHITE](https://www.nexusmods.com/cyberpunk2077/mods/8230).
-- [Initial D Archer Quartz](https://www.nexusmods.com/cyberpunk2077/mods/8279).
-- [Type-66 MIDNIGHT](https://www.nexusmods.com/cyberpunk2077/mods/8288).
 - [Mercedes-Benz 190E W201](https://www.nexusmods.com/cyberpunk2077/mods/8521?tab=description).
 - [Pagani Zonda Cinque roadster](https://www.nexusmods.com/cyberpunk2077/mods/8795?tab=description).
 - [1993 Nissan 240SX (S13)](https://www.nexusmods.com/cyberpunk2077/mods/8730).
 - [Audi R8 Liberty Walk](https://www.nexusmods.com/cyberpunk2077/mods/8827).
-- [Ford Mustang RTR Spec 5](https://www.nexusmods.com/cyberpunk2077/mods/8912).
 - [Lamborghini Terzo Millennio](https://www.nexusmods.com/cyberpunk2077/mods/2398).
+- [Ford Mustang RTR Spec 5](https://www.nexusmods.com/cyberpunk2077/mods/8912).
+- [Porsche 918 Spyder.](https://www.nexusmods.com/cyberpunk2077/mods/9125?tab=description)
+- [Mercedes Benz c63s AMG](https://www.nexusmods.com/cyberpunk2077/mods/9075?tab=description).
 
 ***
 
