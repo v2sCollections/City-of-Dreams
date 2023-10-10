@@ -1,29 +1,11 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 
 
-# [IMPORTANT READ!!!](https://)
-
-### Hey chooms
-
-**Phantom Liberty** is here.
-
-## [Mods](https://)
-
-Mods will be broken we don't know for how long it could be a day it could be a week. As soon as they have been updated we will be working hard on our new update.
-
-[INSTRUCTIONS TO ROLL BACK GAME VERSIONS](https://wiki.redmodding.org/cyberpunk-2077-modding/for-mod-users/users-modding-cyberpunk-2077/users-downgrading-preventing-auto-updates) If you want to continue to play the modded version of the game.
-
-[Cyberclean](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md#troubleshooting) If you want to play vanilla with the DLC. After the cyberclean **DO NOT** **deploy** the mods.&#x20;
-
-Regards v2
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-### **Updated & Compatible with Patch 1.63 Hotfix 1**
+### **Updated & Compatible with Patch 2.01**
 
 IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/MRGHIA88V2/City-of-Dreams)
 
-### Collection Rev 47        &#x20;
+### Collection Rev 48        &#x20;
 
 https://www.youtube.com/watch?v=vvpmq34uBAc
 
@@ -172,7 +154,7 @@ This collection is extensively tested with every new version that is released. I
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Cyberpunk 2077.
 - The most exstensive mod collection on nexus for cyberpunk 2077.
 - Easy to follow step-by-step installation guide.
-- Only-[13](https://)GB in download size for [800+](https://) mods.
+- Only-[10](https://)Gb in download size for [800+](https://) mods. Optional Mods add another [10](https://)Gb
 - Mods specifically created for the collection.
 - Support for other Modular Expansion Packs.
 - Setup Video-[HERE](https://)
@@ -697,6 +679,7 @@ You can find these items in the Dedicated [City of Dreams Atelier Store](https:/
 - Fixes the dark box shadows cast by holo text screens using ray/path tracing.
 - Fixes textures on Dino Dinovic's chest tattoo.
 - Fixes disable the hiding, of the Stamina bar.
+- Fixes the issue where the slowest cars had the harshest delivery timers for Muammar's repeatable courier missions.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -916,39 +899,6 @@ You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 - **Tech Nullifying Weave:** Resistant to Tech damage (0.5x)
 </details>
 
-***
-
-### Time Dilation Overhaul
-
-https://www.youtube.com/watch?v=-hPzkz1iF7g
-
-[Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931) by [TeslaCoiled](https://www.nexusmods.com/cyberpunk2077/users/3534466)
-
-### Features
-
-> Overhauls Time Dilation in Cyberpunk to provide a more challenging and rewarding experience. Featuring all new abilities such as Katana Reflect, Vehicle Time Dilation, and Teleportation!
-
-<details><summary>CLICK FOR MORE DETAILS</summary>
-This mod was created to address what felt like some fundamentally broken aspects of the way Time Dilation is handled within Cyberpunk 2077. This mod touches nearly every aspect of Time Dilation, and features 344 configurable variables to control it all!\
-\
-This mod primarily:\\
-
-- Provides some minor bug fixes and quality of life options
-- Changes the way NPCs behave in time dilation
-- Changes how Scanning/Quickhack Time Dilation works
-- Completely reworks the Sandevistan Operating System **(including versions that make ranged weapons viable, allow Katana bullet reflection, activate time dilation in vehicles, and allow the player to teleport)**
-
-For the purposes of this mod page, the default values will be utilized in discussing the various changes. Generally speaking, this mod aims to make Time Dilation gameplay more challenging and rewarding than the vanilla implementation. The 344 configurable variables in a Native Settings UI mod menu allow you to change and tweak the mod to your heart’s content.
-
-You can find the new sandevistans added by [Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931) at the following locations.
-
-- Zetatech Mk 4 - Arroyo Ripperdock
-- Militech Mk 4 - Kabuki Ripperdock
-- Raven Mk 5 - Rancho Ripperdock
-- Fuyutsuki Mk 5 - Japan Town Ripperdock
-- Moore Mk 5 - Badlands Ripperdock
-</details>
-
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## ![](https://s12.gifyu.com/images/Quality-of-life.png)
@@ -968,7 +918,7 @@ You can find the new sandevistans added by [Time Dilation Overhaul](https://www.
 - You can search your inventory for shards, quests, and messages.
 - Increases time spans between sickness effects applied to V by The Relic.
 - Additional loot markers on looting containers that show which types of loot are in them.
-- Decrease the time it takes for drop points to refill with Eddies
+- Reduces the time taken to pass through the Dogtown vehicle checkpoints by roughly 66%.
 
 ***
 
@@ -1343,7 +1293,6 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 - Breast Jiggle Physics.
 - Diffrent types of Pubic Hair.
 - Underwear is removed in all situations where your character is nude.
-- Strippers and sex workers now have much more revealing clothing.
 - Joytoy was replaced in jig jig street.
 - Vshojo Advertisements.
 - 50+ Adult toys added to the game.
@@ -1351,13 +1300,14 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 ***
 
-### NPCs Gone Wild
+## Naked Series
 
-![](https://s11.gifyu.com/images/wild.jpg)[NPCs Gone Wild](https://www.nexusmods.com/cyberpunk2077/mods/1436) by [woodbricks](https://www.nexusmods.com/cyberpunk2077/users/103964573).
+![](https://s6.gifyu.com/images/S6IAl.png)[Naked NPCs Holograms](https://www.nexusmods.com/cyberpunk2077/mods/9785) & [Naked NPCs Sex Workers](https://www.nexusmods.com/cyberpunk2077/mods/9738) &  [Naked NPCs Tube Dancers](https://www.nexusmods.com/cyberpunk2077/mods/9689) by [marnhorn](https://www.nexusmods.com/cyberpunk2077/users/191415480)
 
 ### Features
 
-> Modifies female NPC bodies, textures, clothing and outfits to be much more revealing. Removes bras, underwear and more. With fully nude strippers, sculpted 3D nipples, vag\*\*as and a\*us, 4K nude skin texture, breast physics, and varying breast sizes.
+> - More revealing clothing for Female Sex Worker and Hologram NPCs.
+> - Nude Tube Dancer NPCs in The Afterlife club.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -1380,17 +1330,6 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 - You can purchase cyberware that enables the ability to toggle a night vision mode.
 - You can now hack NPCs with Cyberpsychosis, Suicide, System Reset, and Detonate Grenade.
 - Cybernetic eyes allow you to zoom in while aiming.
-
-Upgraded/Tweaked cyberware
-
-- **Immune System**
-- **Frontal Cortex**
-- **Nervous System**
-- **Circulatory System**
-- **Operating System**
-- **Integumentary**favourite**System**
-- **Skeleton**
-- **Hands**
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -1439,6 +1378,10 @@ Upgraded/Tweaked cyberware
 - [Ford Mustang RTR Spec 5](https://www.nexusmods.com/cyberpunk2077/mods/8912).
 - [Porsche 918 Spyder.](https://www.nexusmods.com/cyberpunk2077/mods/9125?tab=description)
 - [Mercedes Benz c63s AMG](https://www.nexusmods.com/cyberpunk2077/mods/9075?tab=description).
+- [Bugatti Chiron SuperSport](https://www.nexusmods.com/cyberpunk2077/mods/9147?tab=description).
+- [Nissan GTR](https://www.nexusmods.com/cyberpunk2077/mods/8391?tab=description).
+- [Porsche 911 GT3](https://www.nexusmods.com/cyberpunk2077/mods/8370?tab=description).
+- [Mclaren 765LT Spyder](https://www.nexusmods.com/cyberpunk2077/mods/8351?tab=description).
 
 ***
 
@@ -1452,6 +1395,48 @@ Upgraded/Tweaked cyberware
 
 - [V2 Customs - Rayfield Caliburn 450 Mph](https://www.nexusmods.com/cyberpunk2077/mods/3988)fastest car in cp2077
 - [v2 Customs - Colby Little Mule](https://www.nexusmods.com/cyberpunk2077/mods/8353)
+
+***
+
+![](https://s6.gifyu.com/images/S6hHh.png)![](https://s6.gifyu.com/images/S6hHv.jpg)**"Why take so many pictures and add clothing mods for a game that's in first person"** said a gamer who's never been to Night City.
+
+**"Style over Substance"**
+
+### **Features**
+
+> Custom Pose Packs with over xxx Custom Poses for V and many other NPCs, 100s of Custom Props allow you to transform your Photos in any way you want.
+
+- 26 Custom Pose packs. Contain over xxx Poses.
+- 100+ Props.
+- Photo mode unlocker.
+
+<details><summary>CLICK TO SEE ALL STUDIO 77 MODS</summary>
+- [Zwei Custom PMU Pose Packs - MascV - Core](https://www.nexusmods.com/cyberpunk2077/mods/7763)
+- [Zwei Custom PMU Pose Packs - MascV - Core](https://www.nexusmods.com/cyberpunk2077/mods/7763)
+- [Zwei Custom PMU Pose Packs - Core](https://www.nexusmods.com/cyberpunk2077/mods/7165)
+- [PMU - Sitting Poses - MascV](https://www.nexusmods.com/cyberpunk2077/mods/8445)
+- [PMU - Sitting Poses - FemV](https://www.nexusmods.com/cyberpunk2077/mods/8361)
+- [PMU - Zwei Custom Poses - Rockergirl Set](https://www.nexusmods.com/cyberpunk2077/mods/7441)
+- [PMU - Zwei Custom Poses - Rockerboy Set](https://www.nexusmods.com/cyberpunk2077/mods/7764)
+- [PMU - Zwei Custom Poses - Boudoir Set](https://www.nexusmods.com/cyberpunk2077/mods/8053)
+- [PMU - Zwei Custom Poses - Fashion Set](https://www.nexusmods.com/cyberpunk2077/mods/7156)
+- [PMU - Zwei Custom Poses - Veruca's Dance Class](https://www.nexusmods.com/cyberpunk2077/mods/7868)
+- [PMU - Alt Set - MascV Retarget](https://www.nexusmods.com/cyberpunk2077/mods/7944)
+- [PMU - Romance Set](https://www.nexusmods.com/cyberpunk2077/mods/8932)
+- [PMU - Us Cracks Set](https://www.nexusmods.com/cyberpunk2077/mods/6932)
+- [PMU - Joytoys Set - MascV](https://www.nexusmods.com/cyberpunk2077/mods/6786)
+- [PMU - Yorinobu Set](https://www.nexusmods.com/cyberpunk2077/mods/6784)
+- [PMU - Following the River](https://www.nexusmods.com/cyberpunk2077/mods/6338)
+- [PMU - Joytoys Set - FemV](https://www.nexusmods.com/cyberpunk2077/mods/6785)
+- [PMU - Never Fade Away Vol.1](https://www.nexusmods.com/cyberpunk2077/mods/5229)
+- [PMU - Evelyn Set](https://www.nexusmods.com/cyberpunk2077/mods/5663)
+- [PMU - Rogue Set](https://www.nexusmods.com/cyberpunk2077/mods/4884)
+- [PMU - Katana Set - Fem V](https://www.nexusmods.com/cyberpunk2077/mods/4337)
+- [PMU - Katana Set - Masc V](https://www.nexusmods.com/cyberpunk2077/mods/4411)
+- [PMU - Nibbles Unlocked](https://www.nexusmods.com/cyberpunk2077/mods/5138)
+- [Angy Pose Packs - Cute and Sexy for femV](https://www.nexusmods.com/cyberpunk2077/mods/6871)
+- [Photo Mode Unlocker 2.0 XL](https://www.nexusmods.com/cyberpunk2077/mods/4319)
+</details>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -1527,7 +1512,7 @@ Special thanks to these chooms who helped make this collection preem. And everyo
 - Fenrir
 - The Magnificent Doctor Presto
 - Starfox
-- Jeridlee
+- NDLWX
 
 And all the teams and modders behind all the tools that make cyberpunk 2077 modding possible.
 

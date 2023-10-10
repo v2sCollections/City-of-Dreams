@@ -286,21 +286,6 @@ This is a bug caused by the (Better Netrunning) Mod it doesn't affect the actual
 
 </details>
 
-<details>
-<summary>Where are ther new sandevistans</summary>
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-You can find the new sandevistans added by (Time Dilation Overhaul) at the following locations.
-- Zetatech Mk 4 - Arroyo Ripperdock
-- Militech Mk 4 - Kabuki Ripperdock
-- Raven Mk 5 - Rancho Ripperdock
-- Fuyutsuki Mk 5 - Japan Town Ripperdock
-- Moore Mk 5 - Badlands Ripperdock
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-</details>
 
 
 <details>
