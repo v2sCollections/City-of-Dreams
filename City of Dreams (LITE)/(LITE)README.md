@@ -2,7 +2,7 @@
 
 ### **Updated and compatible with Patch 2.01**
 
-### Collection Rev 15        &#x20;
+### Collection Rev 16       &#x20;
 
 ![](https://s11.gifyu.com/images/Border11.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://) (lite) Version for **Cyberpunk 2077**.
 
@@ -10,7 +10,7 @@
 Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Hogwarts](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Elden Ring](https://next.nexusmods.com/eldenring/collections/qpwypd?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/xZNztPjA2u) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
 </details>
 
-This isn't just a mod list I've slapped together this is the lite & SFW version of my main [cyberpunk 2077 collection](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) with hundreds of hours spent building, configuring, modding, and testing to create the best cyberpunk experience possible.
+This isn't just a mod list I've slapped together this is the lite & SFW version of my main [cyberpunk 2077 collection](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection).
 
 I hope you enjoy this collection and the game as much as I do. Time for me to delta but don't be a stranger join our community of edgerunners over on [Discord](https://discord.gg/xZNztPjA2u) see you there choom.
 
@@ -24,24 +24,21 @@ This collection is extensively tested with every new version that is released. I
 
 ![img](https://i.imgur.com/tuwIgmm.png)
 
+[![](https://s6.gifyu.com/images/S6n82.png)](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)
+
+[![](https://s6.gifyu.com/images/S6n4A.png)](https://discord.gg/xZNztPjA2u)
+
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Cyberpunk 2077.
 - Easy to follow step-by-step installation guide.
 - Only-[9](https://)GB in download size for-[200+](https://) mods.
 - Mods specifically created for the collection.
 - Support for other Modular Expansion Packs.
 - Setup Video-[HERE](https://)
-- Dedicated Youtube Channel-[HERE](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)
-- [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
-- [Youtube Channel](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)-with Guides and Videos.
-- [Github Repository](https://github.com/2077v2/City-of-Dreams)-with Guides/FAQs and much more.
+- [Github Repository](https://)-with Guides/FAQs and much more.
 - Continuous Support in Comments and on Discord.
 - Live voice support.
 - Giveaways. Nexus Premium/Game Keys/Discord Nitro (Every Week).&#x20;
 - and much much more Join our Discord for more information.
-
-![](]https://i.imgur.com/VeCI8dy.png)[![](https://s11.gifyu.com/images/S4CqN.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow chooms everday.
-
-[![](https://s11.gifyu.com/images/S4Cmy.png)](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)Follow us on [Youtube](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA) for guides and videos.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -57,7 +54,6 @@ This collection is extensively tested with every new version that is released. I
 - Input mods.
 - Improved UI.
 - In-game Mod Menus
-- In-game Appearance Menu
 - In-game-Cheat Menus.
 - Texture Mods.
 - Save Game Editor.
@@ -73,18 +69,12 @@ This collection is extensively tested with every new version that is released. I
 C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 ```
 
-![img](https://i.imgur.com/wAJUpeU.png)
-
-## ⛔[WARNINGS](https://)⛔
-
-If you see this> ⛔ then you need to read and follow the directions.
-
-- ⛔DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
-
 ## [Updating Collection](https://)[   ](https://)
 
-- **⛔**Updating the collection is as easy as clicking the "Update" button. When prompted to "**Remove mods from old revision**" make sure to click the"**Remove All**" button.
-- ⛔DO NOT update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
+- ⛔**DO NOT update** any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
+- Updating the collection is as easy as clicking the **"Update"** button.&#x20;
+- Make sure to update the current profile you are using inside of Vortex. Using one Profile ensures stability for Vortex.&#x20;
+- When prompted to "**Remove mods from old revision**" make sure to click the "**Remove All**" button.
 - Notes will be in the changelog.
 
 ## [Launching Cyberpunk 2077](https://)
@@ -336,12 +326,6 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 ![img](https://i.imgur.com/u4G5pz5.png)
 
-## ⛔[WARNINGS](https://)⛔
-
-If you see this> ⛔ then you need to read and follow the directions.
-
-⛔ All ***(OPTIONAL)***  mods will be enabled automatically if you choose to install **"all optional mods" (see the optional mods section above in the install guide)** if you do choose to install all then you will have to manually disable the ones you don't want it.
-
 ⛔ It Is important that you read the following guide to fully understand everything clearly.
 
 You can check out the gallery at the top of this page for videos by some of the mod authors showcased in this collection.
@@ -356,8 +340,6 @@ You can check out the gallery at the top of this page for videos by some of the 
 
 ## ![](https://s12.gifyu.com/images/Language.png)
 
-## ***(OPTIONAL)***
-
 > [Polyglot V (V speaks English and Japanese) mod](https://). Now you can speak Japanese to Asian NPC's and have them reply in Japanese.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
@@ -368,9 +350,12 @@ You can check out the gallery at the top of this page for videos by some of the 
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s12.gifyu.com/images/BUG-FIXES.png)
+## ![](https://s12.gifyu.com/images/BUG-FIXES.png)Features
 
-- Fixes damage output of guns when using attachments.
+> Many fixes to vanilla game bugs.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- &#x20;Fixes damage output of guns when using attachments.
 - Fixes Optical Camo bugs.
 - Fixes all UI elements that get stuck on the screen.
 - Fixes missing crucial clue audio playback in (The Hunt quest).
@@ -379,11 +364,16 @@ You can check out the gallery at the top of this page for videos by some of the 
 - Fixes the dark box shadows cast by holo text screens using ray/path tracing.
 - Fixes textures on Dino Dinovic's chest tattoo.
 - Fixes disable the hiding, of the Stamina bar.
+- Fixes the issue where the slowest cars had the harshest delivery timers for Muammar's repeatable courier missions.
+</details>
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s11.gifyu.com/images/Graphics.png)
+## ![](https://s11.gifyu.com/images/Graphics.png)Features
 
+> The collection comes with improvements to the graphics  with custom textures. And if this isnt enough you can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp)\*\* \*\*(This is for high-end systems only 16 GB Vram+)
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
 - Reshade included.
 - Reshade Preset.
 - Unlocked FOV.
@@ -391,13 +381,7 @@ You can check out the gallery at the top of this page for videos by some of the 
 - You will no longer see distant 2D cars.
 - Limited dynamic hud elements.
 - No Camera auto-centering.
-
-## A message from [XilaMonstrr](https://www.nexusmods.com/starfield/users/126616023)
-
-**ABOUT ME**\
-I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=user+files), nearly all texture optimization or upscaling for Skyrim and Cyberpunk 2077, including [Performance Optimized Textures for all of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/68055). My work has been featured in a number of gaming magazines over the past two years.\
-\
-You can find me in [v2's discord here](https://discord.gg/v2-s-collections-1076179431195955290).
+</details>
 
 <details><summary>CLICK HERE TO SEE WHAT GRAPHICS MODS COME WITH THE COLLECTION</summary>
 > [Upscaled Textures Include](https://)
@@ -426,17 +410,19 @@ You can find me in [v2's discord here](https://discord.gg/v2-s-collections-10761
 
 ⛔ Note that some of these will eat your VRAM I recommend a minimum 8 GB GPU but even then depending on your settings vanilla cyberpunk will eat 8 GB. If you notice stuttering or any texture issues then disable a few of the (surface mods) in Vortex.
 
-You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high-end** systems only 16 GB Vram+)
-
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s11.gifyu.com/images/Gameplay.png)
+## ![](https://s11.gifyu.com/images/Gameplay.png)Features
 
-- V now has a jetpack.
+> The collection comes with many improvements and adjustments to the core gameplay of cyberpunk. This will suit all playstyles wether you want to cruise your way through the game and you want a hardcore experiance.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- &#x20;V now has a jetpack.
 - V can now hang off walls and jump from wall to wall.
 - V can now slide sideways. More flexibility on the slide's trajectory. Improves camera control when sliding. Prevents stairs and small obstacles like sidewalks from canceling the slide.
 - Darkens the edges of the screen when your stamina is low.
 - Third-person mode.
+</details>
 
 ***
 
@@ -476,7 +462,7 @@ You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 
 ### Lifepath Bonuses and Gang Corp Traits
 
-![](https://s11.gifyu.com/images/Sc9qr.png) [Lifepath Bonuses and Gang Corp Traits](https://www.nexusmods.com/cyberpunk2077/mods/2217) by [rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803).
+![](https://s6.gifyu.com/images/S6IO8.jpg) [Lifepath Bonuses and Gang Corp Traits](https://www.nexusmods.com/cyberpunk2077/mods/2217) by [rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803).
 
 ### Features
 
@@ -589,9 +575,12 @@ You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s12.gifyu.com/images/Quality-of-life.png)
+## ![](https://s12.gifyu.com/images/Quality-of-life.png)Features
 
-- The vehicle first person camera is now adjustable.
+> The collection comes with many quality of life improvements from the small things that annoy you to the entire user interface of cyberpunk 2077.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- &#x20;The vehicle first person camera is now adjustable.
 - Hide shards you have already read.
 - Stops V from moving on the character creation screen.
 - Cleans up the green color from the quick hack screen.
@@ -606,12 +595,19 @@ You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 - You can search your inventory for shards, quests, and messages.
 - Increases time spans between sickness effects applied to V by The Relic.
 - Additional loot markers on looting containers that show which types of loot are in them.
+- Reduces the time taken to pass through the Dogtown vehicle checkpoints by roughly 66%.
+</details>
 
 ***
 
-### [**UI Improvements Include**](https://)
+### **UI Improvements**
 
-Limited HUD
+## Features
+
+> Many diffrent improvements to the UI click below to see all the changes.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+&#x20;Limited HUD
 
 - Hides main HUD widgets by default and shows them only on certain events (configurable). Adds in-game widget toggle hotkeys and a bunch of optional files to tweak different HUD elements.
 - **Journal Notifications Widgets**: tweaks widget size and opacity for all kinds of journal and quest notifications, removes notification appearing sound as well (configurable)
@@ -666,15 +662,16 @@ Mods
 UI Colours
 
 - Different UI Colour combinations to choose from.
+</details>
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-![](https://s12.gifyu.com/images/Cheats.png)
+## ![](https://s12.gifyu.com/images/Cheats.png)Features
 
-> [**A few in-game cheat menus allow for full customization of the following gameplay elements.**](https://)
+> A few in-game cheat menus allow for full customization of the following gameplay elements.
 
-<details><summary>CLICK TO SEE WHAT CHEATS COME WITH THE COLLECTION</summary>
-- &#x20;Refill Ammo: manual or automatic.
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- Refill Ammo: manual or automatic.
 - Add Money, Consumables, and Materials to Convert Drinks and Food.
 - Disassemble and Sell Items.
 - Upgrade equipped items and mods in your inventory to Uncommon, Rare, Epic or Legendary.
@@ -717,36 +714,14 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 - Quick actions - dedicated controls for common actions such as making items legendary & editing money.
 </details>
 
-***
-
-### CPAH - Breach Protocol Autohacker
-
-https://www.youtube.com/watch?v=uScj2cK4qME
-
-[CPAH - Breach Protocol Autohacker](https://www.nexusmods.com/cyberpunk2077/mods/955?tab=description) by [TheJsh](https://www.nexusmods.com/cyberpunk2077/users/107011328).&#x20;
-
-### Features
-
-> This tool allows you to auto-hack breach protocol. This tool can be found in your toolbar in the top left corner of Vortex.
-
-![](https://s12.gifyu.com/images/Autohack.jpg)
-
-<details><summary>CLICK FOR MORE DETAILS</summary>
-- Automatic matrix code and sequence detection using OpenCV.
-- Selectable daemons in case your buffer size is not large enough.
-- Autohacking by sending keys to solve the matrix for you.
-- Forced auto hacking and optimized data mine rewards.
-- Configurable hotkey to prevent the need to switch windows.
-- Sound notifications for people with only one monitor.
-- Configurable detection and override settings if you are playing at a small resolution.
-- Support for GeForce NOW users﻿.
-</details>
-
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s12.gifyu.com/images/IMMERSION.png)
+## ![](https://s12.gifyu.com/images/IMMERSION.png)Features
 
-- Adds the animation you see when you first pick up a weapon, configurable in the game.
+>
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- &#x20;Adds the animation you see when you first pick up a weapon, configurable in the game.
 - Virtual Atelier adds an in-game store you can access from any computer in the game to buy weapons,cyberwar, clothes, drugs, vehicles, and more.
 - In-game torch.
 - Game time tweaks to make days and nights twice as long.
@@ -771,11 +746,15 @@ https://www.youtube.com/watch?v=uScj2cK4qME
 - V can now trade with street vendors.
 - V can play the arcade machines.
 - V can now smoke, drink, and eat while standing idle anywhere.
+</details>
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s12.gifyu.com/images/Combat-weopans.png)
+## ![](https://s12.gifyu.com/images/Combat-weopans.png)Features
 
+>
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
 - V can now zoom in with the scope on your weapon.
 - V can now craft Scopes and Muzzle attachments.
 - Dead NPCs now take 5 minutes to become indestructible.
@@ -786,6 +765,7 @@ https://www.youtube.com/watch?v=uScj2cK4qME
 - Adjusted lighting for all explosions and fire effects.
 - Sticky Grenades have been converted to throwable proximity mines.
 - Glowing Knives and Katanas.
+</details>
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -801,52 +781,27 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-![](https://s12.gifyu.com/images/Cyberarms.png)[Arasaka Cyberarms](https://www.nexusmods.com/cyberpunk2077/mods/1099). by  [Aanderz](https://www.nexusmods.com/cyberpunk2077/users/861683) ***(OPTIONAL)***  Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
+## ![](https://s11.gifyu.com/images/Cyberware.png)  Features
 
-***
+> High Tech-Low Life. Choose your style choom.
 
-![](https://s12.gifyu.com/images/Cyberwarepng.png)[Arasaka Cyber Body Mod](https://www.nexusmods.com/cyberpunk2077/mods/2598). by [sedthsedthtananurak](https://www.nexusmods.com/cyberpunk2077/users/59039391) ***(OPTIONAL)*** Gives male V a new cyberware body.
-
-***
-
--
-- Custom Arasaka cyberware includes Berserk, Sandevistans and Cyberdecks.
-- You can now get Epic and Legendary cyberwares that are not available in standard game.
-- All Quickhacks and Talent shards have been added to the Atelier shop.
+<details><summary>CLICK FOR MORE DETAILS</summary>
 - You can purchase cyberware that enables the ability to toggle a night vision mode.
+- You can now hack NPCs with Cyberpsychosis, Suicide, System Reset, and Detonate Grenade.
+</details>
 
-Upgraded/Tweaked cyberware
+***
 
-- **Immune System**
-- **Frontal Cortex**
-- **Nervous System**
-- **Circulatory System**
-- **Operating System**
-- **Integumentary**favourite**System**
-- **Skeleton**
-- **Hands**
+![](https://s12.gifyu.com/images/Cyberarms.png)[Arasaka Cyberarms](https://www.nexusmods.com/cyberpunk2077/mods/1099). by  [Aanderz](https://www.nexusmods.com/cyberpunk2077/users/861683) ***(OPTIONAL)***  Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s11.gifyu.com/images/Vehcles.png)
+## ![](https://s11.gifyu.com/images/Vehcles.png)Features
 
-![](https://s11.gifyu.com/images/E3ROK.jpg)[Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016) & [Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034) by [E3roKK](https://www.nexusmods.com/cyberpunk2077/users/25841040).
+> Make modifications to your vehicle, fly around Night City or buy custom vehicles every aspect of driving and vehicles has been modified.
 
-### Features
-
-> Overhauls Every Single Vehicle's top speed, gearing, power, handling and brakes. You can also modify your favourite player vehicles at the mod shop.
-
-***
-
-![](https://i.imgur.com/gPWMj46.jpg)[Let There Be Flight](https://www.nexusmods.com/cyberpunk2077/mods/5208?tab=description) by [jackhumbert](https://www.nexusmods.com/cyberpunk2077/users/86010988).
-
-### Features
-
-> Enables a configurable flight system for all vehicles with custom thruster models, visual sound effects, and animations.
-
-***
-
-- V can send their vehicle away.
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- &#x20;V can send their vehicle away.
 - V can now purchase all vehicles from the in-game atelier store.
 - V can control vehicle headlights and windows.
 - V can change the brightness and distance of vehicle headlights.
@@ -873,18 +828,45 @@ Upgraded/Tweaked cyberware
 - [Ford Mustang RTR Spec 5](https://www.nexusmods.com/cyberpunk2077/mods/8912).
 - [Porsche 918 Spyder.](https://www.nexusmods.com/cyberpunk2077/mods/9125?tab=description)
 - [Mercedes Benz c63s AMG](https://www.nexusmods.com/cyberpunk2077/mods/9075?tab=description).
+- [Bugatti Chiron SuperSport](https://www.nexusmods.com/cyberpunk2077/mods/9147?tab=description).
+- [Nissan GTR](https://www.nexusmods.com/cyberpunk2077/mods/8391?tab=description).
+- [Porsche 911 GT3](https://www.nexusmods.com/cyberpunk2077/mods/8370?tab=description).
+- [Mclaren 765LT Spyder](https://www.nexusmods.com/cyberpunk2077/mods/8351?tab=description).
+</details>
+
+##
+
+***
+
+## Cyber Vehicle Overhaul & Car Modification Shop
+
+![](https://s11.gifyu.com/images/E3ROK.jpg)[Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016) & [Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034) by [E3roKK](https://www.nexusmods.com/cyberpunk2077/users/25841040).
+
+### Features
+
+> Overhauls Every Single Vehicle's top speed, gearing, power, handling and brakes. You can also modify your favourite player vehicles at the mod shop.
+
+***
+
+## Let There Be Flight
+
+![](https://i.imgur.com/gPWMj46.jpg)[Let There Be Flight](https://www.nexusmods.com/cyberpunk2077/mods/5208?tab=description) by [jackhumbert](https://www.nexusmods.com/cyberpunk2077/users/86010988).
+
+### Features
+
+> Enables a configurable flight system for all vehicles with custom thruster models, visual sound effects, and animations.
 
 ***
 
 ### Custom **Vehicle** Tuning by [v2](https://www.nexusmods.com/cyberpunk2077/users/123334373) Customs
 
-![](https://s11.gifyu.com/images/Untitled1dcd699281f3354a.jpg)[Custom Vehicle Tuning](https://) by [2077v2](https://www.nexusmods.com/cyberpunk2077/users/123334373).
+![](https://s6.gifyu.com/images/S6IOJ.jpg)[Custom Vehicle Tuning](https://) by [2077v2](https://www.nexusmods.com/cyberpunk2077/users/123334373).
 
 ### Features
 
 > Custom tuned Vehicles.
 
-- [V2 Customs - Rayfield Caliburn 450 Mph](https://www.nexusmods.com/cyberpunk2077/mods/3988)fastest car in cp2077
+- [V2 Customs - Rayfield Caliburn 450 Mph](https://www.nexusmods.com/cyberpunk2077/mods/3988) fastest car in cp2077
 - [v2 Customs - Colby Little Mule](https://www.nexusmods.com/cyberpunk2077/mods/8353)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -899,7 +881,7 @@ Upgraded/Tweaked cyberware
 
 Please do not forget that when you install any extra collections, it's your responsibility and they may not work as intended unless curated by me.
 
-You can use my 4k add on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high end systems only 10gb Vram+)**
+You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high end systems only 10gb Vram+)**
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -930,14 +912,16 @@ Recommended In-game settings These settings will give a small performance boost 
 
 ![img](https://i.imgur.com/rlYi0uq.png)
 
-- VRAM> 8GB
+<details><summary>CLICK FOR SYSTEM REQUIREMENTS</summary>
+- &#x20;VRAM> 8GB
 - GPU>**(see below)**
 - 1080p> RTX 3060 or RX 6700 XT
 - 1440p> RTX 3080 or RX 6800 XT
 - RAM> 16GB
 - CPU> R5 3600 or i5 9600K
 - STORAGE> 9GB
-- STORAGE TYPE> SSD (Recommended)
+- STORAGE TYPE> SSD
+</details>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -947,16 +931,17 @@ Please let us know if you have any issues with this collection I'm sure we can f
 
 If you enjoy this collection, **PLEASE** endorse the mod authors and Support me to help me build the best collection we can for this game.
 
-I'm looking for team members with the knowledge and time to help me build this collection join the discord to fill out an application.
-
 Special thanks to these chooms who helped make this collection preem. And everyone on the Nexus & The Cyberpunk modding Discords.
 
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
 - [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)
-- gknova-2
+- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
+- Jinxy 𝓩𝓸𝓶𝓫𝓲𝓮 Hyperdrive
+- Fenrir
+- The Magnificent Doctor Presto
 - Starfox
-- Jeridlee
+- NDLWX
 
 And all the teams and modders behind all the tools that make cyberpunk 2077 modding possible.
 
@@ -975,15 +960,12 @@ If you would like to support me so I can afford some new chrome click the button
 
 Or, [buy me a coffee](https://www.buymeacoffee.com/2077v2)
 
-![img](https://i.imgur.com/wAJUpeU.png)
-
-![](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
-
-## [Disclaimer](https://)
+## ![img](https://i.imgur.com/wAJUpeU.png)[Disclaimer](https://)
 
 - ⛔ I will not be responsible for any possibility of save corruption.
 - ⛔ Please don't use a similar name to this collection.
 - ⛔ I do not allow you to copy or clone this collection in any way.
+- ⛔DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
 - CD PROJEKT®, Cyberpunk®, Cyberpunk 2077® are registered trademarks of CD PROJEKT S.A. © 2022 CD PROJEKT S.A
 
 ![img](https://i.imgur.com/wAJUpeU.png)
