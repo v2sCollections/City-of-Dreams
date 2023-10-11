@@ -2,11 +2,13 @@
 
 ### **Updated and compatible with Patch 2.01**
 
-IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/2077v2/City-of-Dreams/blob/main/City%20of%20Dreams%204k%20Graphics%20Pack/City%20of%20Dreams%204kGraphics%20Pack%20README.md)
-
 ### Collection Rev 7          &#x20;
 
 ![](https://s11.gifyu.com/images/Border11.jpg)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Dreams 4k Graphics Pack](https://) .
+
+<details><summary>ABOUT ME</summary>
+Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Hogwarts](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Elden Ring](https://next.nexusmods.com/eldenring/collections/qpwypd?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/xZNztPjA2u) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
+</details>
 
 Note this is for high-end systems only.
 
@@ -28,7 +30,6 @@ Note this is for high-end systems only.
 
 - Easy to follow step-by-step installation guide.
 - 70+ Grahics mods to enhance cyberpunk 2077.
-- Dedicated Youtube Channel-[HERE](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)
 - [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
 - [Youtube Channel](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)-with Guides and Videos.
 - [Github Repository](https://github.com/2077v2/City-of-Dreams)-with Guides/FAQs and much more.
@@ -39,20 +40,27 @@ Note this is for high-end systems only.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![img](https://i.imgur.com/vKOjnBL.png)
+## ![img](https://i.imgur.com/vKOjnBL.png)[Make a Backup Save](https://)
 
-## ⛔[WARNINGS](https://)⛔
+- Mods for Cyberpunk 2077 are pretty reliable but it's always good to make a backup of your save file. The save file location can be found below Just copy the contents of this file and place it somewhere on your PC.
 
-If you see this> ⛔ then you need to read and follow the directions.
-
-- ⛔It Is important that you read the following guide to fully understand everything clearly.
-- ⛔DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
+```
+C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
+```
 
 ## [Updating Collection](https://)[   ](https://)
 
-- **⛔**Updating the collection is as easy as clicking the "Update" button. When prompted to "**Remove mods from old revision**" make sure to click the"**Remove All**" button.
-- ⛔DO NOT update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
+- ⛔**DO NOT update** any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
+- Updating the collection is as easy as clicking the **"Update"** button.&#x20;
+- Make sure to update the current profile you are using inside of Vortex. Using one Profile ensures stability for Vortex.&#x20;
+- When prompted to "**Remove mods from old revision**" make sure to click the "**Remove All**" button.
 - Notes will be in the changelog.
+
+## [Launching Cyberpunk 2077](https://)
+
+- Use Vortex to launch the game.
+
+![](https://s12.gifyu.com/images/Launch-from-here.jpg)
 
 ![img](https://i.imgur.com/wAJUpeU.png)![](https://i.imgur.com/JyLQDVe.png)
 
@@ -383,6 +391,7 @@ Or, [buy me a coffee](https://www.buymeacoffee.com/2077v2)
 - ⛔ I will not be responsible for any possibility of save corruption.
 - ⛔ Please don't use a similar name to this collection.
 - ⛔ I do not allow you to copy or clone this collection in any way.
+- ⛔DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
 - CD PROJEKT®, Cyberpunk®, Cyberpunk 2077® are registered trademarks of CD PROJEKT S.A. © 2022 CD PROJEKT S.A
 
 ![img](https://i.imgur.com/wAJUpeU.png)
