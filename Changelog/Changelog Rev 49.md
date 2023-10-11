@@ -39,6 +39,7 @@ MODS NOT WORKING AT THE MOMENT
 - [Let there be flight](https://)
 - [CTD Helper](https://)
 - [In-World Navigation](https://)
-- [The Afterlife - Re imagined](https://)
+- [Mod Settings](https://)
+- [Lifepath Bonuses and Gang Corp Traits](https://)
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)

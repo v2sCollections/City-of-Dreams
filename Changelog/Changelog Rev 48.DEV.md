@@ -12,9 +12,12 @@ REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!!
 CYBERCLEAN IS MANDORTORY!!!
 
 - Changed the name of the Collection.
+- If you are using a pre 2.0 save it is recommended you start a new save.
 
 UPDATED
 -
+
+Full list here
 
 ### CORE
 
@@ -344,11 +347,6 @@ SAME MOD AUTHOR
 - [Lifepath Bonuses and Gang-Corp Traits](https://www.nexusmods.com/cyberpunk2077/mods/2217?tab=description)
 
 
-- [Arasaka Cyberarms](https://www.nexusmods.com/cyberpunk2077/mods/1099)
-- [Authentic Shift Audio Gear Ratios (Standalone or Cyber Vehicle Overhaul)](https://www.nexusmods.com/cyberpunk2077/mods/6823?tab=description)
-- [Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931?_gl=1%2A1q4e4b0%2A_ga%2ANTM5MzA5NTU4LjE2OTQ4NzkyMzY.%2A_ga_N0TELNQ37M%2AMTY5NjA5NDk2MC43OS4xLjE2OTYxMDczNDEuMC4wLjA.&tab=description)
-- [Ranged Attack Speed Damage Fix](https://www.nexusmods.com/cyberpunk2077/mods/4997?tab=description)
-- [Arasaka Cyberware OS Mk6](https://www.nexusmods.com/cyberpunk2077/mods/5031?tab=description&BH=0)
 - [flib's UI Improvements](https://www.nexusmods.com/cyberpunk2077/mods/2729?tab=description)
 - [Simple Menu - An In-Game UI including Hotkeys](https://www.nexusmods.com/cyberpunk2077/mods/818)
 - [Nano Drone](https://www.nexusmods.com/cyberpunk2077/mods/3419)
