@@ -318,6 +318,8 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ![](https://s11.gifyu.com/images/Optinal.jpg)Now you can choose which ***(OPTIONAL)***  mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(make sure to read these messages)**.
 
+⛔ All ***(OPTIONAL)***  mods will be enabled automatically if you choose to install **"all optional mods" If** you do choose to install all then you will have to manually disable the ones you don't want.
+
 ***
 
 ## [In-game settings](https://)
@@ -560,11 +562,7 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 ![img](https://i.imgur.com/u4G5pz5.png)
 
-## ⛔[WARNINGS](https://)⛔
-
 ⛔ It Is important that you read the following guide to fully understand everything clearly.
-
-⛔ All ***(OPTIONAL)***  mods will be enabled automatically if you choose to install **"all optional mods" (see the optional mods section above in the install guide)** if you do choose to install all then you will have to manually disable the ones you don't want.
 
 You can check out the gallery at the top of this page for videos by some of the mod authors showcased in this collection.
 
@@ -590,11 +588,11 @@ You can check out the gallery at the top of this page for videos by some of the 
 
 ![](https://s11.gifyu.com/images/Untitled18244ce047bd870e.png)
 
-You can find these items in the Dedicated [City of Dreams Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/8344).
-
 ### Features
 
 > Below are some Edgerunner mods some are optional you can enable them if you want the full Edgerunner Theme.
+>
+> You can find these items in the Dedicated [City of Dreams Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/8344).
 
 <details><summary>CLICK HERE TO SEE WHAT EDGERUNNER MODS COME WITH THE COLLECTION</summary>
 - [Edgerunners Posters](https://www.nexusmods.com/cyberpunk2077/mods/5203)***(OPTIONAL)***
@@ -620,7 +618,7 @@ You can find these items in the Dedicated [City of Dreams Atelier Store](https:/
 
 ## ![](https://s12.gifyu.com/images/BUG-FIXES.png)Features
 
->
+> Many fixes to vanilla game bugs. 
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - Fixes damage output of guns when using attachments.
@@ -641,7 +639,15 @@ You can find these items in the Dedicated [City of Dreams Atelier Store](https:/
 
 ## ![](https://s11.gifyu.com/images/Graphics.png)Features
 
+> The collection comes with many improvements to the graphics from upscaled textures to custom textures and our own reshade cyberpunk has never looked better. And if this isnt enough you can use our 4k add-on graphics pack 
 >
+> [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp)
+>
+>  
+>
+> **(This is for high-end**
+>
+>  systems only 16 GB Vram+)
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - Reshade included.
@@ -668,7 +674,6 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 - UHD Splash Screen.
 - QHD Intro.
 - QHD Edgerunner Braindance.
-- HD Pachinko Parlor.
 - Clean Loading Screens
 
 > [Upscaled Textures Include](https://)
@@ -697,19 +702,16 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 
 ⛔ Note that some of these will eat your VRAM I recommend a minimum 8 GB GPU but even then depending on your settings vanilla cyberpunk will eat 8 GB. If you notice stuttering or any texture issues then disable a few of the (surface mods) in Vortex.
 
-You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high-end** systems only 16 GB Vram+)
-
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## ![](https://s11.gifyu.com/images/Gameplay.png)Features
 
->
+> The collection comes with many improvements and adjustments to the core gameplay of cyberpunk. This will suit all playstyles wether you want to cruise your way through the game and you want a hardcore experiance the collection has it all.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - V now has a jetpack.
 - V can now hang off walls and jump from wall to wall.
 - V can now slide sideways. More flexibility on the slide's trajectory. Improves camera control when sliding. Prevents stairs and small obstacles like sidewalks from canceling the slide.
-- The custom Level cap allows you to keep leveling up past level 50.
 - Darkens the edges of the screen when your stamina is low.
 - Third-person mode.
 </details>
@@ -722,8 +724,8 @@ You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 
 ## &#x20;Features
 
-> An in game Radio Station that you can use in Vehicles and In world Radios.&#x20;
-> \*NOTE You will need the Music Tracks You can get them on our [DISCORD](https://discord.gg/xZNztPjA2u)
+> An in game Radio Station that you can use in Vehicles and In world Radios. \
+> **\*NOTE** You will need the Music Tracks You can get them on our [DISCORD](https://discord.gg/xZNztPjA2u)
 
 <details><summary>CLICK HERE TO SEE OUR MUSIC SELECTION</summary>
 ### **Albums**
@@ -865,10 +867,10 @@ You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 
 ## ![](https://s12.gifyu.com/images/Quality-of-life.png)Features
 
->
+> The collection comes with many quality of life improvements from the small things that annoy you to the entire user interface of cyberpunk 2077.
 
 <details><summary>View content</summary>
-- &#x20;The vehicle first person camera is now adjustable.
+- The vehicle first person camera is now adjustable.
 - Hide shards you have already read.
 - Stops V from moving on the character creation screen.
 - Cleans up the green color from the quick hack screen.
@@ -888,11 +890,11 @@ You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 
 ***
 
-### [**UI Improvements Include**](https://)
+### **UI Improvements**
 
 ## Features
 
->
+> Many diffrent improvements to the UI click below to see all the changes.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 &#x20;Limited HUD
@@ -959,9 +961,9 @@ UI Colours
 
 ## ![](https://s12.gifyu.com/images/Cheats.png)Features
 
-> [**A few in-game cheat menus allow for full customization of the following gameplay elements.**](https://)
+> A few in-game cheat menus allow for full customization of the following gameplay elements.
 
-<details><summary>CLICK TO SEE WHAT CHEATS COME WITH THE COLLECTION</summary>
+<details><summary>CLICK FOR MORE DETAILS</summary>
 - &#x20;Refill Ammo: manual or automatic.
 - Add Money, Consumables and Materials to Convert Drinks and Food.
 - Disassemble and Sell Items.
@@ -1154,11 +1156,13 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s11.gifyu.com/images/Altier-Store.png)
+## ![](https://s11.gifyu.com/images/Altier-Store.png)Virtual Atelier
+
+![](https://gifyu.com/image/SdKfy)![](https://gifyu.com/image/SdKtk)![](https://gifyu.com/image/SdKtk.img)![](https://s2.gifyu.com/images/ezgif.com-video-to-gifde3b2c1ceec906ca.gif)[Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987) by [Pacings](https://www.nexusmods.com/cyberpunk2077/users/96220198).
 
 ### Features
 
-> 100+ Shops with over 1500 pieces of Clothing, Armour,Cyberware, Vehicles, Jewellery and Weapons added to the Alteier store these can be accessed in-game from any computer these include items from some of the most talented modders in the CP2077 community such as.
+> 100+ Shops with over 2000+ pieces of Clothing, Armour,Cyberware, Vehicles, Jewellery and Weapons added to the Alteier store these can be accessed in-game from any computer these include items from some of the most talented modders in the CP2077 community such as.
 
 - [kweknexuss](https://www.nexusmods.com/cyberpunk2077/users/86973158)
 - [MONSTERaider](https://www.nexusmods.com/users/1630457)
@@ -1175,13 +1179,11 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 - [VeegeeAlvarez](https://www.nexusmods.com/cyberpunk2077/users/120233618)
 - [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
 
-![](https://gifyu.com/image/SdKfy)![](https://gifyu.com/image/SdKtk)![](https://gifyu.com/image/SdKtk.img)![](https://s2.gifyu.com/images/ezgif.com-video-to-gifde3b2c1ceec906ca.gif)[Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987) by [Pacings](https://www.nexusmods.com/cyberpunk2077/users/96220198).
-
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ### ![](https://s12.gifyu.com/images/Body-Mods.png)Features
 
->
+> From 4k body mods to enhanced custom bodys for V and other NPCs, custom hairstyles and tattoos V has never looked better.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - 30+ Hairstyles.
@@ -1204,7 +1206,7 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 - Highly detailed 4k skin textures.
 - Toggleable Feet Feature.
 
-![](https://s12.gifyu.com/images/Body-settings.jpg)**⛔** You need to change the Chest settings in-game for this body to work. You can do this by either going to a ripperdock or using [Appearance Change Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/3850)
+![](https://s12.gifyu.com/images/Body-settings.jpg)**⛔** You need to change the Chest settings in-game for this body to work. You can do this by either going to a ripper-dock or using [Appearance Change Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/3850)
 
 ***
 
@@ -1216,7 +1218,7 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 
 > TRANSFORM YOUR V INTO THE ENVY OF A PANTHEON.
 
-\***Note** The Adonis body is not compatible with Arasaka cyber arms or Arasaka cyber body.
+\***NOTE** The Adonis body is not compatible with Arasaka cyber arms or Arasaka cyber body.
 
 - Highly detailed 4k skin textures.
 
@@ -1236,7 +1238,7 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 ## ![](https://s11.gifyu.com/images/Adult.png)Features
 
->
+> Many XXX Features.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - V can now replay romance scenes.
@@ -1264,15 +1266,13 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 ## ![](https://s11.gifyu.com/images/Cyberware.png)  Features
 
->
+> High Tech-Low Life. Choose your style choom.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
-- &#x20;Hundreds of pieces of cyberware were added to the atelier store.
-- Custom Arasaka cyberware includes Berserk, Sandevistans, and Cyberdecks.
+- Hundreds of pieces of cyberware were added to the atelier store.
 - All Quickhacks and Talent shards have been added to the Atelier shop.
 - You can purchase cyberware that enables the ability to toggle a night vision mode.
 - You can now hack NPCs with Cyberpsychosis, Suicide, System Reset, and Detonate Grenade.
-- Cybernetic eyes allow you to zoom in while aiming.
 </details>
 
 ***
@@ -1287,19 +1287,19 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 ## ![](https://s11.gifyu.com/images/Vehcles.png)Features
 
->
+> Make modifications to your vehicle, fly around Night City or buy custom vehicles every aspect of driving and vehicles has been modified.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
-- &#x20;V can send their vehicle away.
+- V can send their vehicle away.
 - V can now purchase all vehicles from the in-game atelier store.
 - V can control vehicle headlights and windows.
 - V can change the brightness and distance of vehicle headlights.
-- V can change the colours of the neon lights on all motorbikes.
+- V can change the colors of the neon lights on all motorbikes.
 - Displays in-world holographic arrows for quest/point of interest navigation, mirroring the dots in the minimap.
 - **I**t will now cost Eddies to summon your vehicle.
 - It will cost you more eddies to repair destroyed vehicles when summoning them.
 - Summon and spawn distances for vehicles decreased.
-- No camera auto-centring while driving in TPP and FPP mode.
+- No camera auto-centering while driving in TPP and FPP mode.
 
 ### **Custom Vehicles**
 
@@ -1402,7 +1402,7 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 ![img](https://i.imgur.com/Xe7LiSI.png)
 
-⛔ I recommend **NOT** installing extra mods that are not part of the collection but if you need more Chrome i ain't stopping you choom we have a dedicated channel in Discord for Chrome Junkies like you check it out so you don't flatline.
+⛔ I recommend **NOT** installing extra mods that are not part of the collection but if you need more Chrome I ain't stopping you choom we have a dedicated channel in Discord for Chrome Junkies like you check it out so you don't flatline.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -1410,7 +1410,7 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 Please do not forget that when you install any extra collections, it's your responsibility and they may not work as intended unless curated by me.
 
-You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high-end systems only 16gb Vram+)**
+You can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high-end systems only 16gb Vram+)**
 
 If you would like a smaller collection try my [City of Dreams (lite)](https://next.nexusmods.com/cyberpunk2077/collections/ayfbwl?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) version.
 
@@ -1445,7 +1445,8 @@ Recommended In-game settings These settings will give a slight performance boost
 
 ![img](https://i.imgur.com/rlYi0uq.png)
 
-- VRAM> 8GB
+<details><summary>CLICK FOR SYSTEM REQUIREMENTS</summary>
+- &#x20;VRAM> 8GB
 - GPU>**(see below)**
 - 1080p> RTX 3060 or RX 6700 XT
 - 1440p> RTX 3080 or RX 6800 XT
@@ -1453,6 +1454,7 @@ Recommended In-game settings These settings will give a slight performance boost
 - CPU> R5 3600 or i5 9600K
 - STORAGE> 13GB
 - STORAGE TYPE> SSD
+</details>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
