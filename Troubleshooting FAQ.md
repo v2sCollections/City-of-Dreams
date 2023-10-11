@@ -261,6 +261,28 @@ If this doesnt work its becuause you have the (E3 Compass) installed this will d
 
 </details>
 
+<details>
+<summary>My Clothes are Clipping</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+There are a few reasons for this.
+
+Female V
+- 98 per cent of clothing is fitted to the Custom Fem V body we use.
+If some clothes are clipping its because
+- You are trying to fit Male V clothes to fem V.
+- One Mod may have some clothing that fit and some that clip. As we can't separate some items in a single Mod this is just how it is.
+- **Note** at this time not all Phantom Liberty clothing has been refitted for Fem V
+
+Male V
+- If you have enabled the Adonis body and clothes are clipping this is because you didn't enable the Refitted Adonis clothing from the optional Mods.
+- If you do choose the Adonis body not all clothes are suited to that body so you will find some clip and some dont. This is also out of our control.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
 
 <details>
 <summary>I cant shoot the drones in the car in the Heist Mission</summary>
