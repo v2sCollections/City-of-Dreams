@@ -18,9 +18,7 @@ I hope you enjoy this collection and the game as much as I do. Time for me to de
 
 This collection is extensively tested with every new version that is released. If it's not working for you. Please join the discord so we can assist you and get you up and going before you downvote the collection.
 
-![img](https://i.imgur.com/wAJUpeU.png)![](https://s12.gifyu.com/images/SW4jN.png)
-
-![img](https://i.imgur.com/wAJUpeU.png)
+![img](https://i.imgur.com/wAJUpeU.png)![](https://s6.gifyu.com/images/S6WLw.png)
 
 ![img](https://i.imgur.com/tuwIgmm.png)
 
@@ -42,24 +40,7 @@ This collection is extensively tested with every new version that is released. I
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![img](https://i.imgur.com/HJkjnor.png)
-
-- 200+ Mods in one click.
-- Weapon and Armor Mods.
-- Custom Vehicles.
-- Custom Vehicle Tuning.
-- Gameplay mods and tweaks.
-- Bug fixes.
-- Quality-of-life improvements.
-- Input mods.
-- Improved UI.
-- In-game Mod Menus
-- In-game-Cheat Menus.
-- Texture Mods.
-- Save Game Editor.
-- Support for other Modular Expansion Packs.
-
-![img](https://i.imgur.com/wAJUpeU.png)
+![img](https://i.imgur.com/HJkjnor.png)![](https://s6.gifyu.com/images/S6WsM.png)
 
 ## ![img](https://i.imgur.com/vKOjnBL.png)[Make a Backup Save](https://)
 
@@ -428,7 +409,7 @@ You can check out the gallery at the top of this page for videos by some of the 
 
 ## City of Dreams 97.7 FM
 
-![](https://s11.gifyu.com/images/SggWh.png)[City of Dreams 97.7 FM](https://www.nexusmods.com/cyberpunk2077/mods/9053)  by [2077v2](https://www.nexusmods.com/cyberpunk2077/users/123334373)
+![](https://s11.gifyu.com/images/SgB8o.png)[City of Dreams 97.7 FM](https://www.nexusmods.com/cyberpunk2077/mods/9053)  by [2077v2](https://www.nexusmods.com/cyberpunk2077/users/123334373)
 
 ### &#x20;Features
 
@@ -718,7 +699,7 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 
 ## ![](https://s12.gifyu.com/images/IMMERSION.png)Features
 
->
+> Many immersive features added to the game. From NPC engagement to many new actions for V.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - &#x20;Adds the animation you see when you first pick up a weapon, configurable in the game.
@@ -752,7 +733,7 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 
 ## ![](https://s12.gifyu.com/images/Combat-weopans.png)Features
 
->
+> The collection comes with many buffs and nerfs to combat and weapons to balance the game.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - V can now zoom in with the scope on your weapon.
