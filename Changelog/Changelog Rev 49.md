@@ -26,6 +26,8 @@ NEW MODS ADDED
 
 - [Proxima's Apartment Emporium](https://www.nexusmods.com/cyberpunk2077/mods/9765?tab=description)
 - [Boudoir pt2 - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9852?tab=description)
+- [Edgerunners Lucy NPC - Spawns in Night City plus AMM and Nibbles Replacer](https://www.nexusmods.com/cyberpunk2077/mods/9812?tab=description)
+
 
 BUGS
 -
