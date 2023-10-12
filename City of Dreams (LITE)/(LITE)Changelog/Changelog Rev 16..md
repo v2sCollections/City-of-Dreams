@@ -10,7 +10,6 @@ NOTES
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!! 
 
 - Fixed conflicting files between 2 vehicle mods.
-- We have overhauled the entire description on Nexus. This will make it easier to read and for you to find information much quicker.
 
 
 UPDATED
