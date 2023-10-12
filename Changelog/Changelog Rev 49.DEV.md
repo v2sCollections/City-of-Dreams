@@ -19,7 +19,7 @@ This update addresses a few issues.
 - Fixed floaty nails
 - Fix for Judy vanishing in the Glen apartment when V went too far into the kitchen
 - Fix for Judy's hug/kiss prompts being wrong
-
+- Fixes a bug introduced in patch 2.01 that prevents 16 of the skill progression rewards from applying when loading a save made with patch 2.01
 
 
 UPDATED
@@ -56,6 +56,7 @@ NEW MODS ADDED
 - [V's Edgerunners Mansion - Apartment DLC](https://www.nexusmods.com/cyberpunk2077/mods/5437?tab=description)
 - [Playable Arcade Machines](https://www.nexusmods.com/cyberpunk2077/mods/4213?tab=description)
 - [Proxima's Apartment Emporium](https://www.nexusmods.com/cyberpunk2077/mods/9765)
+- [Fix Skill Progression Rewards Not Applying](https://www.nexusmods.com/cyberpunk2077/mods/9879?tab=description)
 
 BUGS
 -
