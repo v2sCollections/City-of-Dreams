@@ -3,7 +3,7 @@
 
 ### **Updated & Compatible with Patch 2.01**
 
-### Collection Rev 48        &#x20;
+### Collection Rev 49        &#x20;
 
 https://www.youtube.com/watch?v=vvpmq34uBAc
 
@@ -143,7 +143,7 @@ And also finally a thank you to the discord community for being helpful and plea
 
 This collection is extensively tested with every new version that is released. If it's not working for you. Please join the discord so we can assist you and get you up and going before you downvote the collection.
 
-![img](https://i.imgur.com/wAJUpeU.png)![](https://s6.gifyu.com/images/S6WLw.png)
+![img](https://i.imgur.com/wAJUpeU.png)![](https://s6.gifyu.com/images/S6WHH.png)
 
 ![img](https://i.imgur.com/tuwIgmm.png)
 
@@ -628,6 +628,15 @@ You can check out the gallery at the top of this page for videos by some of the 
 - Fixes textures on Dino Dinovic's chest tattoo.
 - Fixes disable the hiding, of the Stamina bar.
 - Fixes the issue where the slowest cars had the harshest delivery timers for Muammar's repeatable courier missions.
+- Fixes a bug introduced in patch 2.01 that prevents 16 of the skill progression rewards from applying when loading a save made with patch 2.01.
+- Fixes a bug when Alcohol is consumed, other buffs can be removed (effect actually removed from the player). Specifically the new bonuses from sleeping and showering.
+- Fixes a bug that happens when consuming a Perk or Skill Shard removes a sleeping or showering buff.
+- Fixes a bug that with the time label the buff bar only appears when it has more than 30 seconds left in duration. It only checks seconds though, so buffs with more than one minute show the duration from X:59 to X:31 and then disappear from X:30 to X:00. Reappearing and disappearing every 30 seconds.
+- The fractional part of Buff/Debuff remaining time in the weapon wheel is incorrect between X.01 and X.09 because it is displayed without the leading zero. (e.g. it displays "17.11", "17.10", "17.9", "17.8", etc.)
+- Fixes a bug when loading a save and the player has buffs/debuffs in effect, the gradual fill-in visual effect (in the weapon wheel view) uses the time remaining at load time instead of the max duration of the buff as the denominator when calculating what percent of the icon to fill for the effect.
+- Fixes the remaining time displayed on buffs and debuffs next to the health bar and in the weapon wheel which is offset by 15, 30, or 45 minutes (when over a minute long) IF your computer time zone is not a whole number of hours offset from UTC. ***REALLY!*** If you set your time zone to UTC +12:45 (Chatham Islands), the times will be offset by 45 minutes.
+- Fixes a bug when you use a Max Doc (inhaler), the icon that appears (for 0.1s) at the top of the screen is wrong. It is usually a duplicate of another recently used icon.
+- Fixes Epic Fortified Ankles shows a buff in the status bar while you're hovering, and it was referencing an icon that doesn't exist so it would also show a duplicate of another recently used icon. Fixed to use the "generic buff icon", which actually kind of fits for the hover buff (forward arrows).
 </details>
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
@@ -1037,7 +1046,7 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 
 ## Features
 
->
+> Many new immersion features for your Favourite NPCs. Enhanced romances, Replay Romances, Bug Fixes and much much more.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 &#x20;**Judy**
@@ -1188,10 +1197,7 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 
 ### Features
 
-> This body mod allows you to have a big chest, with a beautiful cleavage.
-
-- Highly detailed 4k skin textures.
-- Toggleable Feet Feature.
+> This body mod allows you to have a big chest, with a beautiful cleavage. Custom 4k textures and a toggleable feet feature.
 
 ![](https://s12.gifyu.com/images/Body-settings.jpg)**⛔** You need to change the Chest settings in-game for this body to work. You can do this by either going to a ripper-dock or using [Appearance Change Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/3850)
 
@@ -1203,11 +1209,9 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 
 ### Features
 
-> TRANSFORM YOUR V INTO THE ENVY OF A PANTHEON.
+> This is a male body mod that has Custom 4k textures and will prove to all of Night City that your V is, indeed, the main character by transforming him from the plain, doughy figure of the vanilla game into a ripped, broad shouldered form that will inspire fear and awe from friend and foe alike.
 
-\***NOTE** The Adonis body is not compatible with Arasaka cyber arms or Arasaka cyber body.
-
-- Highly detailed 4k skin textures.
+**⛔**The Adonis body is not compatible with [Arasaka cyber arms](https://www.nexusmods.com/cyberpunk2077/mods/1099?_gl=1%2Ac4znfv%2A_ga%2ANTM5MzA5NTU4LjE2OTQ4NzkyMzY.%2A_ga_N0TELNQ37M%2AMTY5NzEwMTgzMC4xNTEuMS4xNjk3MTE4MDM3LjAuMC4w\&tab=description) or Arasaka cyber body.
 
 ***
 
@@ -1262,11 +1266,17 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 - You can now hack NPCs with Cyberpsychosis, Suicide, System Reset, and Detonate Grenade.
 </details>
 
+
+
 ***
+
+## MONSTERaider Cyberware
 
 ![](https://s12.gifyu.com/images/RAIDER.png)[Cyberware](https://) by [MONSTERaider](https://www.nexusmods.com/cyberpunk2077/users/1630457) Availiable at the MONSTERaider altelier store.
 
 ***
+
+## Arasaka Cyberarms
 
 ![](https://s12.gifyu.com/images/Cyberarms.png)[Arasaka Cyberarms](https://www.nexusmods.com/cyberpunk2077/mods/1099). by  [Aanderz](https://www.nexusmods.com/cyberpunk2077/users/861683) ***(OPTIONAL)***  Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
 
@@ -1332,7 +1342,7 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 ***
 
-### Custom **Vehicle** Tuning by [v2](https://www.nexusmods.com/cyberpunk2077/users/123334373) Customs
+## Custom **Vehicle** Tuning by [v2](https://www.nexusmods.com/cyberpunk2077/users/123334373) Customs
 
 ![](https://s6.gifyu.com/images/S6IOJ.jpg)[Custom Vehicle Tuning](https://) by [2077v2](https://www.nexusmods.com/cyberpunk2077/users/123334373).
 
@@ -1351,10 +1361,11 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 ### **Features**
 
-> Custom Pose Packs with over xxx Custom Poses for V and many other NPCs, 100s of Custom Props allow you to transform your Photos in any way you want.
+> Custom Pose Packs with over 1300 Custom Poses for V and many other NPCs, 100s of Custom Props allow you to transform your Photos in any way you want.
 
-- 26 Custom Pose packs. Contain over xxx Poses.
+- 26 Custom Pose packs. Contains over 1300 Poses.
 - 100+ Props.
+- Nibbles in photo Mode.
 - Photo mode unlocker.
 
 <details><summary>CLICK TO SEE ALL STUDIO 77 MODS</summary>
