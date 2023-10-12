@@ -3,8 +3,6 @@
 
 ### **Updated & Compatible with Patch 2.01**
 
-IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/MRGHIA88V2/City-of-Dreams)
-
 ### Collection Rev 48        &#x20;
 
 https://www.youtube.com/watch?v=vvpmq34uBAc
@@ -22,7 +20,7 @@ City of Dreams is the Ultimate experience you have access to everything you coul
 \
 The only choice you don't have is the Custom one-off body by the talented Hyst. The collection has a huge number of clothing options that are all built around this amazing 4k sculpted body. This body may not be for everyone so we have you covered you can check out our [City of Dreams (lite)](https://next.nexusmods.com/cyberpunk2077/collections/ayfbwl?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) version if you would like to include your own clothing and custom body.
 
-And thats it choom I hope to see you in Night City but now its time for me to Delta.
+And that's it choom I hope to see you in Night City but now it's time for me to Delta.
 </details>
 
 This isn't just a mod list we have slapped together this is a whole new world of **cyberpunk 2077** with hundreds of hours spent building, configuring, modding, and testing to create the best cyberpunk experience possible.
@@ -145,9 +143,7 @@ And also finally a thank you to the discord community for being helpful and plea
 
 This collection is extensively tested with every new version that is released. If it's not working for you. Please join the discord so we can assist you and get you up and going before you downvote the collection.
 
-![img](https://i.imgur.com/wAJUpeU.png)![](https://s12.gifyu.com/images/SW4jN.png)
-
-![img](https://i.imgur.com/wAJUpeU.png)
+![img](https://i.imgur.com/wAJUpeU.png)![](https://s6.gifyu.com/images/S6WLw.png)
 
 ![img](https://i.imgur.com/tuwIgmm.png)
 
@@ -172,9 +168,7 @@ This collection is extensively tested with every new version that is released. I
 
 ![img](https://i.imgur.com/HJkjnor.png)
 
-![](https://s12.gifyu.com/images/SW8xD.jpg)
-
-![img](https://i.imgur.com/wAJUpeU.png)
+![](https://s6.gifyu.com/images/S6Wbz.png)
 
 ## ![img](https://i.imgur.com/vKOjnBL.png)[Make a Backup Save](https://)
 
@@ -598,12 +592,13 @@ You can check out the gallery at the top of this page for videos by some of the 
 - [Edgerunners Posters](https://www.nexusmods.com/cyberpunk2077/mods/5203)***(OPTIONAL)***
 - [Edgerunner 2077](https://)***(OPTIONAL)***
 - [Lucy - Edgerunners Sky Ad](https://www.nexusmods.com/cyberpunk2077/mods/5201?tab=description)***(OPTIONAL)***
+- [Lucy Edgerunners Suit Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/5273)
+- [LUCY - LAST LINE](https://www.nexusmods.com/cyberpunk2077/mods/8403?tab=description)
+- [Edgerunners Lucy NPC - Spawns in Night City plus AMM and Nibbles Replacer](https://www.nexusmods.com/cyberpunk2077/mods/9812?tab=description)
 - [Edgerunners Loading Screen Pack.](https://)***(OPTIONAL)***
 - [Edgerunners- Rebecca's hairstyle haircolor](https://www.nexusmods.com/cyberpunk2077/mods/5418?tab=description)***(OPTIONAL)***
 - [Edgerunners- Rebecca's face cyberware](https://www.nexusmods.com/cyberpunk2077/mods/5524?tab=description)***(OPTIONAL)***
 - [Edgerunners- David's Hairstyle](https://www.nexusmods.com/cyberpunk2077/mods/5311)***(OPTIONAL)***
-- [Lucy Edgerunners Suit Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/5273)
-- [LUCY - LAST LINE](https://www.nexusmods.com/cyberpunk2077/mods/8403?tab=description)
 - [David Martinez Jacket Refited for Hyst Bodies mods](https://www.nexusmods.com/cyberpunk2077/mods/5155)
 - [David Martinez Pants](https://www.nexusmods.com/cyberpunk2077/mods/6984?tab=description)
 - [Edgerunners Location Additions](https://www.nexusmods.com/cyberpunk2077/mods/5428)
@@ -618,7 +613,7 @@ You can check out the gallery at the top of this page for videos by some of the 
 
 ## ![](https://s12.gifyu.com/images/BUG-FIXES.png)Features
 
-> Many fixes to vanilla game bugs. 
+> Many fixes to vanilla game bugs.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - Fixes damage output of guns when using attachments.
@@ -639,15 +634,7 @@ You can check out the gallery at the top of this page for videos by some of the 
 
 ## ![](https://s11.gifyu.com/images/Graphics.png)Features
 
-> The collection comes with many improvements to the graphics from upscaled textures to custom textures and our own reshade cyberpunk has never looked better. And if this isnt enough you can use our 4k add-on graphics pack 
->
-> [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp)
->
->  
->
-> **(This is for high-end**
->
->  systems only 16 GB Vram+)
+> The collection comes with many improvements to the graphics from upscaled textures to custom textures and our own reshade cyberpunk has never looked better. And if this isnt enough you can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) (This is for high-end systems only 16 GB Vram+)
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - Reshade included.
@@ -706,7 +693,7 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 
 ## ![](https://s11.gifyu.com/images/Gameplay.png)Features
 
-> The collection comes with many improvements and adjustments to the core gameplay of cyberpunk. This will suit all playstyles wether you want to cruise your way through the game and you want a hardcore experiance the collection has it all.
+> The collection comes with many improvements and adjustments to the core gameplay of cyberpunk. This will suit all playstyles wether you want to cruise your way through the game or you want a hardcore experiance the collection has it all.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - V now has a jetpack.
@@ -1015,7 +1002,7 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 
 ## Features
 
->
+> 100s of immersive features added to the game. From NPC engagement to many new actions for V.
 
 <details><summary>CLICK FOR DETAILS</summary>
 - Adds the animation you see when you first pick up a weapon, configurable in the game.
@@ -1138,7 +1125,7 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 
 ## ![](https://s12.gifyu.com/images/Combat-weopans.png)Features
 
->
+> The collection comes with many buffs and nerfs to combat and weapons to balance the game.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - V can now zoom in with the scope on your weapon.
