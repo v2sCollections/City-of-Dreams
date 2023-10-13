@@ -180,30 +180,6 @@ You can read the wiki [HERE](https://wiki.redmodding.org/cyberpunk-2077-modding/
 </details>
 
 
-<details>
-<summary>Cybercheck</summary>
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-Always double-check Vortex to make sure it uninstalled something properly during an update. You can check by doing the following.
-
-1) Purge mods in Vortex this will remove all the mods from the mod folder into the staging area.
-
-3) Go to the following location and check inside the "mod" folder. If you see any left over mods delete them.
-
-```
-GOG>     Drive Letter:\Games\Cyberpunk 2077\archive\pc\mod 
-Steam>   Drive Letter:\Games\Steam\steamapps\common\Cyberpunk 2077\archive\pc\mod
-Epic>    Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod 
-```
-
-4) Deploy the mods in Vortex
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-</details>
-
-
 
 
 ## Troubleshooting
