@@ -86,6 +86,52 @@ and then launch Cyberpunk 2077 to set a new key bind.
 </details>
 
 
+<details>
+<summary>How to use Idle Anywhere</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+**1**) Visit V's starting apartment in H10. You only need to do this once to 'activate' the mod.
+
+**2**) Press the Sprint input while the following is true:
+
+- Stood still (not sat, or crouched)
+- Not in a moving elevator (probably can't be vehicle surf either)
+- Out of combat
+- Have empty hands
+- Not looking directly up or down
+- Not scanning (zooming is okay)
+
+**3**) Press Sprint again to manually hide it.
+
+*NOTE*
+The menu will also not work when controlling surveilance systems, in Brain Dances, and shouldn't work in Johnny's memories either.
+If you do have/use the option while in conversation with NPCs just be aware that it can sometimes cause NPCs to sound distant/quiet during the animation(s)
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+<details>
+<summary>Refreshing Night City Interactions</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+**1**) Travel to V's first/main apartment in H10
+**2**) Find and use the **REBOOT NCI** interaction in the stash room
+**3**) Leave the apartment and then walk back in
+
+This resets the mod **Night City Interactions**
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+
+
+
 ## Learning to Troubleshoot
 
 <details>
