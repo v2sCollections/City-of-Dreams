@@ -112,6 +112,7 @@ Another workaround is to start a vanilla game and then redploy the mods after.
 
 </details>
 
+
 <details>
 <summary>My game is crashing when loading a save</summary>
 
@@ -296,18 +297,6 @@ You can fix this bug by
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 </details>
-
-<details>
-<summary>Why do quick hacks cost 0 Ram</summary>
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-This is a bug caused by the (Better Netrunning) Mod it doesn't affect the actual cost.
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-</details>
-
 
 
 <details>
