@@ -9,7 +9,14 @@ NOTES
 
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!! 
 
-Find EX is back
+- Find EX is back
+
+Mods that we used to use that wont be added back.
+- Time Dialation Overhaul (TDO)=OBSOLETE CDPR have added many of the same features.
+- Alternative Midair Movement and Walljumping=CDPR have added a new perk that has improved mid air movement.
+- The Edgerunner Bazaar.=Alot of what was here will be incldued in the Simple Menu Mod.
+- Toxicity=OBSOLETE
+
 This update addresses a few issues.
 
 - Fixes some random crashes
@@ -52,6 +59,9 @@ NEW MODS ADDED
 - [Proxima's Apartment Emporium](https://www.nexusmods.com/cyberpunk2077/mods/9765)
 - [Fix Skill Progression Rewards Not Applying](https://www.nexusmods.com/cyberpunk2077/mods/9879?tab=description)
 - [Adaptive Sliders](https://www.nexusmods.com/cyberpunk2077/mods/5075?tab=description)
+- [Better Armor Tooltip](https://www.nexusmods.com/cyberpunk2077/mods/9706?tab=description)
+- [Unlock Me The Mods 2.01](https://www.nexusmods.com/cyberpunk2077/mods/9349?tab=description)
+- [Vehicle Customizer](https://www.nexusmods.com/cyberpunk2077/mods/3689?tab=description)
 
 BUGS
 -
