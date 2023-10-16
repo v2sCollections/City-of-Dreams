@@ -3,7 +3,7 @@
 
 ### **Updated & Compatible with Patch 2.01**
 
-### Collection Rev 49        &#x20;
+### Collection Rev 50        &#x20;
 
 https://www.youtube.com/watch?v=vvpmq34uBAc
 
@@ -108,9 +108,9 @@ And also finally a thank you to the discord community for being helpful and plea
 
 ![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
 
-### Drayth:
+### Spartandestroyer:
 
-"Nice collection! Been working great so far."
+"I’ve only recently stumbled across your cyberpunk collection and before that, I never even thought about trying to mod cyberpunk cause it seemed way too complicated but I gave your collection a try and can’t be happier. I had a few hiccups at first but that was mostly on my end just trying to figure things out but since then I’ve had tons of fun the collection definitely breathed new life into cyberpunk. Now you’ve gone and done it again with Starfield! I've really enjoyed what you have done so far and look forward to seeing this collection grow and blossom into the greatest collection of mods ever assembled. Thank you for all you and everyone else involved so for us. You definitely made modding fun again."
 
 ![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
 
@@ -143,7 +143,7 @@ And also finally a thank you to the discord community for being helpful and plea
 
 This collection is extensively tested with every new version that is released. If it's not working for you. Please join the discord so we can assist you and get you up and going before you downvote the collection.
 
-![img](https://i.imgur.com/wAJUpeU.png)![](https://s6.gifyu.com/images/S6WHH.png)
+![img](https://i.imgur.com/wAJUpeU.png)![](https://s6.gifyu.com/images/S664Z.png)
 
 ![img](https://i.imgur.com/tuwIgmm.png)
 
@@ -166,9 +166,7 @@ This collection is extensively tested with every new version that is released. I
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![img](https://i.imgur.com/HJkjnor.png)
-
-![](https://s6.gifyu.com/images/S6Wbz.png)
+![](https://s6.gifyu.com/images/S664i.png)
 
 ## ![img](https://i.imgur.com/vKOjnBL.png)[Make a Backup Save](https://)
 
@@ -181,10 +179,16 @@ C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 ## [Updating Collection](https://)[   ](https://)
 
 - ⛔**DO NOT update** any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
-- Updating the collection is as easy as clicking the **"Update"** button.&#x20;
-- Make sure to update the current profile you are using inside of Vortex. Using one Profile ensures stability for Vortex.&#x20;
-- When prompted to "**Remove mods from old revision**" make sure to click the "**Remove All**" button.
 - Notes will be in the changelog.
+
+### HOW TO UPDATE
+
+- **1**) Create a new Profile in Vortex and enable it.
+- **2**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
+- **3**) When prompted to select which profile to install to, select the new profile you created in Step **1**)
+- **4**) Once the update is downloaded you can remove the old profile.
+
+**NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
 
 ## [Launching Cyberpunk 2077](https://)
 
@@ -506,13 +510,16 @@ You need to disable "Analytics"
 
 5\. Launch the game.
 
-## [Where is the game located ](https://) ❓
+***
 
-```
-Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk2077.exe
-GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk2077.exe
-Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe  
-```
+## [My Game is crashing after leaving my gun in the Delamain❓](https://)
+
+1. Open Vortex
+2. Purge The Mods.
+3. Disable Cyber Engine Tweaks (CET).
+4. Deploy The Mods.
+5. Launch the game and finish the quest.
+6. Save the game exit and Enable Cyber Engine Tweaks (CET)
 
 ## [My game is crashing on startup?](https://) or [My game won't launch after Collection Update ](https://)❓
 
@@ -637,6 +644,7 @@ You can check out the gallery at the top of this page for videos by some of the 
 - Fixes the remaining time displayed on buffs and debuffs next to the health bar and in the weapon wheel which is offset by 15, 30, or 45 minutes (when over a minute long) IF your computer time zone is not a whole number of hours offset from UTC. ***REALLY!*** If you set your time zone to UTC +12:45 (Chatham Islands), the times will be offset by 45 minutes.
 - Fixes a bug when you use a Max Doc (inhaler), the icon that appears (for 0.1s) at the top of the screen is wrong. It is usually a duplicate of another recently used icon.
 - Fixes Epic Fortified Ankles shows a buff in the status bar while you're hovering, and it was referencing an icon that doesn't exist so it would also show a duplicate of another recently used icon. Fixed to use the "generic buff icon", which actually kind of fits for the hover buff (forward arrows).
+- Fixes the armor tooltip in the Cyberware/Ripperdoc menu to be factually correct and show your actual current damage reduction from armor rather than a theoretical maximum.
 </details>
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
@@ -710,6 +718,7 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 - V can now slide sideways. More flexibility on the slide's trajectory. Improves camera control when sliding. Prevents stairs and small obstacles like sidewalks from canceling the slide.
 - Darkens the edges of the screen when your stamina is low.
 - Third-person mode.
+- Change to any weather at any time, from the mod menu. Can also be used to reset/fix weather to normal 24-hour changing weather when the game gets stuck on just one weather.
 </details>
 
 ***
@@ -1049,7 +1058,7 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 > Many new immersion features for your Favourite NPCs. Enhanced romances, Replay Romances, Bug Fixes and much much more.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
-&#x20;**Judy**
+### &#x20;**Judy**
 
 > When you visit Judy she will be more active.
 
@@ -1069,7 +1078,7 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 - He showers (if you are in a relationship).
 - He smokes in his bathroom (only after showering).
 - He plays the guitar (either in his bedroom or on the sofa).
-- He lounges on the sofa (like his base game behaviour).
+- He lounges on the sofa (like his base game behavior).
 - He sleeps in his bed at night (without having to wait for the player to use the bed).
 - V can chat with him at any of the activities.
 - V can hug him at any activity where he is not holding a guitar (only if in a relationship).
@@ -1104,6 +1113,18 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 - Joss' kids now actually sleep, but they also play both in their bedroom and in the main hall.
 - Both kids and River will now greet V (River's greeting is bugged in the base game).
 - There is now a radio in the main hall/room of the trailer, it just adds the option for a little ambient music in the otherwise dead trailer.
+
+### Rita&#x20;
+
+> Adds
+
+- Adds a small new "romance" (hookup) with Rita Wheeler, the Mox bouncer.
+
+### Jesse Cox
+
+> Adds
+
+- Adds in a "romance" scene with Flaming Crotch Man (Jesse Cox) after he gets a new (legit) Mr Stud
 </details>
 
 ***
@@ -1148,13 +1169,16 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 - Adjusted lighting for all explosions and fire effects.
 - Sticky Grenades have been converted to throwable proximity mines.
 - Glowing Knives and Katanas.
+- Allows you to unequip weapon mods, and allows you to unequip sniper scopes. The mods and scopes auto-retrieve on weapon sell, drop, or disassemble.
 </details>
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## ![](https://s11.gifyu.com/images/Altier-Store.png)Virtual Atelier
 
-![](https://gifyu.com/image/SdKfy)![](https://gifyu.com/image/SdKtk)![](https://gifyu.com/image/SdKtk.img)![](https://s2.gifyu.com/images/ezgif.com-video-to-gifde3b2c1ceec906ca.gif)[Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987) by [Pacings](https://www.nexusmods.com/cyberpunk2077/users/96220198).
+https://www.youtube.com/watch?v=UkJLHFdlPhs
+
+[Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987) by [Pacings](https://www.nexusmods.com/cyberpunk2077/users/96220198).
 
 ### Features
 
@@ -1265,8 +1289,6 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 - You can purchase cyberware that enables the ability to toggle a night vision mode.
 - You can now hack NPCs with Cyberpsychosis, Suicide, System Reset, and Detonate Grenade.
 </details>
-
-
 
 ***
 

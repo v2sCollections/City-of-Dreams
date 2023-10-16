@@ -2,7 +2,7 @@
 
 ### **Updated and compatible with Patch 2.01**
 
-### Collection Rev 16       &#x20;
+### Collection Rev 17       &#x20;
 
 ![](https://s11.gifyu.com/images/Border11.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://) (lite) Version for **Cyberpunk 2077**.
 
@@ -18,7 +18,7 @@ I hope you enjoy this collection and the game as much as I do. Time for me to de
 
 This collection is extensively tested with every new version that is released. If it's not working for you. Please join the discord so we can assist you and get you up and going before you downvote the collection.
 
-![img](https://i.imgur.com/wAJUpeU.png)![](https://s6.gifyu.com/images/S6WLw.png)
+![img](https://i.imgur.com/wAJUpeU.png)![](https://s6.gifyu.com/images/S664Z.png)
 
 ![img](https://i.imgur.com/tuwIgmm.png)
 
@@ -53,10 +53,16 @@ C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 ## [Updating Collection](https://)[   ](https://)
 
 - ⛔**DO NOT update** any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
-- Updating the collection is as easy as clicking the **"Update"** button.&#x20;
-- Make sure to update the current profile you are using inside of Vortex. Using one Profile ensures stability for Vortex.&#x20;
-- When prompted to "**Remove mods from old revision**" make sure to click the "**Remove All**" button.
 - Notes will be in the changelog.
+
+### HOW TO UPDATE
+
+- **1**) Create a new Profile in Vortex and enable it.
+- **2**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/ayfbwl?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
+- **3**) When prompted to select which profile to install to, select the new profile you created in Step **1**)
+- **4**) Once the update is downloaded you can remove the old profile.
+
+**NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
 
 ## [Launching Cyberpunk 2077](https://)
 
@@ -346,6 +352,7 @@ You can check out the gallery at the top of this page for videos by some of the 
 - Fixes textures on Dino Dinovic's chest tattoo.
 - Fixes disable the hiding, of the Stamina bar.
 - Fixes the issue where the slowest cars had the harshest delivery timers for Muammar's repeatable courier missions.
+- Fixes the armor tooltip in the Cyberware/Ripperdoc menu to be factually correct and show your actual current damage reduction from armor rather than a theoretical maximum.
 </details>
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
@@ -398,11 +405,12 @@ You can check out the gallery at the top of this page for videos by some of the 
 > The collection comes with many improvements and adjustments to the core gameplay of cyberpunk. This will suit all playstyles wether you want to cruise your way through the game and you want a hardcore experiance.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
-- &#x20;V now has a jetpack.
+- V now has a jetpack.
 - V can now hang off walls and jump from wall to wall.
 - V can now slide sideways. More flexibility on the slide's trajectory. Improves camera control when sliding. Prevents stairs and small obstacles like sidewalks from canceling the slide.
 - Darkens the edges of the screen when your stamina is low.
 - Third-person mode.
+- Change to any weather at any time, from the mod menu. Can also be used to reset/fix weather to normal 24-hour changing weather when the game gets stuck on just one weather.
 </details>
 
 ***
@@ -561,7 +569,7 @@ You can check out the gallery at the top of this page for videos by some of the 
 > The collection comes with many quality of life improvements from the small things that annoy you to the entire user interface of cyberpunk 2077.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
-- &#x20;The vehicle first person camera is now adjustable.
+- The vehicle first person camera is now adjustable.
 - Hide shards you have already read.
 - Stops V from moving on the character creation screen.
 - Cleans up the green color from the quick hack screen.
@@ -746,6 +754,7 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 - Adjusted lighting for all explosions and fire effects.
 - Sticky Grenades have been converted to throwable proximity mines.
 - Glowing Knives and Katanas.
+- Allows you to unequip weapon mods, and allows you to unequip sniper scopes. The mods and scopes auto-retrieve on weapon sell, drop, or disassemble.
 </details>
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
