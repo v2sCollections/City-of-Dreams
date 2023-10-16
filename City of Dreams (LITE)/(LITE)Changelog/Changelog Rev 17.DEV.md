@@ -7,7 +7,21 @@
 NOTES
 -
 
-REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!! 
+We also have a new update method that will avoid all the Vortex errors we have been seeing lately until Nexus pushes a fix for Vortex.
+
+## HOW TO UPDATE
+
+**1**) Create a new Profile in Vortex and enable it.
+
+**2**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/ayfbwl?utm_source=copy&utm_medium=social&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select select **"ADD TO VORTEX"**
+
+**3**) When prompted to select which profile to install to, select the new profile you created in Step 1
+
+**4**) Once the update is downloaded you can remove the old profile.
+
+**NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
+
+ 
 
 - Find EX is back
 
@@ -27,7 +41,8 @@ This update addresses a few issues.
 - Fix for Judy vanishing in the Glen apartment when V went too far into the kitchen
 - Fix for Judy's hug/kiss prompts being wrong
 - Fixes a bug introduced in patch 2.01 that prevents 16 of the skill progression rewards from applying when loading a save made with patch 2.01
-
+- Fixed weapon preview
+- Reshade is now a separate mod with a Peformance preset
 
 UPDATED
 -
@@ -43,6 +58,11 @@ UPDATED
 - [Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718)
 - [Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780)
 - [Cyberware-EX](https://www.nexusmods.com/cyberpunk2077/mods/9429)
+- [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)
+- [Cosmopolitan Dogtown (Multilingual NPCs - Change V's native language)](https://www.nexusmods.com/cyberpunk2077/mods/9275)
+- [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)
+- [Enhanced Craft](https://www.nexusmods.com/cyberpunk2077/mods/4378)
+- [Arasaka Cyberarms](https://www.nexusmods.com/cyberpunk2077/mods/1099?tab=description)
 
 REMOVED
 -
@@ -62,6 +82,7 @@ NEW MODS ADDED
 - [Better Armor Tooltip](https://www.nexusmods.com/cyberpunk2077/mods/9706?tab=description)
 - [Unlock Me The Mods 2.01](https://www.nexusmods.com/cyberpunk2077/mods/9349?tab=description)
 - [Vehicle Customizer](https://www.nexusmods.com/cyberpunk2077/mods/3689?tab=description)
+- [v2's City of Dreams Ultimate Atelier 2.0 (Virtual Atelier)](https://www.nexusmods.com/cyberpunk2077/mods/10064?tab=description)
 
 BUGS
 -
