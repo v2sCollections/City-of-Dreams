@@ -1,5 +1,6 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 
+![img](https://i.imgur.com/wAJUpeU.png)
 
 ### CORE 1
 
