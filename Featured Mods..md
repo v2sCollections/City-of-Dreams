@@ -1,7 +1,7 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 
 
-## CORE 1
+### CORE 1
 
 <details>
 <summary>CORE 1</summary>
@@ -20,7 +20,7 @@
 
 </details>
 
-## CORE 2
+### CORE 2
 
 <details>
 <summary>CORE 2</summary>
@@ -37,7 +37,7 @@
 
 </details>
 
-## GAMEPLAY
+### GAMEPLAY
 
 <details>
 <summary>GAMEPLAY</summary>
@@ -83,7 +83,7 @@
 
 </details>
 
-## UI+HUD
+### UI+HUD
 
 <details>
 <summary>UI+HUD</summary>
@@ -107,7 +107,7 @@
 
 </details>
 
-## IMMERSION
+### IMMERSION
 
 <details>
 <summary>IMMERSION</summary>
@@ -125,7 +125,7 @@
 
 </details>
 
-## CLOTHING
+### CLOTHING
 
 <details>
 <summary>CLOTHING</summary>
@@ -167,7 +167,7 @@
 
 </details>
 
-## VIRTUAL ATELIER STORES
+### VIRTUAL ATELIER STORES
 
 <details>
 <summary>VIRTUAL ATELIER STORES</summary>
@@ -184,7 +184,7 @@
 </details>
 
 
-## VEHICLES
+### VEHICLES
 
 <details>
 <summary>VEHICLES</summary>
@@ -204,7 +204,7 @@
 
 </details>
 
-## PMU POSE PACKS
+### PMU POSE PACKS
 
 <details>
 <summary>PMU POSE PACKS</summary>
@@ -220,7 +220,7 @@
 
 </details>
 
-## CATS
+### CATS
 
 <details>
 <summary>CATS</summary>
@@ -235,7 +235,7 @@
 
 </details>
 
-## BODY
+### BODY
 
 <details>
 <summary>BODY</summary>
@@ -248,7 +248,7 @@
 
 </details>
 
-## TEXTURES
+### TEXTURES
 
 <details>
 <summary>TEXTURES</summary>
