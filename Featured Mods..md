@@ -321,6 +321,9 @@
 
 ### OTHER
 
+<details>
+<summary>OTHER</summary>
+
 - [Cosmopolitan Dogtown (Multilingual NPCs - Change V's native language)](https://www.nexusmods.com/cyberpunk2077/mods/9275?tab=description)
 - [Cyberware-EX](https://www.nexusmods.com/cyberpunk2077/mods/9429?tab=description)
 - [Rita Wheeler Romanced](https://www.nexusmods.com/cyberpunk2077/mods/9191?tab=description)
