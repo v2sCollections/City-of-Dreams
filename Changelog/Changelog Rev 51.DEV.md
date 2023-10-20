@@ -1,10 +1,11 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 
-[HEY CHOOMS Rev 50 is HERE](https://)
--
+## [HEY CHOOMS Rev 50 is HERE](https://)
 
-NOTES
--
+
+## NOTES
+
+## THIS UPDATE REQUIRES A [CYBERCLEAN](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md#troubleshooting) THIS IS NOT OPTIONAL
 
 We now have a new method for updating this should will all of the Vortex errors that we have been seeing.
 
@@ -24,25 +25,33 @@ We now have a new method for updating this should will all of the Vortex errors 
 This update addresses a few issues.
 
 - We have abeen able to minimize stuttering when using the 2k Texture mods we have shaved of around 1gb of VRAM. Remember if you are using the 2k textures you need atleast 12Gb VRAM. If you are still experiancing stutters disable a few of the 2k Mods.
+- [Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/4885) IS BACK!!!
+- Fixed wall collisions by removing a mod we will add it back when its updated.
+- Virtual Atelier and the Vihicle shop are now available within the NET tab on in game Pcs.
 
+## UPDATED
 
+- [Arasaka Cyberarms](https://www.nexusmods.com/cyberpunk2077/mods/1099?tab=description)
+- [Deceptious Quest Core](https://www.nexusmods.com/cyberpunk2077/mods/7831)
+- [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454?tab=description)
+- [Naked NPCs Sex Workers](https://www.nexusmods.com/cyberpunk2077/mods/9738)
+- [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987?tab=description)
+- [Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790?tab=description)
+- [Mclaren 765LT](https://www.nexusmods.com/cyberpunk2077/mods/10193?tab=description)
+- [VEEGEE SHOP](https://www.nexusmods.com/cyberpunk2077/mods/8183)
+- [The RVC00N Dumpster - Kerry Eurodyne Boots (M F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8975)
 
-UPDATED
--
-
-
-REMOVED
--
+## REMOVED
 
 - [High-Res Unnamed NPC Faces - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7089?tab=description)
 - [High-Res Clothing - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7301?tab=description)
 - [High-Res Hair and Beards - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7184)
+- [High-Res NPCs - Judy Alvarez](https://www.nexusmods.com/cyberpunk2077/mods/7430)
+- [Megabuildings enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4924?tab=description)
 
-N/A
+## NEW MODS ADDED 
 
-NEW MODS ADDED 
--
-
+- [Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/4885)
 - [High Res Minor Named NPCs](https://www.nexusmods.com/cyberpunk2077/mods/8045?tab=description)
 - [High Res Food and Drinks - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7999?tab=description)
 - [High Res Containers - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7998)
@@ -52,21 +61,28 @@ NEW MODS ADDED
 - [High Res NPCs - Deputy Mayor Weldon Holt](https://www.nexusmods.com/cyberpunk2077/mods/7958?tab=description)
 - [High Res NPCs - Mateo Thiago](https://www.nexusmods.com/cyberpunk2077/mods/7931?tab=description)
 - [High Res NPCs - Saul Bright](https://www.nexusmods.com/cyberpunk2077/mods/7929?tab=description)
-- [
+- [High Res NPCs - Saburo Arasaka](https://www.nexusmods.com/cyberpunk2077/mods/7928?tab=description)
+- [High Res NPCs - Sebastian Ibarra](https://www.nexusmods.com/cyberpunk2077/mods/7930?tab=description)
+- [High Res NPCs - Royce](https://www.nexusmods.com/cyberpunk2077/mods/7927?tab=description)
+- [High Res NPCs - Bes Isis](https://www.nexusmods.com/cyberpunk2077/mods/7889?tab=description)
+- [High Res NPCs - Sandayu Oda](https://www.nexusmods.com/cyberpunk2077/mods/7888?tab=description)
+- [High-Res NPCs - Johnny Silverhand 2.0](https://www.nexusmods.com/cyberpunk2077/mods/10175?tab=description)
+- [Judy Enhanced Body with 4K Texture](https://www.nexusmods.com/cyberpunk2077/mods/10150?tab=description)
+- [Browser Extension](https://www.nexusmods.com/cyberpunk2077/mods/10038?tab=description)
+- [Peachu Halloween Dress - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10231)
+- [Vehicle Insurance (TANSTAAFL Part 1)](https://www.nexusmods.com/cyberpunk2077/mods/10039?tab=description)
 
-BUGS
--
+## BUGS
 
  [See bug channel on discord](https://discord.gg/xZNztPjA2u)
  
 
-MODS NOT WORKING AT THE MOMENT 
--
+## MODS NOT WORKING AT THE MOMENT 
 
 - [Let there be flight](https://)
 - [CTD Helper](https://)
 - [In-World Navigation](https://)
-- [Mod Settings](https://)
 - [Lifepath Bonuses and Gang Corp Traits](https://)
+- [Megabuildings enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4924?tab=description)
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
