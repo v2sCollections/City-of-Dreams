@@ -40,6 +40,7 @@ This update addresses a few issues.
 - [Mclaren 765LT](https://www.nexusmods.com/cyberpunk2077/mods/10193?tab=description)
 - [VEEGEE SHOP](https://www.nexusmods.com/cyberpunk2077/mods/8183)
 - [The RVC00N Dumpster - Kerry Eurodyne Boots (M F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8975)
+- [TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
 ## REMOVED
 
@@ -71,6 +72,9 @@ This update addresses a few issues.
 - [Browser Extension](https://www.nexusmods.com/cyberpunk2077/mods/10038?tab=description)
 - [Peachu Halloween Dress - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10231)
 - [Vehicle Insurance (TANSTAAFL Part 1)](https://www.nexusmods.com/cyberpunk2077/mods/10039?tab=description)
+- [Lace Underwear P3 - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10071?tab=description)
+- [Cubfan82 x LeBronze James Rocker Dress](https://www.nexusmods.com/cyberpunk2077/mods/9917?tab=description)
+- [Immersive Rippers - Dogtown](https://www.nexusmods.com/cyberpunk2077/mods/10255?tab=description)
 
 ## BUGS
 
