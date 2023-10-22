@@ -26,8 +26,10 @@ This update addresses a few issues.
 
 - We have abeen able to minimize stuttering when using the 2k Texture mods we have shaved of around 1gb of VRAM. Remember if you are using the 2k textures you need atleast 12Gb VRAM. If you are still experiancing stutters disable a few of the 2k Mods.
 - [Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/4885) IS BACK!!!
+- [RadioExt](https://www.nexusmods.com/cyberpunk2077/mods/4591?tab=description) IS BACK!!!
 - Fixed wall collisions by removing a mod we will add it back when its updated.
 - Virtual Atelier and the Vihicle shop are now available within the NET tab on in game Pcs.
+
 
 ## UPDATED
 
@@ -49,6 +51,7 @@ This update addresses a few issues.
 - [High-Res Hair and Beards - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7184)
 - [High-Res NPCs - Judy Alvarez](https://www.nexusmods.com/cyberpunk2077/mods/7430)
 - [Megabuildings enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4924?tab=description)
+- [Authentic Shift Audio Gear Ratios (Gear Shifts Sound QoL ASMR and optional Tuning)](https://www.nexusmods.com/cyberpunk2077/mods/6823?tab=description)
 
 ## NEW MODS ADDED 
 
@@ -75,6 +78,11 @@ This update addresses a few issues.
 - [Lace Underwear P3 - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10071?tab=description)
 - [Cubfan82 x LeBronze James Rocker Dress](https://www.nexusmods.com/cyberpunk2077/mods/9917?tab=description)
 - [Immersive Rippers - Dogtown](https://www.nexusmods.com/cyberpunk2077/mods/10255?tab=description)
+- [Koenigsegg Gemera](https://www.nexusmods.com/cyberpunk2077/mods/10256?tab=description)
+- [Police Officer Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10282?tab=description)
+- [Nola Dreamer x Aquelyras - combat outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10115?tab=description)
+- [RadioExt](https://www.nexusmods.com/cyberpunk2077/mods/4591?tab=description)
+- [Koenigsegg Regera (Addon)](https://www.nexusmods.com/cyberpunk2077/mods/10134?tab=description)
 
 ## BUGS
 
