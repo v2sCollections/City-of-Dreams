@@ -613,4 +613,16 @@ You've now downgraded the game files. Next time you launch the game through Stea
 
 </details>
 
+
+<details>
+<summary>Downgrading / Preventing auto-updates</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+Go to the[Cyberpunk Modding WIKI](https://wiki.redmodding.org/cyberpunk-2077-modding/for-mod-users/users-modding-cyberpunk-2077/users-downgrading-preventing-auto-updates) and follow the relevent version of your game.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
 ![](https://s12.gifyu.com/images/SuG0u.png)
