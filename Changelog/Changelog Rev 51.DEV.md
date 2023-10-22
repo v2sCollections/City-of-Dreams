@@ -21,15 +21,19 @@ We now have a new method for updating this should will all of the Vortex errors 
 
 **NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
 
+- [Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/4885) IS BACK!!!
+- [RadioExt](https://www.nexusmods.com/cyberpunk2077/mods/4591?tab=description) IS BACK!!!
+- Virtual Atelier and the Vihicle shop are now available within the NET tab on in game Pcs.
 
 This update addresses a few issues.
 
 - We have abeen able to minimize stuttering when using the 2k Texture mods we have shaved of around 1gb of VRAM. Remember if you are using the 2k textures you need atleast 12Gb VRAM. If you are still experiancing stutters disable a few of the 2k Mods.
-- [Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/4885) IS BACK!!!
-- [RadioExt](https://www.nexusmods.com/cyberpunk2077/mods/4591?tab=description) IS BACK!!!
 - Fixed wall collisions by removing a mod we will add it back when its updated.
-- Virtual Atelier and the Vihicle shop are now available within the NET tab on in game Pcs.
-
+- Fixed melee cyber arms showing incorrectly in weapon wheel.
+- Fixed not working toggle hud hotkey when HUDitor was installed.
+- Fixed settings categories ordering.
+- Fixed phone icon stuck after interacting with any PC (and perhaps a few more cases as well).
+- Fixed mod conflick between CVO and Rayfield Caliburn.
 
 ## UPDATED
 
@@ -43,6 +47,11 @@ This update addresses a few issues.
 - [VEEGEE SHOP](https://www.nexusmods.com/cyberpunk2077/mods/8183)
 - [The RVC00N Dumpster - Kerry Eurodyne Boots (M F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8975)
 - [TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197)
+- [Naked NPCs Sex Workers](https://www.nexusmods.com/cyberpunk2077/mods/9738)
+- [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)
+- [Nola Dreamer Virtual Boutique](https://www.nexusmods.com/cyberpunk2077/mods/5114)
+- [Cyberware-EX](https://www.nexusmods.com/cyberpunk2077/mods/9429?tab=description)
+- [Nola Dreamer and Aquelyras atelier](https://www.nexusmods.com/cyberpunk2077/mods/8704)
 
 ## REMOVED
 
@@ -83,6 +92,7 @@ This update addresses a few issues.
 - [Nola Dreamer x Aquelyras - combat outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10115?tab=description)
 - [RadioExt](https://www.nexusmods.com/cyberpunk2077/mods/4591?tab=description)
 - [Koenigsegg Regera (Addon)](https://www.nexusmods.com/cyberpunk2077/mods/10134?tab=description)
+- [Apartment Cats - Dogtown](https://www.nexusmods.com/cyberpunk2077/mods/10325?tab=description)
 
 ## BUGS
 
