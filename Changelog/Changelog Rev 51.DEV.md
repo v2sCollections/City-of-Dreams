@@ -93,6 +93,7 @@ This update addresses a few issues.
 - [RadioExt](https://www.nexusmods.com/cyberpunk2077/mods/4591?tab=description)
 - [Koenigsegg Regera (Addon)](https://www.nexusmods.com/cyberpunk2077/mods/10134?tab=description)
 - [Apartment Cats - Dogtown](https://www.nexusmods.com/cyberpunk2077/mods/10325?tab=description)
+- [City of Dreams Saves Backup](https://www.nexusmods.com/cyberpunk2077/mods/10352)
 
 ## BUGS
 
