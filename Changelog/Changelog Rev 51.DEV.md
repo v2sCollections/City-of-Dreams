@@ -25,6 +25,8 @@ We now have a new method for updating this should will all of the Vortex errors 
 - [RadioExt](https://www.nexusmods.com/cyberpunk2077/mods/4591?tab=description) IS BACK!!!
 - Virtual Atelier and the Vihicle shop are now available within the NET tab on in game Pcs.
 
+### Fixes
+
 This update addresses a few issues.
 
 - We have abeen able to minimize stuttering when using the 2k Texture mods we have shaved of around 1gb of VRAM. Remember if you are using the 2k textures you need atleast 12Gb VRAM. If you are still experiancing stutters disable a few of the 2k Mods.
@@ -34,24 +36,57 @@ This update addresses a few issues.
 - Fixed settings categories ordering.
 - Fixed phone icon stuck after interacting with any PC (and perhaps a few more cases as well).
 - Fixed mod conflick between CVO and Rayfield Caliburn.
+- Fixed various crashes.
 
 ## UPDATED
 
-- [Arasaka Cyberarms](https://www.nexusmods.com/cyberpunk2077/mods/1099?tab=description)
-- [Deceptious Quest Core](https://www.nexusmods.com/cyberpunk2077/mods/7831)
-- [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454?tab=description)
-- [Naked NPCs Sex Workers](https://www.nexusmods.com/cyberpunk2077/mods/9738)
-- [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987?tab=description)
-- [Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790?tab=description)
-- [Mclaren 765LT](https://www.nexusmods.com/cyberpunk2077/mods/10193?tab=description)
-- [VEEGEE SHOP](https://www.nexusmods.com/cyberpunk2077/mods/8183)
-- [The RVC00N Dumpster - Kerry Eurodyne Boots (M F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8975)
+### Core
+- [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107?tab=description)
+- [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945?tab=description)
+- [Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780)
 - [TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197)
-- [Naked NPCs Sex Workers](https://www.nexusmods.com/cyberpunk2077/mods/9738)
-- [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)
-- [Nola Dreamer Virtual Boutique](https://www.nexusmods.com/cyberpunk2077/mods/5114)
+- [RED4ext](https://www.nexusmods.com/cyberpunk2077/mods/2380)
+- [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)
+
+### Core 2
 - [Cyberware-EX](https://www.nexusmods.com/cyberpunk2077/mods/9429?tab=description)
+- [Deceptious Quest Core](https://www.nexusmods.com/cyberpunk2077/mods/7831)
+- [RadioExt](https://www.nexusmods.com/cyberpunk2077/mods/4591?tab=description)
+
+### Gameplay
+- [Arasaka Cyberarms](https://www.nexusmods.com/cyberpunk2077/mods/1099?tab=description)
+- [Naked NPCs Sex Workers](https://www.nexusmods.com/cyberpunk2077/mods/9738)
+- [Naked NPCs Sex Workers](https://www.nexusmods.com/cyberpunk2077/mods/9738)
+- [2077 More Gore V2.5](https://www.nexusmods.com/cyberpunk2077/mods/3040?tab=description)
+- [Apartment Cats - Custom Cats](https://www.nexusmods.com/cyberpunk2077/mods/6837)
+- [Rita Wheeler Romanced](https://www.nexusmods.com/cyberpunk2077/mods/9191)
+- [Custom Quickslots for Consumables Grenades and Cyberware Abilities](https://www.nexusmods.com/cyberpunk2077/mods/3096)
+- [Jetpack](https://www.nexusmods.com/cyberpunk2077/mods/996?tab=description)
+- [River Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4870)
+- [Simple Menu - An In-Game UI including Hotkeys](https://www.nexusmods.com/cyberpunk2077/mods/818)
+- [Night City Interactions - Watson Westbrook and Heywood Drinks plus Edgerunners locales](https://www.nexusmods.com/cyberpunk2077/mods/5519?tab=description)
+- [Mclaren 765LT](https://www.nexusmods.com/cyberpunk2077/mods/10193?tab=description)
+- [Naked NPCs Holograms](https://www.nexusmods.com/cyberpunk2077/mods/9785)
+- [Immersive Food Vendors - Dogtown](https://www.nexusmods.com/cyberpunk2077/mods/10393)
+- [Flaming Crotch Man Romanced](https://www.nexusmods.com/cyberpunk2077/mods/9573)
+
+### Clothing
+- [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987?tab=description)
+- [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454?tab=description)
+- [Cub Atelier Store - Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/6949)
+- [VEEGEE SHOP](https://www.nexusmods.com/cyberpunk2077/mods/8183)
+- [NC Fashion Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4805)
 - [Nola Dreamer and Aquelyras atelier](https://www.nexusmods.com/cyberpunk2077/mods/8704)
+- [The RVC00N Dumpster (PinkyDude's Virtual Atelier Store)](https://www.nexusmods.com/cyberpunk2077/mods/5802)
+- [The RVC00N Dumpster - Fancy Striped Dress (F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8843)
+- [The RVC00N Dumpster - Kerry Eurodyne Boots (M F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/8975)
+- [Nola Dreamer Virtual Boutique](https://www.nexusmods.com/cyberpunk2077/mods/5114)
+- [Nola Dreamer and Aquelyras atelier](https://www.nexusmods.com/cyberpunk2077/mods/8704)
+- [Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790?tab=description)
+
+### UI
+- [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592
+- [HUDitor](https://www.nexusmods.com/cyberpunk2077/mods/3315)
 
 ## REMOVED
 
@@ -61,6 +96,7 @@ This update addresses a few issues.
 - [High-Res NPCs - Judy Alvarez](https://www.nexusmods.com/cyberpunk2077/mods/7430)
 - [Megabuildings enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4924?tab=description)
 - [Authentic Shift Audio Gear Ratios (Gear Shifts Sound QoL ASMR and optional Tuning)](https://www.nexusmods.com/cyberpunk2077/mods/6823?tab=description)
+- [Street Vendors](https://www.nexusmods.com/cyberpunk2077/mods/2894?tab=description)
 
 ## NEW MODS ADDED 
 
@@ -94,6 +130,8 @@ This update addresses a few issues.
 - [Koenigsegg Regera (Addon)](https://www.nexusmods.com/cyberpunk2077/mods/10134?tab=description)
 - [Apartment Cats - Dogtown](https://www.nexusmods.com/cyberpunk2077/mods/10325?tab=description)
 - [City of Dreams Saves Backup](https://www.nexusmods.com/cyberpunk2077/mods/10352)
+- [Immersive Bartenders - Dogtown](https://www.nexusmods.com/cyberpunk2077/mods/10372?tab=description)
+- [LostInACave X Veegee Jeans - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10376)
 
 ## BUGS
 
