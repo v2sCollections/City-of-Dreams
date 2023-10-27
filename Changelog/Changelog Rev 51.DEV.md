@@ -37,6 +37,12 @@ This update addresses a few issues.
 - Fixed phone icon stuck after interacting with any PC (and perhaps a few more cases as well).
 - Fixed mod conflick between CVO and Rayfield Caliburn.
 - Fixed various crashes.
+### Changes
+
+Limited Hud now has new Keybinds:
+
+F8: Global Hud
+F6: Map
 
 ## UPDATED
 
@@ -47,12 +53,10 @@ This update addresses a few issues.
 - [TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 - [RED4ext](https://www.nexusmods.com/cyberpunk2077/mods/2380)
 - [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)
-
 ### Core 2
 - [Cyberware-EX](https://www.nexusmods.com/cyberpunk2077/mods/9429?tab=description)
 - [Deceptious Quest Core](https://www.nexusmods.com/cyberpunk2077/mods/7831)
 - [RadioExt](https://www.nexusmods.com/cyberpunk2077/mods/4591?tab=description)
-
 ### Gameplay
 - [Arasaka Cyberarms](https://www.nexusmods.com/cyberpunk2077/mods/1099?tab=description)
 - [Naked NPCs Sex Workers](https://www.nexusmods.com/cyberpunk2077/mods/9738)
@@ -69,7 +73,11 @@ This update addresses a few issues.
 - [Naked NPCs Holograms](https://www.nexusmods.com/cyberpunk2077/mods/9785)
 - [Immersive Food Vendors - Dogtown](https://www.nexusmods.com/cyberpunk2077/mods/10393)
 - [Flaming Crotch Man Romanced](https://www.nexusmods.com/cyberpunk2077/mods/9573)
-
+- [Longer Car Delivery Timers](https://www.nexusmods.com/cyberpunk2077/mods/9735)
+- [QoL - Faster Checkpoints](https://www.nexusmods.com/cyberpunk2077/mods/9724)
+- [QoL - Interactive Judy's Apartment Devices](https://www.nexusmods.com/cyberpunk2077/mods/8099)
+- [Faster Iguana Hatch](https://www.nexusmods.com/cyberpunk2077/mods/5112)
+- [Vehicle Summon Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/4658)
 ### Clothing
 - [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987?tab=description)
 - [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454?tab=description)
@@ -83,13 +91,15 @@ This update addresses a few issues.
 - [Nola Dreamer Virtual Boutique](https://www.nexusmods.com/cyberpunk2077/mods/5114)
 - [Nola Dreamer and Aquelyras atelier](https://www.nexusmods.com/cyberpunk2077/mods/8704)
 - [Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790?tab=description)
-
 ### UI
 - [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592
 - [HUDitor](https://www.nexusmods.com/cyberpunk2077/mods/3315)
+- [Mark To Sell](https://www.nexusmods.com/cyberpunk2077/mods/4725)
+- [No Camera Auto Centering](https://www.nexusmods.com/cyberpunk2077/mods/2169)
+- [Named Saves](https://www.nexusmods.com/cyberpunk2077/mods/4521?tab=description)
+- [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454)
 
 ## REMOVED
-
 - [High-Res Unnamed NPC Faces - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7089?tab=description)
 - [High-Res Clothing - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7301?tab=description)
 - [High-Res Hair and Beards - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7184)
@@ -100,7 +110,7 @@ This update addresses a few issues.
 
 ## NEW MODS ADDED 
 
-- [Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/4885)
+### Texture+Body
 - [High Res Minor Named NPCs](https://www.nexusmods.com/cyberpunk2077/mods/8045?tab=description)
 - [High Res Food and Drinks - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7999?tab=description)
 - [High Res Containers - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7998)
@@ -118,20 +128,28 @@ This update addresses a few issues.
 - [High-Res NPCs - Johnny Silverhand 2.0](https://www.nexusmods.com/cyberpunk2077/mods/10175?tab=description)
 - [Judy Enhanced Body with 4K Texture](https://www.nexusmods.com/cyberpunk2077/mods/10150?tab=description)
 - [Browser Extension](https://www.nexusmods.com/cyberpunk2077/mods/10038?tab=description)
-- [Peachu Halloween Dress - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10231)
+### Gameplay
 - [Vehicle Insurance (TANSTAAFL Part 1)](https://www.nexusmods.com/cyberpunk2077/mods/10039?tab=description)
-- [Lace Underwear P3 - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10071?tab=description)
-- [Cubfan82 x LeBronze James Rocker Dress](https://www.nexusmods.com/cyberpunk2077/mods/9917?tab=description)
 - [Immersive Rippers - Dogtown](https://www.nexusmods.com/cyberpunk2077/mods/10255?tab=description)
-- [Koenigsegg Gemera](https://www.nexusmods.com/cyberpunk2077/mods/10256?tab=description)
-- [Police Officer Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10282?tab=description)
-- [Nola Dreamer x Aquelyras - combat outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10115?tab=description)
 - [RadioExt](https://www.nexusmods.com/cyberpunk2077/mods/4591?tab=description)
-- [Koenigsegg Regera (Addon)](https://www.nexusmods.com/cyberpunk2077/mods/10134?tab=description)
 - [Apartment Cats - Dogtown](https://www.nexusmods.com/cyberpunk2077/mods/10325?tab=description)
 - [City of Dreams Saves Backup](https://www.nexusmods.com/cyberpunk2077/mods/10352)
 - [Immersive Bartenders - Dogtown](https://www.nexusmods.com/cyberpunk2077/mods/10372?tab=description)
+### UI
+- [Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/4885)
+### Vehicles
+- [Koenigsegg Gemera](https://www.nexusmods.com/cyberpunk2077/mods/10256?tab=description)
+- [Koenigsegg Regera (Addon)](https://www.nexusmods.com/cyberpunk2077/mods/10134?tab=description)
+### Clothing
 - [LostInACave X Veegee Jeans - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10376)
+- [The RVC00N Dumpster - OpenBack Tank Top (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/10448?tab=description)
+- [Police Officer Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10282?tab=description)
+- [Nola Dreamer x Aquelyras - combat outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10115?tab=description)
+- [Lace Underwear P3 - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10071?tab=description)
+- [Cubfan82 x LeBronze James Rocker Dress](https://www.nexusmods.com/cyberpunk2077/mods/9917?tab=description)
+- [Peachu Halloween Dress - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10231)
+- [The RVC00N Dumpster - Strapped BodySuit (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/10405)
+- [Halloween Pumpkin Helmet Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10452?tab=description)
 
 ## BUGS
 
