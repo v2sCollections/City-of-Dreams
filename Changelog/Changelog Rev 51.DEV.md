@@ -7,7 +7,7 @@
 
 ## THIS UPDATE REQUIRES A [CYBERCLEAN](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md#troubleshooting) THIS IS NOT OPTIONAL
 
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
+![img](https://i.imgur.com/wAJUpeU.png)
 
 We now have a new method for updating this should will all of the Vortex errors that we have been seeing.
 
@@ -23,7 +23,7 @@ We now have a new method for updating this should will all of the Vortex errors 
 
 **NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
 
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
+![img](https://i.imgur.com/wAJUpeU.png)
 
 ## Fixes
 
@@ -55,7 +55,7 @@ Radio EXT
 - [RadioExt](https://www.nexusmods.com/cyberpunk2077/mods/4591?tab=description) IS BACK!!!
 - Remember to get your soundtrack from the Discord in order for the "City of Dreams Radio Station to work.
 
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
+![img](https://i.imgur.com/wAJUpeU.png)
 
 ## UPDATED
 
@@ -120,7 +120,7 @@ Radio EXT
 - [Named Saves](https://www.nexusmods.com/cyberpunk2077/mods/4521?tab=description)
 - [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454)
 
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
+![img](https://i.imgur.com/wAJUpeU.png)
 
 ## REMOVED
 - [High-Res Unnamed NPC Faces - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7089?tab=description)
@@ -136,7 +136,7 @@ Radio EXT
 - [Jinguji Personal Shopping Service - Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/8318)
 - [Hyst x Angy - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/9318)
 
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
+![img](https://i.imgur.com/wAJUpeU.png)
 
 ## NEW MODS ADDED 
 
@@ -183,13 +183,13 @@ Radio EXT
 - [The RVC00N Dumpster - Coton CropTop (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/10486?tab=description)
 - [The RVC00N Dumpster - Rubber Suspenders (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/10485?tab=description)
 
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
+![img](https://i.imgur.com/wAJUpeU.png)
 
 ## BUGS
 
  [See bug channel on discord](https://discord.gg/xZNztPjA2u)
  
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
+![img](https://i.imgur.com/wAJUpeU.png)
 
 ## MODS NOT WORKING AT THE MOMENT 
 
