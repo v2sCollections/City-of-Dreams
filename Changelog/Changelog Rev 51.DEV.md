@@ -55,6 +55,9 @@ Radio EXT
 - [RadioExt](https://www.nexusmods.com/cyberpunk2077/mods/4591?tab=description) IS BACK!!!
 - Remember to get your soundtrack from the Discord in order for the "City of Dreams Radio Station to work.
 
+Vehicle Insurance
+- You will now be charged a fee when you crash your vehicle and when spawning your vehicle, so make sure the you get the premium insurance plan online at any ing-ame Pc.
+
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 ## UPDATED
