@@ -170,6 +170,8 @@ Vehicle Insurance
 ### Vehicle
 - [Koenigsegg Gemera](https://www.nexusmods.com/cyberpunk2077/mods/10256?tab=description)
 - [Koenigsegg Regera (Addon)](https://www.nexusmods.com/cyberpunk2077/mods/10134?tab=description)
+- [Toyota Supra](https://www.nexusmods.com/cyberpunk2077/mods/10520?tab=description)
+- [Bmw S1000RR](https://www.nexusmods.com/cyberpunk2077/mods/10445?tab=description)
 ### Clothing
 - [All Vanilla Clothes Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/5544?tab=description)
 - [Browser Extension](https://www.nexusmods.com/cyberpunk2077/mods/10038?tab=description)
@@ -185,6 +187,7 @@ Vehicle Insurance
 - [The RVC00N Dumpster - Tight Shiny Pants (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/10484?tab=description)
 - [The RVC00N Dumpster - Coton CropTop (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/10486?tab=description)
 - [The RVC00N Dumpster - Rubber Suspenders (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/10485?tab=description)
+- [Boudoir Hakkiweeb - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10519?tab=description)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
