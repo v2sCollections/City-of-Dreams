@@ -7,6 +7,8 @@
 
 ## THIS UPDATE REQUIRES A [CYBERCLEAN](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md#troubleshooting) THIS IS NOT OPTIONAL
 
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
+
 We now have a new method for updating this should will all of the Vortex errors that we have been seeing.
 
 ## HOW TO UPDATE
@@ -21,11 +23,9 @@ We now have a new method for updating this should will all of the Vortex errors 
 
 **NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
 
-- [Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/4885) IS BACK!!!
-- [RadioExt](https://www.nexusmods.com/cyberpunk2077/mods/4591?tab=description) IS BACK!!!
-- Virtual Atelier and the Vihicle shop are now available within the NET tab on in game Pcs.
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-### Fixes
+## Fixes
 
 This update addresses a few issues.
 
@@ -39,7 +39,7 @@ This update addresses a few issues.
 - Fixed mod conflict between CVO and Rayfield Caliburn.
 - Fixed various crashes.
 
-### Changes
+## Changes
 
 Limited HUD
 - Limited Hud now has new Keybinds:
@@ -50,6 +50,12 @@ Limited HUD
 Virtual Atelier
 - We are in the process of cleaning up the atlier after 2.0. Many changes to come.
 - The Virtual Atelier tab has now been placed within the "NET" tab on the ingame PCs.
+
+Radio EXT
+- [RadioExt](https://www.nexusmods.com/cyberpunk2077/mods/4591?tab=description) IS BACK!!!
+- Remember to get your soundtrack from the Discord in order for the "City of Dreams Radio Station to work.
+
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## UPDATED
 
@@ -114,6 +120,8 @@ Virtual Atelier
 - [Named Saves](https://www.nexusmods.com/cyberpunk2077/mods/4521?tab=description)
 - [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454)
 
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
+
 ## REMOVED
 - [High-Res Unnamed NPC Faces - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7089?tab=description)
 - [High-Res Clothing - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7301?tab=description)
@@ -127,6 +135,8 @@ Virtual Atelier
 - [Hyst EBBN Store - Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/8927)
 - [Jinguji Personal Shopping Service - Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/8318)
 - [Hyst x Angy - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/9318)
+
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## NEW MODS ADDED 
 
@@ -173,10 +183,13 @@ Virtual Atelier
 - [The RVC00N Dumpster - Coton CropTop (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/10486?tab=description)
 - [The RVC00N Dumpster - Rubber Suspenders (M) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/10485?tab=description)
 
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
+
 ## BUGS
 
  [See bug channel on discord](https://discord.gg/xZNztPjA2u)
  
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## MODS NOT WORKING AT THE MOMENT 
 
