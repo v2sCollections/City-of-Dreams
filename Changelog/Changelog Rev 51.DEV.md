@@ -58,6 +58,9 @@ Radio EXT
 Vehicle Insurance
 - You will now be charged a fee when you crash your vehicle and when spawning your vehicle, so make sure the you get the premium insurance plan online at any ing-ame Pc.
 
+JetPack
+- Jetpack is now toggled off by default instead of being toggled on everytime you start the game.
+
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 ## UPDATED
@@ -167,6 +170,12 @@ Vehicle Insurance
 - [Apartment Cats - Dogtown](https://www.nexusmods.com/cyberpunk2077/mods/10325?tab=description)
 - [City of Dreams Saves Backup](https://www.nexusmods.com/cyberpunk2077/mods/10352)
 - [Immersive Bartenders - Dogtown](https://www.nexusmods.com/cyberpunk2077/mods/10372?tab=description)
+- [Spicy HUDs - More UI and HUD colors](https://www.nexusmods.com/cyberpunk2077/mods/509?tab=description) IS BACK!!!
+- [Keep Drawing The Line (ricochet preview)](https://www.nexusmods.com/cyberpunk2077/mods/7198?tab=description)
+- [Ricochet Redux](https://www.nexusmods.com/cyberpunk2077/mods/7197)
+- [Quickhack Hotkeys](https://www.nexusmods.com/cyberpunk2077/mods/7238)
+- [Kiroshi Optics Night Vision Mod](https://www.nexusmods.com/cyberpunk2077/mods/8326)
+- [Purify The UI - disable annoying 2D ghosting blur and 3D perspective shader effects - No More Lens Distortion or Blurry Double Vision Interface HUD](https://www.nexusmods.com/cyberpunk2077/mods/2648)
 ### Vehicle
 - [Koenigsegg Gemera](https://www.nexusmods.com/cyberpunk2077/mods/10256?tab=description)
 - [Koenigsegg Regera (Addon)](https://www.nexusmods.com/cyberpunk2077/mods/10134?tab=description)
