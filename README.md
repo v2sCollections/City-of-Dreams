@@ -1,19 +1,11 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 
 
-\
-![img](https://i.imgur.com/wAJUpeU.png)![](https://s6.gifyu.com/images/S8Lvb.png)\
-Hey guys&#x20;
+### **Updated and Compatible with Patch 2.02**
 
-**A Cyberpunk Patch is just around the corner here is how you can prepare**
+### Collection Rev 51   &#x20;
 
-Go to the [Cyberpunk Modding WIKI](https://wiki.redmodding.org/cyberpunk-2077-modding/for-mod-users/users-modding-cyberpunk-2077/users-downgrading-preventing-auto-updates) and follow the relevant version of your game.
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-### **Updated and Compatible with Patch 2.01**
-
-### Collection Rev 50        &#x20;
+### ![](https://s6.gifyu.com/images/S8v7F.gif)    &#x20;
 
 https://www.youtube.com/watch?v=vvpmq34uBAc
 
@@ -214,10 +206,10 @@ C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 
 ## [Install time](https://)
 
-This is a large collection I recommend purchasing a Nexus premium account even just for 1 month to install the collection it will make installation much easier. You can just cancel the subscription after the installation if you wish.
+This is a large collection I highly recommend purchasing a Nexus premium account even just for 1 month to install the collection it will make installation much easier. You can just cancel the subscription after the installation if you wish.
 
 **Premium Users**: Takes 1.5 hours + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
-**Free Users:** Takes 2.5 to 3 hours + Semi-automatic. You will have to click on download for each mod one by one.
+**Free Users:** Takes 2 to 4 hours + Semi-automatic. You will have to click on download for each mod one by one. **(I recommend you don't attempt this)**
 
 ***
 
@@ -422,14 +414,14 @@ These can be configured in-game but I've configured them to get you started. The
 
 The mods adds two additional in-game hotkeys which you can use to toggle widgets visibility:
 
-- Y> Global Toggle Global hotkey which you can use to toggle visibility for any module combination by your choice. By default it toggles Minimap, Quest Tracker and Quest Markers modules.
-- L> Minimap Toggle
+- F8> Global Toggle Global hotkey which you can use to toggle visibility for any module combination by your choice. By default it toggles Minimap, Quest Tracker and Quest Markers modules.
+- F6> Minimap Toggle
 
 ![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
 
 ### FLASHLIGHT
 
-- U> Toggle Flaslight
+- U> Toggle Flashlight
 
 ![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
 
@@ -990,8 +982,6 @@ HUDitor allows players to move & resize some of the main widgets on the screen.
 To see more read the simple menu details.
 </details>
 
-
-
 ***
 
 ### Simple Menu
@@ -1056,7 +1046,7 @@ To see more read the simple menu details.
 - Every effort has been made to filter out useless (broken, partially implemented, etc) items, but some may still exist (they shouldn't break anything too badly, mostly they just don't work)
 - This will also index and make searchable mod items, though not all will appear for various reasons (incomplete TweakDB entries, for example)
 
-### **HOTKEY FUNCTIONS **
+### \*\*HOTKEY FUNCTIONS \*\*
 
 - Refill Ammo: manual or automatic
 - Weapon modifiers
@@ -1078,8 +1068,6 @@ To see more read the simple menu details.
 - Teleport to Viktor's Clinic
 - Toggle Vehicle Instant Spawn
 </details>
-
-
 
 ***
 
@@ -1601,6 +1589,7 @@ Special thanks to these chooms who helped make this collection preem. And everyo
 - The Magnificent Doctor Presto
 - Starfox
 - NDLWX
+- Rfuzzo
 
 And all the teams and modders behind all the tools that make cyberpunk 2077 modding possible.
 
