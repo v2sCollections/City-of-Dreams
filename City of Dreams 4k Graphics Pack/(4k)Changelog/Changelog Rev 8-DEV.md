@@ -1,6 +1,6 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 
-## [HEY CHOOMS Rev 8 is COMING SOON](https://)
+## [HEY CHOOMS Rev 8 is HERE](https://)
 
 
 ## NOTES
@@ -10,7 +10,6 @@
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!!
 
 ## UPDATED
-
 
 N/A
 
@@ -32,7 +31,6 @@ N/A
 - [High Res NPCs - Bes Isis](https://www.nexusmods.com/cyberpunk2077/mods/7889?tab=description)
 - [High Res NPCs - Sandayu Oda](https://www.nexusmods.com/cyberpunk2077/mods/7888?tab=description)
 - [High-Res NPCs - Johnny Silverhand 2.0](https://www.nexusmods.com/cyberpunk2077/mods/10175?tab=description)
-- [Judy Enhanced Body with 4K Texture](https://www.nexusmods.com/cyberpunk2077/mods/10150?tab=description)
 
 ## BUGS
 

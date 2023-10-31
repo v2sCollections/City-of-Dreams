@@ -1,8 +1,6 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 
-### **Updated and compatible with Patch 2.01**
-
-### Collection Rev 7          &#x20;
+### **Updated and compatible with Patch 2.02**    &#x20;
 
 ![](https://s11.gifyu.com/images/Border11.jpg)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Dreams 4k Graphics Pack](https://) .
 
@@ -30,7 +28,7 @@ Note this is for high-end systems only.
 
 - Easy to follow step-by-step installation guide.
 - 70+ Grahics mods to enhance cyberpunk 2077.
-- [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
+- [Discord Server](https://discord.gg/v2-s-collections-1076179431195955290)-with a growing community.
 - [Youtube Channel](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)-with Guides and Videos.
 - [Github Repository](https://github.com/2077v2/City-of-Dreams)-with Guides/FAQs and much more.
 - Continuous Support in Comments and on Discord.
@@ -164,9 +162,9 @@ You can find me in [v2's discord here](https://discord.gg/v2-s-collections-10761
 
 **⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Cyberpunk2077, or the collection when you see errors on Vortex.
 
-You can find the full Troubleshooting list on our [Discord](https://discord.gg/xZNztPjA2u) and here [Troubleshooting/FAQ](https://github.com/2077v2/City-of-Dreams/blob/main/Troubleshooting%20FAQ.md)&#x20;
+You can find the full Troubleshooting list on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting/FAQ](https://github.com/2077v2/City-of-Dreams/blob/main/Troubleshooting%20FAQ.md)&#x20;
 
-You can find all our guides on our [Discord](https://discord.gg/xZNztPjA2u) and here [Guides](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md)
+You can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md)
 
 ## FAQ
 
@@ -230,10 +228,6 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 ![img](https://i.imgur.com/u4G5pz5.png)
-
-## **Optimizations**
-
-- [Raytracing Overdrive Optimizations](https://www.nexusmods.com/cyberpunk2077/mods/8059)
 
 ***
 
@@ -309,9 +303,21 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 - [High Res NPCs - Lyle Thompson](https://www.nexusmods.com/cyberpunk2077/mods/7956?tab=description)
 - [High Res NPCs - Robert Wilson](https://www.nexusmods.com/cyberpunk2077/mods/7959?tab=description)
 - [High Res NPCs - Deputy Mayor Weldon Holt](https://www.nexusmods.com/cyberpunk2077/mods/7958?tab=description)
-- [High Res Minor Named NPCs](https://www.nexusmods.com/cyberpunk2077/mods/8045?tab=description)
 - [High Res NPCs - Dum Dum](https://www.nexusmods.com/cyberpunk2077/mods/8049?tab=description)
 - [High Res NPCs - Altiera Cunningham](https://www.nexusmods.com/cyberpunk2077/mods/7624?tab=description)
+- [High Res NPCs - Dum Dum](https://www.nexusmods.com/cyberpunk2077/mods/8049?tab=description)
+- [High Res NPCs - Lyle Thompson](https://www.nexusmods.com/cyberpunk2077/mods/7956?tab=description)
+- [High Res NPCs - Robert Wilson](https://www.nexusmods.com/cyberpunk2077/mods/7959?tab=description)
+- [High Res NPCs - Deputy Mayor Weldon Holt](https://www.nexusmods.com/cyberpunk2077/mods/7958?tab=description)
+- [High Res NPCs - Mateo Thiago](https://www.nexusmods.com/cyberpunk2077/mods/7931?tab=description)
+- [High Res NPCs - Saul Bright](https://www.nexusmods.com/cyberpunk2077/mods/7929?tab=description)
+- [High Res NPCs - Saburo Arasaka](https://www.nexusmods.com/cyberpunk2077/mods/7928?tab=description)
+- [High Res NPCs - Sebastian Ibarra](https://www.nexusmods.com/cyberpunk2077/mods/7930?tab=description)
+- [High Res NPCs - Royce](https://www.nexusmods.com/cyberpunk2077/mods/7927?tab=description)
+- [High Res NPCs - Bes Isis](https://www.nexusmods.com/cyberpunk2077/mods/7889?tab=description)
+- [High Res NPCs - Sandayu Oda](https://www.nexusmods.com/cyberpunk2077/mods/7888?tab=description)
+- [High-Res NPCs - Johnny Silverhand 2.0](https://www.nexusmods.com/cyberpunk2077/mods/10175?tab=description)
+- [High Res Minor Named NPCs](https://www.nexusmods.com/cyberpunk2077/mods/8045?tab=description)
 - [High-Res Unnamed NPC Faces - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7089)
 
 > **Items**
