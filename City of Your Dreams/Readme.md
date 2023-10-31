@@ -1,24 +1,16 @@
-![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
+### **Updated and Compatible with 2.02**
 
-### **Updated & Compatible with 2.0**
-
-![](https://s10.gifyu.com/images/S4a17.png)
-
-### Collection Rev 2        &#x20;
-
-![](https://s11.gifyu.com/images/Border11.jpg)\
-![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Your Dreams](https://) for **Cyberpunk 2077**.
+\
+![](https://s6.gifyu.com/images/S8v7F.gif)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Your Dreams](https://) for **Cyberpunk 2077**.
 
 This is a collection of the Main Core Mods needed to Mod Cyberpunk 2077. Download this collection and then add any mods you want yourself.
-
-Huge thank you to all the talented chooms that have put in the time and effort to create these preem mods. If you enjoy this collection, please show your support and [ENDORSE](https://) the mod authors and the collection.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 ![img](https://i.imgur.com/tuwIgmm.png)
 
 - Easy to follow step-by-step installation guide.
-- [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
+- [Discord Server](https://discord.gg/v2-s-collections-1076179431195955290)-with a growing community.
 - [Youtube Channel](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)-with Guides and Videos.
 - Continuous Support in Comments and on Discord.
 - Live voice support.
@@ -40,8 +32,6 @@ Huge thank you to all the talented chooms that have put in the time and effort t
 ```
 C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 ```
-
-- ⛔DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
 
 ## [Updating Collection](https://)[   ](https://)
 
@@ -180,6 +170,8 @@ Special thanks to these chooms who helped make this collection preem. And everyo
 - Fenrir
 - Starfox
 - Jeridlee
+- NDLWX
+- Rfuzzo
 
 And all the teams and modders behind all the tools that make cyberpunk 2077 modding possible.
 
@@ -198,15 +190,12 @@ If you would like to support me so I can afford some new chrome click the button
 
 Or, [buy me a coffee](https://www.buymeacoffee.com/2077v2)
 
-![img](https://i.imgur.com/wAJUpeU.png)
-
-![](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
-
-## [Disclaimer](https://)
+### ![img](https://i.imgur.com/wAJUpeU.png)[Disclaimer](https://)
 
 - ⛔ I will not be responsible for any possibility of save corruption.
 - ⛔ Please don't use a similar name to this collection.
 - ⛔ I do not allow you to copy or clone this collection in any way.
+- ⛔DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
 - CD PROJEKT®, Cyberpunk®, Cyberpunk 2077® are registered trademarks of CD PROJEKT S.A. © 2022 CD PROJEKT S.A
 
 ![img](https://i.imgur.com/wAJUpeU.png)
