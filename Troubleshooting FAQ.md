@@ -333,6 +333,25 @@ Things to note.
 ## Bugs
 
 
+
+
+<details>
+<summary>My colours are all wrong</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+This is an error from Reshade.
+
+It has enabled the same effect twice.
+
+**1**) Run the Reshade installer from Vortex and uninstall the preset.
+**2**) Run the Reshade installer again and reinstall the preset.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
 <details>
 <summary>I can't exit out of the Settings Menu and other Menus</summary>
 
