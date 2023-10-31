@@ -1,8 +1,8 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 
-### **Updated and compatible with Patch 2.01**
+### **Updated and compatible with Patch 2.02**
 
-### Collection Rev 17       &#x20;
+![](https://s6.gifyu.com/images/S8v7F.gif)
 
 ![](https://s11.gifyu.com/images/Border11.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://) (lite) Version for **Cyberpunk 2077**.
 
@@ -12,7 +12,7 @@ Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm e
 
 This isn't just a mod list I've slapped together this is the lite & SFW version of my main [cyberpunk 2077 collection](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection).
 
-I hope you enjoy this collection and the game as much as I do. Time for me to delta but don't be a stranger join our community of edgerunners over on [Discord](https://discord.gg/xZNztPjA2u) see you there choom.
+I hope you enjoy this collection and the game as much as I do. Time for me to delta but don't be a stranger join our community of edgerunners over on [Discord](https://discord.gg/v2-s-collections-1076179431195955290) see you there choom.
 
 ## [Collection not working](https://) ❓&#x20;
 
@@ -24,11 +24,11 @@ This collection is extensively tested with every new version that is released. I
 
 [![](https://s6.gifyu.com/images/S6n82.png)](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)
 
-[![](https://s6.gifyu.com/images/S6n4A.png)](https://discord.gg/xZNztPjA2u)
+[![](https://s6.gifyu.com/images/S6n4A.png)](https://discord.gg/v2-s-collections-1076179431195955290)
 
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Cyberpunk 2077.
 - Easy to follow step-by-step installation guide.
-- Only-[9](https://)GB in download size for-[200+](https://) mods.
+- Only-[8](https://)GB in download size for-[250](https://)+ mods.
 - Mods specifically created for the collection.
 - Support for other Modular Expansion Packs.
 - Setup Video-[HERE](https://)
@@ -60,7 +60,7 @@ C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 - **1**) Create a new Profile in Vortex and enable it.
 - **2**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/ayfbwl?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
 - **3**) When prompted to select which profile to install to, select the new profile you created in Step **1**)
-- **4**) Once the update is downloaded you can remove the old profile.
+- **4**) Once the update is downloaded you can remove the old profile. But ⛔**DO NOT** remove the archives.
 
 **NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
 
@@ -198,8 +198,114 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ## [In-game settings](https://)
 
-- To use CET (Cyber Engine Tweaks)**use**F11 on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,3rd person camera, Vehicle camera and many more.
-- I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and on our discord. Or here[Keybinds](https://github.com/2077v2/City-of-Dreams/blob/main/Keybinds.md)
+**1**) To use CET (Cyber Engine Tweaks) use [F11](https://) on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Vehicle camera and many more.
+
+**2**) I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory. Or here [Keybinds](https://github.com/2077v2/City-of-Dreams/blob/main/Keybinds.md)
+
+<details><summary>CLICK FOR A FULL LIST OF KEYBINDS</summary>
+![](https://camo.githubusercontent.com/71498d3b97846faa765d38d209aefd3ee430c046f95ab05930ce0f5e03d1c039/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4b657962696e64732e706e67)
+
+These can be configured in-game but I've configured them to get you started. These are set for a full-size KB.
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### CUSTOM QUICKSLOTS
+
+- 3> Slot 1
+- 4> Slot 2
+- 5> Slot 3
+- 6> Slot 4
+- 7> Slot 5
+- 8> Slot 6
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### CET
+
+- F11> Overlay
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### JB THIRD PERSON
+
+- 1> Activate 3rd Person
+- C> Change Camera
+- R> Reset Camera
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### NO CLIP
+
+- SCRLK> Noclip
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### NANO DRONE
+
+- L> Spawn
+- W> Forward
+- S> Back
+- A> Left
+- D> Right
+- SPACE> Up
+- CAPSLK> Down
+- C> Exit Drone
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### ZOMMABLE SCOPES
+
+- CTRL> Zoom
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### RESHADE
+
+- HOME> UI
+- END> Toggle Reshade
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### IMMERSIVE TIMESKIP
+
+- O> Timeskip UI
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### HOLD TO HOLSTER
+
+- HOLD Reload> Holster
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### Night Vision
+
+- F3> NIGHT VISION
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### LIMITED HUD
+
+The mods adds two additional in-game hotkeys which you can use to toggle widgets visibility:
+
+- F8> Global Toggle Global hotkey which you can use to toggle visibility for any module combination by your choice. By default it toggles Minimap, Quest Tracker and Quest Markers modules.
+- F6> Minimap Toggle
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### FLASHLIGHT
+
+- U> Toggle Flashlight
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
+### CPAH
+
+- CONTROLL+SHIFT+H>Analysis
+- CONTROLL+SHIFT+K>Autohack
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+</details>
 
 ***
 
@@ -248,9 +354,9 @@ I have added the Reshade below.
 
 **⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Cyberpunk2077, or the collection when you see errors on Vortex.
 
-You can find the full Troubleshooting list on our [Discord](https://discord.gg/xZNztPjA2u) and here [Troubleshooting/FAQ](https://github.com/2077v2/City-of-Dreams/blob/main/Troubleshooting%20FAQ.md)&#x20;
+You can find the full Troubleshooting list on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting/FAQ](https://github.com/2077v2/City-of-Dreams/blob/main/Troubleshooting%20FAQ.md)&#x20;
 
-You can find all our guides on our [Discord](https://discord.gg/xZNztPjA2u) and here [Guides](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md)
+You can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md)
 
 ## FAQ
 
@@ -821,7 +927,7 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 - [Bugatti Chiron SuperSport](https://www.nexusmods.com/cyberpunk2077/mods/9147?tab=description).
 - [Nissan GTR](https://www.nexusmods.com/cyberpunk2077/mods/8391?tab=description).
 - [Porsche 911 GT3](https://www.nexusmods.com/cyberpunk2077/mods/8370?tab=description).
-- [Mclaren 765LT Spyder](https://www.nexusmods.com/cyberpunk2077/mods/8351?tab=description).
+- [Mclaren 765LT](https://www.nexusmods.com/cyberpunk2077/mods/10193?tab=description).
 </details>
 
 ##
