@@ -44,6 +44,8 @@ This update addresses a few issues.
 - [The RVC00N Dumpster - Tight Shiny Pants (F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/10546?tab=description)
 - [The RVC00N Dumpster - Rubber Suspenders (F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/10547?tab=description)
 - [The RVC00N Dumpster - Strapped BodySuit (F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/10517?tab=description)
+- [The RVC00N Dumpster - Ripped Sweater (F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/10359?tab=description)
+- [Leggings Spandex Custom Mats and Hq Masks Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10385?tab=description)
 
 ## BUGS
 
