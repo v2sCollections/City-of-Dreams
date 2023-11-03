@@ -27,6 +27,10 @@ We now have a new method for updating this should will all of the Vortex errors 
 
 This update addresses a few issues.
 
+- Removed clothing items that replace vanilla items in the game. (If there is more please let me know)
+
+## Changes 
+- Limited HUD is now optional.
 
 ## UPDATED
 
@@ -38,14 +42,9 @@ This update addresses a few issues.
 
 ## NEW MODS ADDED 
 
-- [Peachu Strap Shorts - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10505?tab=description)
-- [(Silver Breezy Store) Alt Boots - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10489?tab=description)
+- [MORE CLOTHING ADDED](https://)
 - [Life Insurance (TANSTAAFL Part 2)](https://www.nexusmods.com/cyberpunk2077/mods/10569/?tab=description&jump_to_comment=129886082)
-- [The RVC00N Dumpster - Tight Shiny Pants (F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/10546?tab=description)
-- [The RVC00N Dumpster - Rubber Suspenders (F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/10547?tab=description)
-- [The RVC00N Dumpster - Strapped BodySuit (F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/10517?tab=description)
-- [The RVC00N Dumpster - Ripped Sweater (F) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/10359?tab=description)
-- [Leggings Spandex Custom Mats and Hq Masks Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10385?tab=description)
+
 
 ## BUGS
 

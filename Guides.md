@@ -222,9 +222,9 @@ AUTO
 2) Place the (Cyberclean.bat) file in the main cyberpunk directory you can find it here> https://www.nexusmods.com/cyberpunk2077/mods/8595
 
 ```
-Steam> Drive Letter:\Games\Steam\steamapps\common\Cyberpunk 2077\archive\pc\mod
-GOG>   Drive Letter:\Games\Cyberpunk 2077\archive\pc\mod
-Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod  
+Steam> Drive Letter:\Games\Steam\steamapps\common\Cyberpunk 2077
+GOG>   Drive Letter:\Games\Cyberpunk 2077
+Epic>  Drive Letter:\Epic Games\Cyberpunk 2077
 ```
 
 3) Double click that bat file.
