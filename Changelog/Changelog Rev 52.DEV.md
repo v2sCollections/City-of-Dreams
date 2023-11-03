@@ -49,6 +49,8 @@ This update addresses a few issues.
 - [(Silver Breezy Store) Accessory Collection - Part 1 - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7850)
 - [Immersive Bartenders](https://www.nexusmods.com/cyberpunk2077/mods/7203)
 - [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)
+- [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198?tab=description)
+
 
 ## REMOVED
 
