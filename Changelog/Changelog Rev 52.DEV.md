@@ -31,10 +31,24 @@ This update addresses a few issues.
 
 ## Changes 
 - Limited HUD is now optional.
+- Lifepath Bonuses and Gang-Corp Traits IS BACK!!!
+- Nano Drone IS BACK!!!
 
 ## UPDATED
 
 - [Vehicle Insurance (TANSTAAFL Part 1)](https://www.nexusmods.com/cyberpunk2077/mods/10039)
+- [Life Insurance (TANSTAAFL Part 2)](https://www.nexusmods.com/cyberpunk2077/mods/10569)
+- [Silver Breezy - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/7773)
+- [(Silver Breezy Store) Accessory Collection - Part 1 - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7850)
+- [Silver Six - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/7032)
+- [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)
+- [Naked NPCs Tube Dancers](https://www.nexusmods.com/cyberpunk2077/mods/9689)
+- [Naked NPCs Sex Workers](https://www.nexusmods.com/cyberpunk2077/mods/9738?tab=description)
+- [Lifepath Bonuses and Gang-Corp Traits](https://www.nexusmods.com/cyberpunk2077/mods/2217?tab=description)
+- [Nano Drone](https://www.nexusmods.com/cyberpunk2077/mods/3419?tab=description)
+- [(Silver Breezy Store) Accessory Collection - Part 1 - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7850)
+- [Immersive Bartenders](https://www.nexusmods.com/cyberpunk2077/mods/7203)
+- [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 
 ## REMOVED
 
@@ -44,7 +58,7 @@ This update addresses a few issues.
 
 - [MORE CLOTHING ADDED](https://)
 - [Life Insurance (TANSTAAFL Part 2)](https://www.nexusmods.com/cyberpunk2077/mods/10569/?tab=description&jump_to_comment=129886082)
-
+- [Dance Off](https://www.nexusmods.com/cyberpunk2077/mods/10615?tab=description)
 
 ## BUGS
 
