@@ -28,11 +28,22 @@ We now have a new method for updating this should will all of the Vortex errors 
 This update addresses a few issues.
 
 - Removed clothing items that replace vanilla items in the game. (If there is more please let me know)
+- We have removed the old surface textures this has saved around 2.5gb VRAM usage. But dont worry choom we have something planned in the near future
+- Vehicle comnbat has now been fixed when using [Better Vehicle First Person](https://www.nexusmods.com/cyberpunk2077/mods/2202?tab=description)
+- Fixed a crash bug when the player is acquiring certain status effects, and also fix some status effect immunities not applying for NPCs.
 
 ## Changes 
 - Limited HUD is now optional.
+- TANSFL is now optional.
 - Lifepath Bonuses and Gang-Corp Traits IS BACK!!!
 - Nano Drone IS BACK!!!
+
+## City of Dreams (LITE)
+The city of dreams lite collection is now identical to the main collection minus the following
+- PMU Pose Packs
+- Clothing
+- Custom V body
+- AMM apearances
 
 ## UPDATED
 
@@ -50,17 +61,22 @@ This update addresses a few issues.
 - [Immersive Bartenders](https://www.nexusmods.com/cyberpunk2077/mods/7203)
 - [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 - [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198?tab=description)
-
+- [Simple Menu - An In-Game UI including Hotkeys](https://www.nexusmods.com/cyberpunk2077/mods/818)
+- [Better Vehicle First Person](https://www.nexusmods.com/cyberpunk2077/mods/2202?tab=description)
+- [Keep Drawing The Line (ricochet preview)](https://www.nexusmods.com/cyberpunk2077/mods/7198?tab=description)
+- [Ricochet Redux](https://www.nexusmods.com/cyberpunk2077/mods/7197?tab=description)
+- [
 
 ## REMOVED
 
-- N/A
+- [surfaces](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
 
 ## NEW MODS ADDED 
 
 - [MORE CLOTHING ADDED](https://)
 - [Life Insurance (TANSTAAFL Part 2)](https://www.nexusmods.com/cyberpunk2077/mods/10569/?tab=description&jump_to_comment=129886082)
 - [Dance Off](https://www.nexusmods.com/cyberpunk2077/mods/10615?tab=description)
+- [Bmw M4 CSL](https://www.nexusmods.com/cyberpunk2077/mods/10702)
 
 ## BUGS
 

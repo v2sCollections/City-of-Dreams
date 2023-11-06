@@ -3,7 +3,7 @@
 
 ### **Updated and Compatible with Patch 2.02**
 
-### ![](https://s6.gifyu.com/images/S8v7F.gif)    &#x20;
+### &#x20;    ![](https://s5.gifyu.com/images/S8Z9l.gif)
 
 https://www.youtube.com/watch?v=vvpmq34uBAc
 
@@ -225,11 +225,13 @@ https://www.youtube.com/watch?v=sn-Ju\_OWP\_8
 
 ## [Cyberpunk2077](https://)
 
-**1**) Start with a fresh install of Cyberpunk 2077.
+**1**) Start with a fresh install of **Cyberpunk 2077**.
 
 **2**) ⛔ Make sure the game is installed on an SSD.
 
-**3**) You need to create a mod folder go to the following location (Locations below) and create a folder named mod. When done should look as follows.
+**3**) ⛔ If you are using an older save from pre-2.0 and encounter any issues start a new save.
+
+**4**) You need to create a mod folder go to the following location (Locations below) and create a folder named mod. When done should look as follows.
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk 2077\archive\pc\mod
@@ -237,7 +239,10 @@ GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk 2077\archive\pc\mod
 Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 ```
 
-**4**) ⛔ Launch Cyberpunk 2077 and go to the settings menu and on the gameplay, tab turn off "Enable Analytics" and "Enable cross-platform Saves"
+**5**) ⛔ Launch Cyberpunk 2077 and go into the settings menu and in the gameplay tab turn off both of the following options "Enable Analytics"
+"Enable cross-platform Saves"
+
+![](https://s12.gifyu.com/images/SWeJF.png)
 
 ***
 
@@ -652,6 +657,8 @@ You can check out the gallery at the top of this page for videos by some of the 
 ## ![](https://s11.gifyu.com/images/Graphics.png)Features
 
 > The collection comes with many improvements to the graphics from upscaled textures to custom textures and our own reshade cyberpunk has never looked better. And if this isnt enough you can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) ⛔(This is for high-end systems only [16](https://) GB Vram+)
+>
+> ⛔ Note that some of these will eat your VRAM I recommend a minimum [12](https://) GB GPU. If you notice stuttering or any texture issues then disable a few of the ([2k Mods](https://)) in Vortex.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - Reshade included.
@@ -663,15 +670,8 @@ You can check out the gallery at the top of this page for videos by some of the 
 - Clean Loading Screens.
 - Limited dynamic hud elements.
 - No Camera auto-centering.
-</details>
 
-## A message from [XilaMonstrr](https://www.nexusmods.com/starfield/users/126616023)
-
-**ABOUT ME**\
-I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=user+files), nearly all texture optimization or upscaling for Skyrim and Cyberpunk 2077, including [Performance Optimized Textures for all of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/68055). My work has been featured in a number of gaming magazines over the past two years. You can find me in [v2's discord here](https://discord.gg/v2-s-collections-1076179431195955290).
-
-<details><summary>CLICK HERE TO SEE WHAT GRAPHICS MODS COME WITH THE COLLECTION</summary>
-> [Upscaled Videos Include](https://)
+### [Upscaled Videos Include](https://)
 
 - UHD Main Menu Splash Screens.
 - UHD Character Selection Screen.
@@ -680,7 +680,7 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 - QHD Edgerunner Braindance.
 - Clean Loading Screens
 
-> [Upscaled Textures Include](https://)
+### [Upscaled Textures Include](https://)
 
 - Most NPCs
 - Tattoos
@@ -691,22 +691,13 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 - Cyberware
 - Poster and Signs.
 - Vending Machines.
-- Bricks.
-- Concrete.
-- Rocks.
-- Paint.
-- Asphalt.
-- Grass.
-- Gravel.
-- Metal.
-- Plaster.
-- Mud and Dirt.
-- Tiles.
-- Water.
-- Food.
 </details>
 
-⛔ Note that some of these will eat your VRAM I recommend a minimum [12](https://) GB GPU. If you notice stuttering or any texture issues then disable a few of the ([2k Mods](https://)) in Vortex.
+### A message from [XilaMonstrr](https://www.nexusmods.com/starfield/users/126616023)
+
+<details><summary>ABOUT ME</summary>
+I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=user+files), nearly all texture optimization or upscaling for Skyrim and Cyberpunk 2077, including [Performance Optimized Textures for all of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/68055). My work has been featured in a number of gaming magazines over the past two years. You can find me in [v2's discord here](https://discord.gg/v2-s-collections-1076179431195955290).
+</details>
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -734,7 +725,7 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 > Part 1 introduces the Vehicle Insurance systems into the game. Part 2 introduces the Life Insurance systems into the game.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
-### Vehicle Insurance system rules: 
+### Vehicle Insurance system rules:
 
 - Fast Travel is a paid service. No money - no travel.
 - Vehicle summoning and repair are paid services: no money - no cars; and if you get in debt with the system, they will deny you access to your vehicles until you repay your debts.
@@ -743,7 +734,7 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 - Another important difference of this mod: you gain access to the Vehicle Insurance website through your home PC where you can buy different subscription packages to have a discount on all the vehicle-related services. Those aren’t cheap, but without those discounts prices are biting!
 - In the works: more means to get data on your current subscription state (phone messages).
 
-### Life Insurance system rules: 
+### Life Insurance system rules:
 
 - The mod is activated when you sleep in your bed for the first time, so you can start a new playthrough with it - you will have normal saves and checkpoints during the tutorial.
 - When the system is active, you can no longer save at will - manual saves are only available when you are in the vicinity of your home bed (seeing the “go to sleep” dialog line).
@@ -924,6 +915,9 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 - You can search your inventory for shards, quests, and messages.
 - Increases time spans between sickness effects applied to V by The Relic.
 - Reduces the time taken to pass through the Dogtown vehicle checkpoints by roughly 66%.
+- New transmog system with 30+ clothing slots
+- Allows you to manage an unlimited amount of outfits with your names
+- Converts your existing wardrobe sets to a new system at a first launch
 </details>
 
 ***
@@ -1290,20 +1284,17 @@ https://www.youtube.com/watch?v=UkJLHFdlPhs
 
 > 100+ Shops with over 2000+ pieces of Clothing, Armour,Cyberware, Vehicles, Jewellery and Weapons added to the Alteier store these can be accessed in-game from any computer these include items from some of the most talented modders in the CP2077 community such as.
 
-- [kweknexuss](https://www.nexusmods.com/cyberpunk2077/users/86973158)
-- [MONSTERaider](https://www.nexusmods.com/users/1630457)
-- [xBaebsae](https://www.nexusmods.com/users/74174073)
-- [spawn00000](https://www.nexusmods.com/users/2035415)
-- [AlvarixPT](https://www.nexusmods.com/users/98058588)
-- [LxRHyst](https://www.nexusmods.com/users/114587558)
-- [AnruiMurasaki](https://www.nexusmods.com/cyberpunk2077/users/36190195)
-- [JohnsonsStuff](https://www.nexusmods.com/cyberpunk2077/users/49231818)
-- [PeachuHime](https://www.nexusmods.com/cyberpunk2077/users/109777063)
-- [Apzurv](https://www.nexusmods.com/cyberpunk2077/users/18222069)
-- [NolaDreamer](https://www.nexusmods.com/cyberpunk2077/users/103558203)
-- [PinkyDude](https://www.nexusmods.com/cyberpunk2077/users/20892624)
-- [VeegeeAlvarez](https://www.nexusmods.com/cyberpunk2077/users/120233618)
-- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
+![](https://s5.gifyu.com/images/S8FWJ.png)                 [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)                                        [cubfan82](https://www.nexusmods.com/cyberpunk2077/users/48710108)                                      [Breezypunk](https://www.nexusmods.com/cyberpunk2077/users/136778058)                                   [VeegeeAlvarez](https://www.nexusmods.com/cyberpunk2077/users/120233618)
+
+![](https://s5.gifyu.com/images/S8FWO.png)                [PeachuHime](https://www.nexusmods.com/cyberpunk2077/users/109777063)                                              [Apzurv](https://www.nexusmods.com/cyberpunk2077/users/18222069)                                         [NolaDreamer](https://www.nexusmods.com/cyberpunk2077/users/103558203)                                    [PinkyDude](https://www.nexusmods.com/cyberpunk2077/users/20892624)
+
+![](https://s5.gifyu.com/images/S8Fck.png)                 [JohnsonsStuff](https://www.nexusmods.com/cyberpunk2077/users/49231818)                                   [AnruiMurasaki](https://www.nexusmods.com/cyberpunk2077/users/36190195)                                     [AlvarixPT](https://www.nexusmods.com/users/98058588)                                        [LxRHyst](https://www.nexusmods.com/users/114587558)
+
+![](https://s5.gifyu.com/images/S8Fcd.png)                 [spawn00000](https://www.nexusmods.com/users/2035415)                                          [xBaebsae](https://www.nexusmods.com/users/74174073)                                   [MONSTERaider](https://www.nexusmods.com/users/1630457)                                  [kweknexuss](https://www.nexusmods.com/cyberpunk2077/users/86973158)
+
+[](https://www.nexusmods.com/cyberpunk2077/users/86973158)
+
+![](https://s5.gifyu.com/images/S8VdN.png)             [AllKnowingLion](https://www.nexusmods.com/cyberpunk2077/users/82976428)                                      [manavortex](https://www.nexusmods.com/cyberpunk2077/users/1630319)                                     [ErenN77](https://www.nexusmods.com/cyberpunk2077/users/77358858)
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -1315,17 +1306,17 @@ https://www.youtube.com/watch?v=UkJLHFdlPhs
 - 30+ Hairstyles.
 - Vs hair has more shine.
 - More tattoos.
-- Enhanced body for Panam.
-- Enhanced body for Judy.
-- Enhanced body for Alt.
-- Enhanced body for Fem and Male V.
+- Enhanced 4k body for Panam.
+- Enhanced 4k body for Judy.
+- Enhanced 4k body for Alt.
+- Enhanced 4k body for Fem and Male V.
 </details>
 
 ***
 
-### Female V
+## Female V
 
-![img](https://i.imgur.com/vcDoyKS.png)[Enhanced Big Breasts - BODY MOD](https://www.nexusmods.com/cyberpunk2077/mods/4654?tab=description) (hyst) (BOOBA BOOTY) by [LxRHyst](https://www.nexusmods.com/users/114587558)&#x20;
+![](https://s5.gifyu.com/images/S8VdX.jpg)[Enhanced Big Breasts - BODY MOD](https://www.nexusmods.com/cyberpunk2077/mods/4654?tab=description) (EBB RB) by [LxRHyst](https://www.nexusmods.com/users/114587558)&#x20;
 
 ### Features
 
@@ -1335,9 +1326,9 @@ https://www.youtube.com/watch?v=UkJLHFdlPhs
 
 ***
 
-### **Male V**
+## **Male V**
 
-![](https://s11.gifyu.com/images/Screenshot-2023-04-23-215138.png)[-KS- ADONIS Male Body](https://www.nexusmods.com/cyberpunk2077/mods/4968) by [KnowSo](https://www.nexusmods.com/cyberpunk2077/users/137109313)&#x20;
+![](https://s6.gifyu.com/images/S8gko.png)[-KS- ADONIS Male Body](https://www.nexusmods.com/cyberpunk2077/mods/4968) by [KnowSo](https://www.nexusmods.com/cyberpunk2077/users/137109313)&#x20;
 
 ### Features
 

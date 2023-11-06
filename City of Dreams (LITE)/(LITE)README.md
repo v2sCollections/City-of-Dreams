@@ -2,15 +2,14 @@
 
 ### **Updated and compatible with Patch 2.02**
 
-![](https://s6.gifyu.com/images/S8v7F.gif)
-
-![](https://s11.gifyu.com/images/Border11.jpg)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://) (lite) Version for **Cyberpunk 2077**.
+![](https://s5.gifyu.com/images/S8Z9l.gif)\
+![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://) (lite) Version for **Cyberpunk 2077**.
 
 <details><summary>ABOUT ME</summary>
 Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Hogwarts](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Elden Ring](https://next.nexusmods.com/eldenring/collections/qpwypd?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/xZNztPjA2u) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
 </details>
 
-This isn't just a mod list I've slapped together this is the lite & SFW version of my main [cyberpunk 2077 collection](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection).
+This isn't just a mod list I've slapped together this is the lite version of my main [cyberpunk 2077 collection](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection).
 
 I hope you enjoy this collection and the game as much as I do. Time for me to delta but don't be a stranger join our community of edgerunners over on [Discord](https://discord.gg/v2-s-collections-1076179431195955290) see you there choom.
 
@@ -28,7 +27,7 @@ This collection is extensively tested with every new version that is released. I
 
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Cyberpunk 2077.
 - Easy to follow step-by-step installation guide.
-- Only-[8](https://)GB in download size for-[250](https://)+ mods.
+- Only-[10](https://)GB in download size for- [300](https://)+ mods.
 - Mods specifically created for the collection.
 - Support for other Modular Expansion Packs.
 - Setup Video-[HERE](https://)
@@ -58,7 +57,7 @@ C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 ### HOW TO UPDATE
 
 - **1**) Create a new Profile in Vortex and enable it.
-- **2**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/ayfbwl?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
+- **2**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
 - **3**) When prompted to select which profile to install to, select the new profile you created in Step **1**)
 - **4**) Once the update is downloaded you can remove the old profile. But ⛔**DO NOT** remove the archives.
 
@@ -74,12 +73,14 @@ C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 
 ## ![img](https://i.imgur.com/JyLQDVe.png)[READ](https://)
 
-- ⛔ It Is important that you**READ**the following Installation guide to fully understand everything clearly. It is a simple step-by-step guide.
+- ⛔ It Is important that you **READ** the following Installation guide to fully understand everything clearly. It is a simple step-by-step guide.
 
 ## [Install time](https://)
 
-**Premium Users**: Takes  20 mins + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
-**Free Users:** Takes 40 mins + Semi-automatic. You will have to click on download for each mod one by one.
+This is a large collection I highly recommend purchasing a Nexus premium account even just for 1 month to install the collection it will make installation much easier. You can just cancel the subscription after the installation if you wish.
+
+**Premium Users**: Takes 30 Mins + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
+**Free Users:** Takes 1 hour + Semi-automatic. You will have to click on download for each mod one by one. **(I recommend you don't attempt this)**
 
 ***
 
@@ -89,7 +90,7 @@ https://www.youtube.com/watch?v=sn-Ju\_OWP\_8
 
 ## [PC  Updates](https://)
 
-- ⛔ Make sure that you have the latest version of Microsoft visual studio C++ >[HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+- ⛔ Make sure that you have the latest version of Microsoft Visual Studio C++ >[HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 - ⛔ Make sure that you have the latest Desktop Runtime >[HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
 - ⛔ Make sure that you have the latest Graphics driver update.
 
@@ -111,7 +112,8 @@ GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk 2077\archive\pc\mod
 Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 ```
 
-**5**) ⛔ Launch Cyberpunk 2077 and go to the settings menu and on the gameplay, tab turn off "Enable Analytics" and "Enable cross-platform Saves"
+**5**) ⛔ Launch Cyberpunk 2077 and go into the settings menu and in the gameplay tab turn off both of the following options "Enable Analytics"
+"Enable cross-platform Saves"
 
 ![](https://s12.gifyu.com/images/SWeJF.png)
 
@@ -119,7 +121,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 ## [Vortex](https://)
 
-**1**) You will need [Vortex](https://www.nexusmods.com/site/mods/1) mod manager downloaded and installed you can find it from the link below. If you already have Vortex skip this step.
+**1**) You will need [Vortex](https://www.nexusmods.com/site/mods/1) mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
 
 [![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1 "Vortex page")
 
@@ -131,7 +133,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 ![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)**2**) On the next screen scroll down to the **"Cyberpunk 2077"** icon and click on **"Manage".**
 
-![](https://s12.gifyu.com/images/Untitled99ac613c165d0e14.jpg)**3**) On the popup that appears click on **"Download"** on the bottom right, vortex will restart.
+![](https://s12.gifyu.com/images/Untitled99ac613c165d0e14.jpg)**3**) On the popup that appears click on **"Download"** on the bottom right, and Vortex will restart.
 
 **4**) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
 
@@ -147,7 +149,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ![](https://s12.gifyu.com/images/Redmod-Missing.jpg)**7**) On your main Vortex window, it will now show an icon for **"Cyberpunk 2077"** showing that it is a managed game in Vortex.
 
-**8**) Go to the settings and on the mods tab check "automatically use suggested path for staging folder" then check "**suggest and "apply".**
+**8**) Go to the settings and on the Mods tab check **"automatically use suggested path for staging folder"** then check "**suggest and "apply".**
 
 **9**) On the same window select "hard link deployment" and check "apply".
 
@@ -158,8 +160,6 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 ## [Disabling REDmod Autoconversion](https://)
 
 **1**) ⛔ While still in settings go to the "V2077 Settings" tab and make sure that REDmod Autoconvert is disabled as shown in the picture below.
-
-![](https://s11.gifyu.com/images/Untitle44d.jpg)
 
 ***
 
@@ -177,12 +177,12 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 **1**) These may pop up in Vortex as you are downloading the collection.
 
-- When you see a pop-up titled "Mod contains protected paths" select "Yes install to staging anyway"
-- When you see a pop-up titled "You have reached the fallback installer"**select**"Yes install to staging anyway"
-- When you see a pop-up titled "not an archive"**select**" create mod".
+- When you see a pop-up titled **"Mod contains protected paths"** select **"Yes install to staging anyway"**
+- When you see a pop-up titled **"You have reached the fallback installer"** select "Yes install to staging anyway"
+- When you see a pop-up titled **"not an archive" **select** "create mod"**.
 - When you see a pop-up titled "**Mod installed but may need manual adjustment**" select "**Understood**".
 - When you see a pop-up titled "**Error**" select "**close**"
-- Throughout the installation process, you will have some "installer" popups so that you can customize some mods to your liking.
+- Throughout the installation process, you will have some **"installer"** popups so that you can customize some mods to your liking.
 
 ***
 
@@ -190,9 +190,11 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 \***Note** If you don't want the optional mods skip this step.
 
-**1**) Select "show"  optional mods then select "no thanks"
+**1**) Select **"show"** optional mods then select **"no thanks"**
 
 ![](https://s11.gifyu.com/images/Optinal.jpg)Now you can choose which ***(OPTIONAL)***  mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(make sure to read these messages)**.
+
+⛔ All ***(OPTIONAL)***  mods will be enabled automatically if you choose to install **"all optional mods" If** you do choose to install all then you will have to manually disable the ones you don't want.
 
 ***
 
@@ -299,6 +301,13 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 
 ![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
 
+### HUDITOR ADJUST HUD
+
+- SHIFT (hold) U> Activate Hud Editor
+- Left Arrow @ Right Arrow> Next Widget
+
+![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+
 ### CPAH
 
 - CONTROLL+SHIFT+H>Analysis
@@ -306,6 +315,10 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 
 ![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
 </details>
+
+**3**) ⛔ On the main menu go to the graphics tab and you will find "texture quality"  Set this to "HIGH".
+
+![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)**4**) If you installed the **(OPTIONAL)** "HUDitor" mod then once in the game hold SHIFT and press U to customize the HUD settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
 
 ***
 
@@ -330,13 +343,13 @@ GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk2077.exe
 Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe  
 ```
 
-**4**) Select Directx 10/11/12
+**3**) Select Directx 10/11/12
 
-**5**) On the **"select preset to install"** select next
+**4**) On the **"select preset to install"** select next
 
-**6**) Select next and finish the installation.
+**5**) Select next and finish the installation.
 
-**7**) Run the game
+Run the game
 
 I have added the Reshade below.
 
@@ -354,26 +367,37 @@ I have added the Reshade below.
 
 **⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Cyberpunk2077, or the collection when you see errors on Vortex.
 
-You can find the full Troubleshooting list on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting/FAQ](https://github.com/2077v2/City-of-Dreams/blob/main/Troubleshooting%20FAQ.md)&#x20;
+You can find the full Troubleshooting list on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting/FAQ](https://github.com/MRGHIA88V2/City-of-Dreams/blob/main/Troubleshooting%20FAQ.md)&#x20;
 
 You can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md)
 
 ## FAQ
 
 <details><summary>CLICK HERE FOR COMMON FAQs</summary>
-## [My game crashes at the "breaching screen" ](https://)❓
+## [My game crashes at the "breaching screen"](https://) ❓
 
 You need to disable "Analytics"
 
 1. Purge the mods in Vortex
-2. Launch the game&#x20;
-3. Go to the settings menu and on the gameplay tab disable Analytics.
-4. Deploy the mods in Vortex
-5. Launch the game.
 
-## [I can't exit out of the Settings Menu and other Menus❓](https://)
+![](https://s11.gifyu.com/images/Sg8LQ.jpg)2. Launch the game&#x20;
 
-At this stage, it seems that this bug is baked into older saves. You will need to start a fresh save.
+3\. Go to the settings menu and on the gameplay tab disable Analytics.
+
+![](https://s11.gifyu.com/images/Sg8LW.jpg)4. Deploy the mods in Vortex
+
+5\. Launch the game.
+
+***
+
+## [My Game is crashing after leaving my gun in the Delamain❓](https://)
+
+1. Open Vortex
+2. Purge The Mods.
+3. Disable Cyber Engine Tweaks (CET).
+4. Deploy The Mods.
+5. Launch the game and finish the quest.
+6. Save the game exit and Enable Cyber Engine Tweaks (CET)
 
 ## [My game is crashing on startup?](https://) or [My game won't launch after Collection Update ](https://)❓
 
@@ -413,8 +437,6 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 3. Launch the game and see if the problem is resolved.
 </details>
 
-##
-
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 ![img](https://i.imgur.com/u4G5pz5.png)
@@ -439,7 +461,38 @@ You can check out the gallery at the top of this page for videos by some of the 
 
 ## ![](https://s11.gifyu.com/images/Diffuculty.png)
 
-> [Most mods have in-game settings so you can set the difficulties as you wish for an easier or more challenging experience.](https://)
+> Most mods have in-game settings so you can set the difficulties as you wish for an easier or more challenging experience.
+
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
+
+![](https://s11.gifyu.com/images/Untitled18244ce047bd870e.png)
+
+### Features
+
+> Below are some Edgerunner mods some are optional you can enable them if you want the full Edgerunner Theme.
+>
+> You can find these items in the Dedicated [City of Dreams Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/8344).
+
+<details><summary>CLICK HERE TO SEE WHAT EDGERUNNER MODS COME WITH THE COLLECTION</summary>
+- [Edgerunners Posters](https://www.nexusmods.com/cyberpunk2077/mods/5203)***(OPTIONAL)***
+- [Edgerunner 2077](https://)***(OPTIONAL)***
+- [Lucy - Edgerunners Sky Ad](https://www.nexusmods.com/cyberpunk2077/mods/5201?tab=description)***(OPTIONAL)***
+- [Lucy Edgerunners Suit Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/5273)
+- [LUCY - LAST LINE](https://www.nexusmods.com/cyberpunk2077/mods/8403?tab=description)
+- [Edgerunners Lucy NPC - Spawns in Night City plus AMM and Nibbles Replacer](https://www.nexusmods.com/cyberpunk2077/mods/9812?tab=description)
+- [Edgerunners Loading Screen Pack.](https://)***(OPTIONAL)***
+- [Edgerunners- Rebecca's hairstyle haircolor](https://www.nexusmods.com/cyberpunk2077/mods/5418?tab=description)***(OPTIONAL)***
+- [Edgerunners- Rebecca's face cyberware](https://www.nexusmods.com/cyberpunk2077/mods/5524?tab=description)***(OPTIONAL)***
+- [Edgerunners- David's Hairstyle](https://www.nexusmods.com/cyberpunk2077/mods/5311)***(OPTIONAL)***
+- [David Martinez Jacket Refited for Hyst Bodies mods](https://www.nexusmods.com/cyberpunk2077/mods/5155)
+- [David Martinez Pants](https://www.nexusmods.com/cyberpunk2077/mods/6984?tab=description)
+- [Edgerunners Location Additions](https://www.nexusmods.com/cyberpunk2077/mods/5428)
+- [Prime Edgerunners Station - RadioEXT](https://www.nexusmods.com/cyberpunk2077/mods/7614)
+- [QHD Edgerunner Braindance](https://www.nexusmods.com/cyberpunk2077/mods/8122)
+- [V's Edgerunners Mansion - Apartment DLC](https://www.nexusmods.com/cyberpunk2077/mods/5437)
+</details>
+
+![](https://s12.gifyu.com/images/Untitedgrled.jpg)
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -448,24 +501,37 @@ You can check out the gallery at the top of this page for videos by some of the 
 > Many fixes to vanilla game bugs.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
-- &#x20;Fixes damage output of guns when using attachments.
+- Fixes damage output of guns when using attachments.
 - Fixes Optical Camo bugs.
 - Fixes all UI elements that get stuck on the screen.
-- Fixes missing crucial clue audio playback in (The Hunt quest).
+- Fixes River's dialogue in Holo calls it now actually plays the same as talking to him in person.
+- Fixes Kerry's holo call Greeting/Farewell now plays properly.
 - Fixes mitches jacket with one that fits correctly.
 - Fixes sleeves automatically rolling up for long-sleeved clothes when the first-person perspective camera is active.
 - Fixes the dark box shadows cast by holo text screens using ray/path tracing.
 - Fixes textures on Dino Dinovic's chest tattoo.
 - Fixes disable the hiding, of the Stamina bar.
 - Fixes the issue where the slowest cars had the harshest delivery timers for Muammar's repeatable courier missions.
+- Fixes a bug introduced in patch 2.01 that prevents 16 of the skill progression rewards from applying when loading a save made with patch 2.01.
+- Fixes a bug when Alcohol is consumed, other buffs can be removed (effect actually removed from the player). Specifically the new bonuses from sleeping and showering.
+- Fixes a bug that happens when consuming a Perk or Skill Shard removes a sleeping or showering buff.
+- Fixes a bug that with the time label the buff bar only appears when it has more than 30 seconds left in duration. It only checks seconds though, so buffs with more than one minute show the duration from X:59 to X:31 and then disappear from X:30 to X:00. Reappearing and disappearing every 30 seconds.
+- The fractional part of Buff/Debuff remaining time in the weapon wheel is incorrect between X.01 and X.09 because it is displayed without the leading zero. (e.g. it displays "17.11", "17.10", "17.9", "17.8", etc.)
+- Fixes a bug when loading a save and the player has buffs/debuffs in effect, the gradual fill-in visual effect (in the weapon wheel view) uses the time remaining at load time instead of the max duration of the buff as the denominator when calculating what percent of the icon to fill for the effect.
+- Fixes the remaining time displayed on buffs and debuffs next to the health bar and in the weapon wheel which is offset by 15, 30, or 45 minutes (when over a minute long) IF your computer time zone is not a whole number of hours offset from UTC. ***REALLY!*** If you set your time zone to UTC +12:45 (Chatham Islands), the times will be offset by 45 minutes.
+- Fixes a bug when you use a Max Doc (inhaler), the icon that appears (for 0.1s) at the top of the screen is wrong. It is usually a duplicate of another recently used icon.
+- Fixes Epic Fortified Ankles shows a buff in the status bar while you're hovering, and it was referencing an icon that doesn't exist so it would also show a duplicate of another recently used icon. Fixed to use the "generic buff icon", which actually kind of fits for the hover buff (forward arrows).
 - Fixes the armor tooltip in the Cyberware/Ripperdoc menu to be factually correct and show your actual current damage reduction from armor rather than a theoretical maximum.
+- Fixes the name of the Encrypted shards group.
 </details>
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## ![](https://s11.gifyu.com/images/Graphics.png)Features
 
-> The collection comes with improvements to the graphics  with custom textures. And if this isnt enough you can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp)\*\* \*\*(This is for high-end systems only 16 GB Vram+)
+> The collection comes with many improvements to the graphics from upscaled textures to custom textures and our own reshade cyberpunk has never looked better. And if this isnt enough you can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) ⛔(This is for high-end systems only [16](https://) GB Vram+)
+>
+> ⛔ Note that some of these will eat your VRAM I recommend a minimum [12](https://) GB GPU. If you notice stuttering or any texture issues then disable a few of the ([2k Mods](https://)) in Vortex.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - Reshade included.
@@ -473,42 +539,44 @@ You can check out the gallery at the top of this page for videos by some of the 
 - Unlocked FOV.
 - Remove the Crouch vignette effect.
 - You will no longer see distant 2D cars.
+- 100+ Loading Screens added to the game.
+- Clean Loading Screens.
 - Limited dynamic hud elements.
 - No Camera auto-centering.
-</details>
 
-<details><summary>CLICK HERE TO SEE WHAT GRAPHICS MODS COME WITH THE COLLECTION</summary>
-> [Upscaled Textures Include](https://)
+### [Upscaled Videos Include](https://)
 
-- Every NPC
+- UHD Main Menu Splash Screens.
+- UHD Character Selection Screen.
+- UHD Splash Screen.
+- QHD Intro.
+- QHD Edgerunner Braindance.
+- Clean Loading Screens
+
+### [Upscaled Textures Include](https://)
+
+- Most NPCs
 - Tattoos
 - World Map.
+- World Containers.
+- Food and Drinks.
 - Graffiti
 - Cyberware
 - Poster and Signs.
 - Vending Machines.
-- Bricks.
-- Concrete.
-- Rocks.
-- Paint.
-- Asphalt.
-- Grass.
-- Gravel.
-- Metal.
-- Plaster.
-- Mud and Dirt.
-- Tiles.
-- Water.
-- Food.
 </details>
 
-⛔ Note that some of these will eat your VRAM I recommend a minimum 8 GB GPU but even then depending on your settings vanilla cyberpunk will eat 8 GB. If you notice stuttering or any texture issues then disable a few of the (surface mods) in Vortex.
+### A message from [XilaMonstrr](https://www.nexusmods.com/starfield/users/126616023)
+
+<details><summary>ABOUT ME</summary>
+I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=user+files), nearly all texture optimization or upscaling for Skyrim and Cyberpunk 2077, including [Performance Optimized Textures for all of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/68055). My work has been featured in a number of gaming magazines over the past two years. You can find me in [v2's discord here](https://discord.gg/v2-s-collections-1076179431195955290).
+</details>
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## ![](https://s11.gifyu.com/images/Gameplay.png)Features
 
-> The collection comes with many improvements and adjustments to the core gameplay of cyberpunk. This will suit all playstyles wether you want to cruise your way through the game and you want a hardcore experiance.
+> The collection comes with many improvements and adjustments to the core gameplay of cyberpunk. This will suit all playstyles wether you want to cruise your way through the game or you want a hardcore experiance the collection has it all.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - V now has a jetpack.
@@ -521,14 +589,48 @@ You can check out the gallery at the top of this page for videos by some of the 
 
 ***
 
+## TANSTAAFL (OPTIONAL)
+
+![](https://s6.gifyu.com/images/S8uM7.jpg)[TANSTAAFL](https://www.nexusmods.com/cyberpunk2077/mods/10039) by [r457](https://www.nexusmods.com/cyberpunk2077/users/164673548) & gh057
+
+### Features
+
+> Part 1 introduces the Vehicle Insurance systems into the game. Part 2 introduces the Life Insurance systems into the game.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+### Vehicle Insurance system rules:
+
+- Fast Travel is a paid service. No money - no travel.
+- Vehicle summoning and repair are paid services: no money - no cars; and if you get in debt with the system, they will deny you access to your vehicles until you repay your debts.
+- You are charged for traffic accidents depending on which car you hit.
+- An important difference from other similar mods - those are not flat numbers, prices are calculated based on fast travel distance, vehicle price, and your possible discounts. It’s on you to decide whether or not you want to risk your fancy car or grab an old rusty one depending on the potential dangers you might face.
+- Another important difference of this mod: you gain access to the Vehicle Insurance website through your home PC where you can buy different subscription packages to have a discount on all the vehicle-related services. Those aren’t cheap, but without those discounts prices are biting!
+- In the works: more means to get data on your current subscription state (phone messages).
+
+### Life Insurance system rules:
+
+- The mod is activated when you sleep in your bed for the first time, so you can start a new playthrough with it - you will have normal saves and checkpoints during the tutorial.
+- When the system is active, you can no longer save at will - manual saves are only available when you are in the vicinity of your home bed (seeing the “go to sleep” dialog line).
+- Sleeping creates an auto-save point and updates your last home location for the Trauma Team.
+- You can buy a Life Insurance subscription at your home PC which gives you X amount of paid resurrections and Y amount of emergency beacons.
+- You can place an emergency beacon to create a temporary revival point - this point is reset after you sleep in your bed.
+- If you die during an open-world sequence you will be revived at the last beacon or home position.
+- If you don’t have enough money to pay for revival or your subscription has expired, you will be revived at Trauma Team Medical Center and you will lose a substantial amount of money.
+- If you die during a restrictive quest sequence, you will only be revived if you have an active emergency beacon placed. Otherwise, you will need to reload your last save.
+</details>
+
+**NOTE** This is for Hardcore Chooms only.
+
+***
+
 ## City of Dreams 97.7 FM
 
 ![](https://s11.gifyu.com/images/SgB8o.png)[City of Dreams 97.7 FM](https://www.nexusmods.com/cyberpunk2077/mods/9053)  by [2077v2](https://www.nexusmods.com/cyberpunk2077/users/123334373)
 
-### &#x20;Features
+## &#x20;Features
 
-> An in game Radio Station that you can use in Vehicles and In world Radios.&#x20;
-> \*NOTE You will need the Music Tracks You can get them on our [DISCORD](https://discord.gg/xZNztPjA2u)
+> An in game Radio Station that you can use in Vehicles and In world Radios. \
+> **\*NOTE** You will need the Music Tracks You can get them on our [DISCORD](https://discord.gg/xZNztPjA2u)
 
 <details><summary>CLICK HERE TO SEE OUR MUSIC SELECTION</summary>
 ### **Albums**
@@ -555,7 +657,7 @@ You can check out the gallery at the top of this page for videos by some of the 
 
 ***
 
-### Lifepath Bonuses and Gang Corp Traits
+## Lifepath Bonuses and Gang Corp Traits
 
 ![](https://s6.gifyu.com/images/S6IO8.jpg) [Lifepath Bonuses and Gang Corp Traits](https://www.nexusmods.com/cyberpunk2077/mods/2217) by [rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803).
 
@@ -611,7 +713,7 @@ You can check out the gallery at the top of this page for videos by some of the 
 **Valentinos**\\
 
 - **Reflex Boosters:** Resistant to Critical Hits (0.25x)
-- **Armour Piercing Rounds:** Ignore 50% of player armour
+- **Armour Piercing Rounds:** Ignore 50% of player's armour
 - **Projected Simulacrum:** Immune to Homing Grenades
 - **Synth-adrenaline:** Immune to Bleeding
 - **Polarized skin plating:** Resistant to Tech damage (0.5x)
@@ -666,31 +768,29 @@ You can check out the gallery at the top of this page for videos by some of the 
 - **Tech Nullifying Weave:** Resistant to Tech damage (0.5x)
 </details>
 
-###
-
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## ![](https://s12.gifyu.com/images/Quality-of-life.png)Features
 
 > The collection comes with many quality of life improvements from the small things that annoy you to the entire user interface of cyberpunk 2077.
 
-<details><summary>CLICK FOR MORE DETAILS</summary>
+<details><summary>View content</summary>
 - The vehicle first person camera is now adjustable.
 - Hide shards you have already read.
 - Stops V from moving on the character creation screen.
 - Cleans up the green color from the quick hack screen.
 - Remove quest tags from equipped items so they can be dismantled and sold.
-- Unequip all equipped items (armor, weapons, and cyberware).
+- Unequip all equipped items (armour, weapons and cyberware).
 - See what attribute level you needed for conversation skill checks that you passed.
-- Improved mini map zoom allows the map to dynamically zoom in and out depending on what areas you are in or if you are in the combat state.
 - Item sliders are set to the max by default for Drop, Stash, and Sell actions.
-- You can now craft items while in combat.
-- You can tweak some of the interaction and loot marker visibility behavior.
+- Extends default crafting capabilities allowing you to choose clothes and weapons skins, plus weapons damage type and name while crafting.
 - You can mark any item in your inventory as Junk so you will be able to sell all marked items at once using the vendor "Sell Junk" option.
 - You can search your inventory for shards, quests, and messages.
 - Increases time spans between sickness effects applied to V by The Relic.
-- Additional loot markers on looting containers that show which types of loot are in them.
 - Reduces the time taken to pass through the Dogtown vehicle checkpoints by roughly 66%.
+- New transmog system with 30+ clothing slots
+- Allows you to manage an unlimited amount of outfits with your names
+- Converts your existing wardrobe sets to a new system at a first launch
 </details>
 
 ***
@@ -702,7 +802,7 @@ You can check out the gallery at the top of this page for videos by some of the 
 > Many diffrent improvements to the UI click below to see all the changes.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
-&#x20;Limited HUD
+### &#x20;Limited HUD
 
 - Hides main HUD widgets by default and shows them only on certain events (configurable). Adds in-game widget toggle hotkeys and a bunch of optional files to tweak different HUD elements.
 - **Journal Notifications Widgets**: tweaks widget size and opacity for all kinds of journal and quest notifications, removes notification appearing sound as well (configurable)
@@ -710,34 +810,32 @@ You can check out the gallery at the top of this page for videos by some of the 
 - **Notification Sounds**: muting some in-game notifications
 - **Hide Interaction Prompts**: options to hide some basic interaction prompts
 - **Widgets Remover**: a few options to hide some UI widgets
-- **Dialog Widget Resizer**: allows to scale dialog widget size, by default scale value is set to 1.0 so tweak it as you like
+- **Dialogue Widget Resizer**: allows to scale dialogue widget size, by default scale value is set to 1.0 so tweak it as you like
 - **Fix Evolution Icons**: fixes wrong icons for Power and Tech weapons used in info popups
 - **No Marker Pulse**: disables pulse animation for tracked markers
 - **Enemy Highlighting**: if enabled then the enemy highlight effect will be visible only for non-friendly NPCs under the Ping effect
-- **Objects Coloring:** allows to change or remove fill and outline glow coloring for different object categories (friendly and hostile NPCs, hackable devices, distractions, etc.)
+- **Objects Coloring:** allows to change or remove fill and outline glow colouring for different object categories (friendly and hostile NPCs, hackable devices, distractions etc.)
 
-Inventory
+HUDitor allows players to move & resize some of the main widgets on the screen.
+
+### Inventory
 
 - Iconic Items cannot be disassembled.
 - Category filters for your storage items list.
 - Smaller Arrows.
 
-Journal
+### Journal
 
 - Sort Quests dynamically by timestamp/name/difficulty.
 - Sort Messages dynamically by timestamp/name.
 - Sort Shards dynamically by timestamp/name.
 
-Dialer Menu
+### Dialer Menu
 
 - Contacts sorted by name
-- Always shows contacts that are Quest Related or have unread messages first.
+- Always shows contacts that are Quest-related or have unread messages first.
 
-Shards
-
-- Fixed the name of the Encrypted shards group.
-
-Vendors
+### Vendors
 
 - Fast Buy & Sell - Allows you to buy and sell entire items stacks without any additional dialogues - Uses the Activate Secondary keybinding\*\*(defaults to Right Mouse Button)\*\*.
 - Quantity pickers are now limited to the player's/vendors' total money.
@@ -745,46 +843,129 @@ Vendors
 - Iconic Items cannot be sold.
 - The Ripperdoc vendor screen only shows the number of unowned mods per body category.
 
-Saves
+### Saves
 
 - You can now filter your saved games by life path.
 
-Mods
+### Mods
 
 - Other mods add their own page and add settings widgets to the newly added "Mods" settings menu.
 - Mod setting tab in the main menu.
 
-UI Colours
+### UI Colours
 
 - Different UI Colour combinations to choose from.
+
+### Loot
+
+- You can tweak some of the interaction and loot marker visibility behavior.
+- Adds additional loot markers on looting containers that show which types of loot are in it.
 </details>
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ## ![](https://s12.gifyu.com/images/Cheats.png)Features
 
-> A few in-game cheat menus allow for full customization of the following gameplay elements.
+> In-game cheat menu allows for full customization of the following gameplay elements.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
-- Refill Ammo: manual or automatic.
-- Add Money, Consumables, and Materials to Convert Drinks and Food.
-- Disassemble and Sell Items.
-- Upgrade equipped items and mods in your inventory to Uncommon, Rare, Epic or Legendary.
-- Max out your Level, Street Cred, and Attributes.
-- Reset all Attributes, Perks, and Skills.
-- God Mode and Infinite Stamina.
-- Change Attributes.
-- Change Experience and Levels.
-- Alter Other Stats (temporary) Armor, Carry Capacity, Crit Chance and Damage, Health, etc.
-- Add or remove perks.
-- Unlock Achievements.
-- Kill NPCs.
-- Time Manipulation: Set Game Time, Freeze Time (time of day), and Slow Motion.
-- Quest Manipulation: End Quest, Untrack Active Quest and change quest and romance facts.
-- Teleport Features: Save current position and teleport back to a saved location, Custom Teleport Locations.
-- Upgrade your clothing mods, weapon mods, quick hacks, cyberware mods
-- In the game menu to configure multipliers for all XP types.
-- Unlock Vehicles and Instant Vehicle Spawn.
+- Unlock Achievements(currently unavailable until updated)
+- Kill NPCs
+- Police System options: Toggle police and set custom Wanted level
+- Time Manipulation: Set Game Time, Freeze Time (time of day) and Slow Motion(vastly extended and improved with v49)
+- Quest Manipulation: End Quest, Untrack Active Quest and change quest and romance facts
+- Teleport Features: Save current position and teleport back to saved location, Custom Teleport Locations
+- Vehicle Features: Unlock Vehicles and Instant Vehicle Spawn
+- NEW (v49)- Breach Protocol Options: No time limit, set time limit, tweak variables, and more.
+
+To see more read the simple menu details.
+</details>
+
+***
+
+### Simple Menu
+
+![](https://s6.gifyu.com/images/S8kV5.png)[Simple Menu](https://www.nexusmods.com/cyberpunk2077/mods/818) by [DankRafft](https://www.nexusmods.com/cyberpunk2077/users/2547580)
+
+### Features
+
+> A user interface that provides gameplay, cheat and utility features to be executed by a press of a button. Also includes hotkey functionality.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+### &#x20;**Config Tab**
+
+- Control several aspects of the mod's functionality and interface
+- Toggle visibility of categories
+- Detailing mod status and listing user variables
+- NEW (v47)- Language selection drop-down, 5 machine-translations optionally downloadable, more on that below
+- NEW (v49)- set custom indexing parameters for the Search function
+- NEW (v49)- toggle notifications (e.g. for hotkeys)
+
+### **Items Tab**
+
+- Refill Ammo: manual or automatic
+- Infinite Ammo (No reload)
+- Weapon modifiers such as Super Zoom, Super Reload, No Recoil, and more
+- Add Money, Consumables, and Materials
+- Convert Drinks and Food(currently unavailable until updated)
+- Disassemble and Sell Items(currently unavailable until updated)
+- Upgrade equipped items and mods in your inventory to Uncommon, Rare, Epic or Legendary
+- Unequip all equipped items (armor, weapons, and cyberware)
+- Remove quest tags from equipped items so that they can be dismantled and sold
+
+### **Player Tab**
+
+- Max out your Level, Street Cred, and Attributes
+- Add all perks with the click of a button
+- Add or remove perks
+- Reset all Attributes, Perks, and Skills
+- Change Attributes
+- Change Experience and Levels
+- Alter Other Stats (temporary): Armor, Carry Capacity, Crit Chance and Damage, Health, etc.
+- God Mode, Infinite Stamina, Infinite Oxygen
+- NEW (v49)- Invisibility/Passive Mode
+
+### **Misc Tab**
+
+- Unlock Achievements(currently unavailable until updated)
+- Kill NPCs
+- Police System options: Toggle police and set custom Wanted level
+- Time Manipulation: Set Game Time, Freeze Time (time of day), and Slow Motion(vastly extended and improved with v49)
+- Quest Manipulation: End Quest, Untrack Active Quest and change quest and romance facts
+- Teleport Features: Save your current position and teleport back to a saved location, Custom Teleport Locations
+- Vehicle Features: Unlock Vehicles and Instant Vehicle Spawn
+- NEW (v49)- Breach Protocol Options: No time limit, set time limit, tweak variables, and more.
+
+### **Search Tab** (Alpha, since v46)
+
+- Search for game items by name, type, or category
+- Add to inventory, with the option to choose an amount, quality, and whether to force maximum mod slots
+- All stats are updated live, including extended stat descriptions, and where relevant will update based on your player character as well
+- Currently includes Weapons, Items, Consumables and Grenades.
+- Every effort has been made to filter out useless (broken, partially implemented, etc) items, but some may still exist (they shouldn't break anything too badly, mostly they just don't work)
+- This will also index and make searchable mod items, though not all will appear for various reasons (incomplete TweakDB entries, for example)
+
+### \*\*HOTKEY FUNCTIONS \*\*
+
+- Refill Ammo: manual or automatic
+- Weapon modifiers
+- Convert Drinks and Food (defaults to Water and Cat Food)
+- Sell Consumables
+- Sell Grenades
+- Sell Junk
+- Toggle God Mode
+- Toggle Infinite Oxygen
+- Toggle Infinite Stamina
+- Kills NPCs
+- Police System
+- Freeze Time (time of day)
+- Slow Motion
+- Untrack active quest
+- Save the current position and teleport back to a saved location
+- Teleport to V's Apartment
+- Teleport to V's Mansion
+- Teleport to Viktor's Clinic
+- Toggle Vehicle Instant Spawn
 </details>
 
 ***
@@ -806,31 +987,33 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 - Save and load presets for your character's appearance.
 - Edit the quantity, flags, stats & mod tree of items in your inventory.
 - Edit quest facts.
-- Quick actions - dedicated controls for common actions such as making items legendary & editing money.
+- Quick actions - dedicated controls for common actions such as making items legendary & editing money.
 </details>
+
+###
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s12.gifyu.com/images/IMMERSION.png)Features
+## ![](https://s12.gifyu.com/images/IMMERSION.png)
 
-> Many immersive features added to the game. From NPC engagement to many new actions for V.
+## Features
 
-<details><summary>CLICK FOR MORE DETAILS</summary>
-- &#x20;Adds the animation you see when you first pick up a weapon, configurable in the game.
-- Virtual Atelier adds an in-game store you can access from any computer in the game to buy weapons,cyberwar, clothes, drugs, vehicles, and more.
-- In-game torch.
+> 100s of immersive features added to the game. From NPC engagement to many new actions for V.
+
+<details><summary>CLICK FOR DETAILS</summary>
+- Adds the animation you see when you first pick up a weapon, configurable in the game.
+- Adds the ability to watch TV anywhere, after completing a tiny collection quest.
+- Adds an In-game torch.
+- Adds real names to all vendors.
+- Adds expression and pose packs for photo mode.
+- Adds a fully useable stock market system that dynamically reacts to quests and player action.
+- Adds a Virtual Atelier an in-game store you can access from any computer in the game to buy weapons,cyberwar, clothes, drugs, vehicles, and more.
 - Game time tweaks to make days and nights twice as long.
-- Vendors now show their real names.
-- Improved radio lets you skip songs add songs and remove songs you don't want out of the playlists.
+- Allows full control over the in-game radio. Features include disabling individual songs on each radio station, skipping the current song and creating custom playlists of songs from any station that can be shuffled and saved.
 - Immersive time skip allows you to still see the world around you when you skip time.
 - The weather has been completely rebalanced you will see more changes in weather.
 - NPCs will now casually interact with you as you walk near them.
-- Fully useable stock market system that dynamically reacts to quests and player action.
 - Better viewing angles when in first person.
-- No more crowd panic from using computers, doors, access points, etc.
-- No more crowd panic caused by stealth grab takedowns or body pickups.
-- V can now press the aim button to walk without zooming in.
-- V can now purchase all the popular drugs in Night City.
 - V can now pay off NCPD to get rid of your crime status.
 - V can now have drinks at bars around Night City.
 - V can now eat at food vendors around Night City.
@@ -841,6 +1024,106 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 - V can now trade with street vendors.
 - V can play the arcade machines.
 - V can now smoke, drink, and eat while standing idle anywhere.
+</details>
+
+### **NPC Specific Immersion**
+
+## Features
+
+> Many new immersion features for your Favourite NPCs. Enhanced romances, Replay Romances, Bug Fixes and much much more.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+### &#x20;**Judy**
+
+> When you visit Judy she will be more active.
+
+- She hangs out in her kitchen.
+- She eats in her kitchen.
+- She showers.
+- She sleeps in her bed at night.
+- V can control the Radio, Bedroom TV, Kitchen TV, and Bathroom TV in Judy's apartment.
+- Choose from 50 different outfits for Judy.
+- Judy will now stay at V's H10 apartment sometimes if V romanced her.
+
+### **Kerrie**
+
+> When you visit Kerrie he will be more active.
+
+- He drinks near his bar and eats in front of his car.
+- He showers (if you are in a relationship).
+- He smokes in his bathroom (only after showering).
+- He plays the guitar (either in his bedroom or on the sofa).
+- He lounges on the sofa (like his base game behavior).
+- He sleeps in his bed at night (without having to wait for the player to use the bed).
+- V can chat with him at any of the activities.
+- V can hug him at any activity where he is not holding a guitar (only if in a relationship).
+- V can request a number of songs when he is holding his guitar.
+- Kerry will now stay at V's H10 apartment sometimes if V romanced him.
+
+### **Panam**
+
+> When you visit Panam she will be more active.
+
+- She drinks at the bar.
+- She eats takeout near the tables.
+- She showers.
+- She plays on her phone (she also does this after using the shower).
+- She sleeps in her bed at night (without having to wait for the player to use the bed).
+- She now sends you more messages.
+- V can chat with her or hug her during any of the activities (except sleeping or showering).
+- V can kiss her during any of the activities (except sleeping or showering).
+- Panam will now stay at V's H10 apartment sometimes if V romanced her.
+
+### **River**
+
+> When you visit River he will be more active.
+
+- He Drinks by the door.
+- He Eats in the kitchen.
+- He Showers (if you romanced him, but no one-night-stand).
+- He Works out at the punching bag.
+- He Sleeps in his bed at night (without having to wait for the player to use the bed).
+- V can chat with him at any of the activities (except sleeping or showering).
+- V can hug, and kiss, him at any of these activities if romanced (but not one-night-stand, sleeping or showering).
+- Joss' kids now actually sleep, but they also play both in their bedroom and in the main hall.
+- Both kids and River will now greet V (River's greeting is bugged in the base game).
+- There is now a radio in the main hall/room of the trailer, it just adds the option for a little ambient music in the otherwise dead trailer.
+
+### Rita&#x20;
+
+> Adds
+
+- Adds a small new "romance" (hookup) with Rita Wheeler, the Mox bouncer.
+
+### Jesse Cox
+
+> Adds
+
+- Adds in a "romance" scene with Flaming Crotch Man (Jesse Cox) after he gets a new (legit) Mr Stud
+</details>
+
+***
+
+### Appearance Menu Mod
+
+https://www.youtube.com/watch?v=9DXBti-c6C0
+
+[Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790) by [MaximiliumM](https://www.nexusmods.com/cyberpunk2077/users/1677940).&#x20;
+
+### Features
+
+> Allows you to change and save NPC outfits by picking from a list and that is how this mod started but it has evolved into much, much more. You can now spawn NPC companions, and vehicles, select appearances for all player vehicles and have the ability to make your companions hostile. You can basically have your own boss fights whenever you like! Or you can ask them to drive you around the city when you're tired of being behind the wheel.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- Spawn Companions.
+- Change Appearances.
+- Decorate Your House.
+- Direct Your Actors.
+- 1500 Different poses.
+
+### Apartments
+
+- Choose from 20 custom themes for Vs apartments.
 </details>
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
@@ -854,7 +1137,6 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 - V can now craft Scopes and Muzzle attachments.
 - Dead NPCs now take 5 minutes to become indestructible.
 - Ragdoll physics are now much more realistic.
-- Restores some missing/cut crafting specs for some weapons.
 - Adds a kill counter to the side of the Malorian Arms piston.
 - Holster your weapon by holding the reload button.
 - Adjusted lighting for all explosions and fire effects.
@@ -863,9 +1145,7 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 - Allows you to unequip weapon mods, and allows you to unequip sniper scopes. The mods and scopes auto-retrieve on weapon sell, drop, or disassemble.
 </details>
 
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
-
-### Appearance Change Unlocker - Character Preset Manager
+### ![](https://s12.gifyu.com/images/Cyan-Rule.png)Appearance Change Unlocker - Character Preset Manager
 
 https://www.youtube.com/watch?v=-CNgjr00z1o
 
@@ -877,7 +1157,37 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s11.gifyu.com/images/Cyberware.png)  Features
+## ![](https://s11.gifyu.com/images/Adult.png)Features
+
+> Many XXX Features.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- V can now replay romance scenes.
+- Breast Jiggle Physics.
+- Diffrent types of Pubic Hair.
+- Underwear is removed in all situations where your character is nude.
+- Joytoy was replaced in Jig Jig Street.
+- Vshojo Advertisements.
+- 50+ Adult toys added to the game.
+- Ads in Night City are now uncensored.
+</details>
+
+***
+
+## Naked Series
+
+![](https://s6.gifyu.com/images/S6IAl.png)[Naked NPCs Holograms](https://www.nexusmods.com/cyberpunk2077/mods/9785) & [Naked NPCs Sex Workers](https://www.nexusmods.com/cyberpunk2077/mods/9738) &  [Naked NPCs Tube Dancers](https://www.nexusmods.com/cyberpunk2077/mods/9689) by [marnhorn](https://www.nexusmods.com/cyberpunk2077/users/191415480)
+
+### Features
+
+> - More revealing clothing for Female Sex Worker and Hologram NPCs.
+> - Nude Tube Dancer NPCs in The Afterlife club.
+
+***
+
+##
+
+### ![](https://s11.gifyu.com/images/Cyberware.png)Features
 
 > High Tech-Low Life. Choose your style choom.
 
