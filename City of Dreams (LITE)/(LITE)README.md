@@ -1,19 +1,28 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 
-### **Updated and compatible with Patch 2.02**
+**Updated and compatible with Patch 2.02**
 
-![](https://s5.gifyu.com/images/S8Z9l.gif)\
-![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://) (lite) Version for **Cyberpunk 2077**.
+### ![](https://s5.gifyu.com/images/S8Z9l.gif)
+
+https://www.youtube.com/watch?v=sn-Ju\_OWP\_8
+
+![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Dreams (LITE)](https://) for **Cyberpunk 2077**.
 
 <details><summary>ABOUT ME</summary>
 Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Hogwarts](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Elden Ring](https://next.nexusmods.com/eldenring/collections/qpwypd?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/xZNztPjA2u) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
 </details>
 
-This isn't just a mod list I've slapped together this is the lite version of my main [cyberpunk 2077 collection](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection).
+<details><summary>MY VISION FOR THIS COLLECTION</summary>
+This isn't just a mod list we have slapped together this is a whole new world of **cyberpunk 2077** with hundreds of hours spent building, configuring, modding, and testing to create the best cyberpunk experience possible.\
+\
+My Vision for all my Collections is for you to be able to play the game any way you want. I won't force you to play a certain way I want you to have the tools to create your own experience so you can get the most out of your game.\
+\
+City of Dreams is the Ultimate experience you have access to everything you could ever need or want. Whether it's taking screenshots in photo mode, playing the most extreme difficulty, or cheating and hacking your way through Cyberpunk 2077 this collection has it all and I mean all.
 
-I hope you enjoy this collection and the game as much as I do. Time for me to delta but don't be a stranger join our community of edgerunners over on [Discord](https://discord.gg/v2-s-collections-1076179431195955290) see you there choom.
+And that's it choom I hope to see you in Night City but now it's time for me to Delta.
+</details>
 
-## [Collection not working](https://) ❓&#x20;
+## [Collection not working](https://) ❓
 
 This collection is extensively tested with every new version that is released. If it's not working for you. Please join the discord so we can assist you and get you up and going before you downvote the collection.
 
@@ -27,7 +36,7 @@ This collection is extensively tested with every new version that is released. I
 
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Cyberpunk 2077.
 - Easy to follow step-by-step installation guide.
-- Only-[10](https://)GB in download size for- [300](https://)+ mods.
+- Only- [5](https://)GB in download size for- [300](https://)+ mods. Optional Mods [5](https://)GB.
 - Mods specifically created for the collection.
 - Support for other Modular Expansion Packs.
 - Setup Video-[HERE](https://)
@@ -39,9 +48,14 @@ This collection is extensively tested with every new version that is released. I
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![img](https://i.imgur.com/HJkjnor.png)![](https://s6.gifyu.com/images/S6WsM.png)
+![](https://s6.gifyu.com/images/S664i.png)
 
-## ![img](https://i.imgur.com/vKOjnBL.png)[Make a Backup Save](https://)
+### ![img](https://i.imgur.com/vKOjnBL.png)[⛔DO NOT](https://)
+
+- Install this collection if **Cyberpunk** is installed on an **HDD**.
+- Update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
+
+### [Make a Backup Save](https://)
 
 - Mods for Cyberpunk 2077 are pretty reliable but it's always good to make a backup of your save file. The save file location can be found below Just copy the contents of this file and place it somewhere on your PC.
 
@@ -51,10 +65,7 @@ C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 
 ## [Updating Collection](https://)[   ](https://)
 
-- ⛔**DO NOT update** any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
-- Notes will be in the changelog.
-
-### HOW TO UPDATE
+HOW TO UPDATE:
 
 - **1**) Create a new Profile in Vortex and enable it.
 - **2**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
@@ -202,7 +213,11 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 **1**) To use CET (Cyber Engine Tweaks) use [F11](https://) on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Vehicle camera and many more.
 
-**2**) I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory. Or here [Keybinds](https://github.com/2077v2/City-of-Dreams/blob/main/Keybinds.md)
+**2**) ⛔ On the main menu go to the graphics tab and you will find "texture quality"  Set this to "HIGH".
+
+![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)3) If you installed the **(OPTIONAL)** "HUDitor" mod then once in the game hold SHIFT and press U to customize the HUD settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
+
+**4**) I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list below.
 
 <details><summary>CLICK FOR A FULL LIST OF KEYBINDS</summary>
 ![](https://camo.githubusercontent.com/71498d3b97846faa765d38d209aefd3ee430c046f95ab05930ce0f5e03d1c039/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4b657962696e64732e706e67)
@@ -315,10 +330,6 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 
 ![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
 </details>
-
-**3**) ⛔ On the main menu go to the graphics tab and you will find "texture quality"  Set this to "HIGH".
-
-![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)**4**) If you installed the **(OPTIONAL)** "HUDitor" mod then once in the game hold SHIFT and press U to customize the HUD settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
 
 ***
 

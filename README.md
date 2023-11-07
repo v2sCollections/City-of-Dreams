@@ -321,7 +321,13 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 **1**) To use CET (Cyber Engine Tweaks) use [F11](https://) on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Vehicle camera and many more.
 
-**2**) I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory. Or here [Keybinds](https://github.com/2077v2/City-of-Dreams/blob/main/Keybinds.md)
+**2**) **⛔** You need to change the Chest settings in-game for this body to work. You can do this by either going to a ripper-dock or using [Appearance Change Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/3850)
+
+![](https://s12.gifyu.com/images/Body-settings.jpg)**3**) ⛔ On the main menu go to the graphics tab and you will find "texture quality"  Set this to "HIGH".
+
+![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)**4**) If you installed the **(OPTIONAL)** "HUDitor" mod then once in the game hold SHIFT and press U to customize the HUD settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
+
+**5**) I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list below.
 
 <details><summary>CLICK FOR A FULL LIST OF KEYBINDS</summary>
 ![](https://camo.githubusercontent.com/71498d3b97846faa765d38d209aefd3ee430c046f95ab05930ce0f5e03d1c039/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4b657962696e64732e706e67)
@@ -435,9 +441,7 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 ![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
 </details>
 
-**3**) ⛔ On the main menu go to the graphics tab and you will find "texture quality"  Set this to "HIGH".
 
-![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)**4**) If you installed the **(OPTIONAL)** "HUDitor" mod then once in the game hold SHIFT and press U to customize the HUD settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
 
 ***
 
@@ -1309,8 +1313,6 @@ https://www.youtube.com/watch?v=UkJLHFdlPhs
 ### Features
 
 > This body mod allows you to have a big chest, with a beautiful cleavage. Custom 4k textures and a toggleable feet feature.
-
-![](https://s12.gifyu.com/images/Body-settings.jpg)**⛔** You need to change the Chest settings in-game for this body to work. You can do this by either going to a ripper-dock or using [Appearance Change Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/3850)
 
 ***
 
