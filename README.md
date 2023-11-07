@@ -1,11 +1,11 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 
 
-### **Updated and Compatible with Patch 2.02**
+**Updated and Compatible with Patch 2.02**
 
-### &#x20;    ![](https://s5.gifyu.com/images/S8Z9l.gif)
+### ![](https://s5.gifyu.com/images/S8Z9l.gif)
 
-https://www.youtube.com/watch?v=vvpmq34uBAc
+https://www.youtube.com/watch?v=sn-Ju\_OWP\_8
 
 ![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://) for **Cyberpunk 2077**.
 
@@ -14,6 +14,8 @@ Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm e
 </details>
 
 <details><summary>MY VISION FOR THIS COLLECTION</summary>
+This isn't just a mod list we have slapped together this is a whole new world of **cyberpunk 2077** with hundreds of hours spent building, configuring, modding, and testing to create the best cyberpunk experience possible.\
+\
 My Vision for all my Collections is for you to be able to play the game any way you want. I won't force you to play a certain way I want you to have the tools to create your own experience so you can get the most out of your game.\
 \
 City of Dreams is the Ultimate experience you have access to everything you could ever need or want. Whether it's taking screenshots in photo mode, playing the most extreme difficulty, or cheating and hacking your way through Cyberpunk 2077 this collection has it all and I mean all.\
@@ -22,10 +24,6 @@ The only choice you don't have is the Custom one-off body by the talented Hyst. 
 
 And that's it choom I hope to see you in Night City but now it's time for me to Delta.
 </details>
-
-This isn't just a mod list we have slapped together this is a whole new world of **cyberpunk 2077** with hundreds of hours spent building, configuring, modding, and testing to create the best cyberpunk experience possible.
-
-I hope you enjoy this collection and the game as much as I do. Time for me to delta but don't be a stranger join our community of edgerunners over on [Discord](https://discord.gg/v2-s-collections-1076179431195955290) see you there choom.
 
 <details><summary>CLICK HERE TO SEE WHAT OTHER CHOOMS THINK OF THE COLLECTION</summary>
 ![](https://camo.githubusercontent.com/cb463f13e901c2fdc57d1cb1a2f933ae6b19602d41f3892c19c9a3b8daa8448e/68747470733a2f2f7331312e67696679752e636f6d2f696d616765732f536347794b2e706e67)
@@ -168,7 +166,12 @@ This collection is extensively tested with every new version that is released. I
 
 ![](https://s6.gifyu.com/images/S664i.png)
 
-## ![img](https://i.imgur.com/vKOjnBL.png)[Make a Backup Save](https://)
+### ![img](https://i.imgur.com/vKOjnBL.png)[⛔DO NOT](https://)
+
+- Install this collection if **Cyberpunk** is installed on an **HDD**.
+- Update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
+
+### [Make a Backup Save](https://)
 
 - Mods for Cyberpunk 2077 are pretty reliable but it's always good to make a backup of your save file. The save file location can be found below Just copy the contents of this file and place it somewhere on your PC.
 
@@ -178,10 +181,7 @@ C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 
 ## [Updating Collection](https://)[   ](https://)
 
-- ⛔**DO NOT update** any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
-- Notes will be in the changelog.
-
-### HOW TO UPDATE
+HOW TO UPDATE:
 
 - **1**) Create a new Profile in Vortex and enable it.
 - **2**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
@@ -198,11 +198,7 @@ C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## ![img](https://i.imgur.com/JyLQDVe.png)[READ](https://)
-
-- ⛔ It Is important that you **READ** the following Installation guide to fully understand everything clearly. It is a simple step-by-step guide.
-
-## [Install time](https://)
+## ![img](https://i.imgur.com/JyLQDVe.png)[Install time](https://)
 
 This is a large collection I highly recommend purchasing a Nexus premium account even just for 1 month to install the collection it will make installation much easier. You can just cancel the subscription after the installation if you wish.
 
@@ -210,10 +206,6 @@ This is a large collection I highly recommend purchasing a Nexus premium account
 **Free Users:** Takes 2 to 4 hours + Semi-automatic. You will have to click on download for each mod one by one. **(I recommend you don't attempt this)**
 
 ***
-
-## WATCH THE INSTALL GUIDE CHOOM
-
-https://www.youtube.com/watch?v=sn-Ju\_OWP\_8
 
 ## [PC  Updates](https://)
 
@@ -567,10 +559,6 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 ![img](https://i.imgur.com/u4G5pz5.png)
-
-⛔ It Is important that you read the following guide to fully understand everything clearly.
-
-You can check out the gallery at the top of this page for videos by some of the mod authors showcased in this collection.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
