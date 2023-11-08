@@ -152,7 +152,7 @@ This collection is extensively tested with every new version that is released. I
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Cyberpunk 2077.
 - The most exstensive mod collection on nexus for cyberpunk 2077.
 - Easy to follow step-by-step installation guide.
-- Only-[10](https://)Gb in download size for [800+](https://) mods. Optional Mods add another [10](https://)Gb
+- Only-[10](https://)Gb in download size for [1000](https://) mods. Optional Mods add another [8](https://)Gb
 - Mods specifically created for the collection.
 - Support for other Modular Expansion Packs.
 - Setup Video-[HERE](https://)
@@ -307,13 +307,13 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ## [OPTIONAL MODS](https://)
 
-\***Note** If you don't want the optional mods skip this step.
+⛔**NOTE** If you don't want the optional mods skip this step.
 
 **1**) Select **"show"** optional mods then select **"no thanks"**
 
 ![](https://s11.gifyu.com/images/Optinal.jpg)Now you can choose which ***(OPTIONAL)***  mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(make sure to read these messages)**.
 
-⛔ All ***(OPTIONAL)***  mods will be enabled automatically if you choose to install **"all optional mods" If** you do choose to install all then you will have to manually disable the ones you don't want.
+⛔**NOTE** All ***(OPTIONAL)***  mods will be enabled automatically if you choose to install **"all optional mods" If** you do choose to install all then you will have to manually disable the ones you don't want.
 
 ***
 
@@ -321,11 +321,11 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 **1**) To use CET (Cyber Engine Tweaks) use [F11](https://) on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Vehicle camera and many more.
 
-**2**) **⛔** You need to change the Chest settings in-game for this body to work. You can do this by either going to a ripper-dock or using [Appearance Change Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/3850)
+**2**) ⛔You need to change the Chest settings in-game for this body to work. You can do this by either going to a ripper-dock or using [Appearance Change Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/3850)
 
 ![](https://s12.gifyu.com/images/Body-settings.jpg)**3**) ⛔ On the main menu go to the graphics tab and you will find "texture quality"  Set this to "HIGH".
 
-![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)**4**) If you installed the **(OPTIONAL)** "HUDitor" mod then once in the game hold SHIFT and press U to customize the HUD settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
+![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)**4**) ⛔**NOTE** If you installed the **(OPTIONAL)** "HUDitor" mod then once in the game hold SHIFT and press U to customize the HUD settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
 
 **5**) I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list below.
 
@@ -441,8 +441,6 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 ![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
 </details>
 
-
-
 ***
 
 ## NOW!!! [Wake the f\*\*k up, Samurai. We have a city to burn.](https://)
@@ -490,9 +488,7 @@ I have added the Reshade below.
 
 **⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Cyberpunk2077, or the collection when you see errors on Vortex.
 
-You can find the full Troubleshooting list on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting/FAQ](https://github.com/MRGHIA88V2/City-of-Dreams/blob/main/Troubleshooting%20FAQ.md)&#x20;
-
-You can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md)
+You can find the full Troubleshooting list on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting/FAQ](https://github.com/MRGHIA88V2/City-of-Dreams/blob/main/Troubleshooting%20FAQ.md) and you can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md)
 
 ## FAQ
 
@@ -566,19 +562,13 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-![](https://s12.gifyu.com/images/CET.png)To use **CET** (**Cyber Engine Tweaks)** use **(F11)** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Third person camera, Vehicle camera and many more.
+![](https://s5.gifyu.com/images/S8oMu.png)To use **CET** (**Cyber Engine Tweaks)** use **(F11)** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Third person camera, Vehicle camera and many more.
 
 ![](https://s11.gifyu.com/images/Screenshot-2023-04-24-174314.png)
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s12.gifyu.com/images/Language.png)
-
-> [Polyglot V (V speaks English and Japanese) mod](https://). Now you can speak Japanese to Asian NPC's and have them reply in Japanese.
-
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
-
-## ![](https://s11.gifyu.com/images/Diffuculty.png)
+## ![](https://s5.gifyu.com/images/S8opb.png)
 
 > Most mods have in-game settings so you can set the difficulties as you wish for an easier or more challenging experience.
 
@@ -615,7 +605,7 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s12.gifyu.com/images/BUG-FIXES.png)Features
+## ![](https://s5.gifyu.com/images/S8oMv.png)Features
 
 > Many fixes to vanilla game bugs.
 
@@ -646,11 +636,11 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s11.gifyu.com/images/Graphics.png)Features
+## ![](https://s5.gifyu.com/images/S8oph.png)Features
 
 > The collection comes with many improvements to the graphics from upscaled textures to custom textures and our own reshade cyberpunk has never looked better. And if this isnt enough you can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) ⛔(This is for high-end systems only [16](https://) GB Vram+)
 >
-> ⛔ Note that some of these will eat your VRAM I recommend a minimum [12](https://) GB GPU. If you notice stuttering or any texture issues then disable a few of the ([2k Mods](https://)) in Vortex.
+> ⛔**NOTE** that some of these will eat your VRAM I recommend a minimum [12](https://) GB GPU. If you notice stuttering or any texture issues then disable a few of the ([2k Mods](https://)) in Vortex.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - Reshade included.
@@ -693,7 +683,7 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s11.gifyu.com/images/Gameplay.png)Features
+## ![](https://s5.gifyu.com/images/S8opH.png)Features
 
 > The collection comes with many improvements and adjustments to the core gameplay of cyberpunk. This will suit all playstyles wether you want to cruise your way through the game or you want a hardcore experiance the collection has it all.
 
@@ -738,7 +728,7 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 - If you die during a restrictive quest sequence, you will only be revived if you have an active emergency beacon placed. Otherwise, you will need to reload your last save.
 </details>
 
-**NOTE** This is for Hardcore Chooms only.
+⛔**NOTE** This is for Hardcore Chooms only.
 
 ***
 
@@ -748,8 +738,8 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 
 ## &#x20;Features
 
-> An in game Radio Station that you can use in Vehicles and In world Radios. \
-> **\*NOTE** You will need the Music Tracks You can get them on our [DISCORD](https://discord.gg/xZNztPjA2u)
+> An in game Radio Station that you can use in Vehicles and In world Radios.&#x20;
+> ⛔**NOTE** You will need the Music Tracks You can get them on our [DISCORD](https://discord.gg/xZNztPjA2u)
 
 <details><summary>CLICK HERE TO SEE OUR MUSIC SELECTION</summary>
 ### **Albums**
@@ -889,7 +879,7 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s12.gifyu.com/images/Quality-of-life.png)Features
+## ![](https://s5.gifyu.com/images/S8op4.png)Features
 
 > The collection comes with many quality of life improvements from the small things that annoy you to the entire user interface of cyberpunk 2077.
 
@@ -983,7 +973,7 @@ HUDitor allows players to move & resize some of the main widgets on the screen.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s12.gifyu.com/images/Cheats.png)Features
+## ![](https://s5.gifyu.com/images/S8oMg.png)Features
 
 > In-game cheat menu allows for full customization of the following gameplay elements.
 
@@ -1113,7 +1103,7 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s12.gifyu.com/images/IMMERSION.png)
+## ![](https://s5.gifyu.com/images/S8opI.png)
 
 ## Features
 
@@ -1143,6 +1133,7 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 - V can now trade with street vendors.
 - V can play the arcade machines.
 - V can now smoke, drink, and eat while standing idle anywhere.
+- V can speak Japanese to Asian NPCs and have them reply in Japanese.
 </details>
 
 ### **NPC Specific Immersion**
@@ -1152,7 +1143,13 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 > Many new immersion features for your Favourite NPCs. Enhanced romances, Replay Romances, Bug Fixes and much much more.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
-### &#x20;**Judy**
+### Johnny
+
+> Adds
+
+- Johnny now spawns as a passenger with V when driving around NC.
+
+### **Judy**
 
 > When you visit Judy she will be more active.
 
@@ -1231,7 +1228,7 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 
 ### Features
 
-> Allows you to change and save NPC outfits by picking from a list and that is how this mod started but it has evolved into much, much more. You can now spawn NPC companions, and vehicles, select appearances for all player vehicles and have the ability to make your companions hostile. You can basically have your own boss fights whenever you like! Or you can ask them to drive you around the city when you're tired of being behind the wheel.
+> Allows you to change and save NPC outfits by picking from a list and that is how this mod started but it has evolved into much, much more. You can now spawn NPC companions, and vehicles, select appearances for all player vehicles and have the ability to make your companions hostile.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - Spawn Companions.
@@ -1247,7 +1244,7 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s12.gifyu.com/images/Combat-weopans.png)Features
+## ![](https://s5.gifyu.com/images/S8oMO.png)Features
 
 > The collection comes with many buffs and nerfs to combat and weapons to balance the game.
 
@@ -1266,7 +1263,7 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s11.gifyu.com/images/Altier-Store.png)Virtual Atelier
+## ![](https://s5.gifyu.com/images/S8oMN.png)Virtual Atelier
 
 https://www.youtube.com/watch?v=UkJLHFdlPhs
 
@@ -1290,7 +1287,7 @@ https://www.youtube.com/watch?v=UkJLHFdlPhs
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-### ![](https://s12.gifyu.com/images/Body-Mods.png)Features
+### ![](https://s5.gifyu.com/images/S8oME.png)Features
 
 > From 4k body mods to enhanced custom bodys for V and other NPCs, custom hairstyles and tattoos V has never looked better.
 
@@ -1324,7 +1321,7 @@ https://www.youtube.com/watch?v=UkJLHFdlPhs
 
 > This is a male body mod that has Custom 4k textures and will prove to all of Night City that your V is, indeed, the main character by transforming him from the plain, doughy figure of the vanilla game into a ripped, broad shouldered form that will inspire fear and awe from friend and foe alike.
 
-**⛔**The Adonis body is not compatible with [Arasaka cyber arms](https://www.nexusmods.com/cyberpunk2077/mods/1099?_gl=1%2Ac4znfv%2A_ga%2ANTM5MzA5NTU4LjE2OTQ4NzkyMzY.%2A_ga_N0TELNQ37M%2AMTY5NzEwMTgzMC4xNTEuMS4xNjk3MTE4MDM3LjAuMC4w\&tab=description) or Arasaka cyber body.
+**⛔NOTE **The Adonis body is not compatible with [Arasaka cyber arms](https://www.nexusmods.com/cyberpunk2077/mods/1099?_gl=1%2Ac4znfv%2A_ga%2ANTM5MzA5NTU4LjE2OTQ4NzkyMzY.%2A_ga_N0TELNQ37M%2AMTY5NzEwMTgzMC4xNTEuMS4xNjk3MTE4MDM3LjAuMC4w\&tab=description) or Arasaka cyber body.
 
 ***
 
@@ -1340,7 +1337,7 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s11.gifyu.com/images/Adult.png)Features
+## ![](https://s5.gifyu.com/images/S8oMS.png)Features
 
 > Many XXX Features.
 
@@ -1368,7 +1365,7 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s11.gifyu.com/images/Cyberware.png)  Features
+## ![](https://s5.gifyu.com/images/S8oMf.png)  Features
 
 > High Tech-Low Life. Choose your style choom.
 
@@ -1392,7 +1389,7 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s11.gifyu.com/images/Vehcles.png)Features
+## ![](https://s5.gifyu.com/images/S8op0.png)Features
 
 > Make modifications to your vehicle, fly around Night City or buy custom vehicles every aspect of driving and vehicles has been modified.
 
@@ -1484,7 +1481,7 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 ***
 
-![](https://s6.gifyu.com/images/S6hHh.png)![](https://s6.gifyu.com/images/S6hHv.jpg)**"Why take so many pictures and add clothing mods for a game that's in first person"** said a gamer who's never been to Night City.
+![](https://s5.gifyu.com/images/S8opa.png)![](https://s6.gifyu.com/images/S6hHv.jpg)**"Why take so many pictures and add clothing mods for a game that's in first person"** said a gamer who's never been to Night City.
 
 **"Style over Substance"**
 
