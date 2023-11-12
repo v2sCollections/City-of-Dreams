@@ -74,6 +74,27 @@ You need to disable **"Analytics"**
 </details>
 
 <details>
+<summary>Game is giving this error on startup</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+If you are crashing or experiencing errors on startup and a Cyberclean has not helped try the following.
+
+Right-click on the following Mods in Vortex and select reinstall.
+
+**1)** Cyber Engine Tweaks
+**2)** redscript
+**3**) Archive XL
+**4**) Codeware
+**5**) Tweak XL
+**6**) Red4ext
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+<details>
 <summary>My game is crashing after creating a character</summary>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
