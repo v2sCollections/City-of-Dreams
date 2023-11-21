@@ -56,7 +56,7 @@ This update addresses a few issues.
 
 ## REMOVED
 
-N/A
+- [No Special Outfit Lock](https://www.nexusmods.com/cyberpunk2077/mods/3963?tab=description)
 
 ## NEW MODS ADDED 
 
