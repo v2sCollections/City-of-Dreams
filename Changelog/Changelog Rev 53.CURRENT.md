@@ -1,6 +1,6 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
 
-## [HEY CHOOMS Rev 53 is HERE](https://)
+## [HEY CHOOMS Rev 53 IS HERE](https://)
 
 
 ## NOTES
@@ -27,6 +27,7 @@ We now have a new method for updating this should will all of the Vortex errors 
 
 This update addresses a few issues.
 
+- Fixes some random crashes.
 - Fixes compatibility issue with Better Loot Markers which might cause fps drops while using both mods.
 - Fixes a crash on the "Player" tab when scrolling quickly in simple menu.
 - Fixes Panam sleeping with eyes open
@@ -53,6 +54,14 @@ This update addresses a few issues.
 - [The RVC00Ns Plugins (PinkyDude's Virtual Atelier Store)](https://www.nexusmods.com/cyberpunk2077/mods/8724)
 - [Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790?tab=description)
 - [CLOTHING UPDATED](https://)
+- [Deceptious Quest Core](https://www.nexusmods.com/cyberpunk2077/mods/7831)
+- [No Camera Auto Centering](https://www.nexusmods.com/cyberpunk2077/mods/2169)
+- [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)
+- [Ricochet Redux](https://www.nexusmods.com/cyberpunk2077/mods/7197?tab=description)
+- [TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197)
+- [Browser Extension](https://www.nexusmods.com/cyberpunk2077/mods/10038?tab=description)
+- [Custom Quickslots for Consumables Grenades and Cyberware Abilities](https://www.nexusmods.com/cyberpunk2077/mods/3096?tab=description)
+- [Keep Drawing The Line (ricochet preview)](https://www.nexusmods.com/cyberpunk2077/mods/7198)
 
 ## REMOVED
 
@@ -60,7 +69,8 @@ This update addresses a few issues.
 
 ## NEW MODS ADDED 
 
-N/A
+- [Porsche 911 GT3 RS](https://www.nexusmods.com/cyberpunk2077/mods/11180?tab=description)
+- [Lamborghini Countach K.S Edition](https://www.nexusmods.com/cyberpunk2077/mods/11110?tab=description)
 
 ## BUGS
 
