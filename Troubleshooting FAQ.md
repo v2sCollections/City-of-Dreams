@@ -104,17 +104,15 @@ For some users, these were able to fix their issues.
 
 1) Make sure the game is installed on a **SSD**
 
-2) Disable **surface** mods in **Vortex**.
+2) Make sure the graphics driver is up to date/Reinstall the graphics driver 
 
-3) Make sure the graphics driver is up to date/Reinstall the graphics driver 
+3) Disable any overlay (steam or Nvidia/amd overlay for example) 
 
-4) Disable any overlay (steam or Nvidia/amd overlay for example) 
+4) Disable the (appearance mod menu).
 
-5) Disable the (appearance mod menu).
+5) Run the game in windowed fullscreen.
 
-6) Run the game in windowed fullscreen.
-
-7) Make sure these are upto date>
+6) Make sure these are upto date>
 - Common Redist
 - NET 7 Desktop Runtime
 
