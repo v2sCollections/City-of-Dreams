@@ -10,6 +10,7 @@
 - [Troubleshooting](#troubleshooting)
 - [Gameplay Questions](#gameplay-questions)
 - [Bugs](#bugs)
+- [Vortex Questions](#vortex-questions)
 - [Other Questions](#other-questions)
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
@@ -473,6 +474,127 @@ Alternatively you can disable the mod through the in game mod menus.
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 </details>
+
+
+
+
+## Vortex Questions
+
+
+<details>
+<summary>How do i change the Mod Staging folder in Vortex</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+To enable **Hardlink Deployment** in **Vortex** the **Mod Staging folder** must be on the same drive as the game.
+
+If you can't select **Hardlink Deployment** then this is why, you can follow the guide below to change the location of the Staging Folder.
+
+**1**) Open **Vortex** and select **"settings"**
+
+**2**) On the **"Mods"** tab you can select the folder icon.
+
+**3**) Here you can change the location of the **Staging Folder** and make sure it is on the same drive as the game.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
+<details>
+<summary>The Tools in Vortex are missing</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+Sometimes you need to relink **Vortex** to a tool.
+
+**1**) Go to the **"dashboard"** tab in **Vortex**.
+
+**2**) Scroll down untill you see **"tools"**.
+
+**3**) Click the 3 dots next to the tool you need to relink ie Reshade. and select **"edit"**
+
+**4**) Now select **"target"** and browse to where you have the tool installed this will be in the main Starfield directory.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
+<details>
+<summary>Where are the optional mods</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+**1**) Open **Vortex**
+
+**2**) Select **"Collections"**
+
+**3**) Select **"View"** on the collection.
+
+![img](https://s11.gifyu.com/images/Sguez.png)
+
+**4**) Select **"Mods"**
+
+![img](https://s11.gifyu.com/images/Sgueb.png)
+
+**5**) Now you can filter between **"Required"** and **"Recommended"** Recommended being the optional Mods.
+
+![img](https://s11.gifyu.com/images/SgueM.jpg)
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
+<details>
+<summary>Vortex is giving me a Pop-Up error</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+Vortex can sometimes give errors. These can most of the time be fixed with the following methods.
+
+- Restarting Vortex.
+- Restarting your PC
+- Logging out of Vortex and Nexus and signing back in.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
+<details>
+<summary>Vortex is giving me a pop up that says error 403 ect</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+Vortex and Nexus can throw errors sometimes to fix this.
+
+- Log out of Vortex
+- Log out of Nexus
+
+And then log back in
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
+<details>
+<summary>In Vortex it says 'Incompatible mods enabled'</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+This is because you have enabled 2 conflicting Texture Mods.
+
+All you have to do is disable the variant of the texture you don't want either 2k or 4k.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
+
 
 
 
