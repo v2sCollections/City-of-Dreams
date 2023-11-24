@@ -287,9 +287,10 @@ If this doesnt work its becuause you have the (E3 Compass) installed this will d
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-This is due to a mod we use called **TANSTAAFL** this is an optional Mod in a series of hardcore gameplay additions.
+This is due to an optional mod we use called **TANSTAAFL** this is an optional Mod in a series of hardcore gameplay additions.
 
 You can find out more about how this mod works here>[TANSTAAFL](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md)
+If you would like to disable this mod just search for TANSSTAAL in Vortex and select disable.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
