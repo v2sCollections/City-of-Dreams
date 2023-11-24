@@ -655,28 +655,4 @@ Updating
 
 </details>
 
-<details>
-<summary>Where are the optional mods</summary>
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-1) Open **Vortex**
-
-2) Select **"Collections"**
-
-3) Select **"View"** on the collection.
-
-![img](https://s11.gifyu.com/images/Sguez.png)
-
-4) Select **"Mods"**
-
-![img](https://s11.gifyu.com/images/Sgueb.png)
-
-5) Now you can filter between **"Required"** and **"Recommended"** Recommended being the optional Mods.
-
-![img](https://s11.gifyu.com/images/SgueM.jpg)
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-</details>
 
