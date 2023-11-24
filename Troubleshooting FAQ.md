@@ -484,7 +484,7 @@ Alternatively you can disable the mod through the in game mod menus.
 <details>
 <summary>How do i change the Mod Staging folder in Vortex</summary>
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
+![img](https://i.imgur.com/wAJUpeU.png)
 
 To enable **Hardlink Deployment** in **Vortex** the **Mod Staging folder** must be on the same drive as the game.
 
@@ -496,7 +496,7 @@ If you can't select **Hardlink Deployment** then this is why, you can follow the
 
 **3**) Here you can change the location of the **Staging Folder** and make sure it is on the same drive as the game.
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
+![img](https://i.imgur.com/wAJUpeU.png)
 
 </details>
 
@@ -504,7 +504,7 @@ If you can't select **Hardlink Deployment** then this is why, you can follow the
 <details>
 <summary>The Tools in Vortex are missing</summary>
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
+![img](https://i.imgur.com/wAJUpeU.png)
 
 Sometimes you need to relink **Vortex** to a tool.
 
@@ -516,7 +516,7 @@ Sometimes you need to relink **Vortex** to a tool.
 
 **4**) Now select **"target"** and browse to where you have the tool installed this will be in the main Starfield directory.
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
+![img](https://i.imgur.com/wAJUpeU.png)
 
 </details>
 
@@ -524,7 +524,7 @@ Sometimes you need to relink **Vortex** to a tool.
 <details>
 <summary>Where are the optional mods</summary>
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
+![img](https://i.imgur.com/wAJUpeU.png)
 
 **1**) Open **Vortex**
 
@@ -542,7 +542,7 @@ Sometimes you need to relink **Vortex** to a tool.
 
 ![img](https://s11.gifyu.com/images/SgueM.jpg)
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
+![img](https://i.imgur.com/wAJUpeU.png)
 
 </details>
 
@@ -550,7 +550,7 @@ Sometimes you need to relink **Vortex** to a tool.
 <details>
 <summary>Vortex is giving me a Pop-Up error</summary>
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
+![img](https://i.imgur.com/wAJUpeU.png)
 
 Vortex can sometimes give errors. These can most of the time be fixed with the following methods.
 
@@ -558,7 +558,7 @@ Vortex can sometimes give errors. These can most of the time be fixed with the f
 - Restarting your PC
 - Logging out of Vortex and Nexus and signing back in.
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
+![img](https://i.imgur.com/wAJUpeU.png)
 
 </details>
 
@@ -566,7 +566,7 @@ Vortex can sometimes give errors. These can most of the time be fixed with the f
 <details>
 <summary>Vortex is giving me a pop up that says error 403 ect</summary>
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
+![img](https://i.imgur.com/wAJUpeU.png)
 
 Vortex and Nexus can throw errors sometimes to fix this.
 
@@ -575,7 +575,7 @@ Vortex and Nexus can throw errors sometimes to fix this.
 
 And then log back in
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
+![img](https://i.imgur.com/wAJUpeU.png)
 
 </details>
 
@@ -583,13 +583,13 @@ And then log back in
 <details>
 <summary>In Vortex it says 'Incompatible mods enabled'</summary>
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
+![img](https://i.imgur.com/wAJUpeU.png)
 
 This is because you have enabled 2 conflicting Texture Mods.
 
 All you have to do is disable the variant of the texture you don't want either 2k or 4k.
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
+![img](https://i.imgur.com/wAJUpeU.png)
 
 </details>
 
