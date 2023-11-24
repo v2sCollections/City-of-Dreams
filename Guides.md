@@ -129,6 +129,35 @@ This resets the mod **Night City Interactions**
 </details>
 
 
+<details>
+<summary>TANSTAAFL</summary>
+
+- Part 1 introduces the Vehicle Insurance systems into the game. 
+- Part 2 introduces the Life Insurance systems into the game.
+
+**Vehicle Insurance system rules:**
+
+- Fast Travel is a paid service. No money - no travel.
+- Vehicle summoning and repair are paid services: no money - no cars; and if you get in debt with the system, they will deny you access to your vehicles until you repay your debts.
+- You are charged for traffic accidents depending on which car you hit.
+- An important difference from other similar mods - those are not flat numbers, prices are calculated based on fast travel distance, vehicle price, and your possible discounts. It’s on you to decide whether or not you want to risk your fancy car or grab an old rusty one depending on the potential dangers you might face.
+- Another important difference of this mod: you gain access to the Vehicle Insurance website through your home PC where you can buy different subscription packages to have a discount on all the vehicle-related services. Those aren’t cheap, but without those discounts prices are biting!
+- In the works: more means to get data on your current subscription state (phone messages).
+
+**Life Insurance system rules:**
+
+- The mod is activated when you sleep in your bed for the first time, so you can start a new playthrough with it - you will have normal saves and checkpoints during the tutorial.
+- When the system is active, you can no longer save at will - manual saves are only available when you are in the vicinity of your home bed (seeing the “go to sleep” dialog line).
+- Sleeping creates an auto-save point and updates your last home location for the Trauma Team.
+- You can buy a Life Insurance subscription at your home PC which gives you X amount of paid resurrections and Y amount of emergency beacons.
+- You can place an emergency beacon to create a temporary revival point - this point is reset after you sleep in your bed.
+- If you die during an open-world sequence you will be revived at the last beacon or home position.
+- If you don’t have enough money to pay for revival or your subscription has expired, you will be revived at Trauma Team Medical Center and you will lose a substantial amount of money.
+- If you die during a restrictive quest sequence, you will only be revived if you have an active emergency beacon placed. Otherwise, you will need to reload your last save.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
 
 
 

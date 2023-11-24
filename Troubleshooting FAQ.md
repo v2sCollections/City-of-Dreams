@@ -277,10 +277,24 @@ Press **"Y"** to show the mini map.
 
 If this doesnt work its becuause you have the (E3 Compass) installed this will disable the mini map.
 
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+<details>
+<summary>I cant save my game</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+This is due to a mod we use called **TANSTAAFL** this is an optional Mod in a series of hardcore gameplay additions.
+
+You can find out more about how this mod works here>[TANSTAAFL](
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 </details>
+
 
 <details>
 <summary>My Clothes are Clipping</summary>
