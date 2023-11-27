@@ -84,8 +84,8 @@ These can be configured in game but ive configured them to get you started. Thes
 
 The mods adds two additional in-game hotkeys which you can use to toggle widgets visibility:
 
-- Y> Global Toggle Global hotkey which you can use to toggle visibility for any module combination by your choice. By default it toggles Minimap, Quest Tracker and Quest Markers modules.
-- L> Minimap Toggle 
+- F8> Global Toggle Global hotkey which you can use to toggle visibility for any module combination by your choice. By default it toggles Minimap, Quest Tracker and Quest Markers modules.
+- F6> Minimap Toggle 
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 

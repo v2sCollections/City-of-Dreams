@@ -23,13 +23,11 @@
 
 1) To use CET (Cyber Engine Tweaks) use F11 on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu,Vehicle camera and many more.
 
-2) I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and HERE>⁠Keybinds .
+2) I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list in your main game directory and HERE> [Keybinds](https://github.com/2077v2/City-of-Dreams/blob/main/Keybinds.md)
 
 3) On the main menu go to the graphics tab and you will find "texture quality"  Set this to "HIGH".
 
 4) Once in game hold SHIFT and press U to customize the hud settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
-
-6) IF YOU ARE A E3 USER FOLLOW THE PICS BELOW
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
