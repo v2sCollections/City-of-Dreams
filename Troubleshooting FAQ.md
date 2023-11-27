@@ -273,9 +273,8 @@ See the mod [HERE](https://www.nexusmods.com/cyberpunk2077/mods/3315)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-Press **"Y"** to show the mini map.
+Press **"F6"** to show the mini map and F8 to tuggle the HUD
 
-If this doesnt work its becuause you have the (E3 Compass) installed this will disable the mini map.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
