@@ -25,10 +25,6 @@
 - [HOGWARTS LEGACY:THE GOBLET by v2](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy&utm_medium=social&utm_campaign=share_collection)
 - [THE GOBLET Wand Pack by v2](https://next.nexusmods.com/hogwartslegacy/collections/pugmsr?utm_source=copy&utm_medium=social&utm_campaign=share_collection)
 
-### Elden Ring
-
-- [Elden Ring The Tarnished by v2](https://next.nexusmods.com/eldenring/collections/qpwypd?utm_source=copy&utm_medium=social&utm_campaign=share_collection)
-
 ### Starfield
 
 - [Constellation by v2](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy&utm_medium=social&utm_campaign=share_collection)
