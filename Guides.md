@@ -85,6 +85,57 @@ and then launch Cyberpunk 2077 to set a new key bind.
 
 </details>
 
+<details>
+<summary>How to use Equipment Ex</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+## Overview
+
+- New transmog system with 30+ clothing slots
+- A brand-new UI accessible from Hub menu and V's apartments
+- Allows you to manage an unlimited amount of outfits with your names
+- Converts your existing wardrobe sets to a new system at a first launch
+- Works with vanilla and custom items
+
+## How To Use
+
+- The outfit manager is accessible through the new "Wardrobe" button in the Inventory menu or from wardrobe call in V's apartments
+- On the right side of the screen, you will see all compatible gear grouped by slots
+- By clicking on a button with three lines above the item list you can choose what items you want to see: current inventory, stash, wardrobe memory
+- Clicking on any item will activate outfit mode, which applies the visuals of the selected items to your character over equipped gear
+- To equip item in another slot, move cursor over the item and hold displayed hotkey (F on keyboard)
+- To unequip all currently equipped items, move cursor over the preview puppet and press displayed hotkey (X on keyboard)
+- On the left side of the screen, you will see a list of your outfits
+- The "Save outfit" button becomes available when outfit mode is active
+- To equip a previously saved outfit, just click on the name in the list
+- To delete an outfit, hover over the outfit and press the hotkey from the hint (X on keyboard)
+- To disable the outfit mode, you can select "No outfit" or unequip the outfit from the Inventory menu
+- In photo mode, you will find the option to change outfits on the fly in the pose section
+
+## FAQ
+
+**Q**- How to get access to all items I ever picked, like in original wardrobe?
+**A**- In wardrobe screen, there's a button with 3 lines. If you click on it, you can choose what items you want to see.
+
+**Q**- Item from mod X is not available or buggy. Can you make this item to work?
+**A**- It's up to the author of the item. They can contact us on Discord for assistance or follow the available documentation.
+
+**Q**- I can wear item X as equipment, but it disappears in the wardrobe. What to do?
+**A**- This means that the item is not compatible with the mod. See the previous answer.
+
+**Q**- I can see clipping parts when item X and Y are equipped together. Can you fix it?
+**A**- Some clipping issues can be fixed by the mod, and some require the items to be edited by the authors.
+First of all, you have to check if the clipping is present when the same item combination is used without this mod installed.
+If the clipping only happens with the mod, please let us know about it.
+If the clipping occurs with and without the mod, then you need to contact the authors of the items.
+
+## [Equipment Ex](https://www.nexusmods.com/cyberpunk2077/mods/6945?tab=description)
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
 
 <details>
 <summary>How to use Idle Anywhere</summary>
