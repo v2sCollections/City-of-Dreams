@@ -170,7 +170,9 @@ If you do have/use the option while in conversation with NPCs just be aware that
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 **1**) Travel to V's first/main apartment in H10
+
 **2**) Find and use the **REBOOT NCI** interaction in the stash room
+
 **3**) Leave the apartment and then walk back in
 
 This resets the mod **Night City Interactions**
