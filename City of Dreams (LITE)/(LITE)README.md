@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=sn-Ju\_OWP\_8
 ![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Dreams (LITE)](https://) for **Cyberpunk 2077**.
 
 <details><summary>ABOUT ME</summary>
-Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Hogwarts](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Elden Ring](https://next.nexusmods.com/eldenring/collections/qpwypd?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/xZNztPjA2u) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
+Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/xZNztPjA2u) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
 </details>
 
 <details><summary>MY VISION FOR THIS COLLECTION</summary>
@@ -22,9 +22,9 @@ City of Dreams is the Ultimate experience you have access to everything you coul
 And that's it choom I hope to see you in Night City but now it's time for me to Delta.
 </details>
 
-## [Collection not working](https://) ❓
+### [Collection not working ❓](https://)
 
-This collection is extensively tested with every new version that is released. If it's not working for you. Please join the discord so we can assist you and get you up and going before you downvote the collection.
+This collection is extensively tested with every new version, because we want to ensure you're in our City of Dreams quickly. If ever there is an issue, please join our community [Discord](https://discord.gg/v2-s-collections-1076179431195955290) so we can provide the fastest help that our team of Legends can deliver. Often issues can be solved quicker than a downvote!
 
 ![img](https://i.imgur.com/wAJUpeU.png)![](https://s6.gifyu.com/images/S664Z.png)
 
@@ -48,68 +48,77 @@ This collection is extensively tested with every new version that is released. I
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![](https://s6.gifyu.com/images/S664i.png)
+![](https://s6.gifyu.com/images/S664i.png)![](https://s6.gifyu.com/images/S664i.png)
 
-### ![img](https://i.imgur.com/vKOjnBL.png)[⛔DO NOT](https://)
+### ![img](https://i.imgur.com/vKOjnBL.png)
 
+<details><summary>⛔DO NOT</summary>
 - Install this collection if **Cyberpunk** is installed on an **HDD**.
 - Update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
+</details>
 
-### [Make a Backup Save](https://)
-
+<details><summary>⛔MAKE A BACKUP SAVE</summary>
 - Mods for Cyberpunk 2077 are pretty reliable but it's always good to make a backup of your save file. The save file location can be found below Just copy the contents of this file and place it somewhere on your PC.
+- Alternatively, you can run the backup bat file that is in your main directory after you install the Collection to automate the backup of your saves.
 
 ```
 C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 ```
+</details>
 
-## [Updating Collection](https://)[   ](https://)
+<details><summary>⛔HOW TO UPDATE</summary>
+**1**) Create a new Profile in Vortex and enable it.
 
-HOW TO UPDATE:
-
-- **1**) Create a new Profile in Vortex and enable it.
-- **2**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
+- **2**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/ayfbwl?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
 - **3**) When prompted to select which profile to install to, select the new profile you created in Step **1**)
 - **4**) Once the update is downloaded you can remove the old profile. But ⛔**DO NOT** remove the archives.
 
-**NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
+⛔**NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
+</details>
 
-## [Launching Cyberpunk 2077](https://)
-
-- Use Vortex to launch the game.
+<details><summary>⛔ LAUNCHING CYBERPUNK 2077</summary>
+Use Vortex to launch the game.
 
 ![](https://s12.gifyu.com/images/Launch-from-here.jpg)
+</details>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## ![img](https://i.imgur.com/JyLQDVe.png)[READ](https://)
+## ![img](https://i.imgur.com/JyLQDVe.png)
 
-- ⛔ It Is important that you **READ** the following Installation guide to fully understand everything clearly. It is a simple step-by-step guide.
-
-## [Install time](https://)
-
-This is a large collection I highly recommend purchasing a Nexus premium account even just for 1 month to install the collection it will make installation much easier. You can just cancel the subscription after the installation if you wish.
-
-**Premium Users**: Takes 30 Mins + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
-**Free Users:** Takes 1 hour + Semi-automatic. You will have to click on download for each mod one by one. **(I recommend you don't attempt this)**
-
+<details><summary>⏰INSTALL TIME</summary>
 ***
 
-## WATCH THE INSTALL GUIDE CHOOM
+https://www.youtube.com/watch?v=z35VtntZxYA
 
-https://www.youtube.com/watch?v=sn-Ju\_OWP\_8
+![img](https://i.imgur.com/wAJUpeU.png)This is a large collection I highly recommend purchasing a Nexus premium account even just for 1 month to install the collection it will make installation much easier. You can just cancel the subscription after the installation if you wish.
 
-## [PC  Updates](https://)
+**Premium Users**: Takes 1 hour + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
+**Free Users:** Takes 2 hours + Semi-automatic. You will have to click on download for each mod one by one. **(I recommend you don't attempt this)**
+
+![img](https://i.imgur.com/wAJUpeU.png)
+</details>
+
+<details><summary>1️⃣ PC UPDATES</summary>
+***
+
+https://www.youtube.com/watch?v=aiC7Km8Zr4o
+
+![img](https://i.imgur.com/wAJUpeU.png)
 
 - ⛔ Make sure that you have the latest version of Microsoft Visual Studio C++ >[HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 - ⛔ Make sure that you have the latest Desktop Runtime >[HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
 - ⛔ Make sure that you have the latest Graphics driver update.
 
+![img](https://i.imgur.com/wAJUpeU.png)
+</details>
+
+<details><summary>2️⃣ CYBERPUNK</summary>
 ***
 
-## [Cyberpunk2077](https://)
+https://www.youtube.com/watch?v=ePGjTil0huI
 
-**1**) Start with a fresh install of **Cyberpunk 2077**.
+![img](https://i.imgur.com/wAJUpeU.png)**1**) Start with a fresh install of **Cyberpunk 2077**.
 
 **2**) ⛔ Make sure the game is installed on an SSD.
 
@@ -123,24 +132,38 @@ GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk 2077\archive\pc\mod
 Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 ```
 
-**5**) ⛔ Launch Cyberpunk 2077 and go into the settings menu and in the gameplay tab turn off both of the following options "Enable Analytics"
-"Enable cross-platform Saves"
+![img](https://i.imgur.com/wAJUpeU.png)
+</details>
 
-![](https://s12.gifyu.com/images/SWeJF.png)
-
+<details><summary>3️⃣ DISABLING ANALYTICS</summary>
 ***
 
-## [Vortex](https://)
+https://www.youtube.com/watch?v=RZG2hBNnE6Y
 
-**1**) You will need [Vortex](https://www.nexusmods.com/site/mods/1) mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
+![img](https://i.imgur.com/wAJUpeU.png)**1**) ⛔ Launch Cyberpunk 2077 and go into the settings menu and in the gameplay, tab turn off both of the following options **"Enable Analytics"**\
+**"Enable cross-platform Saves"**
 
-[![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1 "Vortex page")
+![](https://s12.gifyu.com/images/SWeJF.png)![img](https://i.imgur.com/wAJUpeU.png)
+</details>
 
+<details><summary>4️⃣ VORTEX</summary>
 ***
 
-## [Vortex & Cyberpunk](https://)
+https://www.youtube.com/watch?v=8yN6wph064o
 
-**1**) Open Vortex and click on "Select a game to manage".
+![img](https://i.imgur.com/wAJUpeU.png)**1**) You will need [Vortex](https://www.nexusmods.com/site/mods/1) mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
+
+[![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1)
+
+![img](https://i.imgur.com/wAJUpeU.png)
+</details>
+
+<details><summary>5️⃣ VORTEX & CYBERPUNK</summary>
+***
+
+https://www.youtube.com/watch?v=4KrH5ak7MRM
+
+![img](https://i.imgur.com/wAJUpeU.png)**1**) Open Vortex and click on **"Select a game to manage"**.
 
 ![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)**2**) On the next screen scroll down to the **"Cyberpunk 2077"** icon and click on **"Manage".**
 
@@ -162,67 +185,109 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 **8**) Go to the settings and on the Mods tab check **"automatically use suggested path for staging folder"** then check "**suggest and "apply".**
 
-**9**) On the same window select "hard link deployment" and check "apply".
+**9**) On the same window select **"hard link deployment"** and check **"apply"**.
 
-![](https://s11.gifyu.com/images/Untitledef56ac4a42e1f37d.jpg)
+![](https://s5.gifyu.com/images/SRUz9.jpg)![img](https://i.imgur.com/wAJUpeU.png)
+</details>
 
+<details><summary>6️⃣ DISABLING REDMOD AUTOCONVERSION</summary>
 ***
 
-## [Disabling REDmod Autoconversion](https://)
+https://www.youtube.com/watch?v=jyHGKfbcJj4
 
-**1**) ⛔ While still in settings go to the "V2077 Settings" tab and make sure that REDmod Autoconvert is disabled as shown in the picture below.
+![img](https://i.imgur.com/wAJUpeU.png)**1**) ⛔ While still in settings go to the **"V2077 Settings"** tab and make sure that REDmod Autoconvert is disabled as shown in the picture below.
 
+![](https://s5.gifyu.com/images/SRYOM.jpg)
+
+![img](https://i.imgur.com/wAJUpeU.png)
+</details>
+
+<details><summary>7️⃣ INSTALLING THE COLLECTION</summary>
 ***
 
-## [INSTALLING THE COLLECTION](https://)
+https://www.youtube.com/watch?v=Nspq\_b42mTs
 
-**1**) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
+![img](https://i.imgur.com/wAJUpeU.png)**1**) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
-![](https://s12.gifyu.com/images/Screenshot-2023-04-17-115745.png)**2**) Click "Add to Vortex"(choose your newly created profile).
+![](https://s12.gifyu.com/images/Screenshot-2023-04-17-115745.png)**2**) Click **"Add to Vortex"** (choose your newly created profile).
 
-![](https://s12.gifyu.com/images/Untitled1.png)
-
-***
-
-## [POPUPS](https://)
-
-**1**) These may pop up in Vortex as you are downloading the collection.
+![](https://s12.gifyu.com/images/Untitled1.png)**3**) These may pop up in Vortex as you are downloading the collection.
 
 - When you see a pop-up titled **"Mod contains protected paths"** select **"Yes install to staging anyway"**
-- When you see a pop-up titled **"You have reached the fallback installer"** select "Yes install to staging anyway"
+- When you see a pop-up titled **"You have reached the fallback installer"** select **"Yes install to staging anyway"**
 - When you see a pop-up titled **"not an archive" **select** "create mod"**.
 - When you see a pop-up titled "**Mod installed but may need manual adjustment**" select "**Understood**".
 - When you see a pop-up titled "**Error**" select "**close**"
 - Throughout the installation process, you will have some **"installer"** popups so that you can customize some mods to your liking.
 
+**4**) After the collection has finished installing you will get a pop-up for the Optional Mods. Select  **"Show"** optional mods then select **"No thanks"**
+
+![](https://s11.gifyu.com/images/Optinal.jpg)![img](https://i.imgur.com/wAJUpeU.png)
+</details>
+
+<details><summary>8️⃣ OPTIONAL MODS</summary>
 ***
 
-## [OPTIONAL MODS](https://)
+https://www.youtube.com/watch?v=pY-2lXNrIJw
 
-\***Note** If you don't want the optional mods skip this step.
+![img](https://i.imgur.com/wAJUpeU.png)Now you can choose which ***(OPTIONAL)***  Mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process  **(Make sure to read these messages)**.
 
-**1**) Select **"show"** optional mods then select **"no thanks"**
-
-![](https://s11.gifyu.com/images/Optinal.jpg)Now you can choose which ***(OPTIONAL)***  mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(make sure to read these messages)**.
-
-⛔ All ***(OPTIONAL)***  mods will be enabled automatically if you choose to install **"all optional mods" If** you do choose to install all then you will have to manually disable the ones you don't want.
+## ![img](https://i.imgur.com/wAJUpeU.png)
 
 ***
 
-## [In-game settings](https://)
+https://www.youtube.com/watch?v=Qsw97w3eg1w
 
-**1**) To use CET (Cyber Engine Tweaks) use [F11](https://) on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Vehicle camera and many more.
+## ![img](https://i.imgur.com/wAJUpeU.png)Reshade
 
-**2**) ⛔ On the main menu go to the graphics tab and you will find "texture quality"  Set this to "HIGH".
+ReShade is included with the collection once you have finished downloading it will be placed on the toolbar in the top left-hand corner of Vortex.
 
-![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)3) If you installed the **(OPTIONAL)** "HUDitor" mod then once in the game hold SHIFT and press U to customize the HUD settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
+**1**) Click on Reshade in the top corner.
 
-**4**) I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list below.
+![](https://s11.gifyu.com/images/Reshade994ca6dfeae6e8e5.jpg)**2**) Select browse and find the **"*****Cyberpunk2077.exe*****"** and select it.**(Locations below)**
 
-<details><summary>CLICK FOR A FULL LIST OF KEYBINDS</summary>
-![](https://camo.githubusercontent.com/71498d3b97846faa765d38d209aefd3ee430c046f95ab05930ce0f5e03d1c039/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4b657962696e64732e706e67)
+```
+Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk2077.exe
+GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk2077.exe
+Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe  
+```
 
-These can be configured in-game but I've configured them to get you started. These are set for a full-size KB.
+**3**) Select Directx 10/11/12
+
+**4**) On the **"select preset to install"** select next
+
+**5**) Select next and finish the installation.
+
+Run the game
+
+I have added the Reshade below.
+
+- City of Dreams Reshade by [v2](https://www.nexusmods.com/hogwartslegacy/users/123334373)
+
+### **Reshade controls**
+
+**End** key to toggle main effects\
+**Home** key to open GUI
+
+![img](https://i.imgur.com/wAJUpeU.png)
+</details>
+
+<details><summary>🎮 IN-GAME SETTINGS</summary>
+***
+
+![img](https://i.imgur.com/wAJUpeU.png)**1**) To use CET (Cyber Engine Tweaks) use [F11](https://) on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Vehicle camera and many more.
+
+**2**) ⛔You need to change the Chest settings in-game for this body to work. You can do this by either going to a ripper-dock or using [Appearance Change Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/3850)
+
+![](https://s12.gifyu.com/images/Body-settings.jpg)**3**) ⛔ On the main menu go to the graphics tab and you will find "texture quality"  Set this to "HIGH".
+
+![]([img]https://i.imgur.com/bbBpLg8.png[/img])![](https://i.imgur.com/bbBpLg8.png)**4**) ⛔**NOTE** If you installed the **(OPTIONAL)** "HUDitor" mod then once in the game hold SHIFT and press U to customize the HUD settings to suit you. To go to the next widget press the LEFT and RIGHT arrow keys.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+</details>
+
+<details><summary>⌨️ KEYBINDS</summary>
+![](https://camo.githubusercontent.com/71498d3b97846faa765d38d209aefd3ee430c046f95ab05930ce0f5e03d1c039/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4b657962696e64732e706e67)I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list below.
 
 ![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
 
@@ -337,50 +402,14 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 
 ## ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY5NGNiZGQzY2Q1ZmNiNWMxNTYyODliMjA5YmVlNDIwOGI4NDM3NyZjdD1n/ww8JvNyaRDQu0pMhYQ/giphy-downsized-large.gif)Please Endorse and Vote for the Collection.
 
-***
-
-## [Reshade](https://)
-
-<details><summary>CLICK HERE FOR OPTIONAL RESHADE INSTALLATION</summary>
-ReShade is included with the collection once you have finished downloading it will be placed on the toolbar in the top left-hand corner of Vortex.
-
-**1**) Click on Reshade in the top corner.
-
-![](https://s11.gifyu.com/images/Reshade994ca6dfeae6e8e5.jpg)**2**) Select browse and find the **"*****Cyberpunk2077.exe*****"** and select it.**(Locations below)**
-
-```
-Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk2077.exe
-GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk2077.exe
-Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe  
-```
-
-**3**) Select Directx 10/11/12
-
-**4**) On the **"select preset to install"** select next
-
-**5**) Select next and finish the installation.
-
-Run the game
-
-I have added the Reshade below.
-
-- City of Dreams Reshade by [v2](https://www.nexusmods.com/hogwartslegacy/users/123334373)
-
-### **Reshade controls**
-
-**End** key to toggle main effects\
-**Home** key to open GUI
-</details>
-
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 ![img](https://i.imgur.com/zCpg0Fp.png)
 
 **⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Cyberpunk2077, or the collection when you see errors on Vortex.
 
-You can find the full Troubleshooting list on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting/FAQ](https://github.com/MRGHIA88V2/City-of-Dreams/blob/main/Troubleshooting%20FAQ.md)&#x20;
-
-You can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md)
+- You can find the full Troubleshooting list on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting/FAQ](https://github.com/MRGHIA88V2/City-of-Dreams/blob/main/Troubleshooting%20FAQ.md)&#x20;
+- You can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md)
 
 ## FAQ
 
@@ -452,25 +481,15 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 ![img](https://i.imgur.com/u4G5pz5.png)
 
-⛔ It Is important that you read the following guide to fully understand everything clearly.
-
-You can check out the gallery at the top of this page for videos by some of the mod authors showcased in this collection.
-
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-![](https://s12.gifyu.com/images/CET.png)To use **CET** (**Cyber Engine Tweaks)** use **(F11)** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Third person camera, Vehicle camera and many more.
+![](https://s5.gifyu.com/images/S8oMu.png)To use **CET** (**Cyber Engine Tweaks)** use **(F11)** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Third person camera, Vehicle camera and many more.
 
 ![](https://s11.gifyu.com/images/Screenshot-2023-04-24-174314.png)
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s12.gifyu.com/images/Language.png)
-
-> [Polyglot V (V speaks English and Japanese) mod](https://). Now you can speak Japanese to Asian NPC's and have them reply in Japanese.
-
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
-
-## ![](https://s11.gifyu.com/images/Diffuculty.png)
+## ![](https://s5.gifyu.com/images/S8opb.png)
 
 > Most mods have in-game settings so you can set the difficulties as you wish for an easier or more challenging experience.
 
@@ -507,7 +526,7 @@ You can check out the gallery at the top of this page for videos by some of the 
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s12.gifyu.com/images/BUG-FIXES.png)Features
+## ![](https://s5.gifyu.com/images/S8oMv.png)Features
 
 > Many fixes to vanilla game bugs.
 
@@ -538,7 +557,7 @@ You can check out the gallery at the top of this page for videos by some of the 
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s11.gifyu.com/images/Graphics.png)Features
+## ![](https://s5.gifyu.com/images/S8oph.png)Features
 
 > The collection comes with many improvements to the graphics from upscaled textures to custom textures and our own reshade cyberpunk has never looked better. And if this isnt enough you can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) ⛔(This is for high-end systems only [16](https://) GB Vram+)
 >
@@ -585,7 +604,7 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s11.gifyu.com/images/Gameplay.png)Features
+## ![](https://s5.gifyu.com/images/S8opH.png)Features
 
 > The collection comes with many improvements and adjustments to the core gameplay of cyberpunk. This will suit all playstyles wether you want to cruise your way through the game or you want a hardcore experiance the collection has it all.
 
@@ -781,7 +800,7 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s12.gifyu.com/images/Quality-of-life.png)Features
+## ![](https://s5.gifyu.com/images/S8op4.png)Features
 
 > The collection comes with many quality of life improvements from the small things that annoy you to the entire user interface of cyberpunk 2077.
 
@@ -875,7 +894,7 @@ HUDitor allows players to move & resize some of the main widgets on the screen.
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s12.gifyu.com/images/Cheats.png)Features
+## ![](https://s5.gifyu.com/images/S8oMg.png)Features
 
 > In-game cheat menu allows for full customization of the following gameplay elements.
 
@@ -1005,7 +1024,7 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s12.gifyu.com/images/IMMERSION.png)
+## ![](https://s5.gifyu.com/images/S8opI.png)
 
 ## Features
 
@@ -1035,6 +1054,7 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 - V can now trade with street vendors.
 - V can play the arcade machines.
 - V can now smoke, drink, and eat while standing idle anywhere.
+- V can speak Japanese to Asian NPCs and have them reply in Japanese.
 </details>
 
 ### **NPC Specific Immersion**
@@ -1139,7 +1159,7 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s12.gifyu.com/images/Combat-weopans.png)Features
+## ![](https://s5.gifyu.com/images/S8oMO.png)Features
 
 > The collection comes with many buffs and nerfs to combat and weapons to balance the game.
 
@@ -1168,7 +1188,7 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s11.gifyu.com/images/Adult.png)Features
+## ![](https://s5.gifyu.com/images/S8oMS.png)Features
 
 > Many XXX Features.
 
@@ -1198,7 +1218,7 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 ##
 
-### ![](https://s11.gifyu.com/images/Cyberware.png)Features
+### ![](https://s5.gifyu.com/images/S8oMf.png)Features
 
 > High Tech-Low Life. Choose your style choom.
 
@@ -1213,7 +1233,7 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-## ![](https://s11.gifyu.com/images/Vehcles.png)Features
+## ![](https://s5.gifyu.com/images/S8op0.png)Features
 
 > Make modifications to your vehicle, fly around Night City or buy custom vehicles every aspect of driving and vehicles has been modified.
 
