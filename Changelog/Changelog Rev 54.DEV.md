@@ -74,6 +74,18 @@ This update addresses a few issues.
 - [Immersive First Person](https://www.nexusmods.com/cyberpunk2077/mods/2675)
 - [Zoomable Scopes](https://www.nexusmods.com/cyberpunk2077/mods/3543)
 - [Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316)
+- [Menu Backgrounds](https://www.nexusmods.com/cyberpunk2077/mods/8333)
+### Vehciles
+- [Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016?tab=description)
+- [Porsche 911 GT3 RS](https://www.nexusmods.com/cyberpunk2077/mods/11180)
+- [Audi R8 Liberty Walk](https://www.nexusmods.com/cyberpunk2077/mods/8827)
+- [BMW M8 Competition coupe](https://www.nexusmods.com/cyberpunk2077/mods/10397)
+- [Mercedes Benz c63s AMG](https://www.nexusmods.com/cyberpunk2077/mods/9075)
+- [Porsche 918 Spyder](https://www.nexusmods.com/cyberpunk2077/mods/9125)
+- [Ford Mustang RTR Spec 5](https://www.nexusmods.com/cyberpunk2077/mods/8912)
+- [Rolls-Royce Wraith](https://www.nexusmods.com/cyberpunk2077/mods/8618)
+- [Pagani Zonda Cinque roadster](https://www.nexusmods.com/cyberpunk2077/mods/8795)
+- [QoL - Faster Checkpoints](https://www.nexusmods.com/cyberpunk2077/mods/9724)
 ### Other
 - [Wannabe Edgerunner - A simple Cyberpsychosis mod](
 - [Sleeves](https://www.nexusmods.com/cyberpunk2077/mods/3309)
@@ -88,17 +100,8 @@ This update addresses a few issues.
 - [Simple XP Multiplier](https://www.nexusmods.com/cyberpunk2077/mods/3136)
 - [Silent Silencers and Throwing Knives](https://www.nexusmods.com/cyberpunk2077/mods/4070)
 - [Weather Probability Rebalance](https://www.nexusmods.com/cyberpunk2077/mods/3196)
-### Vehciles
-- [Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016?tab=description)
-- [Porsche 911 GT3 RS](https://www.nexusmods.com/cyberpunk2077/mods/11180)
-- [Audi R8 Liberty Walk](https://www.nexusmods.com/cyberpunk2077/mods/8827)
-- [BMW M8 Competition coupe](https://www.nexusmods.com/cyberpunk2077/mods/10397)
-- [Mercedes Benz c63s AMG](https://www.nexusmods.com/cyberpunk2077/mods/9075)
-- [Porsche 918 Spyder](https://www.nexusmods.com/cyberpunk2077/mods/9125)
-- [Ford Mustang RTR Spec 5](https://www.nexusmods.com/cyberpunk2077/mods/8912)
-- [Rolls-Royce Wraith](https://www.nexusmods.com/cyberpunk2077/mods/8618)
-- [Pagani Zonda Cinque roadster](https://www.nexusmods.com/cyberpunk2077/mods/8795)
-- [QoL - Faster Checkpoints](https://www.nexusmods.com/cyberpunk2077/mods/9724)
+- [Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718?tab=description)
+- [Silent Silencers and Throwing Knives](https://www.nexusmods.com/cyberpunk2077/mods/4070?tab=description)
 
 ## REMOVED
 
