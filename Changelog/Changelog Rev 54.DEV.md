@@ -27,6 +27,7 @@ We now have a new method for updating this should will all of the Vortex errors 
 
 This update addresses a few issues.
 
+- Fixed some crashes when selecting some items in the Virtual Atelier.
 
 
 ## Changes 
@@ -102,11 +103,14 @@ This update addresses a few issues.
 - [Weather Probability Rebalance](https://www.nexusmods.com/cyberpunk2077/mods/3196)
 - [Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718?tab=description)
 - [Silent Silencers and Throwing Knives](https://www.nexusmods.com/cyberpunk2077/mods/4070?tab=description)
+- [Quiet Clothing - Works with 2.1](https://www.nexusmods.com/cyberpunk2077/mods/7682)
 
 ## REMOVED
 
 - [Fix Skill Progression Rewards Not Applying (patch 2.01 only)](https://www.nexusmods.com/cyberpunk2077/mods/9879)
 - [Vshojo Advertisements (UsCracks Retexture)](https://www.nexusmods.com/cyberpunk2077/mods/6906)
+- [True Night City Ads](https://www.nexusmods.com/cyberpunk2077/mods/3082?tab=description)
+- [Improved Radio](https://www.nexusmods.com/cyberpunk2077/mods/2292)
 ### NOW IN BASE GAME
 - [I Really Want To Stay At Your House - Judy (DEFUNCT)](https://www.nexusmods.com/cyberpunk2077/mods/8753?tab=description)
 - [I Really Want To Stay At Your House - Kerry (DEFUNCT)](https://www.nexusmods.com/cyberpunk2077/mods/8806?tab=description) 
@@ -115,14 +119,15 @@ This update addresses a few issues.
 - [Immersive Bartenders - Dogtown](https://www.nexusmods.com/cyberpunk2077/mods/10372?tab=description)
 - [Immersive Bartenders](https://www.nexusmods.com/cyberpunk2077/mods/7203?tab=description)
 - [Purify The UI - disable annoying 2D ghosting blur and 3D perspective shader effects - No More Lens Distortion or Blurry Double Vision Interface HUD](https://www.nexusmods.com/cyberpunk2077/mods/2648?tab=description)
-- [
+
 
 ## NEW MODS ADDED 
 
 - [Wannabe Edgerunner - A simple Cyberpsychosis mod](https://www.nexusmods.com/cyberpunk2077/mods/5646?tab=description)
 - [Allow Unbound Actions (Keybinds)](https://www.nexusmods.com/cyberpunk2077/mods/11429?tab=description)
 - [All Advert (ads)](https://www.nexusmods.com/cyberpunk2077/mods/11359)
-
+- [Improved Radio Continued](https://www.nexusmods.com/cyberpunk2077/mods/10006?tab=description)
+- [Crafting Recipe Owned Labels](https://www.nexusmods.com/cyberpunk2077/mods/11261?tab=description)
 
 ## BUGS
 
