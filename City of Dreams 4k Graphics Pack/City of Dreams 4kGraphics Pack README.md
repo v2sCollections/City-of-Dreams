@@ -1,14 +1,18 @@
-![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
+**Updated and compatible with Patch 2.1**
 
-### **Updated and compatible with Patch 2.02**    &#x20;
+### &#x20;   ![](https://s5.gifyu.com/images/S8Z9l.gif)
 
-![](https://s11.gifyu.com/images/Border11.jpg)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Dreams 4k Graphics Pack](https://) .
+![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Dreams 4k Graphics Pack](https://) .
 
 <details><summary>ABOUT ME</summary>
-Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Hogwarts](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Elden Ring](https://next.nexusmods.com/eldenring/collections/qpwypd?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/xZNztPjA2u) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
+Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/v2-s-collections-1076179431195955290) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
 </details>
 
-Note this is for high-end systems only.
+**⛔ NOTE** this is for High-end systems only. Recommended specs below:
+
+- **GPU** **VRAM** [=](https://) 12GB+&#x20;
+- **Storage** [=](https://) 19GB
+- **Storage Type** [=](https://) SSD
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -38,48 +42,76 @@ Note this is for high-end systems only.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## ![img](https://i.imgur.com/vKOjnBL.png)[Make a Backup Save](https://)
+### ![img](https://i.imgur.com/vKOjnBL.png)
 
+<details><summary>⛔DO NOT</summary>
+- Install this collection if **Cyberpunk** is installed on an **HDD**.
+- Update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
+</details>
+
+<details><summary>⛔MAKE A BACKUP SAVE</summary>
 - Mods for Cyberpunk 2077 are pretty reliable but it's always good to make a backup of your save file. The save file location can be found below Just copy the contents of this file and place it somewhere on your PC.
 
 ```
 C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 ```
+</details>
 
-## [Updating Collection](https://)[   ](https://)
+<details><summary>⛔HOW TO UPDATE</summary>
+**1**) Create a new Profile in Vortex and enable it.
 
-- ⛔**DO NOT update** any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
-- Updating the collection is as easy as clicking the **"Update"** button.&#x20;
-- Make sure to update the current profile you are using inside of Vortex. Using one Profile ensures stability for Vortex.&#x20;
-- When prompted to "**Remove mods from old revision**" make sure to click the "**Remove All**" button.
-- Notes will be in the changelog.
+- **2**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
+- **3**) When prompted to select which profile to install to, select the new profile you created in Step **1**)
+- **4**) Once the update is downloaded you can remove the old profile. But ⛔**DO NOT** remove the archives.
 
-## [Launching Cyberpunk 2077](https://)
+⛔**NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
+</details>
 
-- Use Vortex to launch the game.
+<details><summary>⛔ LAUNCHING CYBERPUNK 2077</summary>
+Use Vortex to launch the game.
 
 ![](https://s12.gifyu.com/images/Launch-from-here.jpg)
+</details>
 
-![img](https://i.imgur.com/wAJUpeU.png)![](https://i.imgur.com/JyLQDVe.png)
+![img](https://i.imgur.com/wAJUpeU.png)
 
-## [READ](https://)
+## ![img](https://i.imgur.com/JyLQDVe.png)
 
-- ⛔ It Is important that you READ the following Installation guide to fully understand everything clearly. It is a simple step-by-step guide.
-
-## [Install time](https://)
-
-**Premium Users**: Takes 2 hours + Semi-automatic. You can be AFK.\
-**Free Users:** Takes 2.5 hours + Semi-automatic. You will have to click on download for each mod one by one.
-
+<details><summary>⏰INSTALL TIME</summary>
 ***
 
-## [Cyberpunk2077](https://)
+**Premium Users**: Takes 30 Mins + Semi-automatic. You can be AFK.\
+**Free Users:** Takes 50 Mins + Semi-automatic. You will have to click on download for each mod one by one.&#x20;
 
-**1**) Start with a fresh install of Cyberpunk 2077.
+![img](https://i.imgur.com/wAJUpeU.png)
+</details>
+
+<details><summary>1️⃣ PC UPDATES</summary>
+***
+
+https://www.youtube.com/watch?v=aiC7Km8Zr4o
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+- ⛔ Make sure that you have the latest version of Microsoft Visual Studio C++ >[HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+- ⛔ Make sure that you have the latest Desktop Runtime >[HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
+- ⛔ Make sure that you have the latest Graphics driver update.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+</details>
+
+<details><summary>2️⃣ CYBERPUNK</summary>
+***
+
+https://www.youtube.com/watch?v=ePGjTil0huI
+
+![img](https://i.imgur.com/wAJUpeU.png)**1**) Start with a fresh install of **Cyberpunk 2077**.
 
 **2**) ⛔ Make sure the game is installed on an SSD.
 
-**3**) You need to create a mod folder go to the following location (Locations below) and create a folder named mod. When done should look as follows.
+**3**) ⛔ If you are using an older save from pre-2.0 and encounter any issues start a new save.
+
+**4**) You need to create a mod folder go to the following location (Locations below) and create a folder named mod. When done should look as follows.
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk 2077\archive\pc\mod
@@ -87,23 +119,31 @@ GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk 2077\archive\pc\mod
 Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 ```
 
+![img](https://i.imgur.com/wAJUpeU.png)
+</details>
+
+<details><summary>3️⃣ VORTEX</summary>
 ***
 
-## [Vortex](https://)
+https://www.youtube.com/watch?v=8yN6wph064o
 
-**1**) You will need Vortex mod manager downloaded and installed you can find it from the link below. If you already have Vortex skip this step.
+![img](https://i.imgur.com/wAJUpeU.png)**1**) You will need [Vortex](https://www.nexusmods.com/site/mods/1) mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
 
-[![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1 "Vortex page")
+[![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1)
 
+![img](https://i.imgur.com/wAJUpeU.png)
+</details>
+
+<details><summary>4️⃣ VORTEX & CYBERPUNK</summary>
 ***
 
-## [Vortex & Cyberpunk](https://)
+https://www.youtube.com/watch?v=4KrH5ak7MRM
 
-**1**) Open Vortex and click on **"Select a game to manage".**
+![img](https://i.imgur.com/wAJUpeU.png)**1**) Open Vortex and click on **"Select a game to manage"**.
 
 ![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)**2**) On the next screen scroll down to the **"Cyberpunk 2077"** icon and click on **"Manage".**
 
-**3**) On the popup that appears click on **"Download"** on the bottom right, and Vortex will restart.
+![](https://s12.gifyu.com/images/Untitled99ac613c165d0e14.jpg)**3**) On the popup that appears click on **"Download"** on the bottom right, and Vortex will restart.
 
 **4**) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
 
@@ -117,29 +157,48 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 **6**) Vortex will pop up a window titled **"REDmod DLC missing"** Click **"Ignore".**
 
-**7**) On your main Vortex window, it will now show an icon for **"Cyberpunk 2077"** showing that it is a managed game in Vortex.
+![](https://s12.gifyu.com/images/Redmod-Missing.jpg)**7**) On your main Vortex window, it will now show an icon for **"Cyberpunk 2077"** showing that it is a managed game in Vortex.
 
-**8**) Go to the settings and on the mods, tab check **"automatically use suggested path for staging folder"** then check "**suggest and "apply".**
+**8**) Go to the settings and on the Mods tab check **"automatically use suggested path for staging folder"** then check "**suggest and "apply".**
 
-**9**) On the same window select "hard link deployment" and check "apply".
+**9**) On the same window select **"hard link deployment"** and check **"apply"**.
 
-![](https://s11.gifyu.com/images/Untitledef56ac4a42e1f37d.jpg)
+![](https://s5.gifyu.com/images/SRUz9.jpg)![img](https://i.imgur.com/wAJUpeU.png)
+</details>
 
+<details><summary>5️⃣ DISABLING REDMOD AUTOCONVERSION</summary>
 ***
 
-## [Disabling REDmod Autoconversion](https://)
+https://www.youtube.com/watch?v=jyHGKfbcJj4
 
-**1**) ⛔ While still in settings go to the "V2077 Settings" tab and make sure that REDmod Autoconvert is disabled like in the picture below.
+![img](https://i.imgur.com/wAJUpeU.png)**1**) ⛔ While still in settings go to the **"V2077 Settings"** tab and make sure that REDmod Autoconvert is disabled as shown in the picture below.
 
-![](https://s11.gifyu.com/images/Untitle44d.jpg)
+![](https://s5.gifyu.com/images/SRYOM.jpg)
 
+![img](https://i.imgur.com/wAJUpeU.png)
+</details>
+
+<details><summary>6️⃣ INSTALLING THE COLLECTION</summary>
 ***
 
-## [INSTALLING THE COLLECTION](https://)
+https://www.youtube.com/watch?v=Nspq\_b42mTs
 
-**1**) Click "Add to Vortex"(choose your main profile you use).
+![img](https://i.imgur.com/wAJUpeU.png)**1**) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
-![](https://s12.gifyu.com/images/Untitled1.png)
+![](https://s12.gifyu.com/images/Screenshot-2023-04-17-115745.png)**2**) Click **"Add to Vortex"** (choose your newly created profile).
+
+![](https://s12.gifyu.com/images/Untitled1.png)**3**) These may pop up in Vortex as you are downloading the collection.
+
+- When you see a pop-up titled **"Mod contains protected paths"** select **"Yes install to staging anyway"**
+- When you see a pop-up titled **"You have reached the fallback installer"** select **"Yes install to staging anyway"**
+- When you see a pop-up titled **"not an archive" **select** "create mod"**.
+- When you see a pop-up titled "**Mod installed but may need manual adjustment**" select "**Understood**".
+- When you see a pop-up titled "**Error**" select "**close**"
+
+![img](https://i.imgur.com/wAJUpeU.png)
+</details>
+
+##
 
 ***
 
@@ -154,7 +213,7 @@ You can find me in [v2's discord here](https://discord.gg/v2-s-collections-10761
 
 ## [Wake the f\*\*k up, Samurai. We have a city to burn.](https://)
 
-## ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY5NGNiZGQzY2Q1ZmNiNWMxNTYyODliMjA5YmVlNDIwOGI4NDM3NyZjdD1n/ww8JvNyaRDQu0pMhYQ/giphy-downsized-large.gif)
+## ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY5NGNiZGQzY2Q1ZmNiNWMxNTYyODliMjA5YmVlNDIwOGI4NDM3NyZjdD1n/ww8JvNyaRDQu0pMhYQ/giphy-downsized-large.gif)Please Endorse and Vote for the Collection.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -162,24 +221,13 @@ You can find me in [v2's discord here](https://discord.gg/v2-s-collections-10761
 
 **⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Cyberpunk2077, or the collection when you see errors on Vortex.
 
-You can find the full Troubleshooting list on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting/FAQ](https://github.com/2077v2/City-of-Dreams/blob/main/Troubleshooting%20FAQ.md)&#x20;
-
-You can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md)
+- You can find the full Troubleshooting list on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting/FAQ](https://github.com/MRGHIA88V2/City-of-Dreams/blob/main/Troubleshooting%20FAQ.md)&#x20;
+- You can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md)
 
 ## FAQ
 
 <details><summary>CLICK HERE FOR COMMON FAQs</summary>
-## [My game crashes at the "breaching screen"](https://) ❓
-
-You need to disable "Analytics"
-
-1. Purge the mods in Vortex
-2. Launch the game&#x20;
-3. Go to the settings menu and on the gameplay tab disable Analytics.
-4. Deploy the mods in Vortex
-5. Launch the game.
-
-## [Where is the game located ](https://) ❓
+## [Where is the game located  ❓](https://)
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk2077.exe
@@ -228,12 +276,6 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 ![img](https://i.imgur.com/u4G5pz5.png)
-
-***
-
-## **Settings**&#x20;
-
-- [Unlock Fov](https://www.nexusmods.com/cyberpunk2077/mods/7989)
 
 ***
 
@@ -329,23 +371,7 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 > **Surfaces**
 
-- [asphalt\_patches\_4K-8K](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
-- [environment\_rocks](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
-- [surfaces - concrete 4K 2nd Version PART I](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
-- [surfaces - concrete 4K 2nd Version PART II](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
-- [surfaces - microblends 4K UPDATE](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
-- [surfaces\_asphalt\_4K\_second\_version](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
-- [surfaces\_bricks\_4K](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
-- [surfaces\_cinderblocks\_4K](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
-- [surfaces\_grass](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
-- [surfaces\_gravel](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
-- [surfaces\_metal\_4K](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
-- [surfaces\_mud\_and\_soil\_4K](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
-- [surfaces\_paint\_fine\_thick\_flaked\_4K](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
-- [surfaces\_plaster\_4K](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
-- [surfaces\_sand\_and\_soil\_4K](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
-- [surfaces\_tiles\_4K](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
-- [terrain\_rock\_cliff](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
+- [High Res Surfaces Textures - MonstrrMagic Texture Series](https://www.nexusmods.com/cyberpunk2077/mods/10331)
 - [High-Res Stickers - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7282)
 - [High-Res Graffiti - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/6300?tab=description)
 - [High-Res Posters and Signs - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/6795)
@@ -390,9 +416,7 @@ If you would like to support me so I can afford some new chrome click the button
 
 Or, [buy me a coffee](https://www.buymeacoffee.com/2077v2)
 
-![img](https://i.imgur.com/wAJUpeU.png)
-
-## ![](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)[Disclaimer](https://)
+### ![img](https://i.imgur.com/wAJUpeU.png)Disclaimer
 
 - ⛔ I will not be responsible for any possibility of save corruption.
 - ⛔ Please don't use a similar name to this collection.
