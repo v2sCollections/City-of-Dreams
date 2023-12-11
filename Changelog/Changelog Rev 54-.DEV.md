@@ -28,7 +28,7 @@ We now have a new method for updating this should will all of the Vortex errors 
 This update addresses a few issues.
 
 - Fixed some crashes when selecting some items in the Virtual Atelier.
-
+- Added a mod that allows settings to be saved even if all keybinds are not set, reversing a weird feature/bug introduced in patch 2.1.
 
 ## Changes 
 
