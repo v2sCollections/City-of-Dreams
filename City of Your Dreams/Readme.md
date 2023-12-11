@@ -1,7 +1,7 @@
-### **Updated and Compatible with 2.02**
+**Updated and Compatible with 2.1**
 
 \
-![](https://s6.gifyu.com/images/S8v7F.gif)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Your Dreams](https://) for **Cyberpunk 2077**.
+![](https://s5.gifyu.com/images/S8Z9l.gif)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Your Dreams](https://) for **Cyberpunk 2077**.
 
 This is a collection of the Main Core Mods needed to Mod Cyberpunk 2077. Download this collection and then add any mods you want yourself.
 
@@ -25,56 +25,76 @@ This is a collection of the Main Core Mods needed to Mod Cyberpunk 2077. Downloa
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## ![img](https://i.imgur.com/vKOjnBL.png)[Make a Backup Save](https://)
+### ![img](https://i.imgur.com/vKOjnBL.png)
 
+<details><summary>⛔DO NOT</summary>
+- Install this collection if **Cyberpunk** is installed on an **HDD**.
+- Update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
+</details>
+
+<details><summary>⛔MAKE A BACKUP SAVE</summary>
 - Mods for Cyberpunk 2077 are pretty reliable but it's always good to make a backup of your save file. The save file location can be found below Just copy the contents of this file and place it somewhere on your PC.
 
 ```
 C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 ```
+</details>
 
-## [Updating Collection](https://)[   ](https://)
+<details><summary>⛔HOW TO UPDATE</summary>
+**1**) Create a new Profile in Vortex and enable it.
 
-- Updating the collection is as easy as clicking the **"Update"** button.&#x20;
-- Make sure to update the current profile you are using inside of Vortex. Using one Profile ensures stability for Vortex.&#x20;
-- When prompted to "**Remove mods from old revision**" make sure to click the "**Remove All**" button.
-- ⛔**DO NOT update** any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
-- Notes will be in the changelog.
+- **2**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/xfktu4/revisions/6?utm_medium=vortex\&utm_source=vortex\&utm_campaign=view_collection\&utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
+- **3**) When prompted to select which profile to install to, select the new profile you created in Step **1**)
+- **4**) Once the update is downloaded you can remove the old profile. But ⛔**DO NOT** remove the archives.
 
-## [Launching Cyberpunk 2077](https://)
+⛔**NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
+</details>
 
-- Use Vortex to launch the game.
+<details><summary>⛔ LAUNCHING CYBERPUNK 2077</summary>
+Use Vortex to launch the game.
 
 ![](https://s12.gifyu.com/images/Launch-from-here.jpg)
+</details>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## ![img](https://i.imgur.com/JyLQDVe.png)[READ](https://)
+## ![img](https://i.imgur.com/JyLQDVe.png)
 
-- ⛔ It Is important that you READ the following Installation guide to fully understand everything clearly. It is a simple step-by-step guide.
-
-## [Install time](https://)
-
-**Premium Users**: Takes 5 min + Semi-automatic. You can be AFK.\
-**Free Users:** Takes 10 min + Semi-automatic. You will have to click on download for each mod one by one.
-
+<details><summary>⏰INSTALL TIME</summary>
 ***
 
-## [PC  Updates](https://)
+**Premium Users**: Takes 10 Mins + Semi-automatic. You can be AFK.\
+**Free Users:** Takes 2O Mins + Semi-automatic. You will have to click on download for each mod one by one.&#x20;
+
+![img](https://i.imgur.com/wAJUpeU.png)
+</details>
+
+<details><summary>1️⃣ PC UPDATES</summary>
+***
+
+https://www.youtube.com/watch?v=aiC7Km8Zr4o
+
+![img](https://i.imgur.com/wAJUpeU.png)
 
 - ⛔ Make sure that you have the latest version of Microsoft Visual Studio C++ >[HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 - ⛔ Make sure that you have the latest Desktop Runtime >[HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
 - ⛔ Make sure that you have the latest Graphics driver update.
 
+![img](https://i.imgur.com/wAJUpeU.png)
+</details>
+
+<details><summary>2️⃣ CYBERPUNK</summary>
 ***
 
-## [Cyberpunk2077](https://)
+https://www.youtube.com/watch?v=ePGjTil0huI
 
-**1**) Start with a fresh install of Cyberpunk 2077.
+![img](https://i.imgur.com/wAJUpeU.png)**1**) Start with a fresh install of **Cyberpunk 2077**.
 
 **2**) ⛔ Make sure the game is installed on an SSD.
 
-**3**) You need to create a mod folder go to the following location (Locations below) and create a folder named mod. When done should look as follows.
+**3**) ⛔ If you are using an older save from pre-2.0 and encounter any issues start a new save.
+
+**4**) You need to create a mod folder go to the following location (Locations below) and create a folder named mod. When done should look as follows.
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk 2077\archive\pc\mod
@@ -82,23 +102,31 @@ GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk 2077\archive\pc\mod
 Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 ```
 
+![img](https://i.imgur.com/wAJUpeU.png)
+</details>
+
+<details><summary>3️⃣ VORTEX</summary>
 ***
 
-## [Vortex](https://)
+https://www.youtube.com/watch?v=8yN6wph064o
 
-**1**) You will need [Vortex](https://www.nexusmods.com/site/mods/1) mod manager downloaded and installed you can find it from the link below. If you already have Vortex skip this step.
+![img](https://i.imgur.com/wAJUpeU.png)**1**) You will need [Vortex](https://www.nexusmods.com/site/mods/1) mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
 
-[![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1 "Vortex page")
+[![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1)
 
+![img](https://i.imgur.com/wAJUpeU.png)
+</details>
+
+<details><summary>4️⃣ VORTEX & CYBERPUNK</summary>
 ***
 
-## [Vortex & Cyberpunk](https://)
+https://www.youtube.com/watch?v=4KrH5ak7MRM
 
-**1**) Open Vortex and click on "Select a game to manage".
+![img](https://i.imgur.com/wAJUpeU.png)**1**) Open Vortex and click on **"Select a game to manage"**.
 
 ![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)**2**) On the next screen scroll down to the **"Cyberpunk 2077"** icon and click on **"Manage".**
 
-![](https://s12.gifyu.com/images/Untitled99ac613c165d0e14.jpg)**3**) On the popup that appears click on **"Download"** on the bottom right, vortex will restart.
+![](https://s12.gifyu.com/images/Untitled99ac613c165d0e14.jpg)**3**) On the popup that appears click on **"Download"** on the bottom right, and Vortex will restart.
 
 **4**) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
 
@@ -114,43 +142,48 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ![](https://s12.gifyu.com/images/Redmod-Missing.jpg)**7**) On your main Vortex window, it will now show an icon for **"Cyberpunk 2077"** showing that it is a managed game in Vortex.
 
-**8**) Go to the settings and on the mods, tab check "automatically use suggested path for staging folder" then check "**suggest and "apply".**
+**8**) Go to the settings and on the Mods tab check **"automatically use suggested path for staging folder"** then check "**suggest and "apply".**
 
-**9**) On the same window select "hard link deployment" and check "apply".
+**9**) On the same window select **"hard link deployment"** and check **"apply"**.
 
-![](https://s11.gifyu.com/images/Untitledef56ac4a42e1f37d.jpg)
+![](https://s5.gifyu.com/images/SRUz9.jpg)![img](https://i.imgur.com/wAJUpeU.png)
+</details>
 
+<details><summary>5️⃣ DISABLING REDMOD AUTOCONVERSION</summary>
 ***
 
-## [Disabling REDmod Autoconversion](https://)
+https://www.youtube.com/watch?v=jyHGKfbcJj4
 
-**1**) ⛔ While still in settings go to the "V2077 Settings" tab and make sure that REDmod Autoconvert is disabled as shown in the picture below.
+![img](https://i.imgur.com/wAJUpeU.png)**1**) ⛔ While still in settings go to the **"V2077 Settings"** tab and make sure that REDmod Autoconvert is disabled as shown in the picture below.
 
-![](https://s11.gifyu.com/images/Untitle44d.jpg)
+![](https://s5.gifyu.com/images/SRYOM.jpg)
 
+![img](https://i.imgur.com/wAJUpeU.png)
+</details>
+
+<details><summary>6️⃣ INSTALLING THE COLLECTION</summary>
 ***
 
-## [INSTALLING THE COLLECTION](https://)
+https://www.youtube.com/watch?v=Nspq\_b42mTs
 
-**1**) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
+![img](https://i.imgur.com/wAJUpeU.png)**1**) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
-![](https://s12.gifyu.com/images/Screenshot-2023-04-17-115745.png)**2**) Click "Add to Vortex"(choose your newly created profile).
+![](https://s12.gifyu.com/images/Screenshot-2023-04-17-115745.png)**2**) Click **"Add to Vortex"** (choose your newly created profile).
 
-![](https://s12.gifyu.com/images/Untitled1.png)
+![](https://s12.gifyu.com/images/Untitled1.png)**3**) These may pop up in Vortex as you are downloading the collection.
 
-***
+- When you see a pop-up titled **"Mod contains protected paths"** select **"Yes install to staging anyway"**
+- When you see a pop-up titled **"You have reached the fallback installer"** select **"Yes install to staging anyway"**
+- When you see a pop-up titled **"not an archive" **select** "create mod"**.
+- When you see a pop-up titled "**Mod installed but may need manual adjustment**" select "**Understood**".
+- When you see a pop-up titled "**Error**" select "**close**"
 
-## [In-game settings](https://)
-
-**1**) To use CET (Cyber Engine Tweaks) set your keybind on the first launch of the collection.
-
-***
+![img](https://i.imgur.com/wAJUpeU.png)
+</details>
 
 ## NOW!!! [Wake the f\*\*k up, Samurai. We have a city to burn.](https://)
 
 ## ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY5NGNiZGQzY2Q1ZmNiNWMxNTYyODliMjA5YmVlNDIwOGI4NDM3NyZjdD1n/ww8JvNyaRDQu0pMhYQ/giphy-downsized-large.gif)Please Endorse and Vote for the Collection.
-
-***
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
