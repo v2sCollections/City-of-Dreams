@@ -111,7 +111,7 @@ This update addresses a few issues.
 - [Vshojo Advertisements (UsCracks Retexture)](https://www.nexusmods.com/cyberpunk2077/mods/6906)
 - [True Night City Ads](https://www.nexusmods.com/cyberpunk2077/mods/3082?tab=description)
 - [Improved Radio](https://www.nexusmods.com/cyberpunk2077/mods/2292)
-### NOW IN BASE GAME
+### REMOVED NOW IN BASE GAME
 - [I Really Want To Stay At Your House - Judy (DEFUNCT)](https://www.nexusmods.com/cyberpunk2077/mods/8753?tab=description)
 - [I Really Want To Stay At Your House - Kerry (DEFUNCT)](https://www.nexusmods.com/cyberpunk2077/mods/8806?tab=description) 
 - [I Really Want To Stay At Your House - Panam (DEFUNCT)](https://www.nexusmods.com/cyberpunk2077/mods/8775?tab=description) 
