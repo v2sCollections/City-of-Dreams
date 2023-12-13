@@ -1,6 +1,4 @@
-![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
-
-**Updated and compatible with Patch 2.02**
+**Updated and compatible with Patch 2.1**
 
 ### ![](https://s5.gifyu.com/images/S8Z9l.gif)
 
@@ -375,12 +373,6 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 
 ![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
 
-### FLASHLIGHT
-
-- U> Toggle Flashlight
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
 ### HUDITOR ADJUST HUD
 
 - SHIFT (hold) U> Activate Hud Editor
@@ -532,7 +524,6 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - Fixes damage output of guns when using attachments.
-- Fixes Optical Camo bugs.
 - Fixes all UI elements that get stuck on the screen.
 - Fixes River's dialogue in Holo calls it now actually plays the same as talking to him in person.
 - Fixes Kerry's holo call Greeting/Farewell now plays properly.
@@ -819,8 +810,9 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 - Increases time spans between sickness effects applied to V by The Relic.
 - Reduces the time taken to pass through the Dogtown vehicle checkpoints by roughly 66%.
 - New transmog system with 30+ clothing slots
-- Allows you to manage an unlimited amount of outfits with your names
-- Converts your existing wardrobe sets to a new system at a first launch
+- Allows you to manage an unlimited amount of outfits with your names.
+- Converts your existing wardrobe sets to a new system at a first launch.
+- Adds little check marks to the recipe icons in the crafting menu so that you can tell what you already own.
 </details>
 
 ***
@@ -1064,7 +1056,19 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 > Many new immersion features for your Favourite NPCs. Enhanced romances, Replay Romances, Bug Fixes and much much more.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
-### &#x20;**Judy**
+### &#x20;Romance
+
+> Adds
+
+- Partners no longer suspend (stop answering the phone or recognising V at their homes) as soon as they message you:
+- They now suspend when you reply and direct them to an apartment
+- Non-base game relationships (FemV+Kerry, MascV+River, etc) are now accounted for in the messaging logic:
+- In the base game, if you romanced both the 'base' options, then it seems other romances wouldn't have the opportunity to message.
+- V now uses the Dance Floor dance, rather than the slow one from The Moth (H10 only in 0.5.0)
+- V can now Stroke Hair, Caress Cheek, and Kiss, Panam and Judy repeatedly on the sofa (H10 only in 0.5.0, River/Kerry to be added later too)
+- Fixes the incorrect camera restrictions after kissing Panam or Judy on the sofa (H10 only in 0.5.0)
+
+### **Judy**
 
 > When you visit Judy she will be more active.
 
