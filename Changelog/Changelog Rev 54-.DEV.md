@@ -5,9 +5,7 @@
 
 ## NOTES
 
-![img](https://i.imgur.com/wAJUpeU.png)
-
-We now have a new method for updating this should will all of the Vortex errors that we have been seeing.
+- [Cyberclean](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md#troubleshooting) is manadortory] for this update.
 
 ## HOW TO UPDATE
 
@@ -128,6 +126,7 @@ This update addresses a few issues.
 - [All Advert (ads)](https://www.nexusmods.com/cyberpunk2077/mods/11359)
 - [Improved Radio Continued](https://www.nexusmods.com/cyberpunk2077/mods/10006?tab=description)
 - [Crafting Recipe Owned Labels](https://www.nexusmods.com/cyberpunk2077/mods/11261?tab=description)
+- [Romance Hangouts Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/11590?tab=description)
 
 ## BUGS
 
