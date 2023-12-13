@@ -2,7 +2,6 @@
 
 ## [HEY CHOOMS Rev 54 IS COMING SOON](https://)
 
-
 ## NOTES
 
 - [Cyberclean](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md#troubleshooting) is manadortory] for this update.
@@ -138,5 +137,12 @@ This update addresses a few issues.
 
 - [Let there be flight](https://)
 - [Megabuildings enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4924?tab=description)
+- [Improved Slide](https://www.nexusmods.com/cyberpunk2077/mods/5533)
+- [More Frequent Dismemberment](https://www.nexusmods.com/cyberpunk2077/mods/3694)
+- [Nano Drone](https://www.nexusmods.com/cyberpunk2077/mods/3419?tab=description)
+- [Better Vehicle First Person](https://www.nexusmods.com/cyberpunk2077/mods/2202)
+- [CPAH - Breach Protocol Autohacker](https://www.nexusmods.com/cyberpunk2077/mods/955)
+- [Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790)
+- [JB - TPP MOD WIP third person](https://www.nexusmods.com/cyberpunk2077/mods/669)
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
