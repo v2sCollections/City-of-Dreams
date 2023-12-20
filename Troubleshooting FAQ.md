@@ -516,17 +516,23 @@ If you can't select **Hardlink Deployment** then this is why, you can follow the
 <details>
 <summary>The Tools in Vortex are missing</summary>
 
-![img](https://i.imgur.com/wAJUpeU.png)
+If you don't see the Tools in **Vortex** this could be one of 2 issues.
 
-Sometimes you need to relink **Vortex** to a tool.
+**1**) The most common issue is Vortex being confused, so you can try to **Purge** and **Deploy** the Mods in **Vortex** a few times if this still doesn't show the Tools close and reopen **Vortex**.
 
-**1**) Go to the **"dashboard"** tab in **Vortex**.
+**2**) Sometimes you need to relink **Vortex** to a tool.
+or sometimes the toolbar isn't enabled.
 
-**2**) Scroll down untill you see **"tools"**.
+- Go to the **"dashboard"** tab in **Vortex**.
 
-**3**) Click the 3 dots next to the tool you need to relink ie Reshade. and select **"edit"**
+- Scroll down until you see **"tools"**.
 
-**4**) Now select **"target"** and browse to where you have the tool installed this will be in the main Starfield directory.
+Make sure it's enabled.
+If it is but the tools still arnt showing do the following
+
+- Click the 3 dots next to the tool you need to relink ie Reshade. and select **"edit"**
+
+- Now select **"target"** and browse to where you have the tool installed this will be in the main Starfield directory.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
