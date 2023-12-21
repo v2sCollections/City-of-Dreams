@@ -13,6 +13,9 @@ N/A
 
 ## NEW MODS ADDED 
 
+- [High Res NPCs - Solomon Reed - MonstrrMagic Texture Series](https://www.nexusmods.com/cyberpunk2077/mods/11533?tab=description)
+- [High Res NPCs - President Myers - MonstrrMagic Texture Series](https://www.nexusmods.com/cyberpunk2077/mods/11535?tab=description)
+- [High Res NPCs - Songbird - MonstrrMagic Texture Series](https://www.nexusmods.com/cyberpunk2077/mods/11534?tab=description)
 
 ## BUGS
 
