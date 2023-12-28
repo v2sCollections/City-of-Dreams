@@ -44,6 +44,15 @@ This update addresses a few issues.
 - [Apartment Cats - Northside Motel](https://www.nexusmods.com/cyberpunk2077/mods/6379)
 - [River Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4870)
 - [Romance Hangouts Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/11590)
+- [Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034?tab=description)
+- [Wannabe Edgerunner - A simple Cyberpsychosis mod](https://www.nexusmods.com/cyberpunk2077/mods/5646)
+- [Bmw M4 CSL](https://www.nexusmods.com/cyberpunk2077/mods/10702?tab=description)
+- [Porsche 911 GT3 RS](https://www.nexusmods.com/cyberpunk2077/mods/11180)
+- [Toyota Supra](https://www.nexusmods.com/cyberpunk2077/mods/10520)
+- [Ricochet Redux](https://www.nexusmods.com/cyberpunk2077/mods/7197)
+- [Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790?tab=description)
+- [Keep Drawing The Line (ricochet preview)](https://www.nexusmods.com/cyberpunk2077/mods/7198)
+- [Bmw S1000RR](https://www.nexusmods.com/cyberpunk2077/mods/10445)
 
 ## REMOVED
 
@@ -56,6 +65,7 @@ This update addresses a few issues.
 - [High Res NPCs - President Myers - MonstrrMagic Texture Series](https://www.nexusmods.com/cyberpunk2077/mods/11535?tab=description)
 - [High Res NPCs - Songbird - MonstrrMagic Texture Series](https://www.nexusmods.com/cyberpunk2077/mods/11534?tab=description)
 - [Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790)
+- [MascV NUSA Infiltrator Jacket Decal Fix](https://www.nexusmods.com/cyberpunk2077/mods/11809)
 
 ## BUGS
 

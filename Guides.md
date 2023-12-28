@@ -38,6 +38,68 @@
 
 ## Gameplay
 
+<details>
+<summary>How to use HUD Mods</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+# How to use [LHUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)
+
+## Info
+- Hides main **HUD** widgets by default and shows them only on certain events which you can configure
+- Included widgets: Action Buttons, Crouch Indicator and Weapon Roster, Hints, Minimap, Player Healthbar, Quest Tracker, World Markers
+- Adds new hotkey for your selected widgets group toggle (check the details below)
+- Adds new hotkey for minimap toggle
+- Adds config option to tweak minimap widget opacity
+
+## Limited HUD - Hotkeys
+
+The mods adds two additional in-game hotkeys which you can use to toggle widgets visibility:
+
+- **Global Toggle:** global hotkey which you can use to toggle visibility for any module combination by your choice. By default it toggles Minimap, Quest Tracker and Quest Markers modules **(F8 by default)**.
+- **Minimap Toggle:** a separate hotkey to toggle minimap visibility **(F6 by default)**
+
+
+# How to use [HUDitor](https://www.nexusmods.com/cyberpunk2077/mods/3315)
+
+## Info
+
+**HUDitor** allows players to move & resize some of the main widgets on the screen:
+
+- Minimap
+- Quest tracker
+- Wanted bar
+- Quest notifications area
+- Item notifications area
+- Vehicle notifications (summoning and radio)
+- Crouch indicator and weapon roster
+- Action button hints (dpad)
+- Player healthbar
+- Player stamina
+- Phone call avatar - temporarily removed
+- Phone call input controller - temporarily removed
+- Input hints
+- Speedometer
+- Bosses HP bar
+- Dialog choices
+- Dialog subtitles
+
+## HUDitor - Hotkeys
+
+- Press **"Shift + U"** - you will see that most of the **HUD** widgets' opacity has changed, and only the quest tracker is fully visible. Also, a mouse pointer will appear at the center of the screen (if you have Sprint hotkey rebinded then use it instead of Shift). Also you can use W-A-S-D keys for more precise position tweaking.
+- Press **"Shift + U"** / **"Esc"** / **"C"** buttons to disable the editor.
+- Press **"X"** while **HUDitor** is enabled, to reset all the widgets back to their original size & position.
+
+
+
+# HUD Configuration options
+
+These are great mods when you have an understanding of how they work, you can configure the entire **HUD** to suit yourself with 100s of different configurations and settings, these can be accessed from the **"Mod Settings"** tab at the main menu.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
 
 <details>
 <summary>Game Difficulty</summary>
