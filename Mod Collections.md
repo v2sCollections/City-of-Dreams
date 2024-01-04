@@ -15,7 +15,7 @@ My Vision for all my Collections is for you to be able to play the game any way 
 - [Core Collections](#core)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
-![img](https://s13.gifyu.com/images/SjBEl.jpg)
+![img](https://s13.gifyu.com/images/SjBEX.jpg)
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 ## Main Collections
 
