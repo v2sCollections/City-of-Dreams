@@ -74,6 +74,8 @@ This collection completely overhauls all of the Base game Textures with the high
 
 This is part of a series of Cosmetic Collections for Cyberpunk 2077 so you can easily download the version you want and play. All of my clothing Collections can be easily added to my City of Dreams (LITE) Collection.
 
+This version is based around the Vanila in-game body and includes more than 600 Cosmetic Mods.
+
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 </details>
@@ -84,6 +86,8 @@ This is part of a series of Cosmetic Collections for Cyberpunk 2077 so you can e
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 This is part of a series of Cosmetic Collections for Cyberpunk 2077 so you can easily download the version you want and play. All of my clothing Collections can be easily added to my City of Dreams (LITE) Collection.
+
+This version is based around the [KS Solo body](https://www.nexusmods.com/cyberpunk2077/mods/4813) and includes more than 600 Cosmetic Mods.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -97,6 +101,8 @@ This is part of a series of Cosmetic Collections for Cyberpunk 2077 so you can e
 
 This is part of a series of Cosmetic Collections for Cyberpunk 2077 so you can easily download the version you want and play. All of my clothing Collections can be easily added to my City of Dreams (LITE) Collection.
 
+This version is based around the [KS Lush body](https://www.nexusmods.com/cyberpunk2077/mods/4901) and includes more than 350 Cosmetic Mods.
+
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 </details>
@@ -108,6 +114,8 @@ This is part of a series of Cosmetic Collections for Cyberpunk 2077 so you can e
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 This is part of a series of Cosmetic Collections for Cyberpunk 2077 so you can easily download the version you want and play. All of my clothing Collections can be easily added to my City of Dreams (LITE) Collection.
+
+This version is based around the [EBB RB body](https://www.nexusmods.com/cyberpunk2077/mods/4654) and includes more than 650 Cosmetic Mods.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -121,6 +129,8 @@ This is part of a series of Cosmetic Collections for Cyberpunk 2077 so you can e
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 This is part of a series of Cosmetic Collections for Cyberpunk 2077 so you can easily download the version you want and play. All of my clothing Collections can be easily added to my City of Dreams (LITE) Collection.
+
+This version is based around the [EBBP RB body](https://www.nexusmods.com/cyberpunk2077/mods/9083) and includes more than 400 Cosmetic Mods.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
