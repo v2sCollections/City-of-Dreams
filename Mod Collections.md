@@ -2,6 +2,8 @@
 
 We offer from 10 fully proconfigured Mod Collections for **Cyberpunk 2077** these collections feature of 4000 diffrent Mods. Below is an outline of each collection we offer here at **v2sCollections**
 
+My Vision for all my Collections is for you to be able to play the game any way you want. I won't force you to play a certain way I want you to have the tools to create your own experience so you can get the most out of your game.
+
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 # City of Dreams Collections
@@ -22,9 +24,7 @@ We offer from 10 fully proconfigured Mod Collections for **Cyberpunk 2077** thes
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-My Vision for all my Collections is for you to be able to play the game any way you want. I won't force you to play a certain way I want you to have the tools to create your own experience so you can get the most out of your game.
-
-City of Dreams is the Ultimate experience you have access to everything you could ever need or want. Whether it's taking screenshots in photo mode, playing the most extreme difficulty, or cheating and hacking your way through Cyberpunk 2077 this collection has it all and I mean all.
+City of Dreams (HEAVY) is the Ultimate experience you have access to everything you could ever need or want. Whether it's taking screenshots in photo mode, playing the most extreme difficulty, or cheating and hacking your way through Cyberpunk 2077 this collection has it all and I mean all.
 
 The only choice you don't have is the Custom one-off body by the talented Hyst. The collection has a huge number of clothing options that are all built around this amazing 4k sculpted body. This body may not be for everyone so we have you covered you can check out our City of Dreams (lite) version if you would like to include your own clothing and custom body.
 
@@ -65,10 +65,89 @@ This collection completely overhauls all of the Base game Textures with the high
 
 ## Clothing Collections
 
+<details>
+<summary>City of Dreams Clothes (Vanilla)</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+<details>
+<summary>City of Dreams Clothes (-KS- SOLO)</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+<details>
+<summary>City of Dreams Clothes (-KS- LUSH)</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+<details>
+<summary>City of Dreams Clothes (EBB RB)</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+
+<details>
+<summary>City of Dreams Clothes (EBBP RB)</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
 
 
 ## Tools Collections
 
+<details>
+<summary>City of Dreams (STUDIO 77)</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+This collection allows you to use the same set of tools that our Photographers here at **v2s Collections** use. These tools will enhance your in-game photography to the next level, so strap in choom and come along for the ride.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
 
 
 ## Core Collections
+
+<details>
+<summary>City of Your Dreams)</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+This is a collection of the Main Core Mods needed to **Mod Cyberpunk 2077**. We use this collection when testing our main collections but it can also be used as a bese to create your own Modlist or Collection.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
