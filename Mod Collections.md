@@ -72,7 +72,7 @@ This collection completely overhauls all of the Base game Textures with the high
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-
+This is part of a series of Cosmetic Collections for Cyberpunk 2077 so you can easily download the version you want and play. All of my clothing Collections can be easily added to my City of Dreams (LITE) Collection.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -83,7 +83,7 @@ This collection completely overhauls all of the Base game Textures with the high
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-
+This is part of a series of Cosmetic Collections for Cyberpunk 2077 so you can easily download the version you want and play. All of my clothing Collections can be easily added to my City of Dreams (LITE) Collection.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -95,7 +95,7 @@ This collection completely overhauls all of the Base game Textures with the high
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-
+This is part of a series of Cosmetic Collections for Cyberpunk 2077 so you can easily download the version you want and play. All of my clothing Collections can be easily added to my City of Dreams (LITE) Collection.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -107,7 +107,7 @@ This collection completely overhauls all of the Base game Textures with the high
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-
+This is part of a series of Cosmetic Collections for Cyberpunk 2077 so you can easily download the version you want and play. All of my clothing Collections can be easily added to my City of Dreams (LITE) Collection.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -120,7 +120,7 @@ This collection completely overhauls all of the Base game Textures with the high
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-
+This is part of a series of Cosmetic Collections for Cyberpunk 2077 so you can easily download the version you want and play. All of my clothing Collections can be easily added to my City of Dreams (LITE) Collection.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
