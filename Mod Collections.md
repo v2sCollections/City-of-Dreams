@@ -1,6 +1,6 @@
 ![img](https://s5.gifyu.com/images/S8Z9l.gif)
 
-![img](https://i.imgur.com/wAJUpeU.png)
+![img](https://s13.gifyu.com/images/SjBKh.png)
 
 ![img](https://s13.gifyu.com/images/SjBpR.jpg)
 
