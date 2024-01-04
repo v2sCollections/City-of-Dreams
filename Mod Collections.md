@@ -46,7 +46,8 @@ This collection is desighned to be used as a main base so you can add one of our
 
 </details>
 
-![](https://s12.gifyu.com/images/SuG0u.png)
+
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 ## Graphics Collections
 
 <details>
@@ -62,7 +63,8 @@ This collection completely overhauls all of the Base game Textures with the high
 
 </details>
 
-![](https://s12.gifyu.com/images/SuG0u.png)
+
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 ## Clothing Collections
 
 <details>
@@ -124,7 +126,8 @@ This collection completely overhauls all of the Base game Textures with the high
 
 </details>
 
-![](https://s12.gifyu.com/images/SuG0u.png)
+
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 ## Tools Collections
 
 <details>
@@ -138,7 +141,8 @@ This collection allows you to use the same set of tools that our Photographers h
 
 </details>
 
-![](https://s12.gifyu.com/images/SuG0u.png)
+
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
 ## Core Collections
 
 <details>
