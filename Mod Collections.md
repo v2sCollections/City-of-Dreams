@@ -1,4 +1,4 @@
-![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
+![img](https://s5.gifyu.com/images/S8Z9l.gif)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -11,10 +11,10 @@ We offer from 10 fully proconfigured Mod Collections for **Cyberpunk 2077** thes
 # City of Dreams Collections
 
 - [Main Collections](#main-collections)
-- [Graphics](#graphics)
+- [Graphics Collections](#graphics)
 - [Clothing Collections](#clothing-collections)
-- [Tools](#tools)
-- [Core](#core)
+- [Tools Collections](#tools)
+- [Core Collections](#core)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -51,7 +51,7 @@ This collection is desighned to be used as a main base so you can add one of our
 </details>
 
 
-## Graphics
+## Graphics Collections
 
 <details>
 <summary>City of Dreams 4kGraphics Pack)</summary>
@@ -71,8 +71,8 @@ This collection completely overhauls all of the Base game Textures with the high
 
 
 
-## Tools
+## Tools Collections
 
 
 
-## Core
+## Core Collections
