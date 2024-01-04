@@ -147,6 +147,8 @@ This version is based around the [EBBP RB body](https://www.nexusmods.com/cyberp
 
 This collection allows you to use the same set of tools that our Photographers here at **v2s Collections** use. These tools will enhance your in-game photography to the next level, so strap in choom and come along for the ride.
 
+![img](https://s13.gifyu.com/images/SjBUf.png)
+
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 </details>
