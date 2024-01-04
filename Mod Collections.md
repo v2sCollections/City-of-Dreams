@@ -1,7 +1,3 @@
-![img](https://s5.gifyu.com/images/S8Z9l.gif)
-
-![img](https://s13.gifyu.com/images/SjBKh.png)
-
 ![img](https://s13.gifyu.com/images/SjBpR.jpg)
 
 We offer from 10 fully proconfigured Mod Collections for **Cyberpunk 2077** these collections feature of 4000 diffrent Mods. Below is an outline of each collection we offer here at **v2sCollections**
