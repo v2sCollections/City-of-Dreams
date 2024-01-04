@@ -1,6 +1,6 @@
 ![img](https://s13.gifyu.com/images/SjBpR.jpg)
 
-We offer from 10 fully proconfigured Mod Collections for **Cyberpunk 2077** these collections feature of 4000 diffrent Mods. Below is an outline of each collection we offer here at **v2sCollections**
+We offer from 10 fully preconfigured Mod Collections for **Cyberpunk 2077** these collections feature of 4000 diffrent Mods. Below is an outline of each collection we offer here at **v2sCollections**
 
 My Vision for all my Collections is for you to be able to play the game any way you want. I won't force you to play a certain way I want you to have the tools to create your own experience so you can get the most out of your game.
 
@@ -46,7 +46,7 @@ This collection is desighned to be used as a main base so you can add one of our
 
 </details>
 
-
+![](https://s12.gifyu.com/images/SuG0u.png)
 ## Graphics Collections
 
 <details>
@@ -62,7 +62,7 @@ This collection completely overhauls all of the Base game Textures with the high
 
 </details>
 
-
+![](https://s12.gifyu.com/images/SuG0u.png)
 ## Clothing Collections
 
 <details>
@@ -124,7 +124,7 @@ This collection completely overhauls all of the Base game Textures with the high
 
 </details>
 
-
+![](https://s12.gifyu.com/images/SuG0u.png)
 ## Tools Collections
 
 <details>
@@ -138,16 +138,20 @@ This collection allows you to use the same set of tools that our Photographers h
 
 </details>
 
-
+![](https://s12.gifyu.com/images/SuG0u.png)
 ## Core Collections
 
 <details>
-<summary>City of Your Dreams)</summary>
+<summary>City of Your Dreams</summary>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-This is a collection of the Main Core Mods needed to **Mod Cyberpunk 2077**. We use this collection when testing our main collections but it can also be used as a bese to create your own Modlist or Collection.
+This is a collection of the Main Core Mods needed to **Mod Cyberpunk 2077**. We use this collection when testing our main collections but it can also be used as a base to create your own Modlist or Collection.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 </details>
+
+
+
+![img](https://i.imgur.com/wAJUpeU.png)
