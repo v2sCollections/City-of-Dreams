@@ -2,8 +2,6 @@
 
 ## [HEY CHOOMS Rev 23 IS COMING SOON](https://)
 
-## NOTES
-
 ## HOW TO UPDATE
 
 **1**) Create a new Profile in Vortex and enable it.
@@ -19,6 +17,10 @@
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 ## NOTES
+
+Once in game, travel to V's apartment (in H10, if you are already there, leave and return).
+This will start all of the interactions and spots, this works for new games and save games, no need to start a new game!
+You can verify if it is working by if the [REBOOT] interaction has appeared in the stash room.
 
 ## Fixes
 
@@ -53,6 +55,11 @@ This update addresses a few issues.
 - [Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790?tab=description)
 - [Keep Drawing The Line (ricochet preview)](https://www.nexusmods.com/cyberpunk2077/mods/7198)
 - [Bmw S1000RR](https://www.nexusmods.com/cyberpunk2077/mods/10445)
+- [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454)
+- [The Passenger](https://www.nexusmods.com/cyberpunk2077/mods/10731)
+- [Pet Your Cat](https://www.nexusmods.com/cyberpunk2077/mods/6198?tab=description)
+- [Naked NPCs Holograms](https://www.nexusmods.com/cyberpunk2077/mods/9785)
+- [Night City Interactions - Watson Westbrook and Heywood Drinks plus Edgerunners locales](https://www.nexusmods.com/cyberpunk2077/mods/5519)
 
 ## REMOVED
 
@@ -66,6 +73,15 @@ This update addresses a few issues.
 - [High Res NPCs - Songbird - MonstrrMagic Texture Series](https://www.nexusmods.com/cyberpunk2077/mods/11534?tab=description)
 - [Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790)
 - [MascV NUSA Infiltrator Jacket Decal Fix](https://www.nexusmods.com/cyberpunk2077/mods/11809)
+- [Metro Pocket Guide](https://www.nexusmods.com/cyberpunk2077/mods/11882?tab=description)
+- [Quickhack Loadouts](https://www.nexusmods.com/cyberpunk2077/mods/11682?tab=description)
+- [Lamborghini Huracan STO](https://www.nexusmods.com/cyberpunk2077/mods/11254?tab=description)
+- [Bugatti Chiron SuperSport](https://www.nexusmods.com/cyberpunk2077/mods/11331?tab=description)
+- [Lamborghini huracan Libertywalk](https://www.nexusmods.com/cyberpunk2077/mods/11877?tab=description)
+- [Ferrari 821 Competizione](https://www.nexusmods.com/cyberpunk2077/mods/11926)
+- [Aston Martin Valkyrie](https://www.nexusmods.com/cyberpunk2077/mods/12015?tab=description)
+- [Lamborghini Urus](https://www.nexusmods.com/cyberpunk2077/mods/12022?tab=description)
+- [Ford Hoonicorn](https://www.nexusmods.com/cyberpunk2077/mods/12029?tab=description)
 
 ## BUGS
 
