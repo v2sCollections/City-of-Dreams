@@ -1,4 +1,4 @@
-![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
+![img](https://s13.gifyu.com/images/SjBKh.png)
 
 ## [HEY CHOOMS Rev 55 IS COMING SOON](https://)
 
