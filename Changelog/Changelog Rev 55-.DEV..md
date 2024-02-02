@@ -26,6 +26,7 @@ You can verify if it is working by if the [REBOOT] interaction has appeared in t
 
 This update addresses a few issues.
 
+- Big Booty is now optional. (This was always meant to be optional.
 
 
 ## Changes 
@@ -50,7 +51,6 @@ This update addresses a few issues.
 - [All Advert (ads)](https://www.nexusmods.com/cyberpunk2077/mods/11359)
 - [Damage Scaling and Balance (Formerly Level Scaling)](https://www.nexusmods.com/cyberpunk2077/mods/1712)
 - [Unlock Me The Mods 2.1](https://www.nexusmods.com/cyberpunk2077/mods/9349?tab=description)
-- [RadioExt](https://www.nexusmods.com/cyberpunk2077/mods/4591?tab=description)
 - [1993 Nissan 240SX (S13)](https://www.nexusmods.com/cyberpunk2077/mods/8730?tab=description)
 - [Apartment Cats - Japantown](https://www.nexusmods.com/cyberpunk2077/mods/6493)
 - [Apartment Cats - Northside Motel](https://www.nexusmods.com/cyberpunk2077/mods/6379)
@@ -73,10 +73,36 @@ This update addresses a few issues.
 - [Naked NPCs Holograms](https://www.nexusmods.com/cyberpunk2077/mods/9785)
 - [Judy Enhanced Body with 4K Textur](https://www.nexusmods.com/cyberpunk2077/mods/10150)
 - [Night City Interactions - Watson Westbrook and Heywood Drinks plus Edgerunners locales](https://www.nexusmods.com/cyberpunk2077/mods/5519)
+- [Native Settings UI](https://www.nexusmods.com/cyberpunk2077/mods/3518?tab=description)
+- [Stash Filters](https://www.nexusmods.com/cyberpunk2077/mods/5298?tab=description)
+- [Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016?tab=description)
+- [RadioExt](https://www.nexusmods.com/cyberpunk2077/mods/4591?tab=description)
+- [Lifepath Bonuses and Gang-Corp Traits](https://www.nexusmods.com/cyberpunk2077/mods/2217?tab=description)
+- [Photo Mode Unlocker 2.0 XL](https://www.nexusmods.com/cyberpunk2077/mods/4319?tab=description)
+- [Ragdoll Physics Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3858)
+- [Edgerunners Lucy NPC - Spawns in Night City plus AMM and Nibbles Replacer](https://www.nexusmods.com/cyberpunk2077/mods/9812?tab=description)
+- [AUDI RS6 AVANT QUATTRO](https://www.nexusmods.com/cyberpunk2077/mods/11920)
+- [Aurore Romanced (Lady Marmalade)](https://www.nexusmods.com/cyberpunk2077/mods/11097)
+- [QoL - Faster Checkpoints](https://www.nexusmods.com/cyberpunk2077/mods/9724)
+- [Flaming Crotch Man Romanced](https://www.nexusmods.com/cyberpunk2077/mods/9573)
+- [Immersive Timeskip](https://www.nexusmods.com/cyberpunk2077/mods/5115)
+- [Immersive Rippers - Dogtown](https://www.nexusmods.com/cyberpunk2077/mods/10255)
+- [QoL - Interactive Judy's Apartment Devices](https://www.nexusmods.com/cyberpunk2077/mods/8099)
+- [Panam Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4626)
+- [Romance Replays](https://www.nexusmods.com/cyberpunk2077/mods/7536)
+- [Cosmopolitan Night city - Multilingual NPCs](https://www.nexusmods.com/cyberpunk2077/mods/5909?tab=description)
+- [Mark To Sell](https://www.nexusmods.com/cyberpunk2077/mods/4725)
+- [Muted Markers](https://www.nexusmods.com/cyberpunk2077/mods/1727)
+- [Named Saves](https://www.nexusmods.com/cyberpunk2077/mods/4521)
+- [Quickhack Hotkeys](https://www.nexusmods.com/cyberpunk2077/mods/7238)
+- [Sleeves](https://www.nexusmods.com/cyberpunk2077/mods/3309)
+- [Unlock Fov](https://www.nexusmods.com/cyberpunk2077/mods/7989)
+- Clothing
+
 
 ## REMOVED
 
-
+- Clothing
 
 ## NEW MODS ADDED 
 
@@ -95,6 +121,12 @@ This update addresses a few issues.
 - [Aston Martin Valkyrie](https://www.nexusmods.com/cyberpunk2077/mods/12015?tab=description)
 - [Lamborghini Urus](https://www.nexusmods.com/cyberpunk2077/mods/12022?tab=description)
 - [Ford Hoonicorn](https://www.nexusmods.com/cyberpunk2077/mods/12029?tab=description)
+- [2019 Mercedes G63 AMG](https://www.nexusmods.com/cyberpunk2077/mods/12167)
+- [Nano Drone](https://www.nexusmods.com/cyberpunk2077/mods/3419?tab=description)
+- [Cadillac Escalade (III) ESV Platinum](https://www.nexusmods.com/cyberpunk2077/mods/12377?tab=description)
+- [Dodge Challenger SRT Demon](https://www.nexusmods.com/cyberpunk2077/mods/12556)
+- [Computer Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/12520?tab=description)
+- [Arcade Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/12378?tab=description)
 - Clothing
 
 ## BUGS
@@ -108,7 +140,6 @@ This update addresses a few issues.
 - [Let there be flight](https://)
 - [Improved Slide](https://www.nexusmods.com/cyberpunk2077/mods/5533)
 - [More Frequent Dismemberment](https://www.nexusmods.com/cyberpunk2077/mods/3694)
-- [Nano Drone](https://www.nexusmods.com/cyberpunk2077/mods/3419?tab=description)
 - [Better Vehicle First Person](https://www.nexusmods.com/cyberpunk2077/mods/2202)
 - [CPAH - Breach Protocol Autohacker](https://www.nexusmods.com/cyberpunk2077/mods/955)
 - [JB - TPP MOD WIP third person](https://www.nexusmods.com/cyberpunk2077/mods/669)
