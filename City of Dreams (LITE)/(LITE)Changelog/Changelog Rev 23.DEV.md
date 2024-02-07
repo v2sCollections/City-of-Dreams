@@ -1,6 +1,6 @@
 ![img](https://s13.gifyu.com/images/SjBKh.png)
 
-## [HEY CHOOMS Rev 23 IS COMING SOON](https://)
+## [HEY CHOOMS Rev 23 IS HERE](https://)
 
 ## HOW TO UPDATE
 
@@ -8,7 +8,7 @@
 
 **2**) Create a new Profile in Vortex and enable it.
 
-**3**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/ayfbwl?utm_source=copy&utm_medium=social&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select select **"ADD TO VORTEX"**
+**3**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/ayfbwl?utm_source=copy&utm_medium=social&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
 
 **4**) When prompted to select which profile to install to, select the new profile you created in Step 1
 
