@@ -4,13 +4,15 @@
 
 ## HOW TO UPDATE
 
-**1**) Create a new Profile in Vortex and enable it.
+**1**) This update requires a you can find the script here> [Cyberclean](https://www.nexusmods.com/cyberpunk2077/mods/8595)
 
-**2**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy&utm_medium=social&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select select **"ADD TO VORTEX"**
+**2**) Create a new Profile in Vortex and enable it.
 
-**3**) When prompted to select which profile to install to, select the new profile you created in Step 1
+**3**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy&utm_medium=social&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select select **"ADD TO VORTEX"**
 
-**4**) Once the update is downloaded you can remove the old profile.
+**4**) When prompted to select which profile to install to, select the new profile you created in Step 1
+
+**5**) Once the update is downloaded you can remove the old profile.
 
 **NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
 
@@ -22,16 +24,31 @@ Once in game, travel to V's apartment (in H10, if you are already there, leave a
 This will start all of the interactions and spots, this works for new games and save games, no need to start a new game!
 You can verify if it is working by if the [REBOOT] interaction has appeared in the stash room.
 
+CDPRs latest patch has introduced some serious issues with stability. You may see issues in the following circumstances:
+- Random Crashing
+- Major stuttering on INTEL based systems
+- Crashes when changing keybinds
+These issues are game breaking and will need to be addressed by CDPR so expect another patch soon. Some of the issues have a workaround and quick google search will give you details on how to get around these issues. You may find that some of these issues will occur on certain saves and some saves will be fine.
+
+If you see empty shops in the Virtual Atelier, dont worry this is intentional.
+
+Simple Menu is still causing stuttering and decreased performance on  some systems. If you are experiencing issues you can disable the Simple Menu in Vortex. The author is aware of this issue and will have an update out soon.
+
 ## Fixes
 
 This update addresses a few issues.
 
 - Big Booty is now optional. (This was always meant to be optional.
+- Fixed some crashes when selecting some items in the Virtual Atelier.
+- Fixed some errors in the Atelier store.
+- VRAM Usage will be much better when using the 2k Textures
+- Fixed clipping clothing.
 
 
 ## Changes 
 
-- [Wannabe Edgerunner - A simple Cyberpsychosis mod](https://www.nexusmods.com/cyberpunk2077/mods/5646?tab=description) IS BACK!!!
+- [Wall Hang](https://www.nexusmods.com/cyberpunk2077/mods/2950) Has been moved to optional.
+- [Jetpack](https://www.nexusmods.com/cyberpunk2077/mods/996) Has been moved to optional.
 
 ## UPDATED
 
@@ -45,6 +62,7 @@ This update addresses a few issues.
 - [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)
 - [Porsche 911 GT3 RS](https://www.nexusmods.com/cyberpunk2077/mods/11180)
 - [Naked NPCs Holograms](https://www.nexusmods.com/cyberpunk2077/mods/9785)
+- [Naked NPCs Sex Workers](https://www.nexusmods.com/cyberpunk2077/mods/9738)
 - [Idle Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/8038)
 - [All Advert (ads)](https://www.nexusmods.com/cyberpunk2077/mods/11359?tab=description)
 - [Jetpack](https://www.nexusmods.com/cyberpunk2077/mods/996?tab=description)
@@ -70,7 +88,6 @@ This update addresses a few issues.
 - [Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718)
 - [-KS- UV Texture Framework](https://www.nexusmods.com/cyberpunk2077/mods/3783?tab=description)
 - [Pet Your Cat](https://www.nexusmods.com/cyberpunk2077/mods/6198?tab=description)
-- [Naked NPCs Holograms](https://www.nexusmods.com/cyberpunk2077/mods/9785)
 - [Judy Enhanced Body with 4K Textur](https://www.nexusmods.com/cyberpunk2077/mods/10150)
 - [Night City Interactions - Watson Westbrook and Heywood Drinks plus Edgerunners locales](https://www.nexusmods.com/cyberpunk2077/mods/5519)
 - [Native Settings UI](https://www.nexusmods.com/cyberpunk2077/mods/3518?tab=description)
@@ -97,11 +114,14 @@ This update addresses a few issues.
 - [Quickhack Hotkeys](https://www.nexusmods.com/cyberpunk2077/mods/7238)
 - [Sleeves](https://www.nexusmods.com/cyberpunk2077/mods/3309)
 - [Unlock Fov](https://www.nexusmods.com/cyberpunk2077/mods/7989)
+- [Kiroshi Optics Night Vision Mod](https://www.nexusmods.com/cyberpunk2077/mods/8326?tab=description)
 - Clothing
 
 
 ## REMOVED
 
+- [QoL - Fix for holotext shadows with RT or PT](https://www.nexusmods.com/cyberpunk2077/mods/8663)
+- [Sleeves](https://www.nexusmods.com/cyberpunk2077/mods/3309?tab=description)
 - Clothing
 
 ## NEW MODS ADDED 
@@ -127,6 +147,8 @@ This update addresses a few issues.
 - [Dodge Challenger SRT Demon](https://www.nexusmods.com/cyberpunk2077/mods/12556)
 - [Computer Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/12520?tab=description)
 - [Arcade Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/12378?tab=description)
+- [Violent Vira Radio](https://www.nexusmods.com/cyberpunk2077/mods/12752)
+- [Improved Radio Continued](https://www.nexusmods.com/cyberpunk2077/mods/10006?tab=description)
 - Clothing
 
 ## BUGS
