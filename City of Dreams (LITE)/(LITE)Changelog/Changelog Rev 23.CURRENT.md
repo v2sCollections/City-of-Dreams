@@ -8,7 +8,7 @@
 
 **2**) Create a new Profile in Vortex and enable it.
 
-**3**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/ayfbwl?utm_source=copy&utm_medium=social&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
+**3**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/ayfbwl/revisions/23?utm_medium=vortex&utm_source=vortex&utm_campaign=view_collection&utm_source=copy&utm_medium=social&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
 
 **4**) When prompted to select which profile to install to, select the new profile you created in Step 1
 
@@ -38,11 +38,14 @@ Simple Menu is still causing stuttering and decreased performance on  some syste
 
 This update addresses a few issues.
 
+- Fixed some errors in the Atelier store.
 - VRAM Usage will be much better when using the 2k Textures
+
 
 ## Changes 
 
-- [Wannabe Edgerunner - A simple Cyberpsychosis mod](https://www.nexusmods.com/cyberpunk2077/mods/5646?tab=description) IS BACK!!!
+- [Wall Hang](https://www.nexusmods.com/cyberpunk2077/mods/2950) Has been moved to optional.
+- [Jetpack](https://www.nexusmods.com/cyberpunk2077/mods/996) Has been moved to optional.
 
 ## UPDATED
 
@@ -111,10 +114,10 @@ This update addresses a few issues.
 - [Kiroshi Optics Night Vision Mod](https://www.nexusmods.com/cyberpunk2077/mods/8326?tab=description)
 
 
-
 ## REMOVED
 
 - [QoL - Fix for holotext shadows with RT or PT](https://www.nexusmods.com/cyberpunk2077/mods/8663)
+- [Sleeves](https://www.nexusmods.com/cyberpunk2077/mods/3309?tab=description)
 
 
 ## NEW MODS ADDED 
@@ -142,7 +145,8 @@ This update addresses a few issues.
 - [Arcade Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/12378?tab=description)
 - [Violent Vira Radio](https://www.nexusmods.com/cyberpunk2077/mods/12752)
 - [Improved Radio Continued](https://www.nexusmods.com/cyberpunk2077/mods/10006?tab=description)
-- Clothing
+
+
 ## BUGS
 
  [See bug channel on discord](https://discord.gg/xZNztPjA2u)

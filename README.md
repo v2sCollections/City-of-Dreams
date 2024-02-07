@@ -1,6 +1,4 @@
-**Updated and Compatible with Patch 2.1**
-
-### ![](https://s5.gifyu.com/images/S8Z9l.gif)
+✅**Updated and Compatible with Patch 2.11**
 
 https://www.youtube.com/watch?v=sn-Ju\_OWP\_8
 
@@ -168,6 +166,7 @@ This collection is extensively tested with every new version, because we want to
 <details><summary>⛔DO NOT</summary>
 - Install this collection if **Cyberpunk** is installed on an **HDD**.
 - Update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
+- Use REDmod none of our Collections support or use REDmod.
 </details>
 
 <details><summary>⛔MAKE A BACKUP SAVE</summary>
@@ -180,8 +179,7 @@ C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 </details>
 
 <details><summary>⛔HOW TO UPDATE</summary>
-**1**) Create a new Profile in Vortex and enable it.
-
+- **1**) Create a new Profile in Vortex and enable it.
 - **2**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
 - **3**) When prompted to select which profile to install to, select the new profile you created in Step **1**)
 - **4**) Once the update is downloaded you can remove the old profile. But ⛔**DO NOT** remove the archives.
@@ -659,6 +657,7 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 - Fixes Epic Fortified Ankles shows a buff in the status bar while you're hovering, and it was referencing an icon that doesn't exist so it would also show a duplicate of another recently used icon. Fixed to use the "generic buff icon", which actually kind of fits for the hover buff (forward arrows).
 - Fixes the armor tooltip in the Cyberware/Ripperdoc menu to be factually correct and show your actual current damage reduction from armor rather than a theoretical maximum.
 - Fixes the name of the Encrypted shards group.
+- Removes the Strength skill check from the dumpster in front of Brendan.
 </details>
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
@@ -761,7 +760,7 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 
 ## City of Dreams 97.7 FM
 
-![](https://s11.gifyu.com/images/SgB8o.png)[City of Dreams 97.7 FM](https://www.nexusmods.com/cyberpunk2077/mods/9053)  by [2077v2](https://www.nexusmods.com/cyberpunk2077/users/123334373)
+![](https://s13.gifyu.com/images/SjUa2.jpg)[City of Dreams 97.7 FM](https://www.nexusmods.com/cyberpunk2077/mods/9053)  by [2077v2](https://www.nexusmods.com/cyberpunk2077/users/123334373)
 
 ## &#x20;Features
 
@@ -1329,6 +1328,10 @@ https://www.youtube.com/watch?v=UkJLHFdlPhs
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - 30+ Hairstyles.
 - Vs hair has more shine.
+- Vs feet are toggleable.
+- More makeup.
+- More eye colors.
+- More eyebrows.
 - More tattoos.
 - Enhanced 4k body for Panam.
 - Enhanced 4k body for Judy.
@@ -1346,9 +1349,11 @@ https://www.youtube.com/watch?v=UkJLHFdlPhs
 
 > This body mod allows you to have a big chest, with a beautiful cleavage. Custom 4k textures and a toggleable feet feature.
 
+⛔NOTE Optional Big-Butt and Better defined abs are available in optional downloads.
+
 ***
 
-## **Male V**
+**Male V**
 
 ![](https://s6.gifyu.com/images/S8gko.png)[-KS- ADONIS Male Body](https://www.nexusmods.com/cyberpunk2077/mods/4968) by [KnowSo](https://www.nexusmods.com/cyberpunk2077/users/137109313)&#x20;
 
@@ -1356,7 +1361,7 @@ https://www.youtube.com/watch?v=UkJLHFdlPhs
 
 > This is a male body mod that has Custom 4k textures and will prove to all of Night City that your V is, indeed, the main character by transforming him from the plain, doughy figure of the vanilla game into a ripped, broad shouldered form that will inspire fear and awe from friend and foe alike.
 
-\*\*⛔NOTE \*\*The Adonis body is not compatible with [Arasaka cyber arms](https://www.nexusmods.com/cyberpunk2077/mods/1099?_gl=1%2Ac4znfv%2A_ga%2ANTM5MzA5NTU4LjE2OTQ4NzkyMzY.%2A_ga_N0TELNQ37M%2AMTY5NzEwMTgzMC4xNTEuMS4xNjk3MTE4MDM3LjAuMC4w\&tab=description) or Arasaka cyber body.
+⛔NOTE The Adonis body is not compatible with [Arasaka cyber arms](https://www.nexusmods.com/cyberpunk2077/mods/1099?_gl=1%2Ac4znfv%2A_ga%2ANTM5MzA5NTU4LjE2OTQ4NzkyMzY.%2A_ga_N0TELNQ37M%2AMTY5NzEwMTgzMC4xNTEuMS4xNjk3MTE4MDM3LjAuMC4w\&tab=description) or Arasaka cyber body.
 
 ***
 
@@ -1405,9 +1410,10 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 > High Tech-Low Life. Choose your style choom.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
+- You can purchase cyberware that enables the ability to toggle a night vision mode.
+- You set up to 5 Quickhack load-outs for your Cyberdeck with an easy-to-use interface in the Cyberdeck equip menu give each loadout a custom name; save and load loadouts at any time.
 - Hundreds of pieces of cyberware were added to the atelier store.
 - All Quickhacks and Talent shards have been added to the Atelier shop.
-- You can purchase cyberware that enables the ability to toggle a night vision mode.
 </details>
 
 ***
@@ -1526,7 +1532,7 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 - 26 Custom Pose packs. Contains over 1300 Poses.
 - 100+ Props.
-- Nibbles in photo Mode.
+- Nibbles in Photo Mode.
 - Photo mode unlocker.
 
 <details><summary>CLICK TO SEE ALL STUDIO 77 MODS</summary>
@@ -1625,16 +1631,15 @@ If you enjoy this collection, **PLEASE** endorse the mod authors and Support me 
 
 Special thanks to these chooms who helped make this collection preem. And everyone on the Nexus & The Cyberpunk modding Discords.
 
+- [Magic Beanware](https://www.nexusmods.com/users/197258372)
+- Fenrir
+- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
+- DovaDigital
+- [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
-- [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)
-- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
-- Jinxy 𝓩𝓸𝓶𝓫𝓲𝓮 Hyperdrive
-- Fenrir
-- The Magnificent Doctor Presto
-- Starfox
-- NDLWX
 - Rfuzzo
+- The Magnificent Doctor Presto
 
 And all the teams and modders behind all the tools that make cyberpunk 2077 modding possible.
 
