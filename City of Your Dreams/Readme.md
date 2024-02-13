@@ -1,4 +1,4 @@
-**Updated and Compatible with 2.1**
+**✅Updated and Compatible with 2.11**
 
 \
 ![](https://s5.gifyu.com/images/S8Z9l.gif)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Your Dreams](https://) for **Cyberpunk 2077**.
@@ -30,6 +30,7 @@ This is a collection of the Main Core Mods needed to Mod Cyberpunk 2077. Downloa
 <details><summary>⛔DO NOT</summary>
 - Install this collection if **Cyberpunk** is installed on an **HDD**.
 - Update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
+- Use REDmod none of our Collections support or use REDmod.
 </details>
 
 <details><summary>⛔MAKE A BACKUP SAVE</summary>
@@ -41,8 +42,7 @@ C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 </details>
 
 <details><summary>⛔HOW TO UPDATE</summary>
-**1**) Create a new Profile in Vortex and enable it.
-
+- **1**) Create a new Profile in Vortex and enable it.
 - **2**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/xfktu4/revisions/6?utm_medium=vortex\&utm_source=vortex\&utm_campaign=view_collection\&utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
 - **3**) When prompted to select which profile to install to, select the new profile you created in Step **1**)
 - **4**) Once the update is downloaded you can remove the old profile. But ⛔**DO NOT** remove the archives.
@@ -195,16 +195,15 @@ If you enjoy this collection, **PLEASE** endorse the mod authors and Support me 
 
 Special thanks to these chooms who helped make this collection preem. And everyone on the Nexus & The Cyberpunk modding Discords.
 
+- [Magic Beanware](https://www.nexusmods.com/users/197258372)
+- Fenrir
+- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
+- DovaDigital
+- [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
-- [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)
-- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
-- Jinxy 𝓩𝓸𝓶𝓫𝓲𝓮 Hyperdrive
-- Fenrir
-- Starfox
-- Jeridlee
-- NDLWX
 - Rfuzzo
+- The Magnificent Doctor Presto
 
 And all the teams and modders behind all the tools that make cyberpunk 2077 modding possible.
 
