@@ -1,4 +1,4 @@
-**Updated and compatible with Patch 2.1**
+**✅Updated and compatible with Patch 2.1**
 
 ### &#x20;   ![](https://s5.gifyu.com/images/S8Z9l.gif)
 
@@ -28,7 +28,7 @@ Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm e
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![img](https://i.imgur.com/HJkjnor.png)
+![](https://s13.gifyu.com/images/SC1lw.png)
 
 - Easy to follow step-by-step installation guide.
 - 70+ Grahics mods to enhance cyberpunk 2077.
@@ -42,11 +42,12 @@ Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm e
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-### ![img](https://i.imgur.com/vKOjnBL.png)
+### ![](https://s13.gifyu.com/images/SC1EU.png)
 
 <details><summary>⛔DO NOT</summary>
 - Install this collection if **Cyberpunk** is installed on an **HDD**.
 - Update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
+- Use REDmod none of our Collections support or use REDmod.
 </details>
 
 <details><summary>⛔MAKE A BACKUP SAVE</summary>
@@ -75,7 +76,7 @@ Use Vortex to launch the game.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## ![img](https://i.imgur.com/JyLQDVe.png)
+## ![](https://s13.gifyu.com/images/SC1lz.png)
 
 <details><summary>⏰INSTALL TIME</summary>
 ***
@@ -217,7 +218,7 @@ You can find me in [v2's discord here](https://discord.gg/v2-s-collections-10761
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![img](https://i.imgur.com/zCpg0Fp.png)
+![](https://s13.gifyu.com/images/SC1l3.png)
 
 **⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Cyberpunk2077, or the collection when you see errors on Vortex.
 
@@ -275,7 +276,7 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![img](https://i.imgur.com/u4G5pz5.png)
+![](https://s13.gifyu.com/images/SC1ls.png)
 
 ***
 
@@ -382,7 +383,7 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![img](https://i.imgur.com/DlgYZel.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
+![](https://s13.gifyu.com/images/SC1lh.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
 
 Please let us know if you have any issues with this collection I'm sure we can figure it out.
 
@@ -390,14 +391,15 @@ If you enjoy this collection, **PLEASE** endorse the mod authors and Support me 
 
 Special thanks to these chooms who helped make this collection preem. And everyone on the Nexus and the Cyberpunk modding Discords.
 
+- [Magic Beanware](https://www.nexusmods.com/users/197258372)
+- Fenrir
+- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
+- DovaDigital
+- [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
-- [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)
-- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
-- Jinxy 𝓩𝓸𝓶𝓫𝓲𝓮 Hyperdrive
-- Fenrir
-- Starfox
-- Jeridlee
+- Rfuzzo
+- The Magnificent Doctor Presto
 
 And all the teams and modders behind all the tools that make cyberpunk 2077 modding possible.
 

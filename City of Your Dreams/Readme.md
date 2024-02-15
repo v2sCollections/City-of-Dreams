@@ -7,7 +7,7 @@ This is a collection of the Main Core Mods needed to Mod Cyberpunk 2077. Downloa
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![img](https://i.imgur.com/tuwIgmm.png)
+![](https://s13.gifyu.com/images/SC1lE.png)
 
 - Easy to follow step-by-step installation guide.
 - [Discord Server](https://discord.gg/v2-s-collections-1076179431195955290)-with a growing community.
@@ -19,13 +19,13 @@ This is a collection of the Main Core Mods needed to Mod Cyberpunk 2077. Downloa
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-- ![img](https://i.imgur.com/HJkjnor.png)All Core Mods needed to Mod Cyberpunk 2077.
+- ![](https://s13.gifyu.com/images/SC1lw.png)All Core Mods needed to Mod Cyberpunk 2077.
 - Virtual Atelier so you can add all the items and clothes you want.
 - Virtual Car Dealer so you can add all the Vehicles you want.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-### ![img](https://i.imgur.com/vKOjnBL.png)
+### ![](https://s13.gifyu.com/images/SC1EU.png)
 
 <details><summary>⛔DO NOT</summary>
 - Install this collection if **Cyberpunk** is installed on an **HDD**.
@@ -58,7 +58,7 @@ Use Vortex to launch the game.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## ![img](https://i.imgur.com/JyLQDVe.png)
+## ![](https://s13.gifyu.com/images/SC1lz.png)
 
 <details><summary>⏰INSTALL TIME</summary>
 ***
@@ -187,7 +187,7 @@ https://www.youtube.com/watch?v=Nspq\_b42mTs
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![img](https://i.imgur.com/DlgYZel.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
+![](https://s13.gifyu.com/images/SC1lh.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
 
 Please let us know if you have any issues with this collection I'm sure we can figure it out.
 

@@ -1,5 +1,5 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
-![img](https://i.imgur.com/zCpg0Fp.png)
+![img](https://s9.gifyu.com/images/SCGXK.png)
 
 **⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Cyberpunk2077, or the collection when you see errors on Vortex.
 

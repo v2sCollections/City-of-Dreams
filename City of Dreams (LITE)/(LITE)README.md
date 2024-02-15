@@ -24,7 +24,7 @@ This collection is extensively tested with every new version, because we want to
 
 ![img](https://i.imgur.com/wAJUpeU.png)![](https://s6.gifyu.com/images/S664Z.png)
 
-![img](https://i.imgur.com/tuwIgmm.png)
+![](https://s13.gifyu.com/images/SC1lE.png)
 
 [![](https://s6.gifyu.com/images/S6n82.png)](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)
 
@@ -32,7 +32,7 @@ This collection is extensively tested with every new version, because we want to
 
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Cyberpunk 2077.
 - Easy to follow step-by-step installation guide.
-- Only- [5](https://)GB in download size for- [300](https://)+ mods. Optional Mods [5](https://)GB.
+- Only- [5](https://)GB in download size for- [350](https://)+ mods. Optional Mods [6](https://)GB.
 - Mods specifically created for the collection.
 - Support for other Modular Expansion Packs.
 - Setup Video-[HERE](https://)
@@ -42,9 +42,11 @@ This collection is extensively tested with every new version, because we want to
 - Giveaways. Nexus Premium/Game Keys/Discord Nitro (Every Week).&#x20;
 - and much much more Join our Discord for more information.
 
-![img](https://i.imgur.com/wAJUpeU.png)
+![](https://i.imgur.com/wAJUpeU.png)
 
-### ![img](https://i.imgur.com/vKOjnBL.png)
+![](https://s13.gifyu.com/images/SC1lw.png)![](https://s13.gifyu.com/images/SC1Uz.png)
+
+### ![](https://s13.gifyu.com/images/SC1EU.png)
 
 <details><summary>⛔DO NOT</summary>
 - Install this collection if **Cyberpunk** is installed on an **HDD**.
@@ -78,7 +80,7 @@ Use Vortex to launch the game.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## ![img](https://i.imgur.com/JyLQDVe.png)
+## ![](https://s13.gifyu.com/images/SC1lz.png)
 
 <details><summary>⏰INSTALL TIME</summary>
 ***
@@ -281,7 +283,9 @@ I have added the Reshade below.
 </details>
 
 <details><summary>⌨️ KEYBINDS</summary>
-![](https://camo.githubusercontent.com/71498d3b97846faa765d38d209aefd3ee430c046f95ab05930ce0f5e03d1c039/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4b657962696e64732e706e67)I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list below.
+![](https://camo.githubusercontent.com/71498d3b97846faa765d38d209aefd3ee430c046f95ab05930ce0f5e03d1c039/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4b657962696e64732e706e67)![](https://s9.gifyu.com/images/SCGXH.png)
+
+I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list below.
 
 ![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
 
@@ -392,7 +396,7 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![img](https://i.imgur.com/zCpg0Fp.png)
+![](https://s13.gifyu.com/images/SC1l3.png)
 
 **⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Cyberpunk2077, or the collection when you see errors on Vortex.
 
@@ -467,17 +471,15 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![img](https://i.imgur.com/u4G5pz5.png)
+![](https://s13.gifyu.com/images/SC1ls.png)
 
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
+![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGXq.png)
 
-![](https://s5.gifyu.com/images/S8oMu.png)To use **CET** (**Cyber Engine Tweaks)** use **(F11)** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Third person camera, Vehicle camera and many more.
+> To use** CET** (**Cyber Engine Tweaks)** use** (F11)** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Third person camera, Vehicle camera and many more.
 
 ![](https://s11.gifyu.com/images/Screenshot-2023-04-24-174314.png)
 
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
-
-## ![](https://s5.gifyu.com/images/S8opb.png)
+![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGXm.png)
 
 > Most mods have in-game settings so you can set the difficulties as you wish for an easier or more challenging experience.
 
@@ -512,9 +514,7 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 ![](https://s12.gifyu.com/images/Untitedgrled.jpg)
 
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
-
-## ![](https://s5.gifyu.com/images/S8oMv.png)Features
+### ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGXv.png)Features
 
 > Many fixes to vanilla game bugs.
 
@@ -524,8 +524,6 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 - Fixes River's dialogue in Holo calls it now actually plays the same as talking to him in person.
 - Fixes Kerry's holo call Greeting/Farewell now plays properly.
 - Fixes mitches jacket with one that fits correctly.
-- Fixes sleeves automatically rolling up for long-sleeved clothes when the first-person perspective camera is active.
-- Fixes the dark box shadows cast by holo text screens using ray/path tracing.
 - Fixes textures on Dino Dinovic's chest tattoo.
 - Fixes disable the hiding, of the Stamina bar.
 - Fixes the issue where the slowest cars had the harshest delivery timers for Muammar's repeatable courier missions.
@@ -543,9 +541,7 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 - Removes the Strength skill check from the dumpster in front of Brendan.
 </details>
 
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
-
-## ![](https://s5.gifyu.com/images/S8oph.png)Features
+### ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGXk.png)Features
 
 > The collection comes with many improvements to the graphics from upscaled textures to custom textures and our own reshade cyberpunk has never looked better. And if this isnt enough you can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) ⛔(This is for high-end systems only [16](https://) GB Vram+)
 >
@@ -590,19 +586,17 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=user+files), nearly all texture optimization or upscaling for Skyrim and Cyberpunk 2077, including [Performance Optimized Textures for all of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/68055). My work has been featured in a number of gaming magazines over the past two years. You can find me in [v2's discord here](https://discord.gg/v2-s-collections-1076179431195955290).
 </details>
 
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
-
-## ![](https://s5.gifyu.com/images/S8opH.png)Features
+### ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGDX.png)Features
 
 > The collection comes with many improvements and adjustments to the core gameplay of cyberpunk. This will suit all playstyles wether you want to cruise your way through the game or you want a hardcore experiance the collection has it all.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - V now has a jetpack.
 - V can now hang off walls and jump from wall to wall.
-- V can now slide sideways. More flexibility on the slide's trajectory. Improves camera control when sliding. Prevents stairs and small obstacles like sidewalks from canceling the slide.
 - Darkens the edges of the screen when your stamina is low.
 - Third-person mode.
 - Change to any weather at any time, from the mod menu. Can also be used to reset/fix weather to normal 24-hour changing weather when the game gets stuck on just one weather.
+- Personal metro assistant which helps you navigate through NCART metro stations during your journeys in Night City.
 </details>
 
 ***
@@ -786,9 +780,7 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 - **Tech Nullifying Weave:** Resistant to Tech damage (0.5x)
 </details>
 
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
-
-## ![](https://s5.gifyu.com/images/S8op4.png)Features
+### ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGXh.png)Features
 
 > The collection comes with many quality of life improvements from the small things that annoy you to the entire user interface of cyberpunk 2077.
 
@@ -881,9 +873,7 @@ HUDitor allows players to move & resize some of the main widgets on the screen.
 - Adds additional loot markers on looting containers that show which types of loot are in it.
 </details>
 
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
-
-## ![](https://s5.gifyu.com/images/S8oMg.png)Features
+### ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGXE.png)Features
 
 > In-game cheat menu allows for full customization of the following gameplay elements.
 
@@ -1011,11 +1001,7 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 
 ###
 
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
-
-## ![](https://s5.gifyu.com/images/S8opI.png)
-
-## Features
+### ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGX9.png)Features
 
 > 100s of immersive features added to the game. From NPC engagement to many new actions for V.
 
@@ -1044,6 +1030,7 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 - V can play the arcade machines.
 - V can now smoke, drink, and eat while standing idle anywhere.
 - V can speak Japanese to Asian NPCs and have them reply in Japanese.
+- V now has access to a computer, anywhere; similar to TV Anywhere (+ Arcade Anywhere). Grants on-the-go access to the Net, including support by default Virtual Atelier.
 </details>
 
 ### **NPC Specific Immersion**
@@ -1158,9 +1145,7 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 - Choose from 20 custom themes for Vs apartments.
 </details>
 
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
-
-## ![](https://s5.gifyu.com/images/S8oMO.png)Features
+### ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGX3.png)Features
 
 > The collection comes with many buffs and nerfs to combat and weapons to balance the game.
 
@@ -1177,7 +1162,9 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 - Allows you to unequip weapon mods, and allows you to unequip sniper scopes. The mods and scopes auto-retrieve on weapon sell, drop, or disassemble.
 </details>
 
-### ![](https://s12.gifyu.com/images/Cyan-Rule.png)Appearance Change Unlocker - Character Preset Manager
+### ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGXL.png)
+
+### Appearance Change Unlocker - Character Preset Manager
 
 https://www.youtube.com/watch?v=-CNgjr00z1o
 
@@ -1187,9 +1174,7 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 > This mod allows you to save and create character presets. Additionally, it unlocks all options in the mirror in your apartment so you can customize your character without going to a ripperdoc.
 
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
-
-## ![](https://s5.gifyu.com/images/S8oMS.png)Features
+### ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGXw.png)Features
 
 > Many XXX Features.
 
@@ -1215,11 +1200,7 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 > - More revealing clothing for Female Sex Worker and Hologram NPCs.
 > - Nude Tube Dancer NPCs in The Afterlife club.
 
-***
-
-##
-
-### ![](https://s5.gifyu.com/images/S8oMf.png)Features
+### ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGXT.png)Features
 
 > High Tech-Low Life. Choose your style choom.
 
@@ -1232,14 +1213,12 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 ![](https://s12.gifyu.com/images/Cyberarms.png)[Arasaka Cyberarms](https://www.nexusmods.com/cyberpunk2077/mods/1099). by  [Aanderz](https://www.nexusmods.com/cyberpunk2077/users/861683) ***(OPTIONAL)***  Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
 
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
-
-## ![](https://s5.gifyu.com/images/S8op0.png)Features
+### ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGXN.png)Features
 
 > Make modifications to your vehicle, fly around Night City or buy custom vehicles every aspect of driving and vehicles has been modified.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
-- &#x20;V can send their vehicle away.
+- V can send their vehicle away.
 - V can now purchase all vehicles from the in-game atelier store.
 - V can control vehicle headlights and windows.
 - V can change the brightness and distance of vehicle headlights.
@@ -1253,23 +1232,45 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 ### **Custom Vehicles**
 
 - [Blade Runner Spinner](https://www.nexusmods.com/cyberpunk2077/mods/7916).
-- [02' Nissan Skyline GT-R R34](https://www.nexusmods.com/cyberpunk2077/mods/7606).
-- [67 Chevrolet Impala](https://www.nexusmods.com/cyberpunk2077/mods/8373).
-- [92' NSX Rocket Bunny](https://www.nexusmods.com/cyberpunk2077/mods/7533).
-- [95' McLaren F1](https://www.nexusmods.com/cyberpunk2077/mods/7845).
 - [Quadra Turbo K.S Edition](https://www.nexusmods.com/cyberpunk2077/mods/8260).
-- [Mercedes-Benz 190E W201](https://www.nexusmods.com/cyberpunk2077/mods/8521?tab=description).
-- [Pagani Zonda Cinque roadster](https://www.nexusmods.com/cyberpunk2077/mods/8795?tab=description).
-- [1993 Nissan 240SX (S13)](https://www.nexusmods.com/cyberpunk2077/mods/8730).
+
+### EURO
+
 - [Audi R8 Liberty Walk](https://www.nexusmods.com/cyberpunk2077/mods/8827).
 - [Lamborghini Terzo Millennio](https://www.nexusmods.com/cyberpunk2077/mods/2398).
-- [Ford Mustang RTR Spec 5](https://www.nexusmods.com/cyberpunk2077/mods/8912).
+- [Lamborghini Huracan STO](https://www.nexusmods.com/cyberpunk2077/mods/11254?tab=description)
+- [Lamborghini Huracan Libertywalk](https://www.nexusmods.com/cyberpunk2077/mods/11877?tab=description).
+- [Lamborghini Urus](https://www.nexusmods.com/cyberpunk2077/mods/12022?tab=description).
+- [Mercedes-Benz 190E W201](https://www.nexusmods.com/cyberpunk2077/mods/8521?tab=description).
+- [Mercedes-Benz 190E](https://www.nexusmods.com/cyberpunk2077/mods/8498).
+- [Mercedes Benz c63s AMG](https://www.nexusmods.com/cyberpunk2077/mods/9075).
+- [2019 Mercedes G63 AMG](https://www.nexusmods.com/cyberpunk2077/mods/12167).
+- [BMW M8 Competition Coupe](https://www.nexusmods.com/cyberpunk2077/mods/10397).
+- [Rolls-Royce Wraith](https://www.nexusmods.com/cyberpunk2077/mods/8618).
+- [Pagani Zonda Cinque roadster](https://www.nexusmods.com/cyberpunk2077/mods/8795?tab=description).
 - [Porsche 918 Spyder.](https://www.nexusmods.com/cyberpunk2077/mods/9125?tab=description)
-- [Mercedes Benz c63s AMG](https://www.nexusmods.com/cyberpunk2077/mods/9075?tab=description).
-- [Bugatti Chiron SuperSport](https://www.nexusmods.com/cyberpunk2077/mods/9147?tab=description).
-- [Nissan GTR](https://www.nexusmods.com/cyberpunk2077/mods/8391?tab=description).
-- [Porsche 911 GT3](https://www.nexusmods.com/cyberpunk2077/mods/8370?tab=description).
+- [Koenigsegg Regera](https://www.nexusmods.com/cyberpunk2077/mods/10134).
 - [Mclaren 765LT](https://www.nexusmods.com/cyberpunk2077/mods/10193?tab=description).
+- [95' McLaren F1](https://www.nexusmods.com/cyberpunk2077/mods/7845).
+- [Bugatti Chiron SuperSport](https://www.nexusmods.com/cyberpunk2077/mods/11331?tab=description).
+- [Ferrari 812 Competizione](https://www.nexusmods.com/cyberpunk2077/mods/11926).
+- [Aston Martin Valkyrie](https://www.nexusmods.com/cyberpunk2077/mods/12015?tab=description).
+
+### AMERICAN
+
+- [Ford Mustang RTR Spec 5](https://www.nexusmods.com/cyberpunk2077/mods/8912).
+- [Ford Hoonicorn](https://www.nexusmods.com/cyberpunk2077/mods/12029?tab=description).
+- [67 Chevrolet Impala](https://www.nexusmods.com/cyberpunk2077/mods/8373).
+- [Cadillac Escalade (III) ESV Platinum](https://www.nexusmods.com/cyberpunk2077/mods/12377?tab=description).
+- [Dodge Challenger SRT Demon](https://www.nexusmods.com/cyberpunk2077/mods/12556).
+
+### JDM
+
+- [92' NSX Rocket Bunny](https://www.nexusmods.com/cyberpunk2077/mods/7533).
+- [02' Nissan Skyline GT-R R34](https://www.nexusmods.com/cyberpunk2077/mods/7606).
+- [1993 Nissan 240SX (S13)](https://www.nexusmods.com/cyberpunk2077/mods/8730).
+
+### BIKES
 </details>
 
 ##
@@ -1309,13 +1310,13 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![img](https://i.imgur.com/Xe7LiSI.png)
+![](https://s13.gifyu.com/images/SC1lM.png)
 
 ⛔ I recommend **NOT** installing extra mods that are not part of the collection but if you need more Chrome i ain't stopping you choom we have a dedicated channel in Discord for Chrome Junkies like you check it out so you don't flatline.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## ![img](https://i.imgur.com/sLuJj5J.png)
+## ![](https://s13.gifyu.com/images/SC1lL.png)
 
 Please do not forget that when you install any extra collections, it's your responsibility and they may not work as intended unless curated by me.
 
@@ -1323,7 +1324,7 @@ You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpu
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![img](https://i.imgur.com/ejtvYe2.png)
+![](https://s13.gifyu.com/images/SC1lp.png)
 
 <details><summary>CLICK HERE FOR OUR PERFORMANCE GUIDE</summary>
 Recommended In-game settings These settings will give a small performance boost without sacrificing quality.
@@ -1348,7 +1349,7 @@ Recommended In-game settings These settings will give a small performance boost 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![img](https://i.imgur.com/rlYi0uq.png)
+![](https://s13.gifyu.com/images/SC1l9.png)
 
 <details><summary>CLICK FOR SYSTEM REQUIREMENTS</summary>
 - &#x20;VRAM> 8GB
@@ -1363,7 +1364,7 @@ Recommended In-game settings These settings will give a small performance boost 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![img](https://i.imgur.com/DlgYZel.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
+![](https://s13.gifyu.com/images/SC1lh.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
 
 Please let us know if you have any issues with this collection I'm sure we can figure it out.
 

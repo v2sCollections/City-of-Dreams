@@ -1,5 +1,5 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
-![img](https://s12.gifyu.com/images/Su3dO.png)
+![img](https://s9.gifyu.com/images/SCGXs.png)
 
 # Guides
 
