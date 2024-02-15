@@ -1,4 +1,4 @@
-![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
+![img](https://s13.gifyu.com/images/SjBKh.png)
 ![](https://s9.gifyu.com/images/SCGXH.png)
 
 These can be configured in game but ive configured them to get you started. These are setup for a full size KB.
