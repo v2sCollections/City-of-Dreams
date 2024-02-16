@@ -21,6 +21,35 @@
 ## Crashes
 
 <details>
+<summary>My game is crashing when changing keybinds or loading a save</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+This is a wierd vanilla crash introduced in **2.11**. The following guide should help to rectify the crash.
+
+1) Go to your main game folder.
+
+**Steam**
+```
+DRIVE LETTER\Steam\steamapps\common\Cyberpunk 2077\bin\x64
+```
+**GoG**
+```
+DRIVE LETTER\GOG Galaxy\Games\Cyberpunk 2077\bin\x64
+```
+
+2) Now, find **CChromaEditorLibrary64.dll** file and rename it to something else (doesn't really matter what name you choose).
+
+3) Once done you should be able to change your keybinds and launch the game without any crashes.
+
+## [Other Bugs introduced in 2.11](https://youtu.be/QDUn_TuoTdg?si=3xhtgRk0W4Q_7eMk&t=109)
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+<details>
 <summary>My game is crashing on startup</summary>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
