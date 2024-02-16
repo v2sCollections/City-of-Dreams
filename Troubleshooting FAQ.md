@@ -110,13 +110,20 @@ You need to disable **"Analytics"**
 
 If you are crashing or experiencing errors on startup and a Cyberclean has not helped try the following.
 
+![img](https://s9.gifyu.com/images/SF28Y.png)
+
 Right-click on the following Mods in Vortex and select reinstall.
 
 **1)** Cyber Engine Tweaks
+
 **2)** redscript
+
 **3**) Archive XL
+
 **4**) Codeware
+
 **5**) Tweak XL
+
 **6**) Red4ext
 
 ![img](https://i.imgur.com/wAJUpeU.png)
