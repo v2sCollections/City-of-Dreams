@@ -50,6 +50,37 @@ DRIVE LETTER\GOG Galaxy\Games\Cyberpunk 2077\bin\x64
 
 
 <details>
+<summary>Keybind Crash</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+This is a weird vanilla crash introduced in **2.11**. The following guide should help to rectify the crash.
+
+### If you can launch the game to the main menu
+
+**1**) Launch the game and navigate to the **"Keybinds"**
+
+**2**) Reset the keybinds to **"default**
+
+
+### If you can't launch the game to the main menu
+
+**1**) Go to the following location
+```
+DRIVE LETTER:\Users\YOURUSERNAME\AppData\Local\CD Projekt Red\Cyberpunk 2077
+```
+**2**) Delete the **"UserSettings.json"**
+
+**3**) Now you will be able to launch your game
+
+*NOTE* This method will remove your settings configuration you will need to adjust your settings again.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+<details>
 <summary>My game is crashing on startup</summary>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
