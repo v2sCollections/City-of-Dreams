@@ -1,4 +1,4 @@
-**✅Updated and compatible with Patch 2.11**
+### ✅Compatible with Patch 2.11                                      ✅ **Compatible** with or without Phantom Liberty
 
 https://www.youtube.com/watch?v=sn-Ju\_OWP\_8
 
@@ -20,7 +20,9 @@ And that's it choom I hope to see you in Night City but now it's time for me to 
 
 ### [Collection not working ❓](https://)
 
+<details><summary>CLICK HERE</summary>
 This collection is extensively tested with every new version, because we want to ensure you're in our City of Dreams quickly. If ever there is an issue, please join our community [Discord](https://discord.gg/v2-s-collections-1076179431195955290) so we can provide the fastest help that our team of Legends can deliver. Often issues can be solved quicker than a downvote!
+</details>
 
 ![img](https://i.imgur.com/wAJUpeU.png)![](https://s6.gifyu.com/images/S664Z.png)
 
@@ -475,7 +477,7 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGXq.png)
 
-> To use** CET** (**Cyber Engine Tweaks)** use** (F11)** on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Third person camera, Vehicle camera and many more.
+> To use\*\* CET\*\* (**Cyber Engine Tweaks)** use\*\* (F11)\*\* on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Third person camera, Vehicle camera and many more.
 
 ![](https://s11.gifyu.com/images/Screenshot-2023-04-24-174314.png)
 
@@ -512,7 +514,7 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 - [V's Edgerunners Mansion - Apartment DLC](https://www.nexusmods.com/cyberpunk2077/mods/5437)
 </details>
 
-![](https://s12.gifyu.com/images/Untitedgrled.jpg)
+
 
 ### ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGXv.png)Features
 
@@ -1019,6 +1021,7 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 - The weather has been completely rebalanced you will see more changes in weather.
 - NPCs will now casually interact with you as you walk near them.
 - Better viewing angles when in first person.
+- Many Night City ads have been animated.
 - V can now pay off NCPD to get rid of your crime status.
 - V can now have drinks at bars around Night City.
 - V can now eat at food vendors around Night City.
@@ -1395,9 +1398,7 @@ And all the teams and modders behind all the tools that make cyberpunk 2077 modd
 
 If you would like to support me so I can afford some new chrome click the button below and chuck me some eddies detes attached. Can't donate? I understand a simple thank you and endorsement is much appreciated.
 
-[![](https://s11.gifyu.com/images/S4peN.png)](https://patreon.com/v2sCollections?utm_medium=clipboard_copy\&utm_source=copyLink\&utm_campaign=creatorshare_creator\&utm_content=join_link)
-
-Or, [buy me a coffee](https://www.buymeacoffee.com/2077v2)
+[![](https://s9.gifyu.com/images/SFq3d.png)](https://www.buymeacoffee.com/2077v2)[![](https://s9.gifyu.com/images/SFq33.png)](https://patreon.com/v2sCollections?utm_medium=clipboard_copy\&utm_source=copyLink\&utm_campaign=creatorshare_creator\&utm_content=join_link)
 
 ## ![img](https://i.imgur.com/wAJUpeU.png)[Disclaimer](https://)
 

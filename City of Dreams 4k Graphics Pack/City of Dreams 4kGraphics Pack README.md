@@ -1,4 +1,4 @@
-**✅Updated and compatible with Patch 2.1**
+### ✅Compatible with Patch 2.11                                      ✅ **Compatible** with or without Phantom Liberty
 
 ### &#x20;   ![](https://s5.gifyu.com/images/S8Z9l.gif)
 
@@ -414,9 +414,7 @@ And all the teams and modders behind all the tools that make cyberpunk 2077 modd
 
 If you would like to support me so I can afford some new chrome click the button below and chuck me some eddies detes attached. Can't donate? I understand a simple thank you and endorsement is much appreciated.
 
-[![](https://s11.gifyu.com/images/S4peN.png)](https://patreon.com/v2sCollections?utm_medium=clipboard_copy\&utm_source=copyLink\&utm_campaign=creatorshare_creator\&utm_content=join_link)
-
-Or, [buy me a coffee](https://www.buymeacoffee.com/2077v2)
+[![](https://s9.gifyu.com/images/SFq3d.png)](https://www.buymeacoffee.com/2077v2)[![](https://s9.gifyu.com/images/SFq33.png)](https://patreon.com/v2sCollections?utm_medium=clipboard_copy\&utm_source=copyLink\&utm_campaign=creatorshare_creator\&utm_content=join_link)
 
 ### ![img](https://i.imgur.com/wAJUpeU.png)Disclaimer
 

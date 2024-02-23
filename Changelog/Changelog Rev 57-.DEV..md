@@ -49,6 +49,7 @@ N/A
 ## NEW MODS ADDED 
 
 - [GITS 3.X](https://www.nexusmods.com/cyberpunk2077/mods/9274?tab=description)
+- [Enable Advert Animations (Ads)](https://www.nexusmods.com/cyberpunk2077/mods/13014?tab=description)
 
 ## BUGS
 
