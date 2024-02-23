@@ -682,7 +682,7 @@ bin/x64/Cyberpunk2077.exe
 
 4) Look for File version in the table - it should match one of the numbers below
 
-![img](https://s11.gifyu.com/images/ScieU.png)
+![img](https://s9.gifyu.com/images/SFIbd.png)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -699,5 +699,3 @@ Go to the[Cyberpunk Modding WIKI](https://wiki.redmodding.org/cyberpunk-2077-mod
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 </details>
-
-![](https://s12.gifyu.com/images/SuG0u.png)
