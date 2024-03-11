@@ -1,8 +1,8 @@
-### ✅Compatible with Patch 2.11                                      ✅ **Compatible** with or without Phantom Liberty
+### ✅Compatible with Patch 2.12                                      ✅ **Compatible** with or without Phantom Liberty
 
 https://www.youtube.com/watch?v=sn-Ju\_OWP\_8
 
-![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://) for **Cyberpunk 2077**.
+![](https://i.imgur.com/wAJUpeU.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://) for **Cyberpunk 2077**.
 
 <details><summary>ABOUT ME</summary>
 Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection),, I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/v2-s-collections-1076179431195955290) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
@@ -146,22 +146,24 @@ This collection is extensively tested with every new version, because we want to
 
 [![](https://s6.gifyu.com/images/S6n4A.png)](https://discord.gg/v2-s-collections-1076179431195955290)
 
-- These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Cyberpunk 2077.
-- The most exstensive mod collection on nexus for cyberpunk 2077.
+- These are the best mods from the most talented mod authors and are a must-have to immerse yourself in **Cyberpunk 2077**.
+- The most exstensive mod collection on nexus for **Cyberpunk 2077**.
 - Easy to follow step-by-step installation guide.
-- Only-[12](https://)Gb in download size for [1000](https://) mods. Optional Mods add another [10](https://)Gb
+- Only-[12](https://)Gb in download size for [1100](https://) mods. Optional Mods add another [10](https://)Gb
 - Mods specifically created for the collection.
-- Support for other Modular Expansion Packs.
+- Support for other **Modular Expansion Packs**.
 - Setup Video-[HERE](https://)
 - [Github Repository](https://github.com/2077v2/City-of-Dreams)-with Guides/FAQs and much more.
-- Continuous Support in Comments and on Discord.
-- Live voice support.
-- Giveaways. Nexus Premium/Game Keys/Discord Nitro (Every Week).&#x20;
+- Continuous **Support** in Comments and on Discord.
+- Live voice **Support**.
+- **Giveaways**. Game Keys/Discord Nitro (Every Week).&#x20;
 - and much much more Join our Discord for more information.
 
-![img](https://i.imgur.com/wAJUpeU.png)![](https://s13.gifyu.com/images/SC1lw.png)
+![img](https://i.imgur.com/wAJUpeU.png)
 
-![](https://s13.gifyu.com/images/SC1U2.png)
+![](https://s13.gifyu.com/images/SC1lw.png)
+
+![](https://s9.gifyu.com/images/SUwOb.gif)
 
 ### ![](https://s13.gifyu.com/images/SC1EU.png)
 
@@ -181,12 +183,20 @@ C:\Users\Your username\Saved Games\CD Projekt Red\Cyberpunk 2077
 </details>
 
 <details><summary>⛔HOW TO UPDATE</summary>
+***
+
+https://www.youtube.com/watch?v=8KyTd3YAaUM
+
+![](https://i.imgur.com/wAJUpeU.png)
+
 - **1**) Create a new Profile in Vortex and enable it.
 - **2**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
 - **3**) When prompted to select which profile to install to, select the new profile you created in Step **1**)
 - **4**) Once the update is downloaded you can remove the old profile. But ⛔**DO NOT** remove the archives.
 
 ⛔**NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
+
+![](https://i.imgur.com/wAJUpeU.png)
 </details>
 
 <details><summary>⛔ LAUNCHING CYBERPUNK 2077</summary>
@@ -502,6 +512,10 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 - CONTROLL+SHIFT+H>Analysis
 - CONTROLL+SHIFT+K>Autohack
 
+### ![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)IDLE CONTROLS
+
+- LEFT SHIFT (hold): Idle Menu
+
 ![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
 </details>
 
@@ -629,8 +643,6 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 - [V's Edgerunners Mansion - Apartment DLC](https://www.nexusmods.com/cyberpunk2077/mods/5437)
 </details>
 
-
-
 ### ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGXv.png)Features
 
 > Many fixes to vanilla game bugs.
@@ -701,6 +713,27 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 <details><summary>ABOUT ME</summary>
 I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=user+files), nearly all texture optimization or upscaling for Skyrim and Cyberpunk 2077, including [Performance Optimized Textures for all of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/68055). My work has been featured in a number of gaming magazines over the past two years. You can find me in [v2's discord here](https://discord.gg/v2-s-collections-1076179431195955290).
+</details>
+
+***
+
+## GITS 3.X
+
+![](https://s9.gifyu.com/images/SUxKb.png)[GITS 3.X](https://www.nexusmods.com/cyberpunk2077/mods/9274?tab=description) by [BabaBooey88](https://www.nexusmods.com/cyberpunk2077/users/139665673)
+
+### Features
+
+> A huge optional graphics based mod based on the look and feel of the Ghost in the Shell movies.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- Color grading and atmosphere inspired by the 2017 live action film, and the 1995 anime adaption, respectively. Weather favoring rain and overcast.
+- Adds reflections for vehicle interiors.&#x20;
+- Local lights illuminate car interiors.
+- Increases the strength of muzzle flashes in the game and photo mode.
+- Enables reflections when riding NCART.
+- Real lighting for holograms.
+- Several MB H10 doors don't cast light, so they now have malfunctioning bulbs.
+- Improved immersive rain.
 </details>
 
 ### ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGDX.png)Features
@@ -1291,7 +1324,7 @@ https://www.youtube.com/watch?v=UkJLHFdlPhs
 
 ### Features
 
-> 100+ Shops with over 2000+ pieces of Clothing, Armour,Cyberware, Vehicles, Jewellery and Weapons added to the Alteier store these can be accessed in-game from any computer these include items from some of the most talented modders in the CP2077 community such as.
+> 100+ Shops with over 3000+ pieces of Clothing, Armour,Cyberware, Vehicles, Jewellery and Weapons added to the Alteier store these can be accessed in-game from any computer these include items from some of the most talented modders in the CP2077 community such as.
 
 ![](https://s5.gifyu.com/images/S8FWJ.png)                 [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)                                        [cubfan82](https://www.nexusmods.com/cyberpunk2077/users/48710108)                                      [Breezypunk](https://www.nexusmods.com/cyberpunk2077/users/136778058)                                   [VeegeeAlvarez](https://www.nexusmods.com/cyberpunk2077/users/120233618)
 
@@ -1337,7 +1370,7 @@ https://www.youtube.com/watch?v=UkJLHFdlPhs
 
 ***
 
-**Male V**
+## **Male V**
 
 ![](https://s6.gifyu.com/images/S8gko.png)[-KS- ADONIS Male Body](https://www.nexusmods.com/cyberpunk2077/mods/4968) by [KnowSo](https://www.nexusmods.com/cyberpunk2077/users/137109313)&#x20;
 
@@ -1456,11 +1489,14 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 - [95' McLaren F1](https://www.nexusmods.com/cyberpunk2077/mods/7845).
 - [Bugatti Chiron SuperSport](https://www.nexusmods.com/cyberpunk2077/mods/11331?tab=description).
 - [Ferrari 812 Competizione](https://www.nexusmods.com/cyberpunk2077/mods/11926).
+- [Ferrari F40](https://www.nexusmods.com/cyberpunk2077/mods/13250).
+- [Ferrari Daytona SP3](https://www.nexusmods.com/cyberpunk2077/mods/13465).
 - [Aston Martin Valkyrie](https://www.nexusmods.com/cyberpunk2077/mods/12015?tab=description).
 
 ### AMERICAN
 
 - [Ford Mustang RTR Spec 5](https://www.nexusmods.com/cyberpunk2077/mods/8912).
+- [2024 Ford Mustang GT](https://www.nexusmods.com/cyberpunk2077/mods/13248?tab=description).
 - [Ford Hoonicorn](https://www.nexusmods.com/cyberpunk2077/mods/12029?tab=description).
 - [67 Chevrolet Impala](https://www.nexusmods.com/cyberpunk2077/mods/8373).
 - [Cadillac Escalade (III) ESV Platinum](https://www.nexusmods.com/cyberpunk2077/mods/12377?tab=description).
@@ -1471,6 +1507,7 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 - [92' NSX Rocket Bunny](https://www.nexusmods.com/cyberpunk2077/mods/7533).
 - [02' Nissan Skyline GT-R R34](https://www.nexusmods.com/cyberpunk2077/mods/7606).
 - [1993 Nissan 240SX (S13)](https://www.nexusmods.com/cyberpunk2077/mods/8730).
+- [MAZDA RX7 TCP Magic](https://www.nexusmods.com/cyberpunk2077/mods/13415?tab=description).
 
 ### BIKES
 </details>
@@ -1603,7 +1640,7 @@ Recommended In-game settings These settings will give a slight performance boost
 - 1440p> RTX 3080 or RX 6800 XT
 - RAM> 16GB
 - CPU> R5 3600 or i5 9600K
-- STORAGE> 13GB
+- STORAGE> 23GB
 - STORAGE TYPE> SSD
 </details>
 
