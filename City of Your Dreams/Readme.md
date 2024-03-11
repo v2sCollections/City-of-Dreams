@@ -1,7 +1,7 @@
-### ✅Compatible with Patch 2.11                                      ✅ **Compatible** with or without Phantom Liberty
+### ✅Compatible with Patch 2.12                                      ✅ **Compatible** with or without Phantom Liberty
 
 \
-![](https://s5.gifyu.com/images/S8Z9l.gif)![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Your Dreams](https://) for **Cyberpunk 2077**.
+![](https://s5.gifyu.com/images/S8Z9l.gif)![](![]\(https://s5.gifyu.com/images/S8Z9l.gif\))![](https://i.imgur.com/wAJUpeU.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Your Dreams](https://) for **Cyberpunk 2077**.
 
 This is a collection of the Main Core Mods needed to Mod Cyberpunk 2077. Download this collection and then add any mods you want yourself.
 
