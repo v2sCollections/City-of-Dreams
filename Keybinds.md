@@ -108,4 +108,10 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 
-![](https://s12.gifyu.com/images/SuG0u.png)
+### IDLE CONTROLS
+
+- LEFT SHIFT (hold): Idle Menu
+
+
+![](https://s12.gifyu.com/images/Cyan-Rule.png)
+

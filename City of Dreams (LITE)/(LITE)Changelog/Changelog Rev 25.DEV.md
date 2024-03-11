@@ -1,6 +1,6 @@
 ![img](https://s13.gifyu.com/images/SjBKh.png)
 
-## [HEY CHOOMS Rev 57 IS HERE](https://)
+## [HEY CHOOMS Rev 25 IS HERE](https://)
 
 ## HOW TO UPDATE
 
@@ -8,7 +8,7 @@ This update requires a [Cyberclean](https://github.com/v2sCollections/City-of-Dr
 
 **1**) Create a new Profile in Vortex and enable it.
 
-**2**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy&utm_medium=social&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
+**2**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/ayfbwl/revisions/23?utm_medium=vortex&utm_source=vortex&utm_campaign=view_collection&utm_source=copy&utm_medium=social&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
 
 **3**) When prompted to select which profile to install to, select the new profile you created in Step 1
 
@@ -89,13 +89,9 @@ This update addresses a few issues.
 - [Sit Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/7299)
 - [Nano Drone](https://www.nexusmods.com/cyberpunk2077/mods/3419?tab=description)
 
-### Clothing
-
-
-
 ## REMOVED
 
-- Some Clothing
+N/A
 
 ## NEW MODS ADDED 
 
