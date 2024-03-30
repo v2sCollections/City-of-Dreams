@@ -1,4 +1,4 @@
-### ✅Compatible with Patch 2.12                                      ✅ **Compatible** with or without Phantom Liberty
+### ✅Compatible with Patch 2.12a                                    ✅ **Compatible** with or without Phantom Liberty
 
 \
 ![](https://s5.gifyu.com/images/S8Z9l.gif)![](![]\(https://s5.gifyu.com/images/S8Z9l.gif\))![](https://i.imgur.com/wAJUpeU.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Your Dreams](https://) for **Cyberpunk 2077**.
@@ -228,4 +228,4 @@ If you would like to support me so I can afford some new chrome click the button
 - ⛔DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
 - CD PROJEKT®, Cyberpunk®, Cyberpunk 2077® are registered trademarks of CD PROJEKT S.A. © 2022 CD PROJEKT S.A
 
-![img](https://i.imgur.com/wAJUpeU.png)
+![img](https://i.imgur.com/wAJUpeU.png)![](https://s12.gifyu.com/images/SVQQz.png)

@@ -1,11 +1,27 @@
-### ✅Compatible with Patch 2.11                                      ✅ **Compatible** with or without Phantom Liberty
+### ✅Compatible with Patch 2.12a                                    ✅ **Compatible** with or without Phantom Liberty
 
 ### &#x20;   ![](https://s5.gifyu.com/images/S8Z9l.gif)
 
-![](https://s11.gifyu.com/images/Uncutytitled.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Dreams 4k Graphics Pack](https://) .
+![](https://i.imgur.com/wAJUpeU.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Dreams 4k Graphics Pack](https://) .
 
 <details><summary>ABOUT ME</summary>
-Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/v2-s-collections-1076179431195955290) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
+Hey Chooms! This is a little bit about me and why I started curating mod collections
+
+Back in the 90s, I was a young kid, and I never slowed down for more than two seconds.&#x20;
+
+But this all changed one day when I visited my cousin he had a Super Nintendo!!! and I fell in love, from that moment on I knew gaming was something that called out to me.
+
+So when my parents bought my sister and i our own console (Playstation) I was over the moon, long nights playing Crash Bandicoot, Spyro and Gran Turismo you can't beat these memories.
+
+Skip forward 10 years and games like Red Dead Redemption, GTA Vice City and Need for Speed these games only solidified my love of gaming even more. Like many of us, it gave us a way to escape and let our imagination run wild.
+
+Skip forward to the current day. The time when we can create new experiences in the games that we already love what could be better than this? Modding is really a cool way to add so much more. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods and work as seamlessly as they can.
+
+So join us choombah and come along for the ride.
+</details>
+
+<details><summary>CLICK HERE FOR MORE COLLECTIONS IN THE SERIES</summary>
+
 </details>
 
 **⛔ NOTE** this is for High-end systems only. Recommended specs below:
@@ -424,4 +440,4 @@ If you would like to support me so I can afford some new chrome click the button
 - ⛔DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
 - CD PROJEKT®, Cyberpunk®, Cyberpunk 2077® are registered trademarks of CD PROJEKT S.A. © 2022 CD PROJEKT S.A
 
-![img](https://i.imgur.com/wAJUpeU.png)
+![img](https://i.imgur.com/wAJUpeU.png)![](https://s12.gifyu.com/images/SVQQz.png)

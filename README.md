@@ -1,11 +1,23 @@
-### ✅Compatible with Patch 2.12                                      ✅ **Compatible** with or without Phantom Liberty
+### ✅Compatible with Patch 2.12a                                    ✅ **Compatible** with or without Phantom Liberty
 
 https://www.youtube.com/watch?v=sn-Ju\_OWP\_8
 
 ![](https://i.imgur.com/wAJUpeU.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [CITY OF DREAMS](https://) for **Cyberpunk 2077**.
 
 <details><summary>ABOUT ME</summary>
-Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection),, I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/v2-s-collections-1076179431195955290) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
+Hey Chooms! This is a little bit about me and why I started curating mod collections
+
+Back in the 90s, I was a young kid, and I never slowed down for more than two seconds.&#x20;
+
+But this all changed one day when I visited my cousin he had a Super Nintendo!!! and I fell in love, from that moment on I knew gaming was something that called out to me.
+
+So when my parents bought my sister and i our own console (Playstation) I was over the moon, long nights playing Crash Bandicoot, Spyro and Gran Turismo you can't beat these memories.
+
+Skip forward 10 years and games like Red Dead Redemption, GTA Vice City and Need for Speed these games only solidified my love of gaming even more. Like many of us, it gave us a way to escape and let our imagination run wild.
+
+Skip forward to the current day. The time when we can create new experiences in the games that we already love what could be better than this? Modding is really a cool way to add so much more. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods and work as seamlessly as they can.
+
+So join us choombah and come along for the ride.
 </details>
 
 <details><summary>MY VISION FOR THIS COLLECTION</summary>
@@ -20,116 +32,8 @@ The only choice you don't have is the Custom one-off body by the talented Hyst. 
 And that's it choom I hope to see you in Night City but now it's time for me to Delta.
 </details>
 
-<details><summary>CLICK HERE TO SEE WHAT OTHER CHOOMS THINK OF THE COLLECTION</summary>
-![](https://camo.githubusercontent.com/cb463f13e901c2fdc57d1cb1a2f933ae6b19602d41f3892c19c9a3b8daa8448e/68747470733a2f2f7331312e67696679752e636f6d2f696d616765732f536347794b2e706e67)
+<details><summary>CLICK HERE FOR MORE COLLECTIONS IN THE SERIES</summary>
 
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### OUSEN:
-
-"I just wanted to take the time to thank you, V2, for the effort you put into creating this modlist and for the incredible gaming experience it has provided. It brings me much closer to the gaming experience I always wanted to have with Vanilla.
-
-People probably don't realize the time and work it takes to find the right functional balance with so many mods.
-
-This modlist offers a unique and customizable gaming experience that has reignited my love for the game. I used to enjoy Night City a lot, and this modlist gives it a refreshing twist.
-
-I also want to mention the work put into writing installation guides and tutorials, which are equally well-crafted with clear and concise explanations.
-
-And one more thing, I haven't mentioned yet, but I also want to highlight the kindness and constant support present on this Discord community. Of course, I'm grateful to V2, but also to Fenrir, who took the time to answer my countless questions in recent days.
-
-With that said, I must go now, I have a city to burn."
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### Fenrir:
-
-"Seeing you succeed like this with a big collection is impressive. But being here with you on your journey just on the side is huge for a little nobody like myself.
-
-I remember when I told you that this collection will grow fast and I see new names here very often, just like I suspected. It’s an awesome collection with awesome people.
-
-HUGE respect to V2 for giving us his time to fix this collection with 700+ mods to work with so little issues is just AWESOME."
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### Fronky-Bot:
-
-I'd also like to thank V2 for including a couple of my mods in the collection, and quite literally skyrocketing the downloads on them xD
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### relentless81:
-
-"Thanks for all the effort involved to make this collection. I have been enjoying it so far. Its hard sometimes to find collections that work with no issues but this one is top notch!! Great work."
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### Jinxy 𝓩𝓸𝓶𝓫𝓲𝓮 Hyperdrive:
-
-"I would like to preface this by first of all thanking the lead behind this collection V2. And all their efforts for maintaining what often can be described as a rather complex and time consuming process, maintaining a collection of mods with a database this large is no easy task, but the dedication and willingness of this individual has made City of Dreams a "Go to" Collection for many, including myself . And with the ease of which the collection has worked as well.
-
-I would also like to thank the staff of this discord for their dedication and expertise in helping solve a plethora of technical issues users can often experience, such is the nature of modding and pc's. Which it itself is no easy feat when you're dealing with potentially hundreds if not thousands of different PC configurations.
-
-Thank you also to the countless modders that without them would not make these collections possible at all. Their countless hours of testing and dedication to hundreds and hundreds of mods, and all for the love and passion of modding and sharing with the community. Making Cyberpunk even more enjoyable for us all.
-
-Thank you to CD Projekt RED for developing this game, and thank you to them for sticking with it and constantly improving the game over the course of time since it's launch, for without them no one us may even be here gathered today.
-
-And also finally a thank you to the discord community for being helpful and pleasant and making the discord a great place for all to gather and talk and about share mods etc."
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### CrazyLazyDaze:
-
-"This is an amazing collection love all the additions especially the car additions love driving around in a audi. Keep up the good work."
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### StefBC:
-
-"V2, this is a great list and fantastic support. Thank you for it. I just started playing CP2077 and am really enjoying it"
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### Combustibob:
-
-"Terrific mod compilation! Started a new playthrough after a long hiatus and this has majorly improved the fun factor, thank you!"
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### ConfidesConch:
-
-"Great list, no crashes on 1.62 ez to install an V2 always helps by questions also great discord!"
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### Spartandestroyer:
-
-"I’ve only recently stumbled across your cyberpunk collection and before that, I never even thought about trying to mod cyberpunk cause it seemed way too complicated but I gave your collection a try and can’t be happier. I had a few hiccups at first but that was mostly on my end just trying to figure things out but since then I’ve had tons of fun the collection definitely breathed new life into cyberpunk. Now you’ve gone and done it again with Starfield! I've really enjoyed what you have done so far and look forward to seeing this collection grow and blossom into the greatest collection of mods ever assembled. Thank you for all you and everyone else involved so for us. You definitely made modding fun again."
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### Loti:
-
-"thank you for this beauty of a modpack."
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### simsimsimh:
-
-"Thanks a lot V2 for the amazing collection!"
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-## Hulkovic
-
-"man i really have to say this collection is awesome its not that often that when i follow the guide 1/1 and it works out of the box really kudos to everyone who worked on this amazing collection"
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-## Luan
-
-"ive already said it but now i discovered this channel oops. I love the Cyberpunk collection almost no problems and v2 is always there to help thx"
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
 </details>
 
 ### [Collection not working ❓](https://)
@@ -149,7 +53,7 @@ This collection is extensively tested with every new version, because we want to
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in **Cyberpunk 2077**.
 - The most exstensive mod collection on nexus for **Cyberpunk 2077**.
 - Easy to follow step-by-step installation guide.
-- Only-[12](https://)Gb in download size for [1100](https://) mods. Optional Mods add another [10](https://)Gb
+- Only-[14](https://)Gb in download size for [1100](https://) mods. Optional Mods add another [10](https://)Gb
 - Mods specifically created for the collection.
 - Support for other **Modular Expansion Packs**.
 - Setup Video-[HERE](https://)
@@ -163,7 +67,7 @@ This collection is extensively tested with every new version, because we want to
 
 ![](https://s13.gifyu.com/images/SC1lw.png)
 
-![](https://s9.gifyu.com/images/SUwOb.gif)
+![](https://s9.gifyu.com/images/SUI6u.gif)
 
 ### ![](https://s13.gifyu.com/images/SC1EU.png)
 
@@ -686,6 +590,7 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 - Clean Loading Screens.
 - Limited dynamic hud elements.
 - No Camera auto-centering.
+- LODs Improved in Kabuki Gun Range.
 
 ### [Upscaled Videos Include](https://)
 
@@ -1207,6 +1112,8 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 > Adds
 
 - Johnny now spawns as a passenger with V when driving around NC.
+- Johnny can now spawn in V's other apartments, with the option to have him play guitar similar to the iguana & cat event in H10 Includes all apartments: The Glen, Corpo Plaza, and Japantown\
+  As well as the smaller safehouses: Northside Motel, and Dogtown \[Phantom Liberty required]
 
 ### **Judy**
 
@@ -1304,6 +1211,7 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - V can now zoom in with the scope on your weapon.
 - V can now craft Scopes and Muzzle attachments.
+- V can now purchase all Phantom Liberty items from Wilson Gun Shop.
 - Dead NPCs now take 5 minutes to become indestructible.
 - Ragdoll physics are now much more realistic.
 - Adds a kill counter to the side of the Malorian Arms piston.
@@ -1312,6 +1220,7 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 - Sticky Grenades have been converted to throwable proximity mines.
 - Glowing Knives and Katanas.
 - Allows you to unequip weapon mods, and allows you to unequip sniper scopes. The mods and scopes auto-retrieve on weapon sell, drop, or disassemble.
+- Makes the Gun-O-Rama's shooting range a little more interesting with moving targets, which react to V shooting them. Adds a repeatable 60-second shooting timer, with tracked score.
 </details>
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCJSQ.png)
@@ -1687,4 +1596,4 @@ If you would like to support me so I can afford some new chrome click the button
 - ⛔DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
 - CD PROJEKT®, Cyberpunk®, Cyberpunk 2077® are registered trademarks of CD PROJEKT S.A. © 2022 CD PROJEKT S.A
 
-![img](https://i.imgur.com/wAJUpeU.png)
+![img](https://i.imgur.com/wAJUpeU.png)![](https://s12.gifyu.com/images/SVQQz.png)

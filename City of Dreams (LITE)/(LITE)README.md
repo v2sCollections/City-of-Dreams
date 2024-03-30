@@ -1,11 +1,23 @@
-### ✅Compatible with Patch 2.12                                      ✅ **Compatible** with or without Phantom Liberty
+### ✅Compatible with Patch 2.12a                                    ✅ **Compatible** with or without Phantom Liberty
 
 https://www.youtube.com/watch?v=sn-Ju\_OWP\_8
 
 ![](https://i.imgur.com/wAJUpeU.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Dreams (LITE)](https://) for **Cyberpunk 2077**.
 
 <details><summary>ABOUT ME</summary>
-Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/xZNztPjA2u) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
+Hey Chooms! This is a little bit about me and why I started curating mod collections
+
+Back in the 90s, I was a young kid, and I never slowed down for more than two seconds.&#x20;
+
+But this all changed one day when I visited my cousin he had a Super Nintendo!!! and I fell in love, from that moment on I knew gaming was something that called out to me.
+
+So when my parents bought my sister and i our own console (Playstation) I was over the moon, long nights playing Crash Bandicoot, Spyro and Gran Turismo you can't beat these memories.
+
+Skip forward 10 years and games like Red Dead Redemption, GTA Vice City and Need for Speed these games only solidified my love of gaming even more. Like many of us, it gave us a way to escape and let our imagination run wild.
+
+Skip forward to the current day. The time when we can create new experiences in the games that we already love what could be better than this? Modding is really a cool way to add so much more. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods and work as seamlessly as they can.
+
+So join us choombah and come along for the ride.
 </details>
 
 <details><summary>MY VISION FOR THIS COLLECTION</summary>
@@ -16,6 +28,10 @@ My Vision for all my Collections is for you to be able to play the game any way 
 City of Dreams is the Ultimate experience you have access to everything you could ever need or want. Whether it's taking screenshots in photo mode, playing the most extreme difficulty, or cheating and hacking your way through Cyberpunk 2077 this collection has it all and I mean all.
 
 And that's it choom I hope to see you in Night City but now it's time for me to Delta.
+</details>
+
+<details><summary>CLICK HERE FOR MORE COLLECTIONS IN THE SERIES</summary>
+
 </details>
 
 ### [Collection not working ❓](https://)
@@ -48,7 +64,7 @@ This collection is extensively tested with every new version, because we want to
 
 ![](https://s13.gifyu.com/images/SC1lw.png)
 
-![](https://s9.gifyu.com/images/SUwJR.gif)
+![](https://s9.gifyu.com/images/SUI8w.gif)
 
 ### ![](https://s13.gifyu.com/images/SC1EU.png)
 
@@ -571,6 +587,7 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 - Clean Loading Screens.
 - Limited dynamic hud elements.
 - No Camera auto-centering.
+- LODs Improved in Kabuki Gun Range.
 
 ### [Upscaled Videos Include](https://)
 
@@ -1088,6 +1105,14 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 - V can now Stroke Hair, Caress Cheek, and Kiss, Panam and Judy repeatedly on the sofa (H10 only in 0.5.0, River/Kerry to be added later too)
 - Fixes the incorrect camera restrictions after kissing Panam or Judy on the sofa (H10 only in 0.5.0)
 
+### Johnny
+
+> Adds
+
+- Johnny now spawns as a passenger with V when driving around NC.
+- Johnny can now spawn in V's other apartments, with the option to have him play guitar similar to the iguana & cat event in H10 Includes all apartments: The Glen, Corpo Plaza, and Japantown\
+  As well as the smaller safehouses: Northside Motel, and Dogtown \[Phantom Liberty required]
+
 ### **Judy**
 
 > When you visit Judy she will be more active.
@@ -1188,6 +1213,7 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - V can now zoom in with the scope on your weapon.
 - V can now craft Scopes and Muzzle attachments.
+- V can now purchase all Phantom Liberty items from Wilson Gun Shop.
 - Dead NPCs now take 5 minutes to become indestructible.
 - Ragdoll physics are now much more realistic.
 - Adds a kill counter to the side of the Malorian Arms piston.
@@ -1196,6 +1222,7 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 - Sticky Grenades have been converted to throwable proximity mines.
 - Glowing Knives and Katanas.
 - Allows you to unequip weapon mods, and allows you to unequip sniper scopes. The mods and scopes auto-retrieve on weapon sell, drop, or disassemble.
+- Makes the Gun-O-Rama's shooting range a little more interesting with moving targets, which react to V shooting them. Adds a repeatable 60-second shooting timer, with tracked score.
 </details>
 
 ### ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGXL.png)
@@ -1445,4 +1472,4 @@ If you would like to support me so I can afford some new chrome click the button
 - ⛔DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
 - CD PROJEKT®, Cyberpunk®, Cyberpunk 2077® are registered trademarks of CD PROJEKT S.A. © 2022 CD PROJEKT S.A
 
-![img](https://i.imgur.com/wAJUpeU.png)
+![img](https://i.imgur.com/wAJUpeU.png)![](https://s12.gifyu.com/images/SVQQz.png)
