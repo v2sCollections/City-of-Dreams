@@ -100,51 +100,6 @@ These are great mods when you have an understanding of how they work, you can co
 
 </details>
 
-
-<details>
-<summary>Game Difficulty</summary>
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-You can change the difficulty to suit your style.
-
-1) From the main menu select Mods.
-
-2) Select "RMK MODS"
-
-Use these menus in game to make it Easier or Harder based on your play style.
-
-![img](https://s11.gifyu.com/images/Sciel.png)
-
-If you want to learn more about how these mods work check out the mod page on Nexus [HERE](https://www.nexusmods.com/cyberpunk2077/mods/1712)
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-</details>
-
-
-<details>
-<summary>Changing the CET keybind</summary>
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-To change the (CET) Cyber Engine Tweaks Overlay.
-
-Delete bindings.json located in 
-
-```
-bin\x64\plugins\cyber_engine_tweaks 
-```
-
-and then launch Cyberpunk 2077 to set a new key bind.
-
-
-**Note** This will also delete any other key bind configuration you have chosen for your mods.
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-</details>
-
 <details>
 <summary>How to use Equipment Ex</summary>
 
@@ -225,17 +180,25 @@ If you do have/use the option while in conversation with NPCs just be aware that
 
 
 <details>
-<summary>Refreshing Night City Interactions</summary>
+<summary>How to use QuickHack Loadouts</summary>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-**1**) Travel to V's first/main apartment in H10
+## Info
 
-**2**) Find and use the **REBOOT NCI** interaction in the stash room
+Lets you set up to 5 Quickhack loadouts for your Cyberdeck with an interface in the cyberdeck equip menu. Give each loadout a custom name; save and load loadouts at any time.
 
-**3**) Leave the apartment and then walk back in
+This mod relieves the frustration of slowly changing your equipped quickhacks every time you want to switch from combat hacks to stealth, or whatever it is you need.
 
-This resets the mod **Night City Interactions**
+There are 5 loadout slots. You can rename the title of each slot by clicking on the title and typing with a keyboard. You can't edit the text with a gamepad, but otherwise the mod works fine with gamepad.
+
+## How to use
+
+**Saving**
+When you click the "Save" button, the currently equipped quickhacks are saved to that loadout, and the current name of the loadout is saved. If you save while there are no loadouts equipped, an empty loadout is saved. Saved loadouts can be overwritten, including with an empty loadout.
+
+**Loading**
+When you click the "Load" button, the quickhacks stored in that loadout are equipped. If there are no quickhacks stored in the loadout, then the Load button will be disabled. When you hover over a Load button, a tooltip displays the quickhacks in the loadout.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -243,7 +206,38 @@ This resets the mod **Night City Interactions**
 
 
 <details>
-<summary>TANSTAAFL</summary>
+<summary>How to use Metro Pocket Guide</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+## Info
+
+Finds the shortest route between two selected metro stations and helps you navigate with ease.
+
+- Finds the shortest route between two selected metro stations
+- Adds a new widget that navigates you through all the stations on your active route
+- Highlights interchange stations where you should switch to another metro line
+- Highlights which line you should select at the metro gate entering menu to follow your active route 
+- Adds a new hotkey to toggle navigation widget visibility while riding the metro
+- Automatically ends route tracking when you exit the metro at your destination station
+- Adds a few mod settings options to control the navigation widget position and appearance
+- Additional mod settings option to unlock all metro stations mappins for the world map menu (disabled by default)
+
+## How to use
+
+- Open world map menu
+- Press "Route" button at the bottom of the screen
+- Select starting metro station
+- Select destination station and press "Сonfirm"
+Enter the subway and follow the tracked route
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+<details>
+<summary>How to Use TANSTAAFL</summary>
 
 - Part 1 introduces the Vehicle Insurance systems into the game. 
 - Part 2 introduces the Life Insurance systems into the game.
@@ -267,6 +261,70 @@ This resets the mod **Night City Interactions**
 - If you die during an open-world sequence you will be revived at the last beacon or home position.
 - If you don’t have enough money to pay for revival or your subscription has expired, you will be revived at Trauma Team Medical Center and you will lose a substantial amount of money.
 - If you die during a restrictive quest sequence, you will only be revived if you have an active emergency beacon placed. Otherwise, you will need to reload your last save.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+<details>
+<summary>Game Difficulty</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+You can change the difficulty to suit your style.
+
+1) From the main menu select Mods.
+
+2) Select "RMK MODS"
+
+Use these menus in game to make it Easier or Harder based on your play style.
+
+![img](https://s11.gifyu.com/images/Sciel.png)
+
+If you want to learn more about how these mods work check out the mod page on Nexus [HERE](https://www.nexusmods.com/cyberpunk2077/mods/1712)
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+<details>
+<summary>Changing the CET keybind</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+To change the (CET) Cyber Engine Tweaks Overlay.
+
+Delete bindings.json located in 
+
+```
+bin\x64\plugins\cyber_engine_tweaks 
+```
+
+and then launch Cyberpunk 2077 to set a new key bind.
+
+
+**Note** This will also delete any other key bind configuration you have chosen for your mods.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+
+<details>
+<summary>Refreshing Night City Interactions</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+**1**) Travel to V's first/main apartment in H10
+
+**2**) Find and use the **REBOOT NCI** interaction in the stash room
+
+**3**) Leave the apartment and then walk back in
+
+This resets the mod **Night City Interactions**
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 

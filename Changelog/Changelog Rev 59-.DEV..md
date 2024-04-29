@@ -20,13 +20,16 @@
 
 ## NOTES
 
-Simple Menu is still causing stuttering and decreased performance on  some systems. If you are experiencing issues you can disable the Simple Menu in Vortex. The author is aware of this issue and will have an update out soon.
+Simple Menu can still causing stuttering and decreased performance on some systems. If you are experiencing issues you can disable the Simple Menu in Vortex. The author is aware of this issue and will have an update out soon.
 
 ## Fixes
 
 This update addresses a few issues.
 
-
+- Fixed Arasaka Cyvberarms installation.
+- Fixed some FOMod installers not popping up in Vortex.
+- Fixed some Random crashes.
+- Fixed install errors in Vortex.
 
 ## Changes 
 
@@ -36,22 +39,34 @@ This update addresses a few issues.
 
 
 ### CORE
-
+- [Cyber Engine Tweaks][(https://www.nexusmods.com/cyberpunk2077/mods/107)
+- [TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197)
+- [Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780)
+- [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 
 ### CORE 2
-
+- [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945?tab=description)
+- [Cyberware-EX](https://www.nexusmods.com/cyberpunk2077/mods/9429)
 
 ### UI
-
+- [Enhanced Craft](https://www.nexusmods.com/cyberpunk2077/mods/4378?tab=description)
+- [Metro Pocket Guide](https://www.nexusmods.com/cyberpunk2077/mods/11882)
+- [Custom Quickslots for Consumables Grenades and Cyberware Abilities](https://www.nexusmods.com/cyberpunk2077/mods/3096?tab=description)
 
 ### VEHICLES
 
 
 ### NPCs
-
+- [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064)
+- [River Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4870)
+- [Romance Hangouts Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/11590)
+- [The Passenger](https://www.nexusmods.com/cyberpunk2077/mods/10731)
+- [Panam Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4626)
+- [Player Underwear Removal Extended Redscript 4 Game 2.x](https://www.nexusmods.com/cyberpunk2077/mods/9264?tab=description)
 
 ### OTHER
-
+- [Discord RPC 2](https://www.nexusmods.com/cyberpunk2077/mods/10831)
+- [Immersive First Person](https://www.nexusmods.com/cyberpunk2077/mods/2675)
 
 ## REMOVED
 
@@ -59,20 +74,27 @@ This update addresses a few issues.
 
 ## NEW MODS ADDED 
 
-- [Japantown Cleaver Fix](https://www.nexusmods.com/cyberpunk2077/mods/14166?tab=description)
-- [Stanley's Morning Audio Fix](https://www.nexusmods.com/cyberpunk2077/mods/14042?tab=description)
-- [TV Audio Fixes](https://www.nexusmods.com/cyberpunk2077/mods/14014?tab=description)
-- [Small TV Channels Fix](https://www.nexusmods.com/cyberpunk2077/mods/14165?tab=description)
+### VEHICLES
 - [Kawasaki Ninja H2](https://www.nexusmods.com/cyberpunk2077/mods/14162?tab=description)
-- [TV Mute Control](https://www.nexusmods.com/cyberpunk2077/mods/14149?tab=description)
 - [Audi RS5](https://www.nexusmods.com/cyberpunk2077/mods/14115?tab=description)
 - [Ferrari SF90 Stradale](https://www.nexusmods.com/cyberpunk2077/mods/14114?tab=description)
 - [Lexus LC500 Liberty Walk](https://www.nexusmods.com/cyberpunk2077/mods/14113?tab=description)
 - [Rimac Nevera](https://www.nexusmods.com/cyberpunk2077/mods/14112?tab=description)
 - [Koenigsegg Jesko Absolut](https://www.nexusmods.com/cyberpunk2077/mods/14109?tab=description)
 - [KTM X-BOW GTX](https://www.nexusmods.com/cyberpunk2077/mods/13963?tab=description)
+- [Delamain No. 22](https://www.nexusmods.com/cyberpunk2077/mods/14405?tab=description)
+- [Tesla Cybertruck](https://www.nexusmods.com/cyberpunk2077/mods/12427)
+- [Ferrari Testarossa](https://www.nexusmods.com/cyberpunk2077/mods/13396)
+
+### OTHER
+- [Japantown Cleaver Fix](https://www.nexusmods.com/cyberpunk2077/mods/14166?tab=description)
+- [Stanley's Morning Audio Fix](https://www.nexusmods.com/cyberpunk2077/mods/14042?tab=description)
+- [TV Audio Fixes](https://www.nexusmods.com/cyberpunk2077/mods/14014?tab=description)
+- [Small TV Channels Fix](https://www.nexusmods.com/cyberpunk2077/mods/14165?tab=description)
+- [TV Mute Control](https://www.nexusmods.com/cyberpunk2077/mods/14149?tab=description)
 - [Simple FPS Counter](https://www.nexusmods.com/cyberpunk2077/mods/13957?tab=description)
-- [
+- [Did Someone Say Yoga - Yoga Poses for FemV](https://www.nexusmods.com/cyberpunk2077/mods/14386?tab=description)
+- [Fronky's Pose Nation - FemV](https://www.nexusmods.com/cyberpunk2077/mods/14368)
 - Some Clothing
 
 ## BUGS
@@ -84,6 +106,5 @@ This update addresses a few issues.
 ## MODS NOT WORKING AT THE MOMENT 
 
 - [Let there be flight](https://www.nexusmods.com/cyberpunk2077/mods/5208)
-- [CPAH - Breach Protocol Autohacker](https://www.nexusmods.com/cyberpunk2077/mods/955)
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
