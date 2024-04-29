@@ -90,9 +90,7 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 - Press **"Shift + U"** / **"Esc"** / **"C"** buttons to disable the editor.
 - Press **"X"** while **HUDitor** is enabled, to reset all the widgets back to their original size & position.
 
-
-
-# HUD Configuration options
+## HUD Configuration options
 
 These are great mods when you have an understanding of how they work, you can configure the entire **HUD** to suit yourself with 100s of different configurations and settings, these can be accessed from the **"Mod Settings"** tab at the main menu.
 
@@ -199,8 +197,6 @@ apartment interactions (playing a guitar, using a record player etc.)
 First of all, you have to check if the clipping is present when the same item combination is used without this mod installed.
 If the clipping only happens with the mod, please let us know about it.
 If the clipping occurs with and without the mod, then you need to contact the authors of the items.
-
-## [Equipment Ex](https://www.nexusmods.com/cyberpunk2077/mods/6945?tab=description)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -329,7 +325,7 @@ Enter the subway and follow the tracked route
 - Another important difference of this mod: you gain access to the Vehicle Insurance website through your home PC where you can buy different subscription packages to have a discount on all the vehicle-related services. Those aren’t cheap, but without those discounts prices are biting!
 - In the works: more means to get data on your current subscription state (phone messages).
 
-# How to use [TANSTAAFL PT2](https://www.nexusmods.com/cyberpunk2077/mods/10569)
+## How to use [TANSTAAFL PT2](https://www.nexusmods.com/cyberpunk2077/mods/10569)
 
 ## Info Part 2
 
@@ -350,15 +346,19 @@ Enter the subway and follow the tracked route
 
 
 <details>
-<summary>Game Difficulty</summary>
+<summary>How to use Level Scaling and Balance</summary>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-You can change the difficulty to suit your style.
+## How to use [Level Scaling and Balance](https://www.nexusmods.com/cyberpunk2077/mods/1712)
 
-1) From the main menu select Mods.
+## Info
 
-2) Select "RMK MODS"
+You can change the difficulty to suit your style. Set multipliers to damage for NPCs and the player, as well as other difficulty adjustments such as Stamina use.
+
+**1**) From the main menu select Mods.
+
+**2**) Select "RMK MODS"
 
 Use these menus in game to make it Easier or Harder based on your play style.
 
