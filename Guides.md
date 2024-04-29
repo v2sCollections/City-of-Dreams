@@ -43,7 +43,7 @@
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-# How to use [LHUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)
+## How to use [LHUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)
 
 ## Info
 - Hides main **HUD** widgets by default and shows them only on certain events which you can configure
@@ -60,7 +60,7 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 - **Minimap Toggle:** a separate hotkey to toggle minimap visibility **(F6 by default)**
 
 
-# How to use [HUDitor](https://www.nexusmods.com/cyberpunk2077/mods/3315)
+## How to use [HUDitor](https://www.nexusmods.com/cyberpunk2077/mods/3315)
 
 ## Info
 
@@ -101,11 +101,66 @@ These are great mods when you have an understanding of how they work, you can co
 </details>
 
 <details>
+<summary>How to use Wannabe Edgerunner</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+## How to use [Wannabe Edgerunner](https://www.nexusmods.com/cyberpunk2077/mods/5646)
+
+## Info
+
+- New stat - Humanity, which depends on installed cyberware usage and committed kills.
+- Possible Cyberpsychosis when humanity becomes very low.
+- Cyberware Humanity usage based on implants type and quality
+- New consumables called Neuroblockers which should help you to manage Humanity.
+- New widgets to track your current Humanity value.
+- Mod Settings menu
+
+
+## Humanity
+
+Adds new stat - **Humanity**, which depends on installed cyberware usages and committed kills. Cyberware usages and enemy kills decrease this stat temporarily so you can restore it after sleeping at your bed or doing a few other apartment interactions like having a shower etc. You can track your current Humanity value via Cyberware menu screen or with a new widget which will appear above the player's HP bar.
+
+There are a three status effects which this mod uses depending on your Humanity stat:
+
+**Low Humanity:** adds some visual glitches and a few combat related debuffs to your character, also can trigger a **Cyberpsychosis** with some chance. It's better to take **Neuroblockers** or go to sleep at this stage.
+
+**Cyberpsychosis:** 
+launches heavier visual glitches but buffs your movement speed, armor value and health regeneration, and if your character is not in an interior or dangerous area then triggers police spawn as well. If related option is enabled, then you will be teleported to one of the 20+ predefined locations when **Cyberpsychosis** effect ends. Teleporting logic does not support Dogtown yet.
+
+**Post-Psychosis:** debuffs your combat skills, decreases damage resistances and blocks any cyberware usage until the next rest in your bed. Humanity loss is freezed and **Cyberpsychosis** can't be triggered at this stage.
+
+Actions which restore your **Humanity:**
+- Sleeping in your bed (fully restores Humanity).
+- Petting a cat or iguana.
+- Taking a shower.
+- Donating money to a homeless
+apartment interactions (playing a guitar, using a record player etc.)
+
+
+## Neuroblockers
+
+**Neuroblockers** is a new consumable which removes low Humanity side-effects and freezes Humanity points loss while active. You can buy it at some **Ripperdocs**, plus **Neuroblockers** crafting recipe was added to a few medical shops.
+
+**Common Neuroblockers:** Instant Implants, Cassius, Bucks' Clinic.
+
+**Uncommon** Neuroblockers: Fingers M.D., Octavio's Clinic.
+
+**Rare Neuroblockers:** Kraviz's Clinic, Viktor's Clinic.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+<details>
 <summary>How to use Equipment Ex</summary>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-## Overview
+## How to use [Equipment EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)
+
+## Info
 
 - New transmog system with 30+ clothing slots
 - A brand-new UI accessible from Hub menu and V's apartments
@@ -157,6 +212,18 @@ If the clipping occurs with and without the mod, then you need to contact the au
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
+## How to use [Idle Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/8038)
+
+## Info
+
+Adds the ability to smoke, drink, and eat while V is standing idle in the world.
+Drinking and eating will also apply their respective effects (drunk, well fed, sated) if you had a matching food type in your inventory, if not it is a purely cosmetic action.
+The consumption of alcohol/softdrinks/food from your inventory always starts with the cheapest items, they all give the same buffs anyway.
+Alcohol/food props are randomly selected for the animation.
+The smoking animation loops forever. To stop it, simply try to move (forward/back/left/right etc)
+
+## How to use
+
 **1**) Visit V's starting apartment in H10. You only need to do this once to 'activate' the mod.
 
 **2**) Press the Sprint input while the following is true:
@@ -184,6 +251,8 @@ If you do have/use the option while in conversation with NPCs just be aware that
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
+# How to use [Quickhack Loadouts](https://www.nexusmods.com/cyberpunk2077/mods/11682?tab=description)
+
 ## Info
 
 Lets you set up to 5 Quickhack loadouts for your Cyberdeck with an interface in the cyberdeck equip menu. Give each loadout a custom name; save and load loadouts at any time.
@@ -209,6 +278,8 @@ When you click the "Load" button, the quickhacks stored in that loadout are equi
 <summary>How to use Metro Pocket Guide</summary>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
+
+## How to use [Metro Pocket Guide](https://www.nexusmods.com/cyberpunk2077/mods/11882?tab=description)
 
 ## Info
 
@@ -237,10 +308,17 @@ Enter the subway and follow the tracked route
 
 
 <details>
-<summary>How to Use TANSTAAFL</summary>
+<summary>How to use TANSTAAFL</summary>
 
+![img](https://i.imgur.com/wAJUpeU.png)
+
+## How to use [TANSTAAFL PT1](https://www.nexusmods.com/cyberpunk2077/mods/10039?tab=description)
+
+## Info
 - Part 1 introduces the Vehicle Insurance systems into the game. 
 - Part 2 introduces the Life Insurance systems into the game.
+
+## Info Part 1
 
 **Vehicle Insurance system rules:**
 
@@ -250,6 +328,10 @@ Enter the subway and follow the tracked route
 - An important difference from other similar mods - those are not flat numbers, prices are calculated based on fast travel distance, vehicle price, and your possible discounts. It’s on you to decide whether or not you want to risk your fancy car or grab an old rusty one depending on the potential dangers you might face.
 - Another important difference of this mod: you gain access to the Vehicle Insurance website through your home PC where you can buy different subscription packages to have a discount on all the vehicle-related services. Those aren’t cheap, but without those discounts prices are biting!
 - In the works: more means to get data on your current subscription state (phone messages).
+
+# How to use [TANSTAAFL PT2](https://www.nexusmods.com/cyberpunk2077/mods/10569)
+
+## Info Part 2
 
 **Life Insurance system rules:**
 
