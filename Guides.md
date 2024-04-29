@@ -247,7 +247,7 @@ If you do have/use the option while in conversation with NPCs just be aware that
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-# How to use [Quickhack Loadouts](https://www.nexusmods.com/cyberpunk2077/mods/11682?tab=description)
+## How to use [Quickhack Loadouts](https://www.nexusmods.com/cyberpunk2077/mods/11682?tab=description)
 
 ## Info
 
@@ -355,6 +355,8 @@ Enter the subway and follow the tracked route
 ## Info
 
 You can change the difficulty to suit your style. Set multipliers to damage for NPCs and the player, as well as other difficulty adjustments such as Stamina use.
+
+## How to use
 
 **1**) From the main menu select Mods.
 
