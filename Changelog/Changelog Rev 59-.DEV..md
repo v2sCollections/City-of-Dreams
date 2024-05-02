@@ -20,7 +20,7 @@
 
 ## NOTES
 
-Simple Menu can still causing stuttering and decreased performance on some systems. If you are experiencing issues you can disable the Simple Menu in Vortex. The author is aware of this issue and will have an update out soon.
+Simple Menu can still causing stuttering and decreased performance on some systems. If you are experiencing issues you can disable the Simple Menu in Vortex.
 
 ## Fixes
 
@@ -39,7 +39,7 @@ This update addresses a few issues.
 
 
 ### CORE
-- [Cyber Engine Tweaks][(https://www.nexusmods.com/cyberpunk2077/mods/107)
+- [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107)
 - [TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 - [Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780)
 - [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)
@@ -47,6 +47,7 @@ This update addresses a few issues.
 ### CORE 2
 - [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945?tab=description)
 - [Cyberware-EX](https://www.nexusmods.com/cyberpunk2077/mods/9429)
+- [Reshade](https://reshade.me/)
 
 ### UI
 - [Enhanced Craft](https://www.nexusmods.com/cyberpunk2077/mods/4378?tab=description)
@@ -85,6 +86,9 @@ This update addresses a few issues.
 - [Delamain No. 22](https://www.nexusmods.com/cyberpunk2077/mods/14405?tab=description)
 - [Tesla Cybertruck](https://www.nexusmods.com/cyberpunk2077/mods/12427)
 - [Ferrari Testarossa](https://www.nexusmods.com/cyberpunk2077/mods/13396)
+- [Nissan Fairlady Z S30](https://www.nexusmods.com/cyberpunk2077/mods/13815?tab=description)
+- [Lamborghini Miura P400 SV](https://www.nexusmods.com/cyberpunk2077/mods/13508?tab=description)
+- [Mercedes-Benz 300 SL](https://www.nexusmods.com/cyberpunk2077/mods/14365?tab=description)
 
 ### OTHER
 - [Japantown Cleaver Fix](https://www.nexusmods.com/cyberpunk2077/mods/14166?tab=description)
@@ -95,6 +99,11 @@ This update addresses a few issues.
 - [Simple FPS Counter](https://www.nexusmods.com/cyberpunk2077/mods/13957?tab=description)
 - [Did Someone Say Yoga - Yoga Poses for FemV](https://www.nexusmods.com/cyberpunk2077/mods/14386?tab=description)
 - [Fronky's Pose Nation - FemV](https://www.nexusmods.com/cyberpunk2077/mods/14368)
+- [Pachinko Palor (Remastered)](https://www.nexusmods.com/cyberpunk2077/mods/8123)
+- [Cyberwitcher - Gwynbleidd Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/14430)
+- [AMM - Photo Backgrounds - Japan](https://www.nexusmods.com/cyberpunk2077/mods/14056?tab=description)
+- [Artistic](https://www.nexusmods.com/cyberpunk2077/mods/13066?_gl=1%2A17cij5a%2A_ga%2ANTM5MzA5NTU4LjE2OTQ4NzkyMzY.%2A_ga_N0TELNQ37M%2AMTcxNDQzNjE2Ny4xMTc5LjEuMTcxNDQ0MDA1MC4wLjAuMA..&tab=description)
+- [
 - Some Clothing
 
 ## BUGS
