@@ -53,7 +53,7 @@ This collection is extensively tested with every new version, because we want to
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in **Cyberpunk 2077**.
 - The most exstensive mod collection on nexus for **Cyberpunk 2077**.
 - Easy to follow step-by-step installation guide.
-- Only-[14](https://)Gb in download size for [1100](https://) mods. Optional Mods add another [10](https://)Gb
+- Only-[24](https://)Gb in download size for [1100](https://) mods. Optional Mods add another [6](https://)Gb
 - Mods specifically created for the collection.
 - Support for other **Modular Expansion Packs**.
 - Setup Video-[HERE](https://)
@@ -314,113 +314,11 @@ I have added the Reshade below.
 </details>
 
 <details><summary>⌨️ KEYBINDS</summary>
-![](https://camo.githubusercontent.com/71498d3b97846faa765d38d209aefd3ee430c046f95ab05930ce0f5e03d1c039/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4b657962696e64732e706e67)![](https://s9.gifyu.com/images/SCGXH.png)
+![](https://camo.githubusercontent.com/71498d3b97846faa765d38d209aefd3ee430c046f95ab05930ce0f5e03d1c039/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4b657962696e64732e706e67)![](https://i.imgur.com/wAJUpeU.png)![](https://s9.gifyu.com/images/SCGXH.png)
 
-I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like. You will find the key bind list below.
+I have added a key bind config file for a few of the mods this is just to get you started you can change it as you like.
 
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### CUSTOM QUICKSLOTS
-
-- 3> Slot 1
-- 4> Slot 2
-- 5> Slot 3
-- 6> Slot 4
-- 7> Slot 5
-- 8> Slot 6
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### CET
-
-- F11> Overlay
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### JB THIRD PERSON
-
-- 1> Activate 3rd Person
-- C> Change Camera
-- R> Reset Camera
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### NO CLIP
-
-- SCRLK> Noclip
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### NANO DRONE
-
-- L> Spawn
-- W> Forward
-- S> Back
-- A> Left
-- D> Right
-- SPACE> Up
-- CAPSLK> Down
-- C> Exit Drone
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### ZOMMABLE SCOPES
-
-- CTRL> Zoom
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### RESHADE
-
-- HOME> UI
-- END> Toggle Reshade
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### IMMERSIVE TIMESKIP
-
-- O> Timeskip UI
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### HOLD TO HOLSTER
-
-- HOLD Reload> Holster
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### Night Vision
-
-- F3> NIGHT VISION
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### LIMITED HUD
-
-The mods adds two additional in-game hotkeys which you can use to toggle widgets visibility:
-
-- F8> Global Toggle Global hotkey which you can use to toggle visibility for any module combination by your choice. By default it toggles Minimap, Quest Tracker and Quest Markers modules.
-- F6> Minimap Toggle
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### HUDITOR ADJUST HUD
-
-- SHIFT (hold) U> Activate Hud Editor
-- Left Arrow @ Right Arrow> Next Widget
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
-
-### CPAH
-
-- CONTROLL+SHIFT+H>Analysis
-- CONTROLL+SHIFT+K>Autohack
-
-### ![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)IDLE CONTROLS
-
-- LEFT SHIFT (hold): Idle Menu
-
-![](https://camo.githubusercontent.com/6d256285259f1fd8fb767edd4cc487a72cc243ad7acfa333534a636167f42beb/68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f4379616e2d52756c652e706e67)
+![](https://s10.gifyu.com/images/Sf5IV.png)![](https://i.imgur.com/wAJUpeU.png)
 </details>
 
 ***
@@ -441,37 +339,14 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 ## FAQ
 
 <details><summary>CLICK HERE FOR COMMON FAQs</summary>
-## [My game crashes at the "breaching screen"](https://) ❓
-
-You need to disable "Analytics"
-
-1. Purge the mods in Vortex
-
-![](https://s11.gifyu.com/images/Sg8LQ.jpg)2. Launch the game&#x20;
-
-3\. Go to the settings menu and on the gameplay tab disable Analytics.
-
-![](https://s11.gifyu.com/images/Sg8LW.jpg)4. Deploy the mods in Vortex
-
-5\. Launch the game.
-
 ***
-
-## [My Game is crashing after leaving my gun in the Delamain❓](https://)
-
-1. Open Vortex
-2. Purge The Mods.
-3. Disable Cyber Engine Tweaks (CET).
-4. Deploy The Mods.
-5. Launch the game and finish the quest.
-6. Save the game exit and Enable Cyber Engine Tweaks (CET)
 
 ## [My game is crashing on startup?](https://) or [My game won't launch after Collection Update ](https://)❓
 
 1. Check the install guide and make sure you follow the instructions.
 2. Make sure the game is installed on an SSD.
-3. Update your Graphics Driver.
-4. Perform a Cyberclean.
+3. Perform a Cyberclean.
+4. Disable AMM Appearance Menu Mod in Vortex.
 
 ## [Cyberclean](https://)
 
@@ -510,7 +385,7 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGXq.png)
 
-> To use\*\* CET **(**Cyber Engine Tweaks)** use** (F11)\*\* on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Third person camera, Vehicle camera and many more.
+> To use CET **(**Cyber Engine Tweaks)** use** (F11) on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Third person camera, Vehicle camera and many more.
 
 ![](https://s11.gifyu.com/images/Screenshot-2023-04-24-174314.png)
 
@@ -571,6 +446,10 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 - Fixes Epic Fortified Ankles shows a buff in the status bar while you're hovering, and it was referencing an icon that doesn't exist so it would also show a duplicate of another recently used icon. Fixed to use the "generic buff icon", which actually kind of fits for the hover buff (forward arrows).
 - Fixes the armor tooltip in the Cyberware/Ripperdoc menu to be factually correct and show your actual current damage reduction from armor rather than a theoretical maximum.
 - Fixes the name of the Encrypted shards group.
+- Fixes the missing Butchers Cleaver in the Japantown apartment stash.
+- Fixes the missing and/or interrupted segment from Stanley, when leaving the shower after the heist.
+- Fixes missing audio for 'regular' segments on N54 News and WNS News, all YBIMB episodes, and one quest/election-related piece.
+- Fixes missing WNS TV and Just Ads.
 - Removes the Strength skill check from the dumpster in front of Brendan.
 </details>
 
@@ -591,6 +470,7 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 - Limited dynamic hud elements.
 - No Camera auto-centering.
 - LODs Improved in Kabuki Gun Range.
+- Adds the FPS counter from the benchmark to the base game UI.
 
 ### [Upscaled Videos Include](https://)
 
@@ -647,46 +527,18 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - V now has a jetpack.
-- V can now hang off walls and jump from wall to wall.
+- V can now slide sideways.
+- V can slide further.
+- V can now do 360-degree turns while sliding.
 - Darkens the edges of the screen when your stamina is low.
-- Third-person mode.
 - Change to any weather at any time, from the mod menu. Can also be used to reset/fix weather to normal 24-hour changing weather when the game gets stuck on just one weather.
 - Personal metro assistant which helps you navigate through NCART metro stations during your journeys in Night City.
+- Discord Rich Presence integration.
+- V can now choose, display, and enjoy art in their apartmentS. Featuring over 30 new (and old) pieces from various talented artists, that V can find/buy/collect throughout the game and Night City.
+- Enables Stamina use when sliding, jumping and running.
+- Enables heavy breathing when running.
+- Makes Movement Less jarring by adding an inertia effect to movement while walking.
 </details>
-
-***
-
-## TANSTAAFL (OPTIONAL)
-
-![](https://s6.gifyu.com/images/S8uM7.jpg)[TANSTAAFL](https://www.nexusmods.com/cyberpunk2077/mods/10039) by [r457](https://www.nexusmods.com/cyberpunk2077/users/164673548) & gh057
-
-### Features
-
-> Part 1 introduces the Vehicle Insurance systems into the game. Part 2 introduces the Life Insurance systems into the game.
-
-<details><summary>CLICK FOR MORE DETAILS</summary>
-### Vehicle Insurance system rules:
-
-- Fast Travel is a paid service. No money - no travel.
-- Vehicle summoning and repair are paid services: no money - no cars; and if you get in debt with the system, they will deny you access to your vehicles until you repay your debts.
-- You are charged for traffic accidents depending on which car you hit.
-- An important difference from other similar mods - those are not flat numbers, prices are calculated based on fast travel distance, vehicle price, and your possible discounts. It’s on you to decide whether or not you want to risk your fancy car or grab an old rusty one depending on the potential dangers you might face.
-- Another important difference of this mod: you gain access to the Vehicle Insurance website through your home PC where you can buy different subscription packages to have a discount on all the vehicle-related services. Those aren’t cheap, but without those discounts prices are biting!
-- In the works: more means to get data on your current subscription state (phone messages).
-
-### Life Insurance system rules:
-
-- The mod is activated when you sleep in your bed for the first time, so you can start a new playthrough with it - you will have normal saves and checkpoints during the tutorial.
-- When the system is active, you can no longer save at will - manual saves are only available when you are in the vicinity of your home bed (seeing the “go to sleep” dialog line).
-- Sleeping creates an auto-save point and updates your last home location for the Trauma Team.
-- You can buy a Life Insurance subscription at your home PC which gives you X amount of paid resurrections and Y amount of emergency beacons.
-- You can place an emergency beacon to create a temporary revival point - this point is reset after you sleep in your bed.
-- If you die during an open-world sequence you will be revived at the last beacon or home position.
-- If you don’t have enough money to pay for revival or your subscription has expired, you will be revived at Trauma Team Medical Center and you will lose a substantial amount of money.
-- If you die during a restrictive quest sequence, you will only be revived if you have an active emergency beacon placed. Otherwise, you will need to reload your last save.
-</details>
-
-⛔**NOTE** This is for Hardcore Chooms only.
 
 ***
 
@@ -843,7 +695,7 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 - The vehicle first person camera is now adjustable.
 - Hide shards you have already read.
 - Stops V from moving on the character creation screen.
-- Cleans up the green color from the quick hack screen.
+- Cleans up the green colour from the quick hack screen.
 - Remove quest tags from equipped items so they can be dismantled and sold.
 - Unequip all equipped items (armour, weapons and cyberware).
 - See what attribute level you needed for conversation skill checks that you passed.
@@ -1085,6 +937,8 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 - V can play the arcade machines.
 - V can now smoke, drink, and eat while standing idle anywhere.
 - V can speak Japanese to Asian NPCs and have them reply in Japanese.
+- V can now Mute the in-game TV.
+- V won't start running from the walking state when entering new areas during quests.
 - V now has access to a computer, anywhere; similar to TV Anywhere (+ Arcade Anywhere). Grants on-the-go access to the Net, including support by default Virtual Atelier.
 </details>
 
@@ -1178,6 +1032,12 @@ https://www.youtube.com/watch?v=kSJY1xJ03C4
 > Adds
 
 - Adds in a "romance" scene with Flaming Crotch Man (Jesse Cox) after he gets a new (legit) Mr Stud
+
+### Aurore
+
+> Adds
+
+Adds an opportunity to "romance" Aurore, after the events at the Black Sapphire.
 </details>
 
 ***
@@ -1221,6 +1081,10 @@ https://www.youtube.com/watch?v=9DXBti-c6C0
 - Glowing Knives and Katanas.
 - Allows you to unequip weapon mods, and allows you to unequip sniper scopes. The mods and scopes auto-retrieve on weapon sell, drop, or disassemble.
 - Makes the Gun-O-Rama's shooting range a little more interesting with moving targets, which react to V shooting them. Adds a repeatable 60-second shooting timer, with tracked score.
+- Better control over when the ricochet preview is visible, with customizable options.
+- Better control over ricochets, with customizable options.
+- Better smart weapons target tracking, with customizable options.
+- New weapons.
 </details>
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCJSQ.png)
@@ -1275,8 +1139,6 @@ https://www.youtube.com/watch?v=UkJLHFdlPhs
 
 > This body mod allows you to have a big chest, with a beautiful cleavage. Custom 4k textures and a toggleable feet feature.
 
-⛔NOTE Optional Big-Butt and Better defined abs are available in optional downloads.
-
 ***
 
 ## **Male V**
@@ -1310,7 +1172,6 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 - Breast Jiggle Physics.
 - Diffrent types of Pubic Hair.
 - Underwear is removed in all situations where your character is nude.
-- Joytoy was replaced in Jig Jig Street.
 - Vshojo Advertisements.
 - 50+ Adult toys added to the game.
 - Ads in Night City are now uncensored.
@@ -1336,6 +1197,7 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 - You set up to 5 Quickhack load-outs for your Cyberdeck with an easy-to-use interface in the Cyberdeck equip menu give each loadout a custom name; save and load loadouts at any time.
 - Hundreds of pieces of cyberware were added to the atelier store.
 - All Quickhacks and Talent shards have been added to the Atelier shop.
+- The Ticking Time Bomb perk will only trigger its explosion if you are in combat at the end of its delay.
 </details>
 
 ***
@@ -1358,20 +1220,17 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 - V can send their vehicle away.
 - V can now purchase all vehicles from the in-game atelier store.
 - V can control vehicle headlights and windows.
+- V can now start and stop the engine.
+- V can now turn on interior lights.
 - V can change the brightness and distance of vehicle headlights.
-- V can change the colors of the neon lights on all motorbikes.
+- V can change the colours of the neon lights on all motorbikes.
 - Displays in-world holographic arrows for quest/point of interest navigation, mirroring the dots in the minimap.
 - **I**t will now cost Eddies to summon your vehicle.
 - It will cost you more eddies to repair destroyed vehicles when summoning them.
 - Summon and spawn distances for vehicles decreased.
-- No camera auto-centering while driving in TPP and FPP mode.
+- No camera auto-centring while driving in TPP and FPP mode.
 - Fast Travel is a paid service. No money - no travel.
-
-### Vehicle Insurance
-
-- Vehicle summoning and repair are paid services: no money - no cars; and if you get in debt with the system, they will deny you access to your vehicles until you repay your debts.
-- You are charged for traffic accidents depending on which car you hit.
-- you gain access to the Vehicle Insurance website through your home PC where you can buy different subscription packages to have a discount on all the vehicle-related services. Those aren’t cheap, but without those discounts prices are biting!
+- Added Crystal Coat for most Vehicles.
 
 ### **Custom Vehicles**
 
@@ -1433,13 +1292,52 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 ***
 
-## Let There Be Flight
+## Drive an Aerial Vehicle(AV and Helicopter)
 
-![](https://i.imgur.com/gPWMj46.jpg)[Let There Be Flight](https://www.nexusmods.com/cyberpunk2077/mods/5208?tab=description) by [jackhumbert](https://www.nexusmods.com/cyberpunk2077/users/86010988).
+https://www.youtube.com/watch?v=8Y3aiWdBoog
+
+[Drive an Aerial Vehicle(AV and Helicopter)](https://www.nexusmods.com/cyberpunk2077/mods/13842) by [tidusMD](https://www.nexusmods.com/cyberpunk2077/users/112181303)
 
 ### Features
 
-> Enables a configurable flight system for all vehicles with custom thruster models, visual sound effects, and animations.
+> This mod introduces the ability to operate an AV and Helicopter. It adds a new layer of gameplay, allowing players to fly around Night City and use an auto-pilot feature for transportation. The AV can be purchased and summoned like any regular vehicle, offering a fresh perspective and a novel way to explore the Night City.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+**User Guide**\
+There are two control methods. You can switch between them from the ‘Control’ tab in the CET menu.
+The following are the instructions for operating the AV (when the hints are enabled in the settings and displayed on the HUD):\
+**\[Spinner]**
+
+- Press the W key to accelerate forward, and the S key to accelerate backward. (For controllers, use the up and down on the left stick)
+- Use the D key to rotate to the right, and the A key\*\* \*\*to rotate to the left. (For controllers, use the left and right on the left stick)
+- Hold the left mouse button to ascend, and the right mouse button\*\* \*\*to descend. (For controllers, use the R and L triggers)\\
+
+**\[Helicopter]**\\
+
+- Press the keys "W","S","D","A" (or use the left stick on the controller) to tilt the AV in the corresponding direction and move.
+- Use the keys "Q","E" (or the shoulder buttons on the controller) to rotate the AV horizontally.
+- Hold down the left mouse button (or press the A button on the controller) to increase the lift of the AV. Release the button to decrease lift naturally.
+- Press the spacebar (or the right trigger on the controller) to maintain altitude while moving forward. When you press this button once, the altitude hold mode will remain active even if you release the button. If you want to change the altitude, press the left mouse button (or press the A button on the controller).\\
+
+**\[Common]Change Key From v1.5.0**
+
+- Press the key "G" (or the left d-pad on the controller) to open or close the door.
+- Press the key "V" (or the down d-pad on the controller) to change perspective.
+- Hold the key "R" (or the down d-pad on the controller) to play radio or change ths station.\\
+
+**\[Auto Pilot Mode]**\\
+
+- press the key "T" (or the right d-pad on the controller) to switch to autopilot mode. This will automatically drive to the location of the pin set by the user on the map.
+- You can also use the CET menu to register a location where you have arrived in the past using autopilot as a favorite and set that place as your destination. This is only valid when you have not placed a map pin.
+- The speed of the autopilot can be adjusted in three stages. Changes will be reflected the next time the vehicle is generated.\\
+
+**\[CET Bindings]**\
+By configuring the CET Binding settings, you can perform the following operations.\\
+
+- Crystal dome ON/OFF (limited to Excalibur and Manticore)\\
+
+Keep in mind that the AV has inertia, so it won’t turn immediately. If you get stuck on something, please keep pressing the accelerator button. The AV will take evasive action.
+</details>
 
 ***
 
@@ -1511,6 +1409,16 @@ Please do not forget that when you install any extra collections, it's your resp
 
 You can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/cyberpunk2077/collections/9uzsfp) **(This is for high-end systems only 16gb Vram+)**
 
+<details><summary>CLICK HERE FOR THE 4K INSTALL GUIDE</summary>
+Install guide for our 4kGraphics Collection.
+
+**1**) Select **ADD TO VORTEX** on Nexus
+
+**2**) Add to your existing City of Dreams Collection Profile.
+
+- ⛔**NOTE** Our main Collection comes with some optional 2k Textures. If you add the 4k Collection on top of this Collection make sure to disable the optional 2k Textures included in this Collection.
+</details>
+
 If you would like a smaller collection try my [City of Dreams (lite)](https://next.nexusmods.com/cyberpunk2077/collections/ayfbwl?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) version.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -1518,11 +1426,29 @@ If you would like a smaller collection try my [City of Dreams (lite)](https://ne
 ![](https://s13.gifyu.com/images/SC1lp.png)
 
 <details><summary>CLICK HERE FOR OUR PERFORMANCE GUIDE</summary>
+## Performance Heavy Mods
+
+You can disable some of the following Mods to increase performance. Just search for them in Vortex.
+
+- Reshade
+- High-Res Surfaces (4k Pack)
+- High-Res NPC Faces (4k Pack)
+- High-Res Minor NPCs
+- High-Res Makeup
+- High-Res Cyberware
+- High-Res Clothing
+
+***
+
+## High-End Settings
+
 Recommended In-game settings These settings will give a slight performance boost without sacrificing quality.
 
 ![img](https://i.imgur.com/OV2YTbg.png)
 
 ![img](https://i.imgur.com/diR3GCd.png)![](https://s11.gifyu.com/images/Screenshot-2023-04-20-030431.png)
+
+***
 
 ### YOUTUBE GUIDES TO IMPROVE GAMING PERFORMANCE.
 
@@ -1538,18 +1464,20 @@ Recommended In-game settings These settings will give a slight performance boost
 - [NVIDIA PROFILE INSPECTOR](https://github.com/Orbmu2k/nvidiaProfileInspector/releases)
 </details>
 
+**NOTE** If you would like a more in-depth explanation of game settings please join our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) for the full performance guide.
+
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 ![](https://s13.gifyu.com/images/SC1l9.png)
 
 <details><summary>CLICK FOR SYSTEM REQUIREMENTS</summary>
-- &#x20;VRAM> 8GB
+- VRAM> 8GB
 - GPU>**(see below)**
 - 1080p> RTX 3060 or RX 6700 XT
 - 1440p> RTX 3080 or RX 6800 XT
 - RAM> 16GB
 - CPU> R5 3600 or i5 9600K
-- STORAGE> 23GB
+- STORAGE> 30GB
 - STORAGE TYPE> SSD
 </details>
 
@@ -1563,7 +1491,6 @@ If you enjoy this collection, **PLEASE** endorse the mod authors and Support me 
 
 Special thanks to these chooms who helped make this collection preem. And everyone on the Nexus & The Cyberpunk modding Discords.
 
-- [Magic Beanware](https://www.nexusmods.com/users/197258372)
 - Fenrir
 - [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
 - DovaDigital

@@ -81,29 +81,23 @@ DRIVE LETTER:\Users\YOURUSERNAME\AppData\Local\CD Projekt Red\Cyberpunk 2077
 
 
 <details>
-<summary>My game is crashing on startup</summary>
+<summary>My game is crashing straight after launch</summary>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-1) Check the install guide and make sure you follow the instructions.
+**1**) Check the install guide and make sure you follow the instructions.
 
-2) Make sure the game is installed on an **SSD.**
+**2**) Make sure the game is installed on an **SSD.**
 
-3) Perform a **Cyberclean** Then boot up the game and see if the problem is resolved.
+**3**) Perform a **Cyberclean** Then boot up the game and see if the problem is resolved.
 
-4) Check your Graphics Driver is up to date or reinstall it.
+**4**) Disable the (Appearance mod menu) mod in **Vortex**.
 
-5) Make sure these are up to date>
-⁠Unknown
-⁠Unknown
+**5**) Disable/Uninstall the reshade if you have installed and ran the program.
 
-6) Disable the (Appearance mod menu) mod in **Vortex**.
-
-7) Disable the (UHD Splash screen) mod in **Vortex**.
-
-8) Disable the (QHD intro mod) in **Vortex**.
-
-9) Disable/Uninstall the reshade if you have installed and ran the program
+The following cases are rare but these can cause a crash on launch.
+- Reshade
+- (AMM) Apperance Mod Menu
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -349,21 +343,6 @@ Press **"F6"** to show the mini map and F8 to tuggle the HUD
 
 
 <details>
-<summary>I cant save my game</summary>
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-This is due to an optional mod we use called **TANSTAAFL** this is an optional Mod in a series of hardcore gameplay additions.
-
-You can find out more about how this mod works here>[TANSTAAFL](https://github.com/2077v2/City-of-Dreams/blob/main/Guides.md)
-If you would like to disable this mod just search for TANSSTAAL in Vortex and select disable.
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-</details>
-
-
-<details>
 <summary>My Clothes are Clipping</summary>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -527,33 +506,6 @@ or
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 </details>
-
-<details>
-<summary>The Camera is locked i cant move up/down</summary>
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-This is a bug everyone has had for a long time with the third person mode there is a simple but inconvenient fix. When the camera lock happens 
-
-1) Activate third person with "1"
-
-2) Deactivate third person with "1"
-
-Now the camera should be unlocked
-
-Alternatively you can disable the mod through the in game mod menus. 
-
-1) Select Mods from the main menu 
-
-2) Toggle off third person mode.
-
-![](https://s11.gifyu.com/images/3rd-person.jpg)
-
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-</details>
-
 
 
 

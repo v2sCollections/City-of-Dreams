@@ -1,6 +1,6 @@
 ![img](https://s13.gifyu.com/images/SjBKh.png)
 
-## [HEY CHOOMS Rev 27 IS COMING SOON](https://)
+## [HEY CHOOMS Rev 59 IS HERE](https://)
 
 ## HOW TO UPDATE
 
@@ -43,7 +43,6 @@ This update addresses a few issues.
 ## Changes 
 
 - Night ViSion Keybind has been changed to **Y**.
-- All Vehicles have been removed. (Stay Tuned)
 
 ## UPDATED
 
@@ -66,6 +65,11 @@ This update addresses a few issues.
 - [Custom Quickslots for Consumables Grenades and Cyberware Abilities](https://www.nexusmods.com/cyberpunk2077/mods/3096?tab=description)
 - [Better Loot Markers](https://www.nexusmods.com/cyberpunk2077/mods/3486?tab=description)
 
+### VEHICLES
+- [V2 Customs - Rayfield Caliburn 450 Mph](https://www.nexusmods.com/cyberpunk2077/mods/3988?tab=description)
+- [Audi R8 Liberty Walk](https://www.nexusmods.com/cyberpunk2077/mods/8827)
+- [Ferrari F40](https://www.nexusmods.com/cyberpunk2077/mods/13250)
+
 ### NPCs
 - [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064)
 - [Immersive Food Vendors](https://www.nexusmods.com/cyberpunk2077/mods/7322)
@@ -74,6 +78,7 @@ This update addresses a few issues.
 - [The Passenger](https://www.nexusmods.com/cyberpunk2077/mods/10731)
 - [Panam Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4626)
 - [Player Underwear Removal Extended Redscript 4 Game 2.x](https://www.nexusmods.com/cyberpunk2077/mods/9264?tab=description)
+- [VTK - Ava's 4k Body Textures](https://www.nexusmods.com/cyberpunk2077/mods/7125)
 - [Kerry Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4990)
 - [Night City Interactions - Core](https://www.nexusmods.com/cyberpunk2077/mods/5519?tab=description)
 - [Kerry Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4990?tab=description)
@@ -106,6 +111,7 @@ We have had alot of issues lately with users not reading the installation option
 - [Unequip Mods](https://www.nexusmods.com/cyberpunk2077/mods/2358?tab=description)
 - [Rita full JoyToy swap](https://www.nexusmods.com/cyberpunk2077/mods/3287?tab=description)
 - [ARASAKA cyber body](https://www.nexusmods.com/cyberpunk2077/mods/2598) [*]
+- [RIG Deform - Body Shape Addition for Bodies mods.](https://www.nexusmods.com/cyberpunk2077/mods/5063?tab=description) [*]
 - [Extra Vehicle Controls](https://www.nexusmods.com/cyberpunk2077/mods/3225)
 - [JB - TPP MOD WIP third person](https://www.nexusmods.com/cyberpunk2077/mods/669) [*]
 - [Vehicle Insurance (TANSTAAFL Part 1)](https://www.nexusmods.com/cyberpunk2077/mods/10039?tab=description) [*]
@@ -121,6 +127,28 @@ We have had alot of issues lately with users not reading the installation option
 
 ## NEW MODS ADDED 
 
+### VEHICLES
+- [Kawasaki Ninja H2](https://www.nexusmods.com/cyberpunk2077/mods/14162?tab=description)
+- [Audi RS5](https://www.nexusmods.com/cyberpunk2077/mods/14115?tab=description)
+- [Ferrari SF90 Stradale](https://www.nexusmods.com/cyberpunk2077/mods/14114?tab=description)
+- [Lexus LC500 Liberty Walk](https://www.nexusmods.com/cyberpunk2077/mods/14113?tab=description)
+- [Rimac Nevera](https://www.nexusmods.com/cyberpunk2077/mods/14112?tab=description)
+- [Koenigsegg Jesko Absolut](https://www.nexusmods.com/cyberpunk2077/mods/14109?tab=description)
+- [KTM X-BOW GTX](https://www.nexusmods.com/cyberpunk2077/mods/13963?tab=description)
+- [Delamain No. 22](https://www.nexusmods.com/cyberpunk2077/mods/14405?tab=description)
+- [Tesla Cybertruck](https://www.nexusmods.com/cyberpunk2077/mods/12427)
+- [Ferrari Testarossa](https://www.nexusmods.com/cyberpunk2077/mods/13396)
+- [Nissan Fairlady Z S30](https://www.nexusmods.com/cyberpunk2077/mods/13815?tab=description)
+- [Lamborghini Miura P400 SV](https://www.nexusmods.com/cyberpunk2077/mods/13508?tab=description)
+- [Mercedes-Benz 300 SL](https://www.nexusmods.com/cyberpunk2077/mods/14365?tab=description)
+- [BMW M1](https://www.nexusmods.com/cyberpunk2077/mods/14567?tab=description)
+- [Crystal Coat for Makigai MaiMai](https://www.nexusmods.com/cyberpunk2077/mods/13893?tab=description)
+- [Crystal Coat for Yaiba Kusanagi](https://www.nexusmods.com/cyberpunk2077/mods/13492)
+- [Crystal Coat for Arch Nazare](https://www.nexusmods.com/cyberpunk2077/mods/13227)
+- [Crystal Coat for Herrera Outlaw](https://www.nexusmods.com/cyberpunk2077/mods/12977)
+- [Crystal Coat for Villefort Alvarado](https://www.nexusmods.com/cyberpunk2077/mods/13826)
+- [Crystal Coat Fix v2.12](https://www.nexusmods.com/cyberpunk2077/mods/13907)
+- [Crystal Coat for Quadra Type-66](https://www.nexusmods.com/cyberpunk2077/mods/14199)
 
 ### OTHER
 - [City of Dreams Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/14640?tab=description)
@@ -129,10 +157,16 @@ We have had alot of issues lately with users not reading the installation option
 - [TV Audio Fixes](https://www.nexusmods.com/cyberpunk2077/mods/14014?tab=description)
 - [Small TV Channels Fix](https://www.nexusmods.com/cyberpunk2077/mods/14165?tab=description)
 - [TV Mute Control](https://www.nexusmods.com/cyberpunk2077/mods/14149?tab=description)
+- [Simple FPS Counter](https://www.nexusmods.com/cyberpunk2077/mods/13957?tab=description)
 - [Did Someone Say Yoga - Yoga Poses for FemV](https://www.nexusmods.com/cyberpunk2077/mods/14386?tab=description)
+- [Fronky's Pose Nation - FemV](https://www.nexusmods.com/cyberpunk2077/mods/14368)
+- [Fronky's Patchwork Poses - Random Poses for FemV](https://www.nexusmods.com/cyberpunk2077/mods/14526?tab=description)
+- [Fronky's Awkwardia - Poses for FemV](https://www.nexusmods.com/cyberpunk2077/mods/14671?tab=description)
+- [Pachinko Palor (Remastered)](https://www.nexusmods.com/cyberpunk2077/mods/8123)
 - [Cyberwitcher - Gwynbleidd Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/14430)
 - [TRON Identity Disk - Weapon Addition](https://www.nexusmods.com/cyberpunk2077/mods/12640)
 - [Archive XL - ZarRoc](https://www.nexusmods.com/cyberpunk2077/mods/9756)
+- [AMM - Photo Backgrounds - Japan](https://www.nexusmods.com/cyberpunk2077/mods/14056?tab=description)
 - [Artistic](https://www.nexusmods.com/cyberpunk2077/mods/13066?_gl=1%2A17cij5a%2A_ga%2ANTM5MzA5NTU4LjE2OTQ4NzkyMzY.%2A_ga_N0TELNQ37M%2AMTcxNDQzNjE2Ny4xMTc5LjEuMTcxNDQ0MDA1MC4wLjAuMA..&tab=description)
 - [QoL - Higher TV Quality](https://www.nexusmods.com/cyberpunk2077/mods/13090?_gl=1%2A8qy96j%2A_ga%2ANTM5MzA5NTU4LjE2OTQ4NzkyMzY.%2A_ga_N0TELNQ37M%2AMTcxNDQzNjE2Ny4xMTc5LjEuMTcxNDQ0MDAyMi4wLjAuMA..&tab=description)
 - [Disable Dialogue Keys](https://www.nexusmods.com/cyberpunk2077/mods/14516?tab=description)

@@ -3,6 +3,8 @@
 
 These can be configured in game but ive configured them to get you started. These are setup for a full size KB.
 
+![](https://s10.gifyu.com/images/Sf5IV.png)
+
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
 ###  CUSTOM QUICKSLOTS
@@ -19,14 +21,6 @@ These can be configured in game but ive configured them to get you started. Thes
 ### CET 
 
 - F11>  Overlay
-
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
-
-### JB THIRD PERSON
-
-- 1>  Activate 3rd Person
-- C>  Change Camera
-- R>  Reset Camera
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -76,7 +70,7 @@ These can be configured in game but ive configured them to get you started. Thes
 
 ### Night Vision
 
-- F3> NIGHT VISION
+- Y> NIGHT VISION
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
@@ -89,29 +83,16 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
-
 ### HUDITOR ADJUST HUD
 
-- SHIFT (hold) U> Activate Hud Editor
+- F7> Activate Hud Editor
 - Left Arrow @ Right Arrow> Next Widget
 
-
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
-
-
-### CPAH
-
-- CONTROLL+SHIFT+H>Analysis
-- CONTROLL+SHIFT+K>Autohack
-
-
-![](https://s12.gifyu.com/images/Cyan-Rule.png)
-
 
 ### IDLE CONTROLS
 
 - LEFT SHIFT (hold): Idle Menu
-
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)
 
