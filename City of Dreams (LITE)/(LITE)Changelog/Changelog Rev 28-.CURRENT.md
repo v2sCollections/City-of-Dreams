@@ -24,6 +24,7 @@
 - Added more information to the description.
 - Added more information to the description in the pop-up config.
 - HUDitor is optional again but if a user doesnt read and instaLls the mod the HUD wont be out of place.
+- In World Navigation is causing the flatline message to show when exiting the game. This is nothing to worry about.
 
 
 ## Fixes

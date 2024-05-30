@@ -26,8 +26,8 @@ So join us choombah and come along for the ride.
 
 **⛔ NOTE** this is for High-end systems only. Recommended specs below:
 
-- **GPU** **VRAM** [=](https://) 12GB+&#x20;
-- **Storage** [=](https://) 19GB
+- **GPU** **VRAM** [=](https://) 16GB+&#x20;
+- **Storage** [=](https://) 26GB
 - **Storage Type** [=](https://) SSD
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -407,7 +407,6 @@ If you enjoy this collection, **PLEASE** endorse the mod authors and Support me 
 
 Special thanks to these chooms who helped make this collection preem. And everyone on the Nexus and the Cyberpunk modding Discords.
 
-- [Magic Beanware](https://www.nexusmods.com/users/197258372)
 - Fenrir
 - [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
 - DovaDigital
