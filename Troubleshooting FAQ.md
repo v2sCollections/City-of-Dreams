@@ -27,7 +27,7 @@
 
 This is a wierd vanilla crash introduced in **2.11**. The following guide should help to rectify the crash.
 
-1) Go to your main game folder.
+**1**) Go to your main game folder.
 
 **Steam**
 ```
@@ -38,9 +38,9 @@ DRIVE LETTER\Steam\steamapps\common\Cyberpunk 2077\bin\x64
 DRIVE LETTER\GOG Galaxy\Games\Cyberpunk 2077\bin\x64
 ```
 
-2) Now, find **CChromaEditorLibrary64.dll** file and rename it to something else (doesn't really matter what name you choose).
+**2**) Now, find **CChromaEditorLibrary64.dll** file and rename it to something else (doesn't really matter what name you choose).
 
-3) Once done you should be able to change your keybinds and launch the game without any crashes.
+**3**) Once done you should be able to change your keybinds and launch the game without any crashes.
 
 ## [Other Bugs introduced in 2.11](https://youtu.be/QDUn_TuoTdg?si=3xhtgRk0W4Q_7eMk&t=109)
 
@@ -110,19 +110,19 @@ The following cases are rare but these can cause a crash on launch.
 
 You need to disable **"Analytics"**
 
-1) **Purge** the mods in **Vortex**
+**1**) **Purge** the mods in **Vortex**
 
 ![img](https://s11.gifyu.com/images/Sg8LQ.jpg)
 
-2) Launch the game 
+**2**) Launch the game 
 
-3) Go to the settings menu and on the gameplay tab disable **"Analytics"**.
+**3**) Go to the settings menu and on the gameplay tab disable **"Analytics"**.
 
 ![img](https://s11.gifyu.com/images/Sg8LW.jpg)
 
-4) **Deploy** the mods in **Vortex**
+**4**) **Deploy** the mods in **Vortex**
 
-5) Launch the game.
+**5**) Launch the game.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -139,9 +139,9 @@ If you are crashing or experiencing errors on startup and a Cyberclean has not h
 
 Right-click on the following Mods in Vortex and select reinstall.
 
-**1)** Cyber Engine Tweaks
+**1**) Cyber Engine Tweaks
 
-**2)** redscript
+**2**) redscript
 
 **3**) Archive XL
 
@@ -163,31 +163,31 @@ Right-click on the following Mods in Vortex and select reinstall.
 
 For some users, these were able to fix their issues.
 
-1) Make sure the game is installed on a **SSD**
+**1**) Make sure the game is installed on a **SSD**
 
-2) Make sure the graphics driver is up to date/Reinstall the graphics driver 
+**2**) Make sure the graphics driver is up to date/Reinstall the graphics driver 
 
-3) Disable any overlay (steam or Nvidia/amd overlay for example) 
+**3**) Disable any overlay (steam or Nvidia/amd overlay for example) 
 
-4) Disable the (appearance mod menu).
+**4**) Disable the (appearance mod menu).
 
-5) Run the game in windowed fullscreen.
+**5**) Run the game in windowed fullscreen.
 
-6) Make sure these are upto date>
+**6**) Make sure these are upto date>
 - Common Redist
 - NET 7 Desktop Runtime
 
 Another workaround is to start a vanilla game and then redploy the mods after.
 
-1) **Purge** the mods in **Vortex**
+**1**) **Purge** the mods in **Vortex**
 
-2) Create a character without mods.
+**2**) Create a character without mods.
 
-3) Save the game after the first mission.
+**3**) Save the game after the first mission.
 
-4) Go back to **Vortex** and **Deploy** the mods this will enable all the mods. 
+**4**) Go back to **Vortex** and **Deploy** the mods this will enable all the mods. 
 
-5) Start the game and load the save and see if you are able to play.
+**5**) Start the game and load the save and see if you are able to play.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -207,13 +207,13 @@ If this doesnt fix the issue you can try the following.
 
 Play the game without mods and make a save and then reactivate mods and load the save.
 
-1) In **Vortex** on the mods tab select **"Purge"** this will remove the mods from the game files.
+**1**) In **Vortex** on the mods tab select **"Purge"** this will remove the mods from the game files.
 
-2) Boot up the vanilla game load your save now save and close the game.
+**2**) Boot up the vanilla game load your save now save and close the game.
 
-3) In **Vortex** on the mods tab select "**Deploy"**
+**3**) In **Vortex** on the mods tab select "**Deploy"**
 
-4) Boot up the game and load your save.
+**4**) Boot up the game and load your save.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -233,19 +233,19 @@ Play the game without mods and make a save and then reactivate mods and load the
 
 You didnt turn of **"redmod autoconvert"** read the installation guide and start from scratch.
 
-1) Delete the collection and archives.
+**1) Delete the collection and archives.
 
-2) Turn of **"redmod autoconvert"**
+**2) Turn of **"redmod autoconvert"**
 
 ![](https://s11.gifyu.com/images/Untitle44d.jpg)
 
-3) Run a **"cyberclean"**
+**3**) Run a **"cyberclean"**
 
-4) Delete the **"mod"** folder in the main game directory this is the redmods folder.
+**4**) Delete the **"mod"** folder in the main game directory this is the redmods folder.
 
 ![](https://s12.gifyu.com/images/Redmod-folder.jpg)
 
-5) Reinstall collection
+**5**) Reinstall the collection
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -259,13 +259,13 @@ You didnt turn of **"redmod autoconvert"** read the installation guide and start
 
 Sometimes you need to relink **Vortex** to a tool.
 
-1) Go to the dashboard tab in **Vortex**.
+**1**) Go to the dashboard tab in **Vortex**.
 
-2) Scroll down untill you see tools.
+**2**) Scroll down untill you see tools.
 
-3) Click the 3 dots next to the tool you need to relink ie (Reshade). and select "edit"
+**3**) Click the 3 dots next to the tool you need to relink ie (Reshade). and select "edit"
 
-4) Now selct "target" and browse to where you have the tool installed this will be in the main cyberpunk directory.
+**4**) Now selct "target" and browse to where you have the tool installed this will be in the main cyberpunk directory.
 
 ![img](https://s12.gifyu.com/images/SQNLK.png)
 
@@ -292,13 +292,24 @@ Dont worry this is normall some shops haver the same items.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-1) Open **Vortex** 
+**1**) Open **Vortex** 
 
-2) On the mods tab search for **Virtual Atelier**
+**2**) On the mods tab search for **Virtual Atelier**
 
-2) Right click on the mod and select reinstall.
+**2**) Right click on the mod and select reinstall.
 
-4) Launch the game and see if the problem is  resolved.
+**4**) Launch the game and see if the problem is  resolved.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+<details>
+<summary>My game wont launch after Collection Update</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+Always double-check Vortex to make sure it uninstalled/installed something properly during an update. If you are having any issues with crashing or mods not loading you can perform a Cyberclean.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -316,11 +327,11 @@ Dont worry this is normall some shops haver the same items.
 
 This is due to a mod called **HUDitor** it allows you to move the hud widgets where ever you would like. 
 
-1) Once in game hold **SHIFT** and press **U** to customize the hud settings to suit you. 
+**1**) Once in game hold **SHIFT** and press **U** to customize the hud settings to suit you. 
 
-2) To go to the next widget press the **LEFT** and **RIGHT** arrow keys.
+**2**) To go to the next widget press the **LEFT** and **RIGHT** arrow keys.
 
-3) To rest the widgets press **X**
+**3**) To rest the widgets press **X**
 
 See the mod [HERE](https://www.nexusmods.com/cyberpunk2077/mods/3315)
 
@@ -334,7 +345,7 @@ See the mod [HERE](https://www.nexusmods.com/cyberpunk2077/mods/3315)
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-Press **"F6"** to show the mini map and F8 to tuggle the HUD
+Press **F6** to show the mini map and **F8** to tuggle the HUD
 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -372,7 +383,7 @@ Male V
 
 You can fix this bug by 
 
-1) Equip a pistol before getting into the car.
+**1**) Equip a pistol before getting into the car.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -405,6 +416,24 @@ Things to note.
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 </details>
+
+<details>
+<summary>How do i change the Menu backgrounds</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+On the first installation, you will be able to choose your background from the installer if you would like to change this at any time follow the steps below.
+
+**1**) Open **Vortex** and locate the **Menu Backgrounds-v2** mod.
+
+**2**) Right-click the Mod and select **Reinstall**
+
+**3**) Now you will be able to choose another background.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
 
 
 
@@ -453,9 +482,9 @@ You need to set the texture quality to **"HIGH"**
 
 **Note** This setting doesnt show when in game you must be in the main menu.
 
-1) Launch the game 
+**1**) Launch the game 
 
-2) Go to the settings menu and on the graphics tab set texture quality to high.
+**2**) Go to the settings menu and on the graphics tab set texture quality to high.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -466,9 +495,9 @@ You need to set the texture quality to **"HIGH"**
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-1) Go to a Vendor and sort by all.
+**1**) Go to a Vendor and sort by all.
 
-2) Locate the problem weapon and sell it.
+**2**) Locate the problem weapon and sell it.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -482,11 +511,11 @@ You need to set the texture quality to **"HIGH"**
 
 Some times the camera can get stuck zoomed in. To fix this you can try the following. 
 
-1) If you are stuck zoomed in with your scope on a weapon press **controll** on your keyboard to toggle weapon zoom.
+**1**) If you are stuck zoomed in with your scope on a weapon press **control** on your keyboard to toggle weapon zoom.
 
-2) Save your game and reload. 
+**2**) Save your game and reload. 
 
-3) Change your fov and then change it back. 
+**3**) Change your FOV and then change it back. 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -499,13 +528,59 @@ Some times the camera can get stuck zoomed in. To fix this you can try the follo
 
 This can happen if you change your character in the game (mirror or a ripperdoc). This is caused by the **Appearance Change Unlocker** mod this mod is needed to be able to change many things on your character like tattoos ect 
 
-1) Reload your current save.
+**1**) Reload your current save.
 or
-2) Restart the game.
+**2**) Restart the game.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 </details>
+
+<details>
+<summary>Meredith Stout missing textures</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+This is a known issue. It will only occur in this scene.
+
+![img](https://s12.gifyu.com/images/SYwNm.png)
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+<details>
+<summary>Mistys Hair is Floating</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+If you find that Misty's hair is bugging out you can do the following.
+
+**1**) Press **F11** 
+**2**) Select **AMM** 
+**3**) Scan Misty and select another appearance.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+<details>
+<summary>My character is T-Posing</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+This bug is caused by the DOWNTOWN Hair Salon.
+
+If you can't deal with it you can disable the Mods until the author releases an update.
+
+![img](https://s12.gifyu.com/images/SYwN1.png)
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
 
 
 
@@ -589,11 +664,11 @@ If it is but the tools still arnt showing do the following
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-Vortex can sometimes give errors. These can most of the time be fixed with the following methods.
+**Vortex** can sometimes give errors. These can most of the time be fixed with the following methods.
 
-- Restarting Vortex.
+- Restarting **Vortex**.
 - Restarting your PC
-- Logging out of Vortex and Nexus and signing back in.
+- Logging out of **Vortex** and **Nexus** and signing back in.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -605,10 +680,10 @@ Vortex can sometimes give errors. These can most of the time be fixed with the f
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-Vortex and Nexus can throw errors sometimes to fix this.
+**Vortex** and **Nexus** can throw errors sometimes to fix this.
 
-- Log out of Vortex
-- Log out of Nexus
+- Log out of **Vortex**
+- Log out of **Nexus**
 
 And then log back in
 
@@ -624,7 +699,7 @@ And then log back in
 
 This is because you have enabled 2 conflicting Texture Mods.
 
-All you have to do is disable the variant of the texture you don't want either 2k or 4k.
+All you have to do is disable the variant of the texture you don't want either **2k** or **4k**.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -653,28 +728,42 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 </details>
 
-</details>
-
 <details>
-<summary>How do i update the Collection</summary>
+<summary>How do i Update the Collection</summary>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-:no_entry:Updating the collection is as easy as clicking the "Update" button in Vortex. When prompted to "Remove mods from old revision" make sure to click the "Remove All" button.
+## HOW TO UPDATE
 
-:no_entry:DO NOT update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
+**1**) Create a new Profile in Vortex and enable it.
+
+**2**) Go to the Collection page and ensure the most current revision number is displayed, then select select **"ADD TO VORTEX"**
+
+- [HEAVY](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o/revisions/56?utm_medium=vortex&utm_source=vortex&utm_campaign=view_collection&utm_source=copy&utm_medium=social&utm_campaign=share_collection) 
+- [LITE](https://next.nexusmods.com/cyberpunk2077/collections/ayfbwl/revisions/24?utm_medium=vortex&utm_source=vortex&utm_campaign=view_collection&utm_source=copy&utm_medium=social&utm_campaign=share_collection) 
+
+**3**) When prompted to select which profile to install to, select the new profile you created in Step 1
+
+**4**) Once the update is downloaded you can remove the old profile. But :no_entry:**DO NOT** remove the archives.
+
+**NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
+
+## [Video Guide](https://youtu.be/8KyTd3YAaUM)
+
+### :no_entry:DO NOT update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
 
 Notes will be in the changelog.
 
-Updating
+![img](https://i.imgur.com/wAJUpeU.png)
 
-**1**) In Vortex select "Collections"
+</details>
 
-**2**) You will see an "Update" button select this.
+<details>
+<summary>My game Freezes for a second when i load into the game</summary>
 
-![img](https://s11.gifyu.com/images/SgXNN.jpg)
+![img](https://i.imgur.com/wAJUpeU.png)
 
-**3)** When prompted to "Remove mods from old revision" make sure to click the "Remove All" button.
+This is completely normal. This is caused by the **"Simple Menu"** Mod initializing.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -686,7 +775,7 @@ Updating
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 - ⛔ **NO** Mods will not work with a Pirated/Cracked version of the game.
-- ⛔ **DO NOT** use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
+- ⛔ **DO NOT** use a pirated game. It is against **Nexus** rules and is illegal and we will not provide any support.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
