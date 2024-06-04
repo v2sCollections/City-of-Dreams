@@ -233,9 +233,9 @@ Play the game without mods and make a save and then reactivate mods and load the
 
 You didnt turn of **"redmod autoconvert"** read the installation guide and start from scratch.
 
-**1) Delete the collection and archives.
+**1**) Delete the collection and archives.
 
-**2) Turn of **"redmod autoconvert"**
+**2**) Turn of **"redmod autoconvert"**
 
 ![](https://s11.gifyu.com/images/Untitle44d.jpg)
 
