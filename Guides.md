@@ -364,6 +364,51 @@ If you want to learn more about how these mods work check out the mod page on Ne
 </details>
 
 
+
+<details>
+<summary>How to use GTA Travel</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+# How to use [GTA Travel](https://www.nexusmods.com/cyberpunk2077/mods/2006)
+
+## Info
+
+This mod replaces the fast travel loading screens with real-time dynamic camera transitions, similar to switching characters in GTA V. Also includes fast travel from anywhere options.
+
+## How to use
+
+Hold down left-click on your destination marker, not just click it.
+The UI shows and hides with the CET Console, no hotkeys are required.
+Images of the UI / Settings tabs can be found under this mods image section.
+If you want to know more about an option, and what value you should choose, hover over the little? next to it.
+Setting speed values too high might result in a loading screen, so start low and slowly increase the speed to find the maximum speed your PC can handle.
+
+### Speed settings
+
+- **Max Speed:** This sets what's the maximum speed is you can reach during that phase (Available for up, sideways and down phase)
+- **Speed Increment:** Use this to control how fast you accelerate/decelerate (Lower →Slower) (Available for up, sideways and down phase).
+- **Cam Height:** This sets to what height the cam goes during the transition (Available for the up phase).
+- **Player TP Distance:** This controls at which distance to the ground the player, gets teleported away from it. I recommend keeping the default values, higher values also work most of the time but not everywhere (Depending on how busy the location is) (Available for up and down phases).
+
+### Misc settings
+
+- Enable GTA Travel from Fast Travel Points to Fast Travel Points, Anywhere to Fast Travel Points, Anywhere to Anywhere.
+- **Reset stuff:** Options to reset cam and remove restrictions (Such as no weapon), in case something goes wrong you can always use these.
+- **Visual Setting:** Here you can choose if you want to disable the HUD, enable motion blur and/or speed up the time during the transition.
+
+### File & Config
+
+- Here you can store your current settings in 3 different slots (Load, save, reset).
+- You can also specify one slot for autoload (Load with start checkbox).
+- Use the "Autosave to load with start slot" to do exactly that.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+
 <details>
 <summary>Changing the CET keybind</summary>
 
