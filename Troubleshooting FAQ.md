@@ -325,15 +325,16 @@ Always double-check Vortex to make sure it uninstalled/installed something prope
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-This is due to a mod called **HUDitor** it allows you to move the hud widgets where ever you would like. 
+This is due to a mod called **HUDitor** that allows you to move the HUD widgets where ever you would like. 
 
-**1**) Once in game hold **SHIFT** and press **U** to customize the hud settings to suit you. 
+**1)** Once in game press **"F7"**  to make sure the HUD is toggled on then hold **SHIFT** and press **U** to customize the hud settings to suit you. 
 
-**2**) To go to the next widget press the **LEFT** and **RIGHT** arrow keys.
+**2)** To go to the next widget press the **LEFT** and **RIGHT** arrow keys.
 
-**3**) To rest the widgets press **X**
+**3)** To reset the widgets press **X**
 
-See the mod [HERE](https://www.nexusmods.com/cyberpunk2077/mods/3315)
+https://i.imgur.com/odR9sZl.mp4
+https://www.nexusmods.com/cyberpunk2077/mods/3315
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
