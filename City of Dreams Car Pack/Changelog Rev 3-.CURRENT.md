@@ -101,7 +101,6 @@ N/A
 - [1969 Ford Mustang Boss 302](https://www.nexusmods.com/cyberpunk2077/mods/13650?tab=description)
 - [Bentley Bentayga](https://www.nexusmods.com/cyberpunk2077/mods/13457?tab=description)
 - [Bmw M1000RR](https://www.nexusmods.com/cyberpunk2077/mods/16481?tab=description)
-- [2009 Chevrolet Corvette ZR1](https://www.nexusmods.com/cyberpunk2077/mods/16088?tab=description)
 - [2022 Hyundai N Vision 74](https://www.nexusmods.com/cyberpunk2077/mods/16875?tab=description)
 - [Mazda RX-7 FD](https://www.nexusmods.com/cyberpunk2077/mods/16537?tab=description)
 
