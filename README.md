@@ -1,4 +1,4 @@
-### ✅Compatible with Patch 2.12a                                    ✅ **Compatible** with or without Phantom Liberty
+### ✅Compatible with Patch 2.13                                           ✅ **Compatible** with or without Phantom Liberty
 
 https://www.youtube.com/watch?v=sn-Ju\_OWP\_8
 
@@ -33,7 +33,7 @@ And that's it choom I hope to see you in Night City but now it's time for me to 
 </details>
 
 <details><summary>CLICK HERE FOR MORE COLLECTIONS IN THE SERIES</summary>
-
+WATCH THIS SPACE!!!
 </details>
 
 <details><summary>TESTIMONIALS</summary>
@@ -217,7 +217,7 @@ This collection is extensively tested with every new version, because we want to
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in **Cyberpunk 2077**.
 - The most exstensive mod collection on nexus for **Cyberpunk 2077**.
 - Easy to follow step-by-step installation guide.
-- Only-[24](https://)Gb in download size for [1100](https://) mods. Optional Mods add another [6](https://)Gb
+- Only-[30](https://)Gb in download size for [1300](https://) mods. Optional Mods add another [8](https://)Gb
 - Mods specifically created for the collection.
 - Support for other **Modular Expansion Packs**.
 - Setup Video-[HERE](https://youtu.be/sn-Ju_OWP_8?si=SzC5-e2ffdFgHS0k)
@@ -283,7 +283,7 @@ Use Vortex to launch the game.
 
 https://www.youtube.com/watch?v=z35VtntZxYA
 
-![img](https://i.imgur.com/wAJUpeU.png)This is a large collection I highly recommend purchasing a Nexus premium account even just for 1 month to install the collection it will make installation much easier. You can just cancel the subscription after the installation if you wish.
+![img](https://i.imgur.com/wAJUpeU.png)This is a large collection I highly recommend purchasing a Nexus premium account even just for 1 month to install the collection it will make installation much easier. You can cancel the subscription after installation if you wish.
 
 **Premium Users**: Takes 1.5 hours + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
 **Free Users:** Takes 2 to 4 hours + Semi-automatic. You will have to click on download for each mod one by one. **(I recommend you don't attempt this)**
@@ -314,7 +314,7 @@ https://www.youtube.com/watch?v=ePGjTil0huI
 
 **2**) ⛔ Make sure the game is installed on an SSD.
 
-**3**) ⛔ If you are using an older save from pre-2.0 and encounter any issues start a new save.
+**3**) ⛔ If you use an older save from pre-2.0 and encounter any issues start a new save.
 
 **4**) You need to create a mod folder go to the following location (Locations below) and create a folder named mod. When done should look as follows.
 
@@ -434,14 +434,16 @@ https://www.youtube.com/watch?v=Qsw97w3eg1w
 
 ReShade is included with the collection once you have finished downloading it will be placed on the toolbar in the top left-hand corner of Vortex.
 
+⛔**NOTE** Reshade will not work if you have HDR enabled in Windows.
+
 **1**) Click on Reshade in the top corner.
 
 ![](https://s11.gifyu.com/images/Reshade994ca6dfeae6e8e5.jpg)**2**) Select browse and find the **"*****Cyberpunk2077.exe*****"** and select it.**(Locations below)**
 
 ```
-Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk2077.exe
-GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk2077.exe
-Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe  
+Steam> DRIVE LETTER\SteamLibrary\steamapps\common\Cyberpunk 2077\bin\x64\Cyberpunk2077.exe
+GOG>   DRIVE LETTE\GOGLibrary\Games\Cyberpunk 2077\bin\x64\Cyberpunk2077.exe
+Epic>  DRIVE LETTE\EpicLibrary\Cyberpunk 2077\bin\x64\Cyberpunk2077.exe
 ```
 
 **3**) Select Directx 10/11/12
@@ -464,7 +466,7 @@ I have added the Reshade below.
 ![img](https://i.imgur.com/wAJUpeU.png)
 </details>
 
-<details><summary>🎮 IN-GAME SETTINGS</summary>
+<details><summary> 🎮 IN-GAME SETTINGS</summary>
 ***
 
 ![img](https://i.imgur.com/wAJUpeU.png)**1**) To use CET (Cyber Engine Tweaks) use [F11](https://) on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Vehicle camera and many more.
@@ -605,11 +607,11 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 - Fixes a bug that happens when consuming a Perk or Skill Shard removes a sleeping or showering buff.
 - Fixes a bug that with the time label the buff bar only appears when it has more than 30 seconds left in duration. It only checks seconds though, so buffs with more than one minute show the duration from X:59 to X:31 and then disappear from X:30 to X:00. Reappearing and disappearing every 30 seconds.
 - The fractional part of Buff/Debuff remaining time in the weapon wheel is incorrect between X.01 and X.09 because it is displayed without the leading zero. (e.g. it displays "17.11", "17.10", "17.9", "17.8", etc.)
-- Fixes a bug when loading a save and the player has buffs/debuffs in effect, the gradual fill-in visual effect (in the weapon wheel view) uses the time remaining at load time instead of the max duration of the buff as the denominator when calculating what percent of the icon to fill for the effect.
+- Fixes a bug when loading a save and the player has buffs/debuffs in effect, the gradual fill-in visual effect (in the weapon wheel view) uses the time remaining at load time instead of the max duration of the buff as the denominator when calculating what per cent of the icon to fill for the effect.
 - Fixes the remaining time displayed on buffs and debuffs next to the health bar and in the weapon wheel which is offset by 15, 30, or 45 minutes (when over a minute long) IF your computer time zone is not a whole number of hours offset from UTC. ***REALLY!*** If you set your time zone to UTC +12:45 (Chatham Islands), the times will be offset by 45 minutes.
 - Fixes a bug when you use a Max Doc (inhaler), the icon that appears (for 0.1s) at the top of the screen is wrong. It is usually a duplicate of another recently used icon.
 - Fixes Epic Fortified Ankles shows a buff in the status bar while you're hovering, and it was referencing an icon that doesn't exist so it would also show a duplicate of another recently used icon. Fixed to use the "generic buff icon", which actually kind of fits for the hover buff (forward arrows).
-- Fixes the armor tooltip in the Cyberware/Ripperdoc menu to be factually correct and show your actual current damage reduction from armor rather than a theoretical maximum.
+- Fixes the armour tooltip in the Cyberware/Ripperdoc menu to be factually correct and show your actual current damage reduction from armour rather than a theoretical maximum.
 - Fixes the name of the Encrypted shards group.
 - Fixes the missing Butchers Cleaver in the Japantown apartment stash.
 - Fixes the missing and/or interrupted segment from Stanley, when leaving the shower after the heist.
@@ -673,10 +675,10 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 
 ### Features
 
-> A huge optional graphics based mod based on the look and feel of the Ghost in the Shell movies.
+> An extensive, optional graphics mod inspired by the iconic aesthetic of the *Ghost in the Shell* films, designed to capture their distinctive look and atmosphere.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
-- Color grading and atmosphere inspired by the 2017 live action film, and the 1995 anime adaption, respectively. Weather favoring rain and overcast.
+- Color grading and atmosphere inspired by the 2017 live-action film, and the 1995 anime adaption, respectively. Weather favouring rain and overcast.
 - Adds reflections for vehicle interiors.&#x20;
 - Local lights illuminate car interiors.
 - Increases the strength of muzzle flashes in the game and photo mode.
@@ -750,9 +752,10 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 > Modified every part of the damage system and other elements to give gangs and corps more flavour and uniqueness. Also, get benefits and penalties against gangs/corps based on your life path.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
-**Gangs**\
-\
-**Animals**\\
+[Gangs](https://)\
+\\
+
+### **Animals**
 
 - **Firewall:** Immune to control hacks
 - **Massive:** Cannot be grappled (may replace with related ability in the future - you can turn it back on in the config if you want)
@@ -761,7 +764,7 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 - **Combat Drug Injectors:** Resistant to non-melee damage (0.5x)
 - **Implanted Muscles:** Ignore 25% of player armour
 
-**Maelstrom**\\
+### **Maelstrom**
 
 - **Firewall:** Immune to covert hacks
 - **ICE:** +1 upload time, +1 RAM cost
@@ -771,7 +774,7 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 - **Chrome Dome:** Resistant to Headshots (0.5x)
 - **Subdermal Body Plating:** Resistant to Assault weapons (0.5x)
 
-**Scavengers**\\
+### **Scavengers**
 
 - **ICE:** +1 upload time
 - **Pain Editors:** Immune to Electrocution
@@ -779,7 +782,7 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 - **Kerenzikov:** Smartbullet Evasion (50% miss prob)
 - **Spare Parts:** Resistant to Hack damage (0.5x)
 
-**Sixth Street**\\
+### **Sixth Street**
 
 - **Firewall:** Immune to damage hacks
 - **ICE:** +2 upload time, +1 RAM cost
@@ -787,29 +790,29 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 - **Health Monitors:** One-shot protection (max 80% of full health in one shot)
 - **Ballistic Counter Measures:** Resistant to Power weapons (0.5x), vulnerable to Ricochet (2x)
 
-**Tyger Claws**\\
+### **Tyger Claws**
 
 - **Firewall:** Immune to ultimate hacks
 - **ICE:** +1 upload time, +2 RAM cost
 - **ECM:** Smartgun jammer (80% miss prob)
 - **Pain Editors:** Immune to Burning, resistant to Grenade damage (0.5x)
 
-**Valentinos**\\
+### **Valentinos**the&#x20;
 
 - **Reflex Boosters:** Resistant to Critical Hits (0.25x)
-- **Armour Piercing Rounds:** Ignore 50% of player's armour
+- **Armour Piercing Rounds:** Ignore 50% of the player's armour
 - **Projected Simulacrum:** Immune to Homing Grenades
 - **Synth-adrenaline:** Immune to Bleeding
 - **Polarized skin plating:** Resistant to Tech damage (0.5x)
 
-**Voodoo Boys**\\
+### **Voodoo Boys**
 
 - **Firewall:** Immune to ultimate hacks
 - **ICE:** +2 upload time, +4 RAM cost
 - **Bullet Hacking:** Resistant to Smart weapon damage (0.5x)
 - **Backup Processor:** Resistant to Hack damage (0.5x)
 
-**Wraiths**\\
+### **Wraiths**
 
 - **Firewall:** Immune to covert hacks
 - **ICE:** +1 RAM cost
@@ -818,9 +821,10 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 - **Kiroshi Mk 2:** enhanced detection (1.2x)
 - **Corp-poisoned Water:** Immune to Poison
 
-**Corps**\
+[Corps](https://)\\
+
 \
-**Arasaka**\\
+**Arasaka**
 
 - **Firewall:** Immune to ultimate hacks
 - **ICE:** +1 upload time, +2 RAM cost
@@ -828,14 +832,14 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 - **Neuro Backup:** One-shot protection (max 80% of full health in one shot)
 - **Cochlear Implants:** Resistant to Stealth damage (0.25x)
 
-**Biotechnica**\\
+### **Biotechnica**
 
 - **Firewall:** Immune to control hacks
 - **ICE:** +1 upload time
 - **Nano Med Bots:** Immune to Bleeding and Poison
 - **Bullet-ejecting Armor Plating:** Resistant to Power weapons (0.5x)
 
-**Kang Tao**\\
+### **Kang Tao**
 
 - **Firewall:** Immune to covert hacks
 - **ICE:** +1 RAM cost
@@ -843,7 +847,7 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 - **Automated Internal Fire Suppression:** Immune to Burning
 - **Projected Simulacrum:** Immune to Homing Grenades
 
-**Militech**\\
+### **Militech**
 
 - **Firewall:** Immune to damage hacks
 - **ICE:** +2 upload time, +1 RAM cost
@@ -872,7 +876,7 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 - Reduces the time taken to pass through the Dogtown vehicle checkpoints by roughly 66%.
 - New transmog system with 30+ clothing slots
 - Allows you to manage an unlimited amount of outfits with your names
-- Converts your existing wardrobe sets to a new system at a first launch.
+- Converts your existing wardrobe sets to a new system at the first launch.
 - Adds little check marks to the recipe icons in the crafting menu so that you can tell what you already own.
 </details>
 
@@ -899,7 +903,7 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 - **Enemy Highlighting**: if enabled then the enemy highlight effect will be visible only for non-friendly NPCs under the Ping effect
 - **Objects Coloring:** allows to change or remove fill and outline glow colouring for different object categories (friendly and hostile NPCs, hackable devices, distractions etc.)
 
-HUDitor allows players to move & resize some of the main widgets on the screen.
+[HUDitor](https://www.nexusmods.com/cyberpunk2077/mods/3315) allows players to move & resize some of the main widgets on the screen.
 
 ### Inventory
 
@@ -920,7 +924,7 @@ HUDitor allows players to move & resize some of the main widgets on the screen.
 
 ### Vendors
 
-- Fast Buy & Sell - Allows you to buy and sell entire items stacks without any additional dialogues - Uses the Activate Secondary keybinding\*\*(defaults to Right Mouse Button)\*\*.
+- Fast Buy & Sell - Allows you to buy and sell entire items stacks without any additional dialogues - Uses the Activate Secondary keybinding (defaults to Right Mouse Button).
 - Quantity pickers are now limited to the player's/vendors' total money.
 - Quantity pickers now default to max value instead of 1.
 - Iconic Items cannot be sold.
@@ -941,7 +945,7 @@ HUDitor allows players to move & resize some of the main widgets on the screen.
 
 ### Loot
 
-- You can tweak some of the interaction and loot marker visibility behavior.
+- You can tweak some of the interaction and loot marker visibility behaviour.
 - Adds additional loot markers on looting containers that show which types of loot are in it.
 </details>
 
@@ -955,7 +959,7 @@ HUDitor allows players to move & resize some of the main widgets on the screen.
 - Police System options: Toggle police and set custom Wanted level
 - Time Manipulation: Set Game Time, Freeze Time (time of day) and Slow Motion(vastly extended and improved with v49)
 - Quest Manipulation: End Quest, Untrack Active Quest and change quest and romance facts
-- Teleport Features: Save current position and teleport back to saved location, Custom Teleport Locations
+- Teleport Features: Save current position and teleport back to a saved location, Custom Teleport Locations
 - Vehicle Features: Unlock Vehicles and Instant Vehicle Spawn
 - NEW (v49)- Breach Protocol Options: No time limit, set time limit, tweak variables, and more.
 
@@ -1026,7 +1030,7 @@ To see more read the simple menu details.
 - Every effort has been made to filter out useless (broken, partially implemented, etc) items, but some may still exist (they shouldn't break anything too badly, mostly they just don't work)
 - This will also index and make searchable mod items, though not all will appear for various reasons (incomplete TweakDB entries, for example)
 
-### \*\*HOTKEY FUNCTIONS \*\*
+### HOTKEY FUNCTIONS
 
 - Refill Ammo: manual or automatic
 - Weapon modifiers
@@ -1264,13 +1268,13 @@ https://www.youtube.com/watch?v=UkJLHFdlPhs
 
 > 100+ Shops with over 3000+ pieces of Clothing, Armour,Cyberware, Vehicles, Jewellery and Weapons added to the Alteier store these can be accessed in-game from any computer these include items from some of the most talented modders in the CP2077 community such as.
 
-![](https://s5.gifyu.com/images/S8FWJ.png)                 [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)                                        [cubfan82](https://www.nexusmods.com/cyberpunk2077/users/48710108)                                      [Breezypunk](https://www.nexusmods.com/cyberpunk2077/users/136778058)                                   [VeegeeAlvarez](https://www.nexusmods.com/cyberpunk2077/users/120233618)
+![](https://s5.gifyu.com/images/S8FWJ.png)                 [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)                                        [cubfan82](https://www.nexusmods.com/cyberpunk2077/users/48710108)                                                                                   [VeegeeAlvarez](https://www.nexusmods.com/cyberpunk2077/users/120233618)
 
 ![](https://s5.gifyu.com/images/S8FWO.png)                [PeachuHime](https://www.nexusmods.com/cyberpunk2077/users/109777063)                                              [Apzurv](https://www.nexusmods.com/cyberpunk2077/users/18222069)                                         [NolaDreamer](https://www.nexusmods.com/cyberpunk2077/users/103558203)                                    [PinkyDude](https://www.nexusmods.com/cyberpunk2077/users/20892624)
 
 ![](https://s5.gifyu.com/images/S8Fck.png)                 [JohnsonsStuff](https://www.nexusmods.com/cyberpunk2077/users/49231818)                                   [AnruiMurasaki](https://www.nexusmods.com/cyberpunk2077/users/36190195)                                     [AlvarixPT](https://www.nexusmods.com/users/98058588)                                        [LxRHyst](https://www.nexusmods.com/users/114587558)
 
-![](https://s5.gifyu.com/images/S8Fcd.png)                 [spawn00000](https://www.nexusmods.com/users/2035415)                                          [xBaebsae](https://www.nexusmods.com/users/74174073)                                   [MONSTERaider](https://www.nexusmods.com/users/1630457)                                  [kweknexuss](https://www.nexusmods.com/cyberpunk2077/users/86973158)
+![](https://s5.gifyu.com/images/S8Fcd.png)                                                                     [xBaebsae](https://www.nexusmods.com/users/74174073)                                   [MONSTERaider](https://www.nexusmods.com/users/1630457)                                  [kweknexuss](https://www.nexusmods.com/cyberpunk2077/users/86973158)
 
 [](https://www.nexusmods.com/cyberpunk2077/users/86973158)
 
@@ -1285,7 +1289,7 @@ https://www.youtube.com/watch?v=UkJLHFdlPhs
 - Vs hair has more shine.
 - Vs feet are toggleable.
 - More makeup.
-- More eye colors.
+- More eye colours.
 - More eyebrows.
 - More tattoos.
 - Enhanced 4k body for Panam.
@@ -1308,13 +1312,11 @@ https://www.youtube.com/watch?v=UkJLHFdlPhs
 
 ## **Male V**
 
-![](https://s6.gifyu.com/images/S8gko.png)[-KS- ADONIS Male Body](https://www.nexusmods.com/cyberpunk2077/mods/4968) by [KnowSo](https://www.nexusmods.com/cyberpunk2077/users/137109313)&#x20;
+![](https://s11.gifyu.com/images/SO3r0.png)[-KS- Atlas (a male player body mod)](https://www.nexusmods.com/cyberpunk2077/mods/8766?tab=description) by [AllKnowingLion](https://www.nexusmods.com/cyberpunk2077/users/82976428)
 
 ### Features
 
-> This is a male body mod that has Custom 4k textures and will prove to all of Night City that your V is, indeed, the main character by transforming him from the plain, doughy figure of the vanilla game into a ripped, broad shouldered form that will inspire fear and awe from friend and foe alike.
-
-⛔NOTE The Adonis body is not compatible with [Arasaka cyber arms](https://www.nexusmods.com/cyberpunk2077/mods/1099?_gl=1%2Ac4znfv%2A_ga%2ANTM5MzA5NTU4LjE2OTQ4NzkyMzY.%2A_ga_N0TELNQ37M%2AMTY5NzEwMTgzMC4xNTEuMS4xNjk3MTE4MDM3LjAuMC4w\&tab=description) or Arasaka cyber body.
+> Introducing ATLAS - A masc x4 High Poly body with hand-sculpted musculature for the torso and legs, as well as including PinkyDude's "Better Feet for Masc V" all made be useable with vanilla clothing.
 
 ***
 
@@ -1401,6 +1403,8 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 - [Blade Runner Spinner](https://www.nexusmods.com/cyberpunk2077/mods/7916).
 - [Quadra Turbo K.S Edition](https://www.nexusmods.com/cyberpunk2077/mods/8260).
+- [DeLorean DMC-12 BTF(Back to the Future)](https://www.nexusmods.com/cyberpunk2077/mods/15037?tab=description).
+- ['01 BMW M3 GTR 'Most Wanted'](https://www.nexusmods.com/cyberpunk2077/mods/9871?tab=description).
 
 ### EURO
 
@@ -1409,40 +1413,81 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 - [Lamborghini Huracan STO](https://www.nexusmods.com/cyberpunk2077/mods/11254?tab=description)
 - [Lamborghini Huracan Libertywalk](https://www.nexusmods.com/cyberpunk2077/mods/11877?tab=description).
 - [Lamborghini Urus](https://www.nexusmods.com/cyberpunk2077/mods/12022?tab=description).
+- [Lamborghini Evo 2](https://www.nexusmods.com/cyberpunk2077/mods/15432?tab=description).
+- [Lamborghini Veneno](https://www.nexusmods.com/cyberpunk2077/mods/16224?tab=description).
+- [Lamborghini Revuelto](https://www.nexusmods.com/cyberpunk2077/mods/12705?tab=description).
+- [Lamborghini Temerario](https://www.nexusmods.com/cyberpunk2077/mods/16479?tab=description).
 - [Mercedes-Benz 190E W201](https://www.nexusmods.com/cyberpunk2077/mods/8521?tab=description).
 - [Mercedes-Benz 190E](https://www.nexusmods.com/cyberpunk2077/mods/8498).
 - [Mercedes Benz c63s AMG](https://www.nexusmods.com/cyberpunk2077/mods/9075).
 - [2019 Mercedes G63 AMG](https://www.nexusmods.com/cyberpunk2077/mods/12167).
 - [BMW M8 Competition Coupe](https://www.nexusmods.com/cyberpunk2077/mods/10397).
+- [Bmw m3 Competition](https://www.nexusmods.com/cyberpunk2077/mods/16220).
+- [BMW M3 E46](https://www.nexusmods.com/cyberpunk2077/mods/10172?tab=description).
+- [2021 BMW M4 Competition](https://www.nexusmods.com/cyberpunk2077/mods/15299?tab=description).
 - [Rolls-Royce Wraith](https://www.nexusmods.com/cyberpunk2077/mods/8618).
+- [Bentley Bentayga](https://www.nexusmods.com/cyberpunk2077/mods/13457?tab=description).
 - [Pagani Zonda Cinque roadster](https://www.nexusmods.com/cyberpunk2077/mods/8795?tab=description).
+- [Pagani Imola](https://www.nexusmods.com/cyberpunk2077/mods/15781?tab=description).
 - [Porsche 918 Spyder.](https://www.nexusmods.com/cyberpunk2077/mods/9125?tab=description)
 - [Koenigsegg Regera](https://www.nexusmods.com/cyberpunk2077/mods/10134).
+- [Koenigsegg One1](https://www.nexusmods.com/cyberpunk2077/mods/12474?tab=description).
 - [Mclaren 765LT](https://www.nexusmods.com/cyberpunk2077/mods/10193?tab=description).
+- [Mclaren P1 GTR](https://www.nexusmods.com/cyberpunk2077/mods/17133).
 - [95' McLaren F1](https://www.nexusmods.com/cyberpunk2077/mods/7845).
 - [Bugatti Chiron SuperSport](https://www.nexusmods.com/cyberpunk2077/mods/11331?tab=description).
 - [Ferrari 812 Competizione](https://www.nexusmods.com/cyberpunk2077/mods/11926).
 - [Ferrari F40](https://www.nexusmods.com/cyberpunk2077/mods/13250).
 - [Ferrari Daytona SP3](https://www.nexusmods.com/cyberpunk2077/mods/13465).
 - [Aston Martin Valkyrie](https://www.nexusmods.com/cyberpunk2077/mods/12015?tab=description).
+- [Jaguar E Type](https://www.nexusmods.com/cyberpunk2077/mods/15238?tab=description).
+- [Opel Manta 400 Group B](https://www.nexusmods.com/cyberpunk2077/mods/15503?tab=description).
 
 ### AMERICAN
 
 - [Ford Mustang RTR Spec 5](https://www.nexusmods.com/cyberpunk2077/mods/8912).
+- [Ford Mustang SVT Cobra](https://www.nexusmods.com/cyberpunk2077/mods/14663?tab=description).
+- [Ford Mustang Shelby GT500](https://www.nexusmods.com/cyberpunk2077/mods/14702?tab=description).
 - [2024 Ford Mustang GT](https://www.nexusmods.com/cyberpunk2077/mods/13248?tab=description).
-- [Ford Hoonicorn](https://www.nexusmods.com/cyberpunk2077/mods/12029?tab=description).
+- [1969 Ford Mustang Boss 302](https://www.nexusmods.com/cyberpunk2077/mods/13650?tab=description).
+- [Ford Mustang Legendary Customs](https://www.nexusmods.com/cyberpunk2077/mods/13385).
+- [Ford Crown Victoria Interceptor](https://www.nexusmods.com/cyberpunk2077/mods/15577).
 - [67 Chevrolet Impala](https://www.nexusmods.com/cyberpunk2077/mods/8373).
+- [2009 Chevrolet Corvette ZR1](https://www.nexusmods.com/cyberpunk2077/mods/16088).
+- [Lucifer's Corvette](https://www.nexusmods.com/cyberpunk2077/mods/15270?tab=description).
+- [Chevrolet Corvette Sting Ray C2](https://www.nexusmods.com/cyberpunk2077/mods/15564?tab=description).
 - [Cadillac Escalade (III) ESV Platinum](https://www.nexusmods.com/cyberpunk2077/mods/12377?tab=description).
 - [Dodge Challenger SRT Demon](https://www.nexusmods.com/cyberpunk2077/mods/12556).
+- [DeLorean DMC-12](https://www.nexusmods.com/cyberpunk2077/mods/15021?tab=description).
+- [HUMMER H1](https://www.nexusmods.com/cyberpunk2077/mods/15849).
+- [Pontiac Firebird Trans AM GTA](https://www.nexusmods.com/cyberpunk2077/mods/16205?tab=description).
+- [1966 Ford Mustang GT](https://www.nexusmods.com/cyberpunk2077/mods/16477?tab=description).
+- [Ford Hoonicorn](https://www.nexusmods.com/cyberpunk2077/mods/12029?tab=description).
 
 ### JDM
 
 - [92' NSX Rocket Bunny](https://www.nexusmods.com/cyberpunk2077/mods/7533).
 - [02' Nissan Skyline GT-R R34](https://www.nexusmods.com/cyberpunk2077/mods/7606).
 - [1993 Nissan 240SX (S13)](https://www.nexusmods.com/cyberpunk2077/mods/8730).
+- [2017 Nissan GTR R35](https://www.nexusmods.com/cyberpunk2077/mods/11659?tab=description).
 - [MAZDA RX7 TCP Magic](https://www.nexusmods.com/cyberpunk2077/mods/13415?tab=description).
+- [Mazda RX-7 FD](https://www.nexusmods.com/cyberpunk2077/mods/16537?tab=description).
+- [Toyota Trueno GT APEX(AE86) Initial D Edition](https://www.nexusmods.com/cyberpunk2077/mods/16099?tab=description).
+- [Mitsubishi EVO X](https://www.nexusmods.com/cyberpunk2077/mods/16480?tab=description).
+- [Mitsubishi Lancer Evolution VI GSR](https://www.nexusmods.com/cyberpunk2077/mods/16323?tab=description).
+- [2022 Hyundai N Vision 74](https://www.nexusmods.com/cyberpunk2077/mods/16875?tab=description).
+- [Honda NSX Type R NA1](https://www.nexusmods.com/cyberpunk2077/mods/16912?tab=description).
+- [2021 Lexus LC 500 Liberty Walk](https://www.nexusmods.com/cyberpunk2077/mods/16979).
 
 ### BIKES
+
+- [Yaiba Kusanagi Persona Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/13944?tab=description).
+- [Batcycle Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/14088?tab=description).
+- [Bikes of the Dark Future -- Arch V4](https://www.nexusmods.com/cyberpunk2077/mods/15911?tab=description).
+- [Yamaha R1](https://www.nexusmods.com/cyberpunk2077/mods/12669).
+- [Ducati Monster 1200](https://www.nexusmods.com/cyberpunk2077/mods/12665).
+- [Bmw M1000RR](https://www.nexusmods.com/cyberpunk2077/mods/16481?tab=description).
+- [Ducati Panigale V4R](https://www.nexusmods.com/cyberpunk2077/mods/17158).
 </details>
 
 ***
@@ -1468,38 +1513,43 @@ https://www.youtube.com/watch?v=8Y3aiWdBoog
 > This mod introduces the ability to operate an AV and Helicopter. It adds a new layer of gameplay, allowing players to fly around Night City and use an auto-pilot feature for transportation. The AV can be purchased and summoned like any regular vehicle, offering a fresh perspective and a novel way to explore the Night City.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
-**User Guide**\
+## [User Guide](https://)
+
+\
 There are two control methods. You can switch between them from the ‘Control’ tab in the CET menu.
-The following are the instructions for operating the AV (when the hints are enabled in the settings and displayed on the HUD):\
-**\[Spinner]**
+The following are the instructions for operating the AV (when the hints are enabled in the settings and displayed on the HUD.
+
+### Spinner
 
 - Press the W key to accelerate forward, and the S key to accelerate backward. (For controllers, use the up and down on the left stick)
-- Use the D key to rotate to the right, and the A key\*\* \*\*to rotate to the left. (For controllers, use the left and right on the left stick)
-- Hold the left mouse button to ascend, and the right mouse button\*\* \*\*to descend. (For controllers, use the R and L triggers)\\
+- Use the D key to rotate to the right, and the A key to rotate to the left. (For controllers, use the left and right on the left stick)
+- Hold the left mouse button to ascend, and the right mouse button to descend. (For controllers, use the R and L triggers)\\
 
-**\[Helicopter]**\\
+### **Helicopter**
 
-- Press the keys "W","S","D","A" (or use the left stick on the controller) to tilt the AV in the corresponding direction and move.
-- Use the keys "Q","E" (or the shoulder buttons on the controller) to rotate the AV horizontally.
+- Press the keys "W", "S", "D", and "A" (or use the left stick on the controller) to tilt the AV in the corresponding direction and move.
+- Use the keys "Q", and "E" (or the shoulder buttons on the controller) to rotate the AV horizontally.
 - Hold down the left mouse button (or press the A button on the controller) to increase the lift of the AV. Release the button to decrease lift naturally.
-- Press the spacebar (or the right trigger on the controller) to maintain altitude while moving forward. When you press this button once, the altitude hold mode will remain active even if you release the button. If you want to change the altitude, press the left mouse button (or press the A button on the controller).\\
+- Press the spacebar (or the right trigger on the controller) to maintain altitude while moving forward. When you press this button once, the altitude hold mode will remain active even if you release the button. If you want to change the altitude, press the left mouse button (or press the A button on the controller).
 
-**\[Common]Change Key From v1.5.0**
+### **Common Change Key From v1.5.0**
 
 - Press the key "G" (or the left d-pad on the controller) to open or close the door.
 - Press the key "V" (or the down d-pad on the controller) to change perspective.
-- Hold the key "R" (or the down d-pad on the controller) to play radio or change ths station.\\
+- Hold the key "R" (or the down d-pad on the controller) to play the radio or change the station.
 
-**\[Auto Pilot Mode]**\\
+### Auto Pilot Mode
 
-- press the key "T" (or the right d-pad on the controller) to switch to autopilot mode. This will automatically drive to the location of the pin set by the user on the map.
-- You can also use the CET menu to register a location where you have arrived in the past using autopilot as a favorite and set that place as your destination. This is only valid when you have not placed a map pin.
-- The speed of the autopilot can be adjusted in three stages. Changes will be reflected the next time the vehicle is generated.\\
+- Press the key "T" (or the right d-pad on the controller) to switch to autopilot mode. This will automatically drive to the location of the pin set by the user on the map.
+- You can also use the CET menu to register a location where you have arrived in the past using autopilot as a favourite and set that place as your destination. This is only valid when you have not placed a map pin.
+- The speed of the autopilot can be adjusted in three stages. Changes will be reflected the next time the vehicle is generated.
 
-**\[CET Bindings]**\
-By configuring the CET Binding settings, you can perform the following operations.\\
+### CET Bindings
 
-- Crystal dome ON/OFF (limited to Excalibur and Manticore)\\
+\
+By configuring the CET Binding settings, you can perform the following operations.
+
+- Crystal dome ON/OFF (limited to Excalibur and Manticore)
 
 Keep in mind that the AV has inertia, so it won’t turn immediately. If you get stuck on something, please keep pressing the accelerator button. The AV will take evasive action.
 </details>
@@ -1514,7 +1564,7 @@ Keep in mind that the AV has inertia, so it won’t turn immediately. If you get
 
 > Custom tuned Vehicles.
 
-- [V2 Customs - Rayfield Caliburn 450 Mph](https://www.nexusmods.com/cyberpunk2077/mods/3988) fastest car in cp2077
+- v[2 Customs - Rayfield Caliburn 450 Mph](https://www.nexusmods.com/cyberpunk2077/mods/3988) fastest car in cp2077
 - [v2 Customs - Colby Little Mule](https://www.nexusmods.com/cyberpunk2077/mods/8353)
 
 ***
@@ -1642,15 +1692,13 @@ Recommended In-game settings These settings will give a slight performance boost
 - 1440p> RTX 3080 or RX 6800 XT
 - RAM> 16GB
 - CPU> R5 3600 or i5 9600K
-- STORAGE> 30GB
+- STORAGE> 38GB
 - STORAGE TYPE> SSD
 </details>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![](https://s13.gifyu.com/images/SC1lh.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
-
-Please let us know if you have any issues with this collection I'm sure we can figure it out.
+![](https://s13.gifyu.com/images/SC1lh.png)Please let us know if you have any issues with this collection I'm sure we can figure it out.
 
 If you enjoy this collection, **PLEASE** endorse the mod authors and Support me to help me build the best collection we can for this game.
 
