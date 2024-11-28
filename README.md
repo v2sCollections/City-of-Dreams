@@ -232,7 +232,7 @@ This collection is extensively tested with every new version, because we want to
 
 ![](https://s13.gifyu.com/images/SC1lw.png)
 
-![](https://s9.gifyu.com/images/SUI6u.gif)
+![](https://s13.gifyu.com/images/SGRyK.gif)
 
 ### ![](https://s13.gifyu.com/images/SC1EU.png)
 
@@ -403,7 +403,7 @@ https://www.youtube.com/watch?v=Nspq\_b42mTs
 
 ![](https://s12.gifyu.com/images/Screenshot-2023-04-17-115745.png)**2**) Click **"Add to Vortex"** (choose your newly created profile).
 
-![](https://s12.gifyu.com/images/Untitled1.png)**3**) These may pop up in Vortex as you are downloading the collection.
+![](https://s12.gifyu.com/images/Untitled1.png)**3**) These may pop up in Vortex as you are downloading the collection. (Accept all pop-ups even if not mentioned here)
 
 - When you see a pop-up titled **"Mod contains protected paths"** select **"Yes install to staging anyway"**
 - When you see a pop-up titled **"You have reached the fallback installer"** select **"Yes install to staging anyway"**
@@ -552,9 +552,9 @@ Epic>  Drive Letter:\Epic Games\Cyberpunk 2077\archive\pc\mod
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGXq.png)
 
-> To use CET **(**Cyber Engine Tweaks)** use** (F11) on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Third person camera, Vehicle camera and many more.
+> To use CET **(**Cyber Engine Tweaks)** use** (F11) on your keyboard to bring up the overlay here you will have many overlays that you can use to adjust the mods from the collection and configure them how you like including Cheats, AMM Appearance menu, Vehicle camera and many more. Other Mods can be configured from the main menu.
 
-![](https://s11.gifyu.com/images/Screenshot-2023-04-24-174314.png)
+![](https://s11.gifyu.com/images/SGM8I.png)
 
 ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGXm.png)
 
@@ -671,7 +671,7 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 
 ## GITS 3.X
 
-![](https://s9.gifyu.com/images/SUxKb.png)[GITS 3.X](https://www.nexusmods.com/cyberpunk2077/mods/9274?tab=description) by [BabaBooey88](https://www.nexusmods.com/cyberpunk2077/users/139665673)
+![](https://s1.gifyu.com/images/SyjdP.png)[GITS 3.X](https://www.nexusmods.com/cyberpunk2077/mods/9274?tab=description) by [BabaBooey88](https://www.nexusmods.com/cyberpunk2077/users/139665673)
 
 ### Features
 
@@ -705,6 +705,71 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 - Enables Stamina use when sliding, jumping and running.
 - Enables heavy breathing when running.
 - Makes Movement Less jarring by adding an inertia effect to movement while walking.
+</details>
+
+***
+
+## New Game Plus
+
+![](https://s11.gifyu.com/images/SyjkW.png)[New Game Plus - Native](https://) by [notalphanine](https://www.nexusmods.com/cyberpunk2077/users/38499075)
+
+## &#x20;Features
+
+> Play through **Cyberpunk 2077** again with top-tier gear. Start a new game from the beginning of V's story or fast-track to your first meeting with Johnny Silverhand.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+### [What does New Game+transfer?](https://)
+
+- Your **progression data** (level, street cred, perk points, attribute values, attribute points, Relic points, proficiencies, cyberware capacity shards...) (Note: your level will be capped to 50 in transfer, 40 if you don't own Phantom Liberty - this is to add some progression within NG+)
+- Your **inventory and stash**(the only items that aren't transferred are the ones invisible in UI, the GOG reward items and Skippy/Dying Night)\*\* **and unequipped** cyberware\*\*(some cyberware will be unequipped at the start due to potential concerns with the player's cyberware capacity, your **upgraded cyberware stats shards are preserved**)
+- **Garage**, apart from a few vehicles (Jackie's Arch, Demiurge, Hoon)
+- Your **wardrobe's clothing store**
+- Your **EquipmentEx outfits**
+
+### [How do I know that I am eligible for New Game+?](https://)
+
+Saves are eligible for **New Game+** progression transfer if they are made on Patch 2.0 and up and:\\
+
+- Are Point Of No Return saves or
+- Have Hanako waiting for you at Embers or
+- Have Reed waiting for you at Misty's Esoterica
+
+Saves are **filtered by playthrough**, and only the latest save per playthrough gets shown on the save selection screen.\
+\
+You will know when you have **New Game+** eligible when you have the "**New Game+**" menu button on your screen.\
+\
+If your only requirement-meeting saves are from Patch 1.63 or older, then simply continue into a game from one of those saves, make any kind of save again, then go back to the main menu. Once you are in the main menu, **New Game+** will have found the new save and have the button displayed for you.
+
+### [Restrictions](https://)
+
+- You need New Game+installed to load saves from games started using New Game+. This is a hard requirement and will not be lifted.
+- Following from this, New Game+saves will NOT run on consoles using crossplay.
+- Saves from consoles are not supported for progression transfer due to differences between console and PC saves, you will have to resave again on PC.
+- The mod will not keep the player's selected perks due to the possibility of changing attributes during character creation. Perk Points, along with Relic Points (in case ofPhantom Liberty), will be refunded to the player.\
+  \
+  **Known issues**\
+  \- In Love Like Fire, the Relic Malfunction sound may be playing during the flashback. I do not believe this is a major bug, as most of the sound is drowned out by the combat and the music. It will be fixed whenever it will be fixed, there's no ETA.\
+  \- Some bugs may happen with the transfer of Dying Night from pre-2.0 saves, resulting in The Gun being uncompletable. This should not be a problem in the release version of the mod.
+
+### [FAQ](https://)
+
+- Q: Can I change my gender/life path from the original save going into New Game+?
+- A: Yes.
+
+\<!---->
+
+- Q: Can I disable various bad guys attacking me while I'm doing something?
+- A: Yes, via the mod settings menu.
+
+\<!---->
+
+- Q: Can I have the Post-Heist start's start point a little later? I don't like all the cutscenes...
+- A: The mod settings menu has a setting for that. You can have the Post-Heist start begin from Misty rolling you into your Megabuilding H10 apartment.
+
+\<!---->
+
+- Q: In Post-Heist start, when Misty rolls you into your apartment, the game is stuck on a black screen with a looping sound...
+- A: You may have a quest mod that outputs a tutorial when you enter the apartment. Try spamming C.
 </details>
 
 ***
@@ -745,7 +810,7 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 
 ## Lifepath Bonuses and Gang Corp Traits
 
-![](https://s6.gifyu.com/images/S6IO8.jpg) [Lifepath Bonuses and Gang Corp Traits](https://www.nexusmods.com/cyberpunk2077/mods/2217) by [rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803).
+![](https://s11.gifyu.com/images/SyjdK.png) [Lifepath Bonuses and Gang Corp Traits](https://www.nexusmods.com/cyberpunk2077/mods/2217) by [rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803).
 
 ### Features
 
@@ -970,7 +1035,7 @@ To see more read the simple menu details.
 
 ### Simple Menu
 
-![](https://s6.gifyu.com/images/S8kV5.png)[Simple Menu](https://www.nexusmods.com/cyberpunk2077/mods/818) by [DankRafft](https://www.nexusmods.com/cyberpunk2077/users/2547580)
+![](https://s11.gifyu.com/images/SyjlO.png)[Simple Menu](https://www.nexusmods.com/cyberpunk2077/mods/818) by [DankRafft](https://www.nexusmods.com/cyberpunk2077/users/2547580)
 
 ### Features
 
@@ -1348,7 +1413,7 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 ## Naked Series
 
-![](https://s6.gifyu.com/images/S6IAl.png)[Naked NPCs Holograms](https://www.nexusmods.com/cyberpunk2077/mods/9785) & [Naked NPCs Sex Workers](https://www.nexusmods.com/cyberpunk2077/mods/9738) &  [Naked NPCs Tube Dancers](https://www.nexusmods.com/cyberpunk2077/mods/9689) by [marnhorn](https://www.nexusmods.com/cyberpunk2077/users/191415480)
+![](https://s11.gifyu.com/images/SyjlW.png)[Naked NPCs Holograms](https://www.nexusmods.com/cyberpunk2077/mods/9785) & [Naked NPCs Sex Workers](https://www.nexusmods.com/cyberpunk2077/mods/9738) &  [Naked NPCs Tube Dancers](https://www.nexusmods.com/cyberpunk2077/mods/9689) by [marnhorn](https://www.nexusmods.com/cyberpunk2077/users/191415480)
 
 ### Features
 
@@ -1371,13 +1436,13 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 ## MONSTERaider Cyberware
 
-![](https://s12.gifyu.com/images/RAIDER.png)[Cyberware](https://) by [MONSTERaider](https://www.nexusmods.com/cyberpunk2077/users/1630457) Availiable at the MONSTERaider altelier store.
+![](https://s11.gifyu.com/images/SyjuE.png)[Cyberware](https://) by [MONSTERaider](https://www.nexusmods.com/cyberpunk2077/users/1630457) Availiable at the MONSTERaider altelier store.
 
 ***
 
-## Arasaka Cyberarms
+## Arasaka CyberArms
 
-![](https://s12.gifyu.com/images/Cyberarms.png)[Arasaka Cyberarms](https://www.nexusmods.com/cyberpunk2077/mods/1099). by  [Aanderz](https://www.nexusmods.com/cyberpunk2077/users/861683) ***(OPTIONAL)***  Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
+![](https://s1.gifyu.com/images/SyjnR.png)[Arasaka Cyberarms](https://www.nexusmods.com/cyberpunk2077/mods/1099). by  [Aanderz](https://www.nexusmods.com/cyberpunk2077/users/861683) ***(OPTIONAL)***  Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
 
 ### ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGXN.png)Features
 
@@ -1494,7 +1559,7 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 
 ## Cyber Vehicle Overhaul & Car Modification Shop
 
-![](https://s11.gifyu.com/images/E3ROK.jpg)[Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016) & [Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034) by [E3roKK](https://www.nexusmods.com/cyberpunk2077/users/25841040).
+![](https://s1.gifyu.com/images/SyjlI.png)[Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016) & [Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034) by [E3roKK](https://www.nexusmods.com/cyberpunk2077/users/25841040).
 
 ### Features
 
@@ -1556,9 +1621,9 @@ Keep in mind that the AV has inertia, so it won’t turn immediately. If you get
 
 ***
 
-## Custom **Vehicle** Tuning by [v2](https://www.nexusmods.com/cyberpunk2077/users/123334373) Customs
+## Custom **Vehicle** Tuning
 
-![](https://s6.gifyu.com/images/S6IOJ.jpg)[Custom Vehicle Tuning](https://) by [2077v2](https://www.nexusmods.com/cyberpunk2077/users/123334373).
+![](https://s1.gifyu.com/images/SyjdF.png)[Custom Vehicle Tuning](https://) by [2077v2](https://www.nexusmods.com/cyberpunk2077/users/123334373).
 
 ### Features
 
@@ -1569,7 +1634,7 @@ Keep in mind that the AV has inertia, so it won’t turn immediately. If you get
 
 ***
 
-![](https://s5.gifyu.com/images/S8opa.png)![](https://s6.gifyu.com/images/S6hHv.jpg)**"Why take so many pictures and add clothing mods for a game that's in first person"** said a gamer who's never been to Night City.
+![](https://s5.gifyu.com/images/S8opa.png)![](https://s1.gifyu.com/images/Syjd4.png)**"Why take so many pictures and add clothing mods for a game that's in first person"** said a gamer who's never been to Night City.
 
 **"Style over Substance"**
 
