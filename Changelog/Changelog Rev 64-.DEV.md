@@ -27,10 +27,14 @@
 This update addresses a few issues.
 
 - FIXED conflicts intrtoduced by the latest Vortex update.
+- FIXED Vehicle not starting upon loading a save.
+- FIXED Missing mods for some cosmetic items.
+- Removed HUDitor from Mod Config installation to avoid users choosing the wrong resolution.
+- Moved HUDitor to optional mods.
 
 
 ## Changes 
-
+- Cyber Engine Tweaks (CET) (The main modding framework for Cyberpunk 2077) Has been removed from Nexus. This brings with it a few issues but dont worry we have been able to add it to the collection and we will provide more information about this soon.
 
 ## UPDATED
 
@@ -39,7 +43,6 @@ This update addresses a few issues.
 - [Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780)
 - [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198?tab=description)
 - [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987)
-- [
 
 ## Vehicles
 - [Crystal Coat for Rayfield Aerondight](https://www.nexusmods.com/cyberpunk2077/mods/16483)
@@ -48,6 +51,7 @@ This update addresses a few issues.
 - [Parking Spots Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/15708)
 - [Drive an Aerial Vehicle - Flight Mod Using AV and Helicopter](https://www.nexusmods.com/cyberpunk2077/mods/13842)
 - [Flying Tank - Enhanced Basilisk](https://www.nexusmods.com/cyberpunk2077/mods/16138)
+- [City of Dreams Customs - Rayfield Caliburn 450 Mph](https://www.nexusmods.com/cyberpunk2077/mods/3988?tab=description)
 
 ## UI
 - [HUD Fixes - fix disappearing HUD element and quest dialogs](https://www.nexusmods.com/cyberpunk2077/mods/4011?tab=description)
@@ -73,15 +77,19 @@ This update addresses a few issues.
 - [PMU - Alt Set Vol 2](https://www.nexusmods.com/cyberpunk2077/mods/7835?tab=description)
 - [SynthDose - More Drugs](https://www.nexusmods.com/cyberpunk2077/mods/14094)
 - [Deceptious Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/18318)
+- [FreeFly (Noclip)](https://www.nexusmods.com/cyberpunk2077/mods/780)
 
 
 ## REMOVED
 
-N/A
+- [The Passenger (Added to game in 2.2)](https://www.nexusmods.com/cyberpunk2077/mods/10731) Redundent mod added in 2.2.
 
 ## NEW MODS ADDED 
 
 - [NPC Action Poses Fix](https://www.nexusmods.com/cyberpunk2077/mods/18339?tab=description)
+- [The Passenger - Feature Settings](https://www.nexusmods.com/cyberpunk2077/mods/18380?tab=description)
+- [Deceptious Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/18318)
+- [New Lifepath Intro - Fresh Start](https://www.nexusmods.com/cyberpunk2077/mods/18223?tab=description)
 
 ## BUGS
 
