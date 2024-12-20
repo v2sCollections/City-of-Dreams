@@ -50,37 +50,6 @@ DRIVE LETTER\GOG Galaxy\Games\Cyberpunk 2077\bin\x64
 
 
 <details>
-<summary>Keybind Crash</summary>
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-This is a weird vanilla crash introduced in **2.11**. The following guide should help to rectify the crash.
-
-### If you can launch the game to the main menu
-
-**1**) Launch the game and navigate to the **"Keybinds"**
-
-**2**) Reset the keybinds to **"default**
-
-
-### If you can't launch the game to the main menu
-
-**1**) Go to the following location
-```
-DRIVE LETTER:\Users\YOURUSERNAME\AppData\Local\CD Projekt Red\Cyberpunk 2077
-```
-**2**) Delete the **"UserSettings.json"**
-
-**3**) Now you will be able to launch your game
-
-*NOTE* This method will remove your settings configuration you will need to adjust your settings again.
-
-![img](https://i.imgur.com/wAJUpeU.png)
-
-</details>
-
-
-<details>
 <summary>My game is crashing straight after launch</summary>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -430,6 +399,25 @@ On the first installation, you will be able to choose your background from the i
 **2**) Right-click the Mod and select **Reinstall**
 
 **3**) Now you will be able to choose another background.
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+</details>
+
+
+<details>
+<summary>Wilson's Range not accessible</summary>
+
+![img](https://i.imgur.com/wAJUpeU.png)
+
+**1**) Go to the Blade Runner easter egg﻿
+Take the lift to the roof and come back down
+
+**2**) Wait for a minute or two for the music to finish and the scene to end
+
+**3**) When you next visit the range it should be working as normal
+
+You only need to visit the easter egg once, but repeated visits shouldnt break anything
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
