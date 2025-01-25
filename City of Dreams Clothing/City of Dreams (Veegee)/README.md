@@ -1,4 +1,4 @@
-### ✅Compatible with Patch 2.2                                          ✅ **Compatible** with or without Phantom Liberty
+### ✅Compatible with Patch 2.21                                         ✅ **Compatible** with or without Phantom Liberty
 
 ![](https://s5.gifyu.com/images/S8Z9l.gif) ![](https://i.imgur.com/wAJUpeU.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here, this is the City of Dreams Clothes Pack (VEEGEE) for **Cyberpunk 2077**.&#x20;
 
@@ -40,7 +40,7 @@ This collection is extensively tested with every new version that is released. I
 
 - These are all clothing and cosmetic mods by [VeegeeAlvarez](https://next.nexusmods.com/profile/VeegeeAlvarez).
 - Easy to follow step-by-step installation guide.
-- Only-[25](https://)Gb in download size for [200](https://)+ mods featuring 1000s of clothing items.
+- Only-[17](https://)Gb in download size for [130](https://)+ mods featuring 1000s of clothing items.
 - Setup Video-[HERE](https://)
 - [Github Repository](https://github.com/2077v2/City-of-Dreams)-with Guides/FAQs and much more.
 - Continuous Support in Comments and on Discord.
@@ -50,7 +50,7 @@ This collection is extensively tested with every new version that is released. I
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![](https://s13.gifyu.com/images/SC1lw.png)![](https://s7.gifyu.com/images/SevnK.png)
+![](https://s13.gifyu.com/images/SC1lw.png)![](https://s7.gifyu.com/images/Se8d3.png)
 
 ### ![](https://s13.gifyu.com/images/SC1EU.png)
 

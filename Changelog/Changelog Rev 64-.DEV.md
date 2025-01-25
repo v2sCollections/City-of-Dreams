@@ -95,11 +95,13 @@ This update addresses a few issues.
 - [Panam Body Enhanced 2.2](https://www.nexusmods.com/cyberpunk2077/mods/4843)
 - [Immersive Bartenders](https://www.nexusmods.com/cyberpunk2077/mods/7203)
 - [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064)
+- [Immersive Rippers - Dogtown](https://www.nexusmods.com/cyberpunk2077/mods/10255)
 - [NCI Addon - Badlands and Pacifica](https://www.nexusmods.com/cyberpunk2077/mods/15138)
 - [NCI Addon - Heywood](https://www.nexusmods.com/cyberpunk2077/mods/14806)
 - [NCI Addon - Watson](https://www.nexusmods.com/cyberpunk2077/mods/14804)
 - [Night City Interactions - Core](https://www.nexusmods.com/cyberpunk2077/mods/5519)
 - [Lifepath Bonuses and Gang-Corp Traits](https://www.nexusmods.com/cyberpunk2077/mods/2217)
+- [Cosmopolitan Night city (Multilingual experience with Kiroshi translation effect)](https://www.nexusmods.com/cyberpunk2077/mods/5909)
 
 ## Photo Mode
 - [PMU - Sitting Poses - MascV](https://www.nexusmods.com/cyberpunk2077/mods/8445)
@@ -123,7 +125,6 @@ This update addresses a few issues.
 - [PMU - Joytoys Set - MascV](https://www.nexusmods.com/cyberpunk2077/mods/6786)
 - [PMU - Never Fade Away Vol.1](https://www.nexusmods.com/cyberpunk2077/mods/5229)
 - [PMU - Us Cracks Set](https://www.nexusmods.com/cyberpunk2077/mods/6932)
-- [
 - [Zwei Custom PMU Pose Packs - MascV - Core](https://www.nexusmods.com/cyberpunk2077/mods/7763)
 - [Zwei Custom PMU Pose Packs - Core](https://www.nexusmods.com/cyberpunk2077/mods/7165)
 - [Angy Pose Packs - Cute and Sexy for femV](https://www.nexusmods.com/cyberpunk2077/mods/6871
@@ -149,6 +150,7 @@ This update addresses a few issues.
 - [New Lifepath Intro - Fresh Start](https://www.nexusmods.com/cyberpunk2077/mods/18223)
 - [Live A Little](https://www.nexusmods.com/cyberpunk2077/mods/13271?tab=description)
 - [Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790?tab=description)
+- [Cyberware-EX](https://www.nexusmods.com/cyberpunk2077/mods/9429)
 
 
 ## REMOVED
