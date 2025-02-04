@@ -1,6 +1,6 @@
 ![img](https://s13.gifyu.com/images/SjBKh.png)
 
-## [HEY CHOOMS Rev 5 IS HERE](https://)
+## [HEY CHOOMS Rev 6 IS HERE](https://)
 
 ## HOW TO UPDATE
 
