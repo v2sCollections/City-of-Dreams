@@ -1,4 +1,4 @@
-### ✅Compatible with Patch 2.12a                                    ✅ **Compatible** with or without Phantom Liberty
+### ✅Compatible with Patch 2.21                                         ✅ **Compatible** with or without Phantom Liberty
 
 ### &#x20;   ![](https://s5.gifyu.com/images/S8Z9l.gif)
 
@@ -47,13 +47,13 @@ So join us choombah and come along for the ride.
 ![](https://s13.gifyu.com/images/SC1lw.png)
 
 - Easy to follow step-by-step installation guide.
-- 70+ Grahics mods to enhance cyberpunk 2077.
+- 30+ Graphics mods to enhance cyberpunk 2077.
 - [Discord Server](https://discord.gg/v2-s-collections-1076179431195955290)-with a growing community.
 - [Youtube Channel](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)-with Guides and Videos.
 - [Github Repository](https://github.com/2077v2/City-of-Dreams)-with Guides/FAQs and much more.
 - Continuous Support in Comments and on Discord.
 - Live voice support.
-- Giveaways. Nexus Premium/Game Keys/Discord Nitro (Every Week).
+- Giveaways. Game Keys/Discord Nitro (Every Week).
 - and much much more join our Discord for more information.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
@@ -407,9 +407,7 @@ If you enjoy this collection, **PLEASE** endorse the mod authors and Support me 
 
 Special thanks to these chooms who helped make this collection preem. And everyone on the Nexus and the Cyberpunk modding Discords.
 
-- Fenrir
-- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
-- DovaDigital
+- v2sCollections Team
 - [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [Pickysaurus](https://www.nexusmods.com/site/users/31179975)

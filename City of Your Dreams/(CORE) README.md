@@ -1,9 +1,12 @@
-### ✅Compatible with Patch 2.12a                                    ✅ **Compatible** with or without Phantom Liberty
+### ✅Compatible with Patch 2.21                                         ✅ **Compatible** with or without Phantom Liberty
 
-\
-![](https://s5.gifyu.com/images/S8Z9l.gif)![](![]\(https://s5.gifyu.com/images/S8Z9l.gif\))![](https://i.imgur.com/wAJUpeU.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Your Dreams](https://) for **Cyberpunk 2077**.
+**⛔ I**f you use our other City of Dreams Collections these mods are already included**⛔**![](https://s5.gifyu.com/images/S8Z9l.gif)![](![]\(https://s5.gifyu.com/images/S8Z9l.gif\))![](https://i.imgur.com/wAJUpeU.png)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Your Dreams (Core)](https://) for **Cyberpunk 2077**.
 
 This is a collection of the Main Core Mods needed to Mod Cyberpunk 2077. Download this collection and then add any mods you want yourself.
+
+<details><summary>CLICK HERE FOR MORE COLLECTIONS IN THE SERIES</summary>
+
+</details>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -14,14 +17,40 @@ This is a collection of the Main Core Mods needed to Mod Cyberpunk 2077. Downloa
 - [Youtube Channel](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)-with Guides and Videos.
 - Continuous Support in Comments and on Discord.
 - Live voice support.
-- Giveaways. Nexus Premium/Game Keys/Discord Nitro (Every Week).&#x20;
+- Giveaways. Game Keys/Discord Nitro (Every Week).&#x20;
 - and much much more Join our Discord for more information.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-- ![](https://s13.gifyu.com/images/SC1lw.png)All Core Mods needed to Mod Cyberpunk 2077.
-- Virtual Atelier so you can add all the items and clothes you want.
-- Virtual Car Dealer so you can add all the Vehicles you want.
+## ![](https://s13.gifyu.com/images/SC1lw.png)Features
+
+> All Core Mods needed to Mod Cyberpunk 2077. Comes with Find All Errors Script and Archive Conflict Checker Tool.
+
+<details><summary>CLICK FOR ALL MODS INCLUDED IN THE COLLECTION</summary>
+## &#x20;![](https://i.imgur.com/wAJUpeU.png)Core Mods (Essential)
+
+- [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107?_gl=1*fd3qkg*_ga*NTM5MzA5NTU4LjE2OTQ4NzkyMzY.*_ga_N0TELNQ37M*MTcxNDU2NDY4Mi4xMTkxLjEuMTcxNDU2ODAyNC4wLjAuMA..)
+- [RED4ext](https://www.nexusmods.com/cyberpunk2077/mods/2380?_gl=1*pyztp3*_ga*NTM5MzA5NTU4LjE2OTQ4NzkyMzY.*_ga_N0TELNQ37M*MTcxNDU2NDY4Mi4xMTkxLjEuMTcxNDU2ODAyNC4wLjAuMA..)
+- [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511?_gl=1*1qxqige*_ga*NTM5MzA5NTU4LjE2OTQ4NzkyMzY.*_ga_N0TELNQ37M*MTcxNDU2NDY4Mi4xMTkxLjEuMTcxNDU2ODAyNC4wLjAuMA..)
+- [Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780?_gl=1*fd3qkg*_ga*NTM5MzA5NTU4LjE2OTQ4NzkyMzY.*_ga_N0TELNQ37M*MTcxNDU2NDY4Mi4xMTkxLjEuMTcxNDU2ODAyNC4wLjAuMA..)
+- [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198?_gl=1*1wxtx9g*_ga*NTM5MzA5NTU4LjE2OTQ4NzkyMzY.*_ga_N0TELNQ37M*MTcxNDU2NDY4Mi4xMTkxLjEuMTcxNDU2ODAyNC4wLjAuMA..)
+- [TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197?_gl=1*1qxqige*_ga*NTM5MzA5NTU4LjE2OTQ4NzkyMzY.*_ga_N0TELNQ37M*MTcxNDU2NDY4Mi4xMTkxLjEuMTcxNDU2ODAyNC4wLjAuMA..)
+- [Input Loader](https://www.nexusmods.com/cyberpunk2077/mods/4575?_gl=1*fd3qkg*_ga*NTM5MzA5NTU4LjE2OTQ4NzkyMzY.*_ga_N0TELNQ37M*MTcxNDU2NDY4Mi4xMTkxLjEuMTcxNDU2ODAyNC4wLjAuMA..)
+
+## Core Mods 2 (Not Essential)
+
+- [Material and Texture Override](https://www.nexusmods.com/cyberpunk2077/mods/5266?_gl=1*pyztp3*_ga*NTM5MzA5NTU4LjE2OTQ4NzkyMzY.*_ga_N0TELNQ37M*MTcxNDU2NDY4Mi4xMTkxLjEuMTcxNDU2ODAyNC4wLjAuMA..) (Needed for many different texture assets Mods)
+- [Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/4885?_gl=1*pyztp3*_ga*NTM5MzA5NTU4LjE2OTQ4NzkyMzY.*_ga_N0TELNQ37M*MTcxNDU2NDY4Mi4xMTkxLjEuMTcxNDU2ODAyNC4wLjAuMA..) (Needed if you want to change settings for some Mods)
+- [Native Settings UI](https://www.nexusmods.com/cyberpunk2077/mods/3518?_gl=1*pyztp3*_ga*NTM5MzA5NTU4LjE2OTQ4NzkyMzY.*_ga_N0TELNQ37M*MTcxNDU2NDY4Mi4xMTkxLjEuMTcxNDU2ODAyNC4wLjAuMA..) (Needed if you want to change settings for some Mods)
+- [Browser Extension](https://www.nexusmods.com/cyberpunk2077/mods/10038?_gl=1*1bwpc26*_ga*NTM5MzA5NTU4LjE2OTQ4NzkyMzY.*_ga_N0TELNQ37M*MTcxNDU2NDY4Mi4xMTkxLjEuMTcxNDU2NzkyNS4wLjAuMA..) (Needed if you want a more immersive way to access the [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987?_gl=1*11r5sc9*_ga*NTM5MzA5NTU4LjE2OTQ4NzkyMzY.*_ga_N0TELNQ37M*MTcxNDU2NDY4Mi4xMTkxLjEuMTcxNDU2ODAyNC4wLjAuMA..) & [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454?_gl=1*11r5sc9*_ga*NTM5MzA5NTU4LjE2OTQ4NzkyMzY.*_ga_N0TELNQ37M*MTcxNDU2NDY4Mi4xMTkxLjEuMTcxNDU2ODAyNC4wLjAuMA..))
+- [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987?_gl=1*11r5sc9*_ga*NTM5MzA5NTU4LjE2OTQ4NzkyMzY.*_ga_N0TELNQ37M*MTcxNDU2NDY4Mi4xMTkxLjEuMTcxNDU2ODAyNC4wLjAuMA..) (Needed if you want to purchase Mod items from the in-game PC)
+- [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454?_gl=1*11r5sc9*_ga*NTM5MzA5NTU4LjE2OTQ4NzkyMzY.*_ga_N0TELNQ37M*MTcxNDU2NDY4Mi4xMTkxLjEuMTcxNDU2ODAyNC4wLjAuMA..) (Needed if you want to purchase Modded Vehicles from the in-game PC)
+
+## Troubleshooting Tools (Not Essential)
+
+- [Find All Errors Script](https://github.com/DoctorPresto/Cyberpunk-Helper-Scripts/blob/main/FindAllErrors.bat)
+- [Archive Conflict Checker Tool](https://www.nexusmods.com/cyberpunk2077/mods/11126)
+</details>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
@@ -195,10 +224,7 @@ If you enjoy this collection, **PLEASE** endorse the mod authors and Support me 
 
 Special thanks to these chooms who helped make this collection preem. And everyone on the Nexus & The Cyberpunk modding Discords.
 
-- [Magic Beanware](https://www.nexusmods.com/users/197258372)
-- Fenrir
-- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
-- DovaDigital
+- v2s Collections Team
 - [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
