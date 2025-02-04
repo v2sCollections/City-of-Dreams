@@ -1,4 +1,4 @@
-### ✅Compatible with Patch 2.13                                           ✅ **Compatible** with or without Phantom Liberty
+### ✅Compatible with Patch 2.21                                         ✅ **Compatible** with or without Phantom Liberty
 
 https://www.youtube.com/watch?v=sn-Ju\_OWP\_8
 
@@ -214,7 +214,7 @@ This collection is extensively tested with every new version, because we want to
 
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in **Cyberpunk 2077**.
 - Easy to follow step-by-step installation guide.
-- Only- [6](https://)GB in download size for- [300](https://)+mods. Optional Mods [5](https://)GB.
+- Only- [5](https://)GB in download size for- [300](https://)+mods. Optional Mods [4](https://)GB.
 - Mods specifically created for the collection.
 - Support for other **Modular Expansion Packs**.
 - Setup Video-[HERE](https://)
@@ -686,7 +686,7 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 
 ### ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGDX.png)Features
 
-> The collection comes with many improvements and adjustments to the core gameplay of cyberpunk. This will suit all playstyles wether you want to cruise your way through the game or you want a hardcore experiance the collection has it all.
+> The collection comes with many improvements and adjustments to the core gameplay of cyberpunk with new lore friendly quests and secrets for you to discover. This will suit all playstyles wether you want to cruise your way through the game or you want a hardcore experiance the collection has it all.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - V now has a jetpack.
@@ -701,6 +701,65 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 - Enables Stamina use when sliding, jumping and running.
 - Enables heavy breathing when running.
 - Makes Movement Less jarring by adding an inertia effect to movement while walking.
+- Adds a new life path and intro to the game, before the half-year montage. V is both an ex-corpo and ex-nomad, returning to Night City. Featuring a new intro/scenes, before the Half Year Montage, where the Corpo/Streetkid/Nomad lithpaths have their Arasaka Tower/Coyote Cojo/Border Town intros. As both an ex-corpo and ex-nomad, V has access to both lifepath options/choices during the story/game.
+- Allows you to enable, and teleport to, the locations seen in the Zne/Meditation BD scenes. Includes a native teleport menu, but also works with AMM.
+- Allows you to enable, and return to, the locations seen in the Half Year Montage scenes. Includes a native teleport menu, but also works with AMM
+- Makes Wilson's gun range (2nd Amendment) usable outside of his competition side quest. Includes 60s countdown and target hit counting/score.
+</details>
+
+***
+
+## Deceptious Quests
+
+### ![](https://s7.gifyu.com/images/SPvQd.png)Features
+
+> New lore friendly Quests by [deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+<details><summary>NEW QUEST - ONE MORE LIGHT</summary>
+![](https://s7.gifyu.com/images/SPvcA.png)**How to "use" the mod?**\
+Once 36 hours have passed since both the activate and the text message prerequisite then you will at somepoint recieve a text from Mama Welles, this starts the quest.
+
+**Quest requirements:**\
+Attended Jackie's ofrenda, by extension didn't send his body to Vik's
+Quest can trigger once at least 36 hours have passed since either the ofrenda and at least 36 hours passed since installing/activating the quest.\
+\
+**Quest extras:**\
+The options this quest unlock continue to be available after completing the quest, you can return and use them at any time.
+
+**Issues/limitations:**\
+Currently you can use the 'goodbye' option before any of the others, this feels a little strange, so I might look, in future, into adating this to make it feel a little more natural.
+</details>
+
+<details><summary>NEW QUEST - CALIFORNICATION </summary>
+![](https://s13.gifyu.com/images/SPvcD.png)**How to "use" the mod?**\
+Once 24 hours have passed since both the activate and the text message prerequisite then you will at somepoint recieve a text from Judy, this starts the quest.
+
+**Quest requirements:**\
+Romanced Judy, Judy stays in NC, had a positive conversation with Judy's Abuela
+Quest can trigger once at least 24 hours have passed since the final romance text messages from Judy, and at least 24 hours after installing the mod.
+If you have Hot Fuzz installed too there is a 36 hour delay between this quest and that one, no matter the order you get them.\
+\
+**Quest extras:**\
+You can fail this quest! If you try to leave the quest area it will fail, but it does give you plenty of warning!
+This quest has an optional step, I was experimenting with new features on this one vs Hot Fuzz.
+
+**Issues/limitations:**\
+If you drive to the location, when you wait it will despawn your vehicle(s). I couldn't get reparking it to work yet, but this was a cleaner option than the potential clipping mess...
+The ambient audio seems to cut out abruptly when sitting down, I think this is the music mix kicking in, not sure i can do anything about this.
+Brief "shower" sound at the end of the quest: This is an issue from Judy Romanced Enhanced, if I can fix it it will be part of that mod not this one.
+</details>
+
+<details><summary>NEW QUEST - HOTT FUZZ</summary>
+![](https://s7.gifyu.com/images/SPvc1.png)**How to "use" the mod?**\
+Once 24 hours have passed since both the activate and the text message prerequisite then you will at somepoint recieve a text from Judy, this starts the quest.
+
+**Quest requirements:**\
+Romanced Judy, Judy stays in NC, had a positive conversation with Judy's Abuela
+Quest can trigger once at least 24 hours have passed since the final romance text messages from Judy, and at least 24 hours after installing the mod.
+If you have Californication installed too there is a 36 hour delay between this quest and that one, no matter the order you get them.
+
+**Issues/limitations:**\
+A loot pickup on the bed may be visible on arrival to the room. It's not real, I'm still looking in how to hide it properly.
 </details>
 
 ***
@@ -937,6 +996,7 @@ If your only requirement-meeting saves are from Patch 1.63 or older, then simply
 - Allows you to manage an unlimited amount of outfits with your names.
 - Converts your existing wardrobe sets to a new system at a first launch.
 - Adds little check marks to the recipe icons in the crafting menu so that you can tell what you already own.
+- Custom backpack screen with different sorting options, filtering and item preview.
 </details>
 
 ***
