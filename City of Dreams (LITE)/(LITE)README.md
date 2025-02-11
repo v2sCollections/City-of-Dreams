@@ -32,6 +32,8 @@ And that's it choom I hope to see you in Night City but now it's time for me to 
 
 <details><summary>CLICK HERE FOR MORE COLLECTIONS IN THE SERIES</summary>
 WATCH THIS SPACE!!!
+
+![](https://s12.gifyu.com/images/Soqja.png)
 </details>
 
 <details><summary>TESTIMONIALS</summary>
@@ -665,23 +667,24 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 
 ***
 
-## GITS 3.X
+## LUT Switcher 2 (Custom Pack Support - LUT Adjustments - Hotkeys)
 
-![](https://s1.gifyu.com/images/SyjdP.png)[GITS 3.X](https://www.nexusmods.com/cyberpunk2077/mods/9274?tab=description) by [BabaBooey88](https://www.nexusmods.com/cyberpunk2077/users/139665673)
+![](https://s13.gifyu.com/images/b2FR9.png)[LUT Switcher 2 (Custom Pack Support - LUT Adjustments - Hotkeys)](https://www.nexusmods.com/cyberpunk2077/mods/16310?tab=description) by [theCyanideX](https://www.nexusmods.com/cyberpunk2077/users/24735399)
 
 ### Features
 
-> An extensive, optional graphics mod inspired by the iconic aesthetic of the *Ghost in the Shell* films, designed to capture their distinctive look and atmosphere.
+> Realtime LUT switching! Features LUT pack support, categories, favorites list, and CET hotkeys to toggle active LUTs.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
-- Color grading and atmosphere inspired by the 2017 live action film, and the 1995 anime adaption, respectively. Weather favoring rain and overcast.
-- Adds reflections for vehicle interiors.&#x20;
-- Local lights illuminate car interiors.
-- Increases the strength of muzzle flashes in the game and photo mode.
-- Enables reflections when riding NCART.
-- Real lighting for holograms.
-- Several MB H10 doors don't cast light, so they now have malfunctioning bulbs.
-- Improved immersive rain.
+- Switch LUTs in real time with this CET mod. Features LUT pack support, collapsible categories, favourite lists, and CET hotkey to toggle active LUTs. Supports both SDR and HDR LUTs.
+- Active LUTs are saved and reapplied upon reloading.
+
+### [Below you will find all of the lut packs included in the collection.](https://)
+
+- Edge LUT Pack
+- GITS LUT Pack
+- Nova LUT Pack
+- Preem LUT Pack
 </details>
 
 ### ![](https://s12.gifyu.com/images/Cyan-Rule.png)![](https://s9.gifyu.com/images/SCGDX.png)Features
@@ -997,6 +1000,7 @@ If your only requirement-meeting saves are from Patch 1.63 or older, then simply
 - Converts your existing wardrobe sets to a new system at a first launch.
 - Adds little check marks to the recipe icons in the crafting menu so that you can tell what you already own.
 - Custom backpack screen with different sorting options, filtering and item preview.
+- Features proper MPH/KMH conversion, realistic values, and sets the interior labels to km/h (if chosen).
 </details>
 
 ***
@@ -1519,14 +1523,25 @@ Keep in mind that the AV has inertia, so it won’t turn immediately. If you get
 
 ## Custom **Vehicle** Tuning
 
-![](https://s1.gifyu.com/images/SyjdF.png)[Custom Vehicle Tuning](https://) by [2077v2](https://www.nexusmods.com/cyberpunk2077/users/123334373).
+![](https://s13.gifyu.com/images/b2Fi5.png)[Custom Vehicle Tuning](https://www.nexusmods.com/cyberpunk2077/mods/3988) by [2077v2](https://www.nexusmods.com/cyberpunk2077/users/123334373).
 
 ### Features
 
 > Custom tuned Vehicles.
 
-- [V2 Customs - Rayfield Caliburn 450 Mph](https://www.nexusmods.com/cyberpunk2077/mods/3988) fastest car in cp2077
-- [v2 Customs - Colby Little Mule](https://www.nexusmods.com/cyberpunk2077/mods/8353)
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- **Rayfield Caliburn** - Suspension, Acceleration and Top speed.
+- **Colby Little Mule** - Suspension, Acceleration and Top speed.
+- **Brennan apollo 650s** - Acceleration
+- **Herrera Riptide** - Acceleration
+- **Mahir Supron Overlander** - Acceleration
+- **Makigai Tanishi T400** - Acceleration
+- **Militech Hellhound** - Acceleration
+- **Mizutani Hozuki Sti** - Acceleration
+- **Thorton Mackinaw Bmf** - Acceleration
+- **Thorton Merrimac** - Acceleration
+- **Villefort Deleon Vindicator** - Acceleration
+</details>
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
