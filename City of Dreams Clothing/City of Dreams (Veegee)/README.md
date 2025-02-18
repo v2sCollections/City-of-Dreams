@@ -6,7 +6,8 @@ This is a clothing and cosmetic Collection of Mods by one of the most renowned a
 
 - [Enhanced Big Breasts (EBB) - BODY MOD](https://www.nexusmods.com/cyberpunk2077/mods/4654)
 - [PUSH UP - Enhanced Big Breasts Body Mod (EBBP)](https://www.nexusmods.com/cyberpunk2077/mods/9083)
-- Vanilla Body
+- [VTK Hyst - Angel - Big Breasts Body mod](https://www.nexusmods.com/cyberpunk2077/mods/14896?tab=description)
+- Vanilla (F)+(M) Body
 
 <details><summary>ABOUT ME</summary>
 Hey Chooms! This is a little bit about me and why I started curating mod collections
@@ -30,7 +31,7 @@ So join us choombah and come along for the ride.
 This collection is extensively tested with every new version that is released. If it's not working for you. Please join the discord so we can assist you and get you up and going before you downvote the collection.
 </details>
 
-![img](https://i.imgur.com/wAJUpeU.png)![](https://s7.gifyu.com/images/Sevcc.png)
+![img](https://i.imgur.com/wAJUpeU.png)![](https://s3.gifyu.com/images/bS3pr.png)
 
 ![](https://s13.gifyu.com/images/SC1lE.png)
 
@@ -40,7 +41,7 @@ This collection is extensively tested with every new version that is released. I
 
 - These are all clothing and cosmetic mods by [VeegeeAlvarez](https://next.nexusmods.com/profile/VeegeeAlvarez).
 - Easy to follow step-by-step installation guide.
-- Only-[17](https://)Gb in download size for [130](https://)+ mods featuring 1000s of clothing items.
+- Only-[18](https://)Gb in download size for [140](https://)+ mods featuring 1000s of clothing items.
 - Setup Video-[HERE](https://)
 - [Github Repository](https://github.com/2077v2/City-of-Dreams)-with Guides/FAQs and much more.
 - Continuous Support in Comments and on Discord.
@@ -50,7 +51,7 @@ This collection is extensively tested with every new version that is released. I
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
-![](https://s13.gifyu.com/images/SC1lw.png)![](https://s7.gifyu.com/images/Se8d3.png)
+![](https://s13.gifyu.com/images/SC1lw.png)![](https://s3.gifyu.com/images/bS3sE.png)
 
 ### ![](https://s13.gifyu.com/images/SC1EU.png)
 
