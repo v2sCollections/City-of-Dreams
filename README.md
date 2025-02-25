@@ -219,7 +219,7 @@ This collection is extensively tested with every new version, because we want to
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in **Cyberpunk 2077**.
 - The most exstensive mod collection on nexus for **Cyberpunk 2077**.
 - Easy to follow step-by-step installation guide.
-- Only-[30](https://)Gb in download size for [1300](https://) mods. Optional Mods add another [6](https://)Gb
+- Only-[29](https://)Gb in download size for [1111](https://) mods. Optional Mods add another [6](https://)Gb
 - Mods specifically created for the collection.
 - Support for other **Modular Expansion Packs**.
 - Setup Video-[HERE](https://youtu.be/sn-Ju_OWP_8?si=SzC5-e2ffdFgHS0k)
@@ -700,7 +700,7 @@ I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=us
 - V can now slide sideways.
 - V can slide further.
 - V can now do 360-degree turns while sliding.
-- Darkens the edges of the screen when your stamina is low.
+- V can now slide cancel when using the Ninjutsu perk. (Allows the player to stand automatically after a slide when using the Ninjutsu perk)
 - Change to any weather at any time, from the mod menu. Can also be used to reset/fix weather to normal 24-hour changing weather when the game gets stuck on just one weather.
 - Personal metro assistant which helps you navigate through NCART metro stations during your journeys in Night City.
 - Discord Rich Presence integration.
@@ -1097,9 +1097,11 @@ To see more read the simple menu details.
 
 ***
 
-### Simple Menu
+### Simple Menu (OPTIONAL)
 
 ![](https://s11.gifyu.com/images/SyjlO.png)[Simple Menu](https://www.nexusmods.com/cyberpunk2077/mods/818) by [DankRafft](https://www.nexusmods.com/cyberpunk2077/users/2547580)
+
+⛔ ***NOTE*** This mod is optional and can cause stuttering on some systems.
 
 ### Features
 
@@ -1536,6 +1538,7 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 - V can now turn on interior lights.
 - V can change the brightness and distance of vehicle headlights.
 - V can change the colours of the neon lights on all motorbikes.
+- V can now honk vehicle horn while on the pavement to make the pedestrians dodge out of the way, or honk when off the pavement to make them run or walk away.
 - Displays in-world holographic arrows for quest/point of interest navigation, mirroring the dots in the minimap.
 - **I**t will now cost Eddies to summon your vehicle.
 - It will cost you more eddies to repair destroyed vehicles when summoning them.
@@ -1543,17 +1546,16 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 - No camera auto-centring while driving in TPP and FPP mode.
 - Fast Travel is a paid service. No money - no travel.
 - Added Crystal Coat for most Vehicles.
+- You can now auto drive to your destination by pressing **V** and switch seats using **G**.
 
 ### **Custom Vehicles**
 
 - [Blade Runner Spinner](https://www.nexusmods.com/cyberpunk2077/mods/7916).
 - [Quadra Turbo K.S Edition](https://www.nexusmods.com/cyberpunk2077/mods/8260).
-- [DeLorean DMC-12 BTF(Back to the Future)](https://www.nexusmods.com/cyberpunk2077/mods/15037?tab=description).
 - ['01 BMW M3 GTR 'Most Wanted'](https://www.nexusmods.com/cyberpunk2077/mods/9871?tab=description).
 
 ### EURO
 
-- [Audi R8 Liberty Walk](https://www.nexusmods.com/cyberpunk2077/mods/8827).
 - [Lamborghini Terzo Millennio](https://www.nexusmods.com/cyberpunk2077/mods/2398).
 - [Lamborghini Huracan STO](https://www.nexusmods.com/cyberpunk2077/mods/11254?tab=description)
 - [Lamborghini Huracan Libertywalk](https://www.nexusmods.com/cyberpunk2077/mods/11877?tab=description).
@@ -1564,17 +1566,11 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 - [Lamborghini Temerario](https://www.nexusmods.com/cyberpunk2077/mods/16479?tab=description).
 - [Mercedes-Benz 190E W201](https://www.nexusmods.com/cyberpunk2077/mods/8521?tab=description).
 - [Mercedes-Benz 190E](https://www.nexusmods.com/cyberpunk2077/mods/8498).
-- [Mercedes Benz c63s AMG](https://www.nexusmods.com/cyberpunk2077/mods/9075).
 - [2019 Mercedes G63 AMG](https://www.nexusmods.com/cyberpunk2077/mods/12167).
-- [BMW M8 Competition Coupe](https://www.nexusmods.com/cyberpunk2077/mods/10397).
 - [Bmw m3 Competition](https://www.nexusmods.com/cyberpunk2077/mods/16220).
 - [BMW M3 E46](https://www.nexusmods.com/cyberpunk2077/mods/10172?tab=description).
 - [2021 BMW M4 Competition](https://www.nexusmods.com/cyberpunk2077/mods/15299?tab=description).
-- [Rolls-Royce Wraith](https://www.nexusmods.com/cyberpunk2077/mods/8618).
-- [Bentley Bentayga](https://www.nexusmods.com/cyberpunk2077/mods/13457?tab=description).
-- [Pagani Zonda Cinque roadster](https://www.nexusmods.com/cyberpunk2077/mods/8795?tab=description).
 - [Pagani Imola](https://www.nexusmods.com/cyberpunk2077/mods/15781?tab=description).
-- [Porsche 918 Spyder.](https://www.nexusmods.com/cyberpunk2077/mods/9125?tab=description)
 - [Koenigsegg Regera](https://www.nexusmods.com/cyberpunk2077/mods/10134).
 - [Koenigsegg One1](https://www.nexusmods.com/cyberpunk2077/mods/12474?tab=description).
 - [Mclaren 765LT](https://www.nexusmods.com/cyberpunk2077/mods/10193?tab=description).
@@ -1582,30 +1578,27 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 - [95' McLaren F1](https://www.nexusmods.com/cyberpunk2077/mods/7845).
 - [Bugatti Chiron SuperSport](https://www.nexusmods.com/cyberpunk2077/mods/11331?tab=description).
 - [Ferrari 812 Competizione](https://www.nexusmods.com/cyberpunk2077/mods/11926).
-- [Ferrari F40](https://www.nexusmods.com/cyberpunk2077/mods/13250).
 - [Ferrari Daytona SP3](https://www.nexusmods.com/cyberpunk2077/mods/13465).
 - [Aston Martin Valkyrie](https://www.nexusmods.com/cyberpunk2077/mods/12015?tab=description).
 - [Jaguar E Type](https://www.nexusmods.com/cyberpunk2077/mods/15238?tab=description).
-- [Opel Manta 400 Group B](https://www.nexusmods.com/cyberpunk2077/mods/15503?tab=description).
+- [Ferrari F40 Remake](https://www.nexusmods.com/cyberpunk2077/mods/19954)
+- [Lamborghini Diablo VT 6.0](https://www.nexusmods.com/cyberpunk2077/mods/17998)
+- [Lamborghini Diablo VT 6.0 Custom Widebody](https://www.nexusmods.com/cyberpunk2077/mods/18180)
+- [Lamborghini Miura SV Custom Widebody](https://www.nexusmods.com/cyberpunk2077/mods/18475)
+- [Lamborghini Countach LP5000 QV](https://www.nexusmods.com/cyberpunk2077/mods/19147)
+- [Lamborghini Countach Custom WideBody](https://www.nexusmods.com/cyberpunk2077/mods/19428)
+- [Porsche Turbo S](https://www.nexusmods.com/cyberpunk2077/mods/19653)
 
 ### AMERICAN
 
-- [Ford Mustang RTR Spec 5](https://www.nexusmods.com/cyberpunk2077/mods/8912).
-- [Ford Mustang SVT Cobra](https://www.nexusmods.com/cyberpunk2077/mods/14663?tab=description).
-- [Ford Mustang Shelby GT500](https://www.nexusmods.com/cyberpunk2077/mods/14702?tab=description).
 - [2024 Ford Mustang GT](https://www.nexusmods.com/cyberpunk2077/mods/13248?tab=description).
-- [1969 Ford Mustang Boss 302](https://www.nexusmods.com/cyberpunk2077/mods/13650?tab=description).
 - [Ford Mustang Legendary Customs](https://www.nexusmods.com/cyberpunk2077/mods/13385).
-- [Ford Crown Victoria Interceptor](https://www.nexusmods.com/cyberpunk2077/mods/15577).
 - [67 Chevrolet Impala](https://www.nexusmods.com/cyberpunk2077/mods/8373).
 - [2009 Chevrolet Corvette ZR1](https://www.nexusmods.com/cyberpunk2077/mods/16088).
 - [Lucifer's Corvette](https://www.nexusmods.com/cyberpunk2077/mods/15270?tab=description).
 - [Chevrolet Corvette Sting Ray C2](https://www.nexusmods.com/cyberpunk2077/mods/15564?tab=description).
-- [Cadillac Escalade (III) ESV Platinum](https://www.nexusmods.com/cyberpunk2077/mods/12377?tab=description).
-- [Dodge Challenger SRT Demon](https://www.nexusmods.com/cyberpunk2077/mods/12556).
 - [DeLorean DMC-12](https://www.nexusmods.com/cyberpunk2077/mods/15021?tab=description).
 - [HUMMER H1](https://www.nexusmods.com/cyberpunk2077/mods/15849).
-- [Pontiac Firebird Trans AM GTA](https://www.nexusmods.com/cyberpunk2077/mods/16205?tab=description).
 - [1966 Ford Mustang GT](https://www.nexusmods.com/cyberpunk2077/mods/16477?tab=description).
 - [Ford Hoonicorn](https://www.nexusmods.com/cyberpunk2077/mods/12029?tab=description).
 
@@ -1615,13 +1608,14 @@ https://www.youtube.com/watch?v=-CNgjr00z1o
 - [02' Nissan Skyline GT-R R34](https://www.nexusmods.com/cyberpunk2077/mods/7606).
 - [1993 Nissan 240SX (S13)](https://www.nexusmods.com/cyberpunk2077/mods/8730).
 - [2017 Nissan GTR R35](https://www.nexusmods.com/cyberpunk2077/mods/11659?tab=description).
-- [MAZDA RX7 TCP Magic](https://www.nexusmods.com/cyberpunk2077/mods/13415?tab=description).
 - [Mazda RX-7 FD](https://www.nexusmods.com/cyberpunk2077/mods/16537?tab=description).
 - [Toyota Trueno GT APEX(AE86) Initial D Edition](https://www.nexusmods.com/cyberpunk2077/mods/16099?tab=description).
 - [Mitsubishi EVO X](https://www.nexusmods.com/cyberpunk2077/mods/16480?tab=description).
-- [Mitsubishi Lancer Evolution VI GSR](https://www.nexusmods.com/cyberpunk2077/mods/16323?tab=description).
 - [2022 Hyundai N Vision 74](https://www.nexusmods.com/cyberpunk2077/mods/16875?tab=description).
 - [Honda NSX Type R NA1](https://www.nexusmods.com/cyberpunk2077/mods/16912?tab=description).
+- [Honda NSX Type R NA1 Liberty Walk](https://www.nexusmods.com/cyberpunk2077/mods/17238)
+- [Honda NSX Type R NA1 Rocket Bunny](https://www.nexusmods.com/cyberpunk2077/mods/17169)
+- [Honda NSX Type R NA1 hycade](https://www.nexusmods.com/cyberpunk2077/mods/17348)
 - [2021 Lexus LC 500 Liberty Walk](https://www.nexusmods.com/cyberpunk2077/mods/16979).
 
 ### BIKES
